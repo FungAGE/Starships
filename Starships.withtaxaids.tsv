@@ -1,0 +1,94 @@
+Leviathan	Alternaria alternata	Z7	Starship-1_Aalt	87507	TGAAAATTAG	11	No		Alignment to Aten		5599	species
+Leviathan	Alternaria gaisen	FERA 650	Starship-1_Agai	55716	TGAAAATTAG	11	No		Alignment to Aalt		167740	species
+Leviathan	Alternaria solani	NL03003	Starship-1_Asol	96947	tgaaagctag	9	No	Yes	Alignment to Aten		48100	species
+Leviathan	Alternaria tenuissima	FERA 743	Starship-2_Aten	84520	TGAAAATTAG	10	No	Yes	targets 5S		119927	species
+Leviathan	Alternaria tenuissima	FERA 743	Starship-1_Aten	83050	TGAAAATTAG	14	No				119927	species
+Unknown	Aspergillus awamori	IFM 58123	Prometheus_Aawa	50390	CTAC	?					105351	species
+Olympus	Aspergillus felis	 FM324	HEPHAESTUS_Afel	40445	TTACAGC	14	No		aligned to Afum		1287682	species
+Olympus	Aspergillus fischeri 	IBT 3003	HEPHAESTUS_Afis	48913	TTACAA	13					36630	species
+Olympus	Aspergillus fischeri 	NRRL 181	Hephaestus_Afis_NRRL181	36858	TTACA	?					36630	species
+Battlestar	Aspergillus flavus	AF13	Galactica_Afla	309598	GTAGTT	12	Yes				5059	species
+Battlestar	Aspergillus flavus	AZS04M2A	Galactica_Afla_AZS04M2A	309815	GTAGT	12					5059	species
+DeepSpace	Aspergillus flavus	NRRL3357	Starship-1_Afla	59419	ACTA	13	No		 insereted into other TE		5059	species
+Olympus	Aspergillus fumigatus	Af293	HEPHAESTUS_Afum	53113	TTTACA	16	No	yes			746128	species
+Olympus	Aspergillus fumigatus	D-2-23L-5	HEPHAESTUS_Afum_D-2-23L-5	53113	TTACAA	16	No	yes			746128	species
+Olympus	Aspergillus fumigatus	LMB-35Aa	HEPHAESTUS_Afum_mini	14634	TTACA	16					746128	species
+Olympus	Aspergillus fumigatus	Af293	HEPHAESTUS_Afum2	57356	ttACAAC	16			targeted microsatellite		746128	species
+Olympus	Aspergillus lentulus 	IFM 60648	HEPHAESTUS_Alen	54465	TTTACAA	16					293939	species
+ClassB	Aspergillus luchuensis	CBS 106.47 	Starship-1_Aluc	81688	ACATACAACAGAAGG	-			aligned to Anig		1069201	species
+Olympus	Aspergillus neoellipticus	NRRL 5109	HEPHAESTUS_Aneo	14634	TTACA	16					91482	species
+Olympus	Aspergillus nidulans 	SP-2605-48 	HEPHAESTUS_Anid	81705	GTTTTAC	?	No				162425	species
+ClassC	Aspergillus nidulans 	SP-2605-48	Starship-1_Anid_SP-2605-48		AAGCC	13			5S		162425	species
+Battlestar	Aspergillus niger	FDAARGOS_311	Galactica_Anig	298635	TAGTG	16?	yes				5061	species
+ClassB	Aspergillus niger (phoenicis Corda) Thom 	ATCC 13157	Starship-1_Anig	75031	ACATACAACAGAAGG	11	No		targets 5S	HSP70	5061	species
+Olympus	Aspergillus novofumigatus 	IBT 16806	HEPHAESTUS_Anov	47493	TACA	14					340412	species
+Battlestar	Aspergillus oryzae	RIB40	Galactica_Aory	253754	GTAGT	16	Yes		Alignment to Afla		5062	species
+Battlestar	Aspergillus sojae	SMF134	Galactica_Asoj	393008	?	15	Yes		Alignment to Afla		41058	species
+DeepSpace	Aspergillus sp.	GbtcF2 F2_37	Starship-1_Asp	59378	ATACTA	27?					5065	species
+Olympus	Aspergillus thermomutatus 	HMR AF 39	HEPHAESTUS_Athe	65455	TTTACA	16					41047	species
+ClassB	Aspergillus vadensis 	CBS 113365	Starship-1_Avad	79872	ACATACAACAGAAGG	11					288669	species
+ClassB	Aspergillus welwitschiae	CBS139.54b	Starship-1_Awel	81412	ACATACAACAGAAGG	11			aligned to Anig		1341132	species
+DeepSpace	Bipolaris maydis	C5	Starship-1_Bmay	140069	GTTTACT	18	No		aligned to Chet		5016	species
+Leviathan	Bipolaris maydis	HAW225	Starship-2_Bmay	99415	TAGTG	16	No			FabG	5016	species
+DeepSpace	Bipolaris sorokiniana	BS112	Starship-1_Bsor	192084	TACT	18	No		"aligned to Etur	 MAT genes!?"		45130	species
+DeepSpace	Bipolaris victoriae	FI3	Starship-1_Bvic	92203	TTTACT	18	No		aligned to Etur		40125	species
+Leviathan	Bipolaris zeicola	GZL10	Starship-2_Bzei	77192	TAGT	18	No		aligned to Bmay-2		5017	species
+Intrepid	Botryosphaeria dothidea	 LW-Hubei	Voyager_Bdot	68837	CCTATATTCT	11	No				55169	species
+Declaration	Cladophialophora psammophila	 CBS 110553	Starship-2_Cpsa	91057	?	-	No		rearrandged		1182553	species
+Orphan	Cladophialophora psammophila	 CBS 110553	Starship-1_Cpsa	69866	TCTTGGCG	24	No				1182553	species
+DeepSpace	Cochliobolus heterostrophus	PR9b	Starship-1_Chet	105366	TACT	18	No				5016	species
+DeepSpace	Exserohilum rostratum	 ER1	Starship-1_Eros	182487	TACT	18	No		aligned to Etur		1659837	species
+DeepSpace	Exserohilum turcica	Et28A 	Starship-1_Etur	157147	TACT	18	No		aligned to Chet	"4	5 DOPA dioxygenase extradiol"	93612	species
+ClassA	Fonsecaea nubica	CBS 269.64 	Starship-1_Fnub	86182	GAAACRA	-	No				856822	species
+ClassA	Fonsecaea pedrosoi	CBS 271.37	Starship-1_Fped	86057	TGTTAT	-	No				40355	species
+DeepSpace?	Fusarium culmorum	Class2-1B	Starship-1_Fcul	156001	ATACCT	-	2?		Alignment to Foxy		5516	species
+Corneria	Fusarium fujikuroi	I1.3	Arwing_Ffuj	93762	CCCGTC	9	No		HGT?		5127	species
+Declaration	Fusarium fujikuroi 	E282	Starship-2_Ffuj	86995	TGTGGTATT	16			related to ARS transfer		5127	species
+Declaration	Fusarium oxysporum	170	Starship-1_Foxy_170	82662	TGTGGTATT	16			aligned to Ffuj		5507	species
+DeepSpace?	Fusarium oxysporum	 Fo5176	Starship-1_Foxy_Fo5176	117827	?		Yes		Alignment to Foxy		5507	species
+DeepSpace?	Fusarium oxysporum	Fo47	Starship-1_Foxy_Fo47	119415	?		2?		Alignment to Foxy		5507	species
+DeepSpace?	Fusarium oxysporum	F1004	Starship-1_Foxy	137343	AAGATATAC	-	2?				5507	species
+DeepSpace?	Fusarium oxysporum	F207	Foxy-1_Fusoxy_F207	139180	ATAATA		2?		Alignment to Foxy		5507	species
+Corneria	Fusarium oxyspoum	4287	Arwing_Foxy_Fol4287	92532	CCATAG	-	Yes				5507	species
+Corneria	Fusarium oxyspoum	Fo5176	Arwing_Foxy_Fo5176	100660	CCCGTC	9	Yes				5507	species
+ClassA	Fusarium poae	2516	Starship-1_Fpoa	464334	TGTTTTGG	16	2 copies?				36050	species
+Declaration	Fusarium proliferatum 	ITEM 2341	Starship-1_Fpro	81850	TGTGGTATT	16			aligned to Ffuj		948311	species
+Declaration	Letharia lupina	 WasteWater1	Starship-1_Llup	88059	YYACTCGT	-	No		Ripped		560253	species
+Aves	Macrophomina phaseolina	mp053	Phoenix_Mpha	195341	TTTACA	17	No				35725	species
+DeepSpace	Macrophomina phaseolina	mp050	Defiant_Mpha	192877	ACTA	17	No				35725	species
+Intrepid	Macrophomina phaseolina	mp102	Voyager	91145	GCCCTGTATTCT	24	No		targets 5S		35725	species
+Declaration	Melanconium sp.	NRRL 54901	Enterprise_Msp	71950	AGGTAG	-	No				2026559	species
+Orphan	Morchella importuna 	CCBAS932 v1.0	Starship-1_Mimp	26941	TACTCTACT	17	No				1174673	species
+Orphan	Orbilia oligospora	 TWF106	Starship-1_Ooli	112276	NTAANTA	18	No	yes			2813651	species
+Battlestar	Paecilomyces variotii	CBS 144490 HYG1	Galactica_Pvar	202217	GCTAGT	13	No				264951	species
+Olympus	Paecilomyces variotii	CBS 144490 HYG1	Hephaestus	77564	TTAC	15	yes	yes			264951	species
+Olympus	Penicillium camemberti	FM013	Hephaestus_Pcam	79663	TATTACA	13					5075	species
+Olympus	Penicillium chrysogenum	Pch1	Hephaestus_Pchr	62241	?	11	No		aligned to?		5076	species
+Olympus	Penicillium chrysogenum	HKF42	HEPHAESTUS_Pchr_HKF42		TTACA	16					5076	species
+Olympus	Penicillium chrysogenum	Wisconsin 54-1255	Hephaestus_Pchr_54-1255	111216	?	15?					5076	species
+Unknown	Penicillium chrysogenum	P2niaD18	StarshipX_Pchr	380887	TACATC	15			nesting		5076	species
+Battlestar	Penicillium chrysogenum	PDH20-03	Atlantia_Pchr	182090	gtacatatgtaccta	?					5076	species
+Olympus	Penicillium decumbens 	IBT 11843	Hephaestus_Pdec	45942	GTTTACAA	?					69771	species
+Olympus	Penicillium griseoroseum	IF7SW-F5	Hephaestus_Pgri	62253	TTACA	11					84562	species
+Olympus	Penicillium nalgiovense	IBT 13039	Hephaestus_Pnal	7679	?	14					60175	species
+Olympus	Penicillium oxalicum	SGAir0226	Hephaestus_Poxa	43824	ACA	14					69781	species
+Olympus	Penicillium rolfsii	F1880	Hephaestus_Prol	56396	ATTACA	17					69785	species
+Olympus	Penicillium roqueforti 	FM164	Hephaestus_Proq	74970	TATTACA	16					5082	species
+Wallace	Penicillium roqueforti 	FM164	Wallaby	574636	ACCA	5			inserted to other TE		5082	species
+Unknown	Penicillium roqueforti 	FM164	HTR-1_Proq	191446	ATTACA	10					5082	species
+Unknown	Penicillium roqueforti 	LCP96 04111	Starship-1_Proq	118191	TTATACT	10					5082	species
+ClassC	Penicillium roqueforti 	JCM 22842	Starship-1_Proq_S02	97487	CTTAAGCCACA	16			5S		5082	species
+Battlestar	Penicillium roqueforti 	DTO 039-G3	Atlantia_Proq_DTO_039-G3	369237	GTACATA						5082	species
+Olympus	Penicillium sp. 	str. #12	Hephaestus_Psp	7679	?	14						
+Unknown	Penicillium sp. 	str. #12	StarshipX_Psp		TTATTACAC	10						
+Aves	Phaeomoniella chlamydospora 	UCRPC4	Phoenix_Pcla	31584	TTACAG	14	No				158046	species
+Declaration	Podospora anserina	Wa28	Enterprise_Pans	161296	AGGTAG	-	Yes				2587412	species
+Orphan	Podospora anserina	S	Starship-2_Pans	60406	TCTC	10	No				2587412	species
+Unknown	Pyrenophora tritici-repentis 	V0001 V1	Horizon	135419	?	?			"partial	 from old genomes"		45151	species
+Olympus	Talaromyces islandicus 	PIS	Hephaestus_Tisl	53416	?	10					28573	species
+Olympus	Talaromyces marneffei	11CN-20-091	HEPHAESTUS_Tmar	59925	TTAC	-	Yes				37727	species
+Olympus	Talaromyces rugulosus 	W13939	Hephaestus_Trug	49232	?	13					121627	species
+Olympus	Talaromyces rugulosus 	W13939	Hephaestus_Trug2	48648	?	7					121627	species
+Olympus	Talaromyces stipitatus 	ATCC 10500 	Hephaestus_Tsti	40862	?	10					28564	species
+Corneria	Trichoderma asperellum	CBS 433.97	Starship-1_Tasp	73474	GCTCGTATA	-	No		n's		101201	species
+Orphan	Trichoderma asperellum	DQ-1	Starship-2_Tasp	293882	ATAACA	12	No		Nesting		101201	species
