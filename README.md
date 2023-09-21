@@ -1,2 +1,12 @@
-# Starships
-Database for Starship transposons
+# Database of Starship Elements and Starship-associated Genes
+
+## Repo structure
+
+```
+.
+├── genes
+│   └── tyr
+└── starships
+    ├── manual-annotations
+    └── starfish
+```

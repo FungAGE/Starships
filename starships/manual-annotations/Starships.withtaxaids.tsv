@@ -20,7 +20,7 @@ Olympus	Aspergillus neoellipticus	NRRL 5109	HEPHAESTUS_Aneo_mini	14634	TTACA	16	
 Olympus	Aspergillus nidulans 	SP-2605-48 	HEPHAESTUS_Anid	81705	GTTTTAC	?	No				162425	species
 ClassC	Aspergillus nidulans 	SP-2605-48	Starship-1_Anid_SP-2605-48		AAGCC	13			5S		162425	species
 Battlestar	Aspergillus niger	FDAARGOS_311	Galactica_Anig	298635	TAGTG	16?	yes				5061	species
-ClassB	Aspergillus niger (phoenicis Corda) Thom 	ATCC 13157	Starship-1_Anig	75031	ACATACAACAGAAGG	11	No		targets 5S	HSP70	5061	species
+ClassB	Aspergillus niger (phoenicis Corda) Thom	ATCC 13157	Starship-1_Anig	75031	ACATACAACAGAAGG	11	No		targets 5S	HSP70	5061	species
 Olympus	Aspergillus novofumigatus 	IBT 16806	HEPHAESTUS_Anov	47493	TACA	14					340412	species
 Battlestar	Aspergillus oryzae	RIB40	Galactica_Aory	253754	GTAGT	16	Yes		Alignment to Afla		5062	species
 Battlestar	Aspergillus sojae	SMF134	Galactica_Asoj	393008	?	15	Yes		Alignment to Afla		41058	species
@@ -38,7 +38,7 @@ Declaration	Cladophialophora psammophila	 CBS 110553	Starship-2_Cpsa	91057	?	-	N
 Orphan	Cladophialophora psammophila	 CBS 110553	Starship-1_Cpsa	69866	TCTTGGCG	24	No				1182553	species
 DeepSpace	Cochliobolus heterostrophus	PR9b	Starship-1_Chet	105366	TACT	18	No				5016	species
 DeepSpace	Exserohilum rostratum	 ER1	Starship-1_Eros	182487	TACT	18	No		aligned to Etur		1659837	species
-DeepSpace	Exserohilum turcica	Et28A 	Starship-1_Etur	157147	TACT	18	No		aligned to Chet	"4	5 DOPA dioxygenase extradiol"	93612	species
+DeepSpace	Exserohilum turcica	Et28A	Starship-1_Etur	157147	TACT	18	No		aligned to Chet	"4	5 DOPA dioxygenase extradiol"	93612	species
 ClassA	Fonsecaea nubica	CBS 269.64 	Starship-1_Fnub	86182	GAAACRA	-	No				856822	species
 ClassA	Fonsecaea pedrosoi	CBS 271.37	Starship-1_Fped	86057	TGTTAT	-	No				40355	species
 DeepSpace?	Fusarium culmorum	Class2-1B	Starship-1_Fcul	156001	ATACCT	-	2?		Alignment to Foxy		5516	species
@@ -60,8 +60,8 @@ Intrepid	Macrophomina phaseolina	mp102	Voyager	91145	GCCCTGTATTCT	24	No		targets
 Declaration	Melanconium sp.	NRRL 54901	Enterprise_Msp	71950	AGGTAG	-	No				2026559	species
 Orphan	Morchella importuna 	CCBAS932 v1.0	Starship-1_Mimp	26941	TACTCTACT	17	No				1174673	species
 Orphan	Orbilia oligospora	 TWF106	Starship-1_Ooli	112276	NTAANTA	18	No	yes			2813651	species
-Battlestar	Paecilomyces variotii	CBS 144490 HYG1	Galactica_Pvar	202217	GCTAGT	13	No				264951	species
-Olympus	Paecilomyces variotii	CBS 144490 HYG1	Hephaestus	77564	TTAC	15	yes	yes			264951	species
+Battlestar	Paecilomyces variotii	CBS144490 HYG1	Galactica_Pvar	202217	GCTAGT	13	No				264951	species
+Olympus	Paecilomyces variotii	CBS144490 HYG1	Hephaestus	77564	TTAC	15	yes	yes			264951	species
 Olympus	Penicillium camemberti	FM013	Hephaestus_Pcam	79663	TATTACA	13					5075	species
 Olympus	Penicillium chrysogenum	Pch1	Hephaestus_Pchr	62241	?	11	No		aligned to?		5076	species
 Olympus	Penicillium chrysogenum	HKF42	HEPHAESTUS_Pchr_HKF42		TTACA	16					5076	species

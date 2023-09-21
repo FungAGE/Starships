@@ -1,0 +1,755 @@
+ome,ID,family,group,haplotype,species
+aaoarx1,NA,NA,NA,NA,NA
+acemac1,NA,NA,NA,NA,NA
+aciric2,NA,NA,NA,NA,NA
+acisp.1,NA,NA,NA,NA,NA
+alefal1,NA,NA,NA,NA,NA
+altarb7,NA,NA,NA,NA,NA
+altatr1,altatr1_tyr118,fam10,group0018,hap0129,Alternaria atra
+altatr2,NA,NA,NA,NA,NA
+altgai1,altgai1_tyr156,fam06,group0563,hap0131,Alternaria gaisen
+altgan2,NA,NA,NA,NA,NA
+altlon1,altlon1_tyr172,fam01-5,group0074,hap0133,Alternaria longipes
+altlon1,altlon1_tyr173,fam01-5,group0534,hap0132,Alternaria longipes
+altlon1,altlon1_tyr175,fam10,group0018,hap0049,Alternaria longipes
+altlon1,altlon1_tyr171,fam10,group0018,hap0050,Alternaria longipes
+altlon1,altlon1_tyr177,fam10,group0018,hap0051,Alternaria longipes
+altlon1,altlon1_tyr174,fam10,group0056,hap0049,Alternaria longipes
+altlon1,altlon1_tyr170,fam10,group0056,hap0050,Alternaria longipes
+altlon1,altlon1_tyr176,fam10,group0056,hap0051,Alternaria longipes
+altsol2,altsol2_tyr196,fam10,group0018,hap0052,Alternaria solani
+altsol2,altsol2_tyr197,fam10,group0056,hap0052,Alternaria solani
+amapse1,NA,NA,NA,NA,NA
+amnlig1,NA,NA,NA,NA,NA
+amores1,NA,NA,NA,NA,NA
+amyenc1,NA,NA,NA,NA,NA
+annsty1,annsty1_389805,fam09,group0796,hap0134,Annulohypoxylon stygium
+antflo1,NA,NA,NA,NA,NA
+artoli1,NA,NA,NA,NA,NA
+artunc1,NA,NA,NA,NA,NA
+ascnig1,NA,NA,NA,NA,NA
+ascrab1,NA,NA,NA,NA,NA
+ascsar1,NA,NA,NA,NA,NA
+aspacu4,aspacu4_tyr352,fam06,group0002,hap0136,Aspergillus aculeatinus
+aspacu4,aspacu4_tyr350,fam07,sng1038,hap0135,Aspergillus aculeatinus
+aspaff1,NA,NA,NA,NA,NA
+aspamo1,NA,NA,NA,NA,NA
+aspara2,NA,NA,NA,NA,NA
+aspasp1,NA,NA,NA,NA,NA
+aspasp11,aspasp11_tyr520,fam01,group0003,hap0018,Aspergillus sp.
+aspasp11,aspasp11_tyr517,fam03,group0024,hap0007,Aspergillus sp.
+aspasp12,NA,NA,NA,NA,NA
+aspasp13,aspasp13_tyr531,fam01,sng1352,hap0139,Aspergillus sp.
+aspasp2,NA,NA,NA,NA,NA
+aspasp3,NA,NA,NA,NA,NA
+aspasp6,aspasp6_tyr597,fam02,group0037,hap0023,Aspergillus sp.
+aspasp7,NA,NA,NA,NA,NA
+aspawa1,aspawa1_GCB27642.1,fam01,group0003,hap0142,Aspergillus awamori
+aspawa1,aspawa1_GCB26061.1,fam01-5,group0004,hap0141,Aspergillus awamori
+aspawa1,aspawa1_GCB20439.1,fam06,group0049,hap0140,Aspergillus awamori
+aspawa2,aspawa2_tyr662,fam01-5,group0004,hap0003,Aspergillus awamori
+aspawa2,aspawa2_tyr663,fam06,group0049,hap0005,Aspergillus awamori
+aspber2,NA,NA,NA,NA,NA
+aspbru4,NA,NA,NA,NA,NA
+aspcal3,aspcal3_tyr812,fam02,group0023,hap0058,Aspergillus calidoustus
+aspcal3,aspcal3_tyr817,fam02,group0057,hap0057,Aspergillus calidoustus
+aspcal3,aspcal3_tyr810,fam02,group0268,hap0056,Aspergillus calidoustus
+aspcar1,NA,NA,NA,NA,NA
+aspcej1,NA,NA,NA,NA,NA
+aspche2,aspche2_tyr890,fam02,group0057,hap0149,Aspergillus chevalieri
+aspche2,aspche2_tyr880,fam02,group0100,hap0144,Aspergillus chevalieri
+aspche2,aspche2_tyr878,fam03,group0414,hap0146,Aspergillus chevalieri
+aspche2,aspche2_tyr874,fam01-5,group0014,hap0148,Aspergillus chevalieri
+aspche2,aspche2_tyr891,fam01-5,group0048,hap0059,Aspergillus chevalieri
+aspche2,aspche2_tyr886,fam01-5,group0110,hap0147,Aspergillus chevalieri
+aspche2,aspche2_tyr892,fam06,group0002,hap0024,Aspergillus chevalieri
+aspche2,aspche2_tyr893,fam07,group0216,hap0024,Aspergillus chevalieri
+aspche2,aspche2_tyr882,fam07,group0667,hap0145,Aspergillus chevalieri
+aspcla3,aspcla3_EAW15091.1,fam01,group0146,hap0060,Aspergillus clavatus
+aspcor3,NA,NA,NA,NA,NA
+aspcos3,aspcos3_tyr925,fam01-5,group0194,hap0061,Aspergillus costaricaensis
+aspcri1,aspcri1_3555,fam01,group0003,hap0012,Aspergillus cristatus
+aspcri1,aspcri1_8794:8796:8795,fam01-5,group0473,hap0026,Aspergillus cristatus
+aspcri1,aspcri1_6849,fam07,group0310,hap0025,Aspergillus cristatus
+aspcri1,aspcri1_2829,fam09,group0012,hap0027,Aspergillus cristatus
+aspcri5,aspcri5_tyr1026,fam01,group0003,hap0012,Aspergillus cristatus
+aspcro1,NA,NA,NA,NA,NA
+aspell2,NA,NA,NA,NA,NA
+aspfis5,aspfis5_tyr1170,fam06,group0002,hap0156,Aspergillus fischeri
+aspfis5,aspfis5_tyr1167,fam06,group0178,hap0155,Aspergillus fischeri
+aspfla13,aspfla13_tyr1195,fam01-5,group0013,hap0159,Aspergillus flavus
+aspfla13,aspfla13_tyr1196,fam06,group0052,hap0001,Aspergillus flavus
+aspflo1,NA,NA,NA,NA,NA
+aspfum12,NA,NA,NA,NA,NA
+aspfum15,aspfum15_tyr1306,fam01-5,group0034,hap0069,Aspergillus fumigatus
+aspfum15,aspfum15_tyr1309,fam06,group0002,hap0013,Aspergillus fumigatus
+aspfum15,aspfum15_tyr1312,fam06,group0002,hap0030,Aspergillus fumigatus
+aspfum15,aspfum15_tyr1308,fam07,group0147,hap0167,Aspergillus fumigatus
+aspfum16,aspfum16_tyr1325,fam01-5,group0012,hap0072,Aspergillus fumigatus
+aspfum4,aspfum4_KMK58547.1,fam01,group0003,hap0054,Aspergillus fumigatus
+aspfum4,aspfum4_KMK62752.1,fam01-5,group0021,hap0160,Aspergillus fumigatus
+aspfum4,aspfum4_KMK60551.1,fam01-5,group0069,hap0161,Aspergillus fumigatus
+aspfum4,aspfum4_KMK58609.1,fam06,group0002,hap0013,Aspergillus fumigatus
+aspfum4,aspfum4_KMK54996.1,fam06,group0002,hap0030,Aspergillus fumigatus
+aspfum4,aspfum4_KMK54477.1,fam07,group0147,hap0162,Aspergillus fumigatus
+aspfum5,aspfum5_EAL91115.2,fam02,group0037,hap0029,Aspergillus fumigatus
+aspfum5,aspfum5_EAL90946.1,fam02,group0037,hap0065,Aspergillus fumigatus
+aspfum5,aspfum5_EBA27228.1,fam03,group0024,hap0067,Aspergillus fumigatus
+aspfum5,aspfum5_EAL86538.1,fam06,group0002,hap0013,Aspergillus fumigatus
+aspfum5,aspfum5_tyr1395,fam06,group0228,hap0066,Aspergillus fumigatus
+aspgla1,aspgla1_OJJ82561.1,fam03,group0024,hap0168,Aspergillus glaucus
+asphan1,NA,NA,NA,NA,NA
+asphir2,NA,NA,NA,NA,NA
+aspibe2,NA,NA,NA,NA,NA
+aspind3,aspind3_tyr1558,fam03,group0024,hap0073,Aspergillus indologenus
+asplat1,NA,NA,NA,NA,NA
+asplat4,NA,NA,NA,NA,NA
+asplat5,NA,NA,NA,NA,NA
+asplat6,NA,NA,NA,NA,NA
+asplat7,NA,NA,NA,NA,NA
+asplen4,asplen4_tyr1746,fam02,group0057,hap0075,Aspergillus lentulus
+asplen8,asplen8_tyr1769,fam02,group0260,hap0031,Aspergillus lentulus
+asplep2,NA,NA,NA,NA,NA
+aspluc3,NA,NA,NA,NA,NA
+aspmel1,aspmel1_tyr1928,fam03,group0024,hap0174,Aspergillus melleus
+aspmel1,aspmel1_tyr1935,fam01-5,group0044,hap0077,Aspergillus melleus
+aspmel1,aspmel1_tyr1936,fam01-5,group0221,hap0077,Aspergillus melleus
+aspmel1,aspmel1_tyr1940,fam01-5,group0614,hap0175,Aspergillus melleus
+aspmel1,aspmel1_tyr1945,fam06,group0049,hap0177,Aspergillus melleus
+aspmel1,aspmel1_tyr1931,fam07,group0022,hap0176,Aspergillus melleus
+aspnan1,NA,NA,NA,NA,NA
+aspnid1,aspnid1_CBF84458.1,fam06,group0002,hap0179,Aspergillus nidulans
+aspnid3,aspnid3_tyr2022,fam02,group0023,hap0182,Aspergillus nidulans
+aspnid3,aspnid3_tyr2023,fam01-5,group0027,hap0180,Aspergillus nidulans
+aspnid3,aspnid3_tyr2021,fam06,group0002,hap0181,Aspergillus nidulans
+aspnid4,aspnid4_tyr2025,fam07,group0060,hap0184,Aspergillus nidulans
+aspnig10,aspnig10_tyr2036,fam02,group0023,hap0004,Aspergillus niger
+aspnig10,aspnig10_tyr2037,fam01-5,group0004,hap0081,Aspergillus niger
+aspnig10,aspnig10_tyr2039,fam06,group0049,hap0005,Aspergillus niger
+aspnig13,aspnig13_tyr2056,fam01-5,group0215,hap0185,Aspergillus niger
+aspnig13,aspnig13_tyr2057,fam06,group0002,hap0033,Aspergillus niger
+aspnig5,aspnig5_1083607,fam01-5,group0215,hap0021,Aspergillus niger
+aspnig5,aspnig5_tyr2095,fam06,group0212,hap0021,Aspergillus niger
+aspnig5,aspnig5_1136849,fam07,group0022,hap0080,Aspergillus niger
+aspnom1,aspnom1_158252,fam02,group0057,hap0082,Aspergillus nomius
+aspnom1,aspnom1_139949,fam01-5,group0163,hap0083,Aspergillus nomius
+aspnov3,aspnov3_tyr2186,fam03,group0062,hap0085,Aspergillus novofumigatus
+aspoch5,aspoch5_tyr2231,fam06,group0143,hap0188,Aspergillus ochraceus
+aspoch5,aspoch5_tyr2232,fam07,group0043,hap0187,Aspergillus ochraceus
+aspoch5,aspoch5_tyr2230,fam07,group0043,hap0189,Aspergillus ochraceus
+aspoer1,NA,NA,NA,NA,NA
+aspoli1,NA,NA,NA,NA,NA
+aspory2,NA,NA,NA,NA,NA
+aspory7,NA,NA,NA,NA,NA
+asppar13,asppar13_tyr2364,fam03,group0071,hap0015,Aspergillus parasiticus
+asppar5,NA,NA,NA,NA,NA
+asppho1,asppho1_RDK41012.1,fam01-5,group0016,hap0079,Aspergillus phoenicis
+asppho1,asppho1_RDK42386.1,fam06,group0049,hap0078,Aspergillus phoenicis
+asppse7,NA,NA,NA,NA,NA
+asppse8,NA,NA,NA,NA,NA
+asppuu1,asppuu1_tyr2545,fam02,group0356,hap0196,Aspergillus puulaauensis
+aspqua1,aspqua1_tyr2551,fam02,group0023,hap0197,Aspergillus quadrilineatus
+aspscl4,NA,NA,NA,NA,NA
+aspscl5,NA,NA,NA,NA,NA
+aspscl6,NA,NA,NA,NA,NA
+aspsoj2,aspsoj2_tyr2674,fam01-5,group0004,hap0014,Aspergillus sojae
+aspsoj2,aspsoj2_tyr2670,fam06,group0002,hap0035,Aspergillus sojae
+aspsoj2,aspsoj2_tyr2669,fam06,group0030,hap0009,Aspergillus sojae
+aspsp.1,NA,NA,NA,NA,NA
+aspspi1,aspspi1_tyr2731,fam01-5,group0075,hap0198,Aspergillus spinulosporus
+aspsyd2,aspsyd2_tyr2768,fam03,group0024,hap0007,Aspergillus sydowii
+aspsyd4,NA,NA,NA,NA,NA
+asptam2,NA,NA,NA,NA,NA
+asptam4,NA,NA,NA,NA,NA
+asptan1,NA,NA,NA,NA,NA
+aspter10,NA,NA,NA,NA,NA
+aspter9,aspter9_tyr2933,fam03,group0024,hap0092,Aspergillus terreus
+aspter9,aspter9_tyr2940,fam01-5,group0039,hap0093,Aspergillus terreus
+aspthe1,NA,NA,NA,NA,NA
+asptra3,asptra3_tyr2982,fam03,group0071,hap0015,Aspergillus transmontanensis
+aspuda4,NA,NA,NA,NA,NA
+aspuda6,NA,NA,NA,NA,NA
+aspust1,NA,NA,NA,NA,NA
+aspver1,NA,NA,NA,NA,NA
+aspwen1,NA,NA,NA,NA,NA
+aspwes1,aspwes1_tyr3208,fam03,group0637,hap0209,Aspergillus westerdijkiae
+astsub1,NA,NA,NA,NA,NA
+aulhed1,NA,NA,NA,NA,NA
+aurpul1,NA,NA,NA,NA,NA
+aurpul2,NA,NA,NA,NA,NA
+aurpul6,NA,NA,NA,NA,NA
+aursub2,NA,NA,NA,NA,NA
+aursub3,NA,NA,NA,NA,NA
+bacgig1,NA,NA,NA,NA,NA
+baupan1,NA,NA,NA,NA,NA
+beabas1,NA,NA,NA,NA,NA
+beabas2,NA,NA,NA,NA,NA
+bimnov1,NA,NA,NA,NA,NA
+bipmay1,NA,NA,NA,NA,NA
+bipmay2,NA,NA,NA,NA,NA
+bismed2,NA,NA,NA,NA,NA
+blader3,NA,NA,NA,NA,NA
+blader5,blader5_EQL32369.1,fam01,sng1156,hap0211,Blastomyces dermatitidis
+blader5,blader5_EQL29695.1:EQL29696.1:EQL29697.1,fam01-5,group0288,hap0212,Blastomyces dermatitidis
+blagil1,blagil1_tyr3498,fam03,group0227,hap0097,Blastomyces gilchristii
+blaper1,NA,NA,NA,NA,NA
+botacl1,NA,NA,NA,NA,NA
+botcal1,NA,NA,NA,NA,NA
+botcon1,NA,NA,NA,NA,NA
+botdew1,botdew1_KAF7931899.1,clade3,sng1296,hap0213,Botrytis deweyae
+botdot1,NA,NA,NA,NA,NA
+bothya1,NA,NA,NA,NA,NA
+botpae1,NA,NA,NA,NA,NA
+botpor2,NA,NA,NA,NA,NA
+byscir1,NA,NA,NA,NA,NA
+cadmal1,NA,NA,NA,NA,NA
+cadsp.1,NA,NA,NA,NA,NA
+cadsp.2,NA,NA,NA,NA,NA
+calmar1,NA,NA,NA,NA,NA
+capepi1,NA,NA,NA,NA,NA
+cengeo1,NA,NA,NA,NA,NA
+cerber1,NA,NA,NA,NA,NA
+cerbet1,NA,NA,NA,NA,NA
+cergua1,NA,NA,NA,NA,NA
+cerkik1,NA,NA,NA,NA,NA
+chaglo1,chaglo1_456390,fam04,group0055,hap0215,Chaetomium globosum
+chasp.2,NA,NA,NA,NA,NA
+chasp.4,NA,NA,NA,NA,NA
+chasp.7,NA,NA,NA,NA,NA
+chlaer1,NA,NA,NA,NA,NA
+choven1,NA,NA,NA,NA,NA
+claban1,NA,NA,NA,NA,NA
+claely1,NA,NA,NA,NA,NA
+clagra1,NA,NA,NA,NA,NA
+claimm1,NA,NA,NA,NA,NA
+clapsa1,NA,NA,NA,NA,NA
+cloaqu1,NA,NA,NA,NA,NA
+clorhi1,NA,NA,NA,NA,NA
+coccar1,NA,NA,NA,NA,NA
+cocimm1,cocimm1_898,fam01,sng1090,hap0099,Coccidioides immitis
+cocimm1,cocimm1_4925,fam03,group0195,hap0217,Coccidioides immitis
+cocimm1,cocimm1_185,fam01-5,group0039,hap0216,Coccidioides immitis
+cocimm1,cocimm1_tyr4122,fam01-5,group0050,hap0220,Coccidioides immitis
+cocimm1,cocimm1_tyr4125,fam01-5,group0439,hap0219,Coccidioides immitis
+cocimm1,cocimm1_5177:5178,fam06,group0429,hap0218,Coccidioides immitis
+cocimm2,NA,NA,NA,NA,NA
+cocimm3,cocimm3_KMU88194.1:KMU88195.1,fam01,sng1161,hap0099,Coccidioides immitis
+cocmiy1,NA,NA,NA,NA,NA
+cocpos2,NA,NA,NA,NA,NA
+cocpos5,cocpos5_KMM69065.1,fam01-5,group0014,hap0224,Coccidioides posadasii
+cocpos5,cocpos5_KMM69757.1,fam01-5,group0107,hap0225,Coccidioides posadasii
+colaen1,colaen1_KAF5520131.1,fam01-5,group0028,hap0227,Colletotrichum aenigma
+colaen1,colaen1_KAF5512086.1,fam01-5,group0028,hap0228,Colletotrichum aenigma
+colaen1,colaen1_KAF5522205.1,fam06,group0247,hap0226,Colletotrichum aenigma
+colasi1,colasi1_KAF0330480.1,fam09,group0742,hap0229,Colletotrichum asianum
+colcam1,NA,NA,NA,NA,NA
+colfru1,colfru1_KAE9577683.1,fam01-5,group0042,hap0022,Colletotrichum fructicola
+colfru1,colfru1_KAE9574038.1,fam07,group0401,hap0100,Colletotrichum fructicola
+colfru5,NA,NA,NA,NA,NA
+colglo1,NA,NA,NA,NA,NA
+colnym1,NA,NA,NA,NA,NA
+colplu1,NA,NA,NA,NA,NA
+colsal1,NA,NA,NA,NA,NA
+colsco1,colsco1_tyr4368,fam06,group0247,hap0232,Colletotrichum scovillei
+colsia5,NA,NA,NA,NA,NA
+colsid1,colsid1_tyr4377,fam09,group0742,hap0233,Colletotrichum sidae
+colsoj1,NA,NA,NA,NA,NA
+colspi1,NA,NA,NA,NA,NA
+colsub1,NA,NA,NA,NA,NA
+coltof2,NA,NA,NA,NA,NA
+coltri1,NA,NA,NA,NA,NA
+coltru1,NA,NA,NA,NA,NA
+colvin1,NA,NA,NA,NA,NA
+conlig1,NA,NA,NA,NA,NA
+consp.1,NA,NA,NA,NA,NA
+corcas2,NA,NA,NA,NA,NA
+crycur1,NA,NA,NA,NA,NA
+crydep1,NA,NA,NA,NA,NA
+crypar1,NA,NA,NA,NA,NA
+cudaci1,NA,NA,NA,NA,NA
+cyloli1,NA,NA,NA,NA,NA
+cypeur1,NA,NA,NA,NA,NA
+cytleu1,NA,NA,NA,NA,NA
+daccio1,NA,NA,NA,NA,NA
+dacest1,NA,NA,NA,NA,NA
+dacmac1,NA,NA,NA,NA,NA
+dalgra1,NA,NA,NA,NA,NA
+dalsp.1,NA,NA,NA,NA,NA
+delcon1,NA,NA,NA,NA,NA
+delstr1,NA,NA,NA,NA,NA
+diaamp1,NA,NA,NA,NA,NA
+diabat1,NA,NA,NA,NA,NA
+diacit1,NA,NA,NA,NA,NA
+diahel1,NA,NA,NA,NA,NA
+dibbae1,NA,NA,NA,NA,NA
+didexi1,NA,NA,NA,NA,NA
+didker1,NA,NA,NA,NA,NA
+disaci1,NA,NA,NA,NA,NA
+dotsep1,NA,NA,NA,NA,NA
+durrog1,NA,NA,NA,NA,NA
+elagra2,NA,NA,NA,NA,NA
+elsamp1,NA,NA,NA,NA,NA
+elsaus1,NA,NA,NA,NA,NA
+elsaus2,NA,NA,NA,NA,NA
+elsbat1,NA,NA,NA,NA,NA
+elsfaw1,NA,NA,NA,NA,NA
+emeafr1,NA,NA,NA,NA,NA
+emepas2,NA,NA,NA,NA,NA
+emmcre2,NA,NA,NA,NA,NA
+endpal1,NA,NA,NA,NA,NA
+endpus1,endpus1_tyr5031,fam01,group0433,hap0234,Endocarpon pusillum
+Enterprise,NA,NA,NA,NA,NA
+erebil1,NA,NA,NA,NA,NA
+eurrub1,NA,NA,NA,NA,NA
+exomes1,NA,NA,NA,NA,NA
+exooli1,NA,NA,NA,NA,NA
+exosid1,NA,NA,NA,NA,NA
+exospi1,NA,NA,NA,NA,NA
+exoxen1,NA,NA,NA,NA,NA
+fonere1,NA,NA,NA,NA,NA
+fonmon1,fonmon1_2411:2412,fam07,group0541,hap0235,Fonsecaea monophora
+friend1,NA,NA,NA,NA,NA
+frisim1,NA,NA,NA,NA,NA
+funsp.2,NA,NA,NA,NA,NA
+fusalb1,NA,NA,NA,NA,NA
+fusalb2,NA,NA,NA,NA,NA
+fusasi4,fusasi4_tyr5246,fam01-5,group0070,hap0239,Fusarium asiaticum
+fusasi4,fusasi4_tyr5245,fam09,group0011,hap0037,Fusarium asiaticum
+fusave8,NA,NA,NA,NA,NA
+fusbeo1,NA,NA,NA,NA,NA
+fusbra1,NA,NA,NA,NA,NA
+fusbur1,NA,NA,NA,NA,NA
+fusbux1,NA,NA,NA,NA,NA
+fuscer2,NA,NA,NA,NA,NA
+fuscir3,NA,NA,NA,NA,NA
+fuscom2,NA,NA,NA,NA,NA
+fuscon1,NA,NA,NA,NA,NA
+fuscor2,NA,NA,NA,NA,NA
+fusdom1,NA,NA,NA,NA,NA
+fusequ4,NA,NA,NA,NA,NA
+fusequ5,NA,NA,NA,NA,NA
+fusequ9,NA,NA,NA,NA,NA
+fusfal1,NA,NA,NA,NA,NA
+fusfra1,NA,NA,NA,NA,NA
+fusfus16,fusfus16_tyr5629,fam01,group0123,hap0250,Fusarium cf.
+fusfus24,NA,NA,NA,NA,NA
+fusfus25,fusfus25_tyr5666,fam01,group0092,hap0038,Fusarium cf.
+fusfus28,NA,NA,NA,NA,NA
+fusfus29,NA,NA,NA,NA,NA
+fusfus30,NA,NA,NA,NA,NA
+fusfus31,NA,NA,NA,NA,NA
+fusfus35,NA,NA,NA,NA,NA
+fusfus37,NA,NA,NA,NA,NA
+fusfus38,NA,NA,NA,NA,NA
+fusfus39,NA,NA,NA,NA,NA
+fusfus45,NA,NA,NA,NA,NA
+fusfus65,NA,NA,NA,NA,NA
+fusgad1,NA,NA,NA,NA,NA
+fushae3,NA,NA,NA,NA,NA
+fushos2,fushos2_tyr5979,fam07,group0029,hap0107,Fusarium hostae
+fusill1,NA,NA,NA,NA,NA
+fusinc2,NA,NA,NA,NA,NA
+fuskur1,NA,NA,NA,NA,NA
+fusman2,NA,NA,NA,NA,NA
+fusman3,fusman3_tyr6061,fam07,group0029,hap0108,Fusarium mangiferae
+fusmet1,NA,NA,NA,NA,NA
+fusmus1,fusmus1_KAG9494952.1,fam01-5,group0017,hap0255,Fusarium musae
+fusnan1,fusnan1_tyr6095,fam11,group0105,hap0256,Fusarium nanum
+fusnem1,NA,NA,NA,NA,NA
+fusneo1,NA,NA,NA,NA,NA
+fusoxy29,fusoxy29_9182,fam07,group0029,hap0263,Fusarium oxysporum
+fusoxy29,fusoxy29_685866,fam09,group0011,hap0264,Fusarium oxysporum
+fusoxy36,NA,NA,NA,NA,NA
+fusoxy42,NA,NA,NA,NA,NA
+fusoxy44,NA,NA,NA,NA,NA
+fusoxy45,fusoxy45_KAG7427984.1,fam09,group0011,hap0268,Fusarium oxysporum
+fusoxy45,fusoxy45_KAG7424752.1,fam09,group0011,hap0269,Fusarium oxysporum
+fuspen1,NA,NA,NA,NA,NA
+fuspro7,NA,NA,NA,NA,NA
+fusrus1,NA,NA,NA,NA,NA
+fussol2,fussol2_tyr6622,fam01,group0001,hap0280,Fusarium solani
+fussp.4,NA,NA,NA,NA,NA
+fussp.5,NA,NA,NA,NA,NA
+fussp.6,NA,NA,NA,NA,NA
+fussp.8,NA,NA,NA,NA,NA
+fusste1,NA,NA,NA,NA,NA
+fussub5,NA,NA,NA,NA,NA
+fustan1,NA,NA,NA,NA,NA
+fustha1,NA,NA,NA,NA,NA
+fustja1,NA,NA,NA,NA,NA
+fustri4,NA,NA,NA,NA,NA
+fustri7,NA,NA,NA,NA,NA
+fustuc1,NA,NA,NA,NA,NA
+fustup1,NA,NA,NA,NA,NA
+fususs4,NA,NA,NA,NA,NA
+fusvan1,NA,NA,NA,NA,NA
+fusven3,NA,NA,NA,NA,NA
+fusver2,fusver2_EWG46573.1,fam07,group0302,hap0111,Fusarium verticillioides
+fusver6,NA,NA,NA,NA,NA
+fusxyl1,NA,NA,NA,NA,NA
+fusxyl4,NA,NA,NA,NA,NA
+fusxyl9,NA,NA,NA,NA,NA
+fusxyr1,NA,NA,NA,NA,NA
+gaetri1,NA,NA,NA,NA,NA
+Galactica,NA,NA,NA,NA,NA
+geomor1,NA,NA,NA,NA,NA
+glaloz2,NA,NA,NA,NA,NA
+gloste1,NA,NA,NA,NA,NA
+gluame1,NA,NA,NA,NA,NA
+golmag1,NA,NA,NA,NA,NA
+gomame1,NA,NA,NA,NA,NA
+grascr1,NA,NA,NA,NA,NA
+guynec1,NA,NA,NA,NA,NA
+helgri1,NA,NA,NA,NA,NA
+helsp.4,NA,NA,NA,NA,NA
+HEPHAESTUS,NA,NA,NA,NA,NA
+hetspe1,NA,NA,NA,NA,NA
+hirmin1,NA,NA,NA,NA,NA
+hirrho1,NA,NA,NA,NA,NA
+hiscap1,hiscap1_tyr7386,fam01,group0063,hap0298,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7336,fam01,group0063,hap0299,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7334,fam01,group0232,hap0300,Histoplasma capsulatum
+hiscap1,hiscap1_6206,fam01,sng1093,hap0306,Histoplasma capsulatum
+hiscap1,hiscap1_6635:6636,fam03,group0040,hap0115,Histoplasma capsulatum
+hiscap1,hiscap1_1613,fam03,group0040,hap0295,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7373,fam03,group0227,hap0309,Histoplasma capsulatum
+hiscap1,hiscap1_5046,fam03,group0907,hap0302,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7384,fam01-5,group0021,hap0294,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7365,fam01-5,group0032,hap0308,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7389,fam01-5,group0080,hap0292,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7388,fam01-5,group0080,hap0293,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7381,fam01-5,group0080,hap0296,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7361,fam01-5,group0080,hap0303,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7367,fam01-5,group0080,hap0307,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7335,fam01-5,group0112,hap0301,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7371,fam01-5,group0122,hap0310,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7351,fam01-5,group0136,hap0305,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7355,fam01-5,group0217,hap0311,Histoplasma capsulatum
+hiscap1,hiscap1_tyr7392,fam06,group0002,hap0312,Histoplasma capsulatum
+hiscap1,hiscap1_5913,fam06,group0429,hap0304,Histoplasma capsulatum
+hiscap1,hiscap1_1724,fam07,group0165,hap0297,Histoplasma capsulatum
+hiscap1,hiscap1_6654,fam10,group0493,hap0115,Histoplasma capsulatum
+hiscap10,NA,NA,NA,NA,NA
+hiscap3,hiscap3_QSS75448.1,fam01-5,group0112,hap0315,Histoplasma capsulatum
+hiscap3,hiscap3_QSS69343.1:ncRNA10612,fam01-5,group0233,hap0313,Histoplasma capsulatum
+hiscap3,hiscap3_tyr7406,fam01-5,group0233,hap0314,Histoplasma capsulatum
+hiscap4,hiscap4_QSS52209.1,fam01,group0063,hap0317,Histoplasma capsulatum
+hiscap4,hiscap4_QSS56097.1,fam01,group0063,hap0320,Histoplasma capsulatum
+hiscap4,hiscap4_QSS56761.1:QSS56762.1,fam03,group0040,hap0321,Histoplasma capsulatum
+hiscap4,hiscap4_QSS56076.1,fam03,group0165,hap0116,Histoplasma capsulatum
+hiscap4,hiscap4_tyr7416,fam03,group0452,hap0318,Histoplasma capsulatum
+hiscap4,hiscap4_QSS51621.1:QSS51622.1,fam01-5,group0318,hap0316,Histoplasma capsulatum
+hiscap4,hiscap4_tyr7422,fam01-5,group0392,hap0319,Histoplasma capsulatum
+hiscap5,hiscap5_tyr7466,fam01,group0063,hap0324,Histoplasma capsulatum
+hiscap5,hiscap5_EER44893.1,fam03,group0165,hap0116,Histoplasma capsulatum
+hiscap5,hiscap5_EER42759.1,fam01-5,group0392,hap0322,Histoplasma capsulatum
+hiscap5,hiscap5_EER43204.1:EER43205.1,fam01,sng1463,hap0323,Histoplasma capsulatum
+hymalb1,NA,NA,NA,NA,NA
+hyphym1,NA,NA,NA,NA,NA
+hypsp.2,NA,NA,NA,NA,NA
+hyptru1,NA,NA,NA,NA,NA
+hyspul1,NA,NA,NA,NA,NA
+ilydes1,ilydes1_KAH7008698.1,fam07,group0643,hap0117,Ilyonectria destructans
+ilysp.1,ilysp.1_683701,fam07,group0643,hap0117,Ilyonectria sp.
+ilysp.2,NA,NA,NA,NA,NA
+imsale1,NA,NA,NA,NA,NA
+isafum1,NA,NA,NA,NA,NA
+jamsp.1,NA,NA,NA,NA,NA
+jimfla1,NA,NA,NA,NA,NA
+jimfla2,NA,NA,NA,NA,NA
+kredeu1,NA,NA,NA,NA,NA
+kredeu2,kredeu2_tyr7716,fam01,group0129,hap0325,Kretzschmaria deusta
+kredeu2,kredeu2_504220,fam09,group0267,hap0326,Kretzschmaria deusta
+lacari1,NA,NA,NA,NA,NA
+laccf.1,NA,NA,NA,NA,NA
+lachya1,NA,NA,NA,NA,NA
+lacwil1,NA,NA,NA,NA,NA
+laspus1,NA,NA,NA,NA,NA
+lasthe1,NA,NA,NA,NA,NA
+lasthe3,NA,NA,NA,NA,NA
+leclec1,NA,NA,NA,NA,NA
+leisp.1,NA,NA,NA,NA,NA
+lenflu1,NA,NA,NA,NA,NA
+leosp.1,NA,NA,NA,NA,NA
+leppal1,NA,NA,NA,NA,NA
+lepsp.1,NA,NA,NA,NA,NA
+letlup1,letlup1_KAF6228062.1,fam01-5,group0358,hap0329,Letharia lupina
+lining1,NA,NA,NA,NA,NA
+linrhi1,NA,NA,NA,NA,NA
+lizemp1,NA,NA,NA,NA,NA
+lopmac1,NA,NA,NA,NA,NA
+lopnuc1,NA,NA,NA,NA,NA
+macano1,NA,NA,NA,NA,NA
+macpha1,macpha1_749149,fam10,group0365,hap0330,Macrophomina phaseolina
+macpha2,NA,NA,NA,NA,NA
+madmyc1,NA,NA,NA,NA,NA
+magory1,NA,NA,NA,NA,NA
+maspha1,NA,NA,NA,NA,NA
+meimil1,NA,NA,NA,NA,NA
+melbic1,NA,NA,NA,NA,NA
+mellar1,NA,NA,NA,NA,NA
+metacr1,NA,NA,NA,NA,NA
+metani1,NA,NA,NA,NA,NA
+metbru1,metbru1_2543,fam01,group0006,hap0331,Metarhizium brunneum
+metgui1,NA,NA,NA,NA,NA
+metmaj1,metmaj1_tyr8194,fam01,group0058,hap0332,Metarhizium majus
+metrob3,metrob3_EFY96531.1,fam09,group0138,hap0118,Metarhizium robertsii
+micbol1,NA,NA,NA,NA,NA
+micmic1,NA,NA,NA,NA,NA
+mictri1,NA,NA,NA,NA,NA
+moelib1,NA,NA,NA,NA,NA
+moncan1,NA,NA,NA,NA,NA
+monfru1,NA,NA,NA,NA,NA
+monfru2,NA,NA,NA,NA,NA
+monfru3,NA,NA,NA,NA,NA
+monibe1,NA,NA,NA,NA,NA
+monlax1,NA,NA,NA,NA,NA
+monsp.2,NA,NA,NA,NA,NA
+monsp.3,monsp.3_RYP20312.1,fam01,group0116,hap0333,Monosporascus sp.
+monsp.4,NA,NA,NA,NA,NA
+monsp.5,NA,NA,NA,NA,NA
+monsp.6,NA,NA,NA,NA,NA
+monsp.8,NA,NA,NA,NA,NA
+morimp1,morimp1_598838,fam01,group0219,hap0335,Morchella importuna
+morimp1,morimp1_644698,fam01,sng1386,hap0334,Morchella importuna
+mycchl1,NA,NA,NA,NA,NA
+mytres1,NA,NA,NA,NA,NA
+nemser2,NA,NA,NA,NA,NA
+neoaci1,NA,NA,NA,NA,NA
+neocla1,NA,NA,NA,NA,NA
+neodit1,NA,NA,NA,NA,NA
+neopar1,NA,NA,NA,NA,NA
+neucra4,NA,NA,NA,NA,NA
+oidmai1,NA,NA,NA,NA,NA
+ophpic1,NA,NA,NA,NA,NA
+orboli10,NA,NA,NA,NA,NA
+orboli11,orboli11_KAF3113550.1,fam01,group0266,hap0043,Orbilia oligospora
+orboli11,orboli11_KAF3111326.1,fam08,group0739,hap0119,Orbilia oligospora
+orboli15,orboli15_KAF3116801.1,fam01,group0266,hap0043,Orbilia oligospora
+orboli15,orboli15_KAF3090659.1,fam01,group0463,hap0338,Orbilia oligospora
+orboli16,orboli16_KAF3115306.1,fam01,group0266,hap0043,Orbilia oligospora
+orboli16,orboli16_KAF3107618.1,fam08,group0739,hap0119,Orbilia oligospora
+orboli19,orboli19_KAF3231896.1,fam08,group0378,hap0120,Orbilia oligospora
+orboli2,orboli2_TGJ70084.1,fam03,sng1265,hap0336,Orbilia oligospora
+orboli20,orboli20_KAF3210426.1,fam01,group0463,hap0339,Orbilia oligospora
+orboli7,NA,NA,NA,NA,NA
+paeniv1,NA,NA,NA,NA,NA
+paevar1,paevar1_195182,fam02,group0037,hap0340,Paecilomyces variotii
+parbra1,parbra1_6028,fam01,group0063,hap0341,Paracoccidioides brasiliensis
+parbra2,parbra2_EEH47680.2,fam03,group0040,hap0342,Paracoccidioides brasiliensis
+parbra2,parbra2_EEH48168.2,fam01-5,group0027,hap0343,Paracoccidioides brasiliensis
+parbra2,parbra2_EEH42581.2,fam01-5,group0080,hap0344,Paracoccidioides brasiliensis
+parlut1,parlut1_tyr8636,fam01-5,group0014,hap0346,Paracoccidioides lutzii
+parlut1,parlut1_1948,fam01-5,group0072,hap0345,Paracoccidioides lutzii
+parmin1,NA,NA,NA,NA,NA
+parnod1,NA,NA,NA,NA,NA
+parpol1,NA,NA,NA,NA,NA
+pasful1,NA,NA,NA,NA,NA
+patatr1,NA,NA,NA,NA,NA
+penant1,NA,NA,NA,NA,NA
+penari1,NA,NA,NA,NA,NA
+penbra1,NA,NA,NA,NA,NA
+pencam1,NA,NA,NA,NA,NA
+penchr2,penchr2_71351,fam02,group0023,hap0347,Penicillium chrysogenum
+penexp2,NA,NA,NA,NA,NA
+penfla1,penfla1_tyr8800,fam01-5,group0110,hap0348,Penicillium flavigenum
+penfre1,NA,NA,NA,NA,NA
+pennal1,NA,NA,NA,NA,NA
+pennor1,NA,NA,NA,NA,NA
+penoxa1,NA,NA,NA,NA,NA
+penroq1,NA,NA,NA,NA,NA
+penrub1,penrub1_CAP95304.1:CAP95306.1,fam07,group0237,hap0122,Penicillium rubens
+penrub2,NA,NA,NA,NA,NA
+pensol2,pensol2_4801:4802,fam07,group0102,hap0349,Penicillium solitum
+pensp.11,NA,NA,NA,NA,NA
+pensp.9,pensp.9_KAF4759935.1,fam01,group0065,hap0352,Penicillium sp.
+pensp.9,pensp.9_KAF4765341.1,fam07,group0043,hap0350,Penicillium sp.
+pensp.9,pensp.9_KAF4763348.1,fam07,group0102,hap0351,Penicillium sp.
+penste1,NA,NA,NA,NA,NA
+pensub1,NA,NA,NA,NA,NA
+penthy1,NA,NA,NA,NA,NA
+penzon1,NA,NA,NA,NA,NA
+permac1,NA,NA,NA,NA,NA
+pesfic1,NA,NA,NA,NA,NA
+phachl1,NA,NA,NA,NA,NA
+phamin1,NA,NA,NA,NA,NA
+phicur1,NA,NA,NA,NA,NA
+phisco1,NA,NA,NA,NA,NA
+phisub1,NA,NA,NA,NA,NA
+phlbre1,NA,NA,NA,NA,NA
+phlsp.1,NA,NA,NA,NA,NA
+Phoenix,NA,NA,NA,NA,NA
+plecuc2,NA,NA,NA,NA,NA
+pletra1,NA,NA,NA,NA,NA
+pocchl2,NA,NA,NA,NA,NA
+pocchl3,NA,NA,NA,NA,NA
+podans1,NA,NA,NA,NA,NA
+podcom1,podcom1_tyr9196,fam09,group0749,hap0353,Podospora comata
+polfus1,NA,NA,NA,NA,NA
+polhys1,NA,NA,NA,NA,NA
+polsqu1,NA,NA,NA,NA,NA
+psedes1,NA,NA,NA,NA,NA
+psefij1,NA,NA,NA,NA,NA
+pseflo1,NA,NA,NA,NA,NA
+psehyp1,NA,NA,NA,NA,NA
+psesp.10,NA,NA,NA,NA,NA
+psesp.11,NA,NA,NA,NA,NA
+psesp.12,NA,NA,NA,NA,NA
+psesp.13,NA,NA,NA,NA,NA
+psesp.14,NA,NA,NA,NA,NA
+psesp.15,NA,NA,NA,NA,NA
+psesp.16,NA,NA,NA,NA,NA
+psesp.17,NA,NA,NA,NA,NA
+psesp.18,NA,NA,NA,NA,NA
+psesp.2,NA,NA,NA,NA,NA
+psesp.20,NA,NA,NA,NA,NA
+psesp.22,NA,NA,NA,NA,NA
+psesp.3,NA,NA,NA,NA,NA
+psesp.4,NA,NA,NA,NA,NA
+psesp.5,NA,NA,NA,NA,NA
+psesp.8,NA,NA,NA,NA,NA
+psever1,NA,NA,NA,NA,NA
+psevex1,NA,NA,NA,NA,NA
+psevol1,NA,NA,NA,NA,NA
+pucgra2,NA,NA,NA,NA,NA
+purlil1,NA,NA,NA,NA,NA
+pyrgri1,NA,NA,NA,NA,NA
+pyrory1,pyrory1_EHA58539.1:EHA58540.1,fam06,group0159,hap0356,Pyricularia oryzae
+pyrory1,pyrory1_EHA56134.1,fam09,group0261,hap0355,Pyricularia oryzae
+pyrory2,pyrory2_QBZ54310.1,fam09,group0140,hap0123,Pyricularia oryzae
+pyrory2,pyrory2_QBZ54364.1,fam09,group0140,hap0123,Pyricularia oryzae
+pyrory2,pyrory2_QBZ61713.1,fam09,group0140,hap0124,Pyricularia oryzae
+pyrory2,pyrory2_QBZ58489.1,fam09,group0261,hap0357,Pyricularia oryzae
+pyrory2,pyrory2_QBZ61703.1,fam09,sng1026,hap0124,Pyricularia oryzae
+pyrory3,NA,NA,NA,NA,NA
+pyrory4,NA,NA,NA,NA,NA
+pyrpen1,NA,NA,NA,NA,NA
+pyrsp.2,NA,NA,NA,NA,NA
+pyrter2,NA,NA,NA,NA,NA
+pyrter3,NA,NA,NA,NA,NA
+pyrtri1,pyrtri1_EDU47891.1,fam04,group0009,hap0358,Pyrenophora tritici-repentis
+pyrtri10,NA,NA,NA,NA,NA
+pyrtri11,NA,NA,NA,NA,NA
+pyrtri5,NA,NA,NA,NA,NA
+pyrtri6,NA,NA,NA,NA,NA
+pyrtri9,NA,NA,NA,NA,NA
+racant1,NA,NA,NA,NA,NA
+racsp.1,NA,NA,NA,NA,NA
+raseme1,NA,NA,NA,NA,NA
+rhesp.1,NA,NA,NA,NA,NA
+rhieri1,NA,NA,NA,NA,NA
+rhilig1,NA,NA,NA,NA,NA
+rhimac1,NA,NA,NA,NA,NA
+rhoros1,NA,NA,NA,NA,NA
+rhyagr1,NA,NA,NA,NA,NA
+rhyruf1,NA,NA,NA,NA,NA
+rhysec1,NA,NA,NA,NA,NA
+rusear1,NA,NA,NA,NA,NA
+rutsp.1,NA,NA,NA,NA,NA
+rutsp.2,NA,NA,NA,NA,NA
+rutsp.3,NA,NA,NA,NA,NA
+sceapi1,NA,NA,NA,NA,NA
+sclbor1,NA,NA,NA,NA,NA
+sclcep1,NA,NA,NA,NA,NA
+sclscl1,NA,NA,NA,NA,NA
+scylig1,NA,NA,NA,NA,NA
+sethol1,NA,NA,NA,NA,NA
+sorsp.1,NA,NA,NA,NA,NA
+spobra1,spobra1_10170:10169,fam01,sng1074,hap0359,Sporothrix brasiliensis
+spoins1,NA,NA,NA,NA,NA
+stacha1,NA,NA,NA,NA,NA
+stacha2,NA,NA,NA,NA,NA
+stacha3,NA,NA,NA,NA,NA
+stachl1,NA,NA,NA,NA,NA
+staele1,NA,NA,NA,NA,NA
+stalon1,NA,NA,NA,NA,NA
+Starship-1,NA,NA,NA,NA,NA
+Starship-2,NA,NA,NA,NA,NA
+stasp.1,NA,NA,NA,NA,NA
+suisub3,NA,NA,NA,NA,NA
+talatr1,NA,NA,NA,NA,NA
+talcel1,talcel1_GAM38547.1,fam02,sng1581,hap0360,Talaromyces cellulolyticus
+talcel1,talcel1_tyr10280,fam01-5,sng1019,hap0361,Talaromyces cellulolyticus
+talisl1,NA,NA,NA,NA,NA
+talmar2,NA,NA,NA,NA,NA
+talpin1,NA,NA,NA,NA,NA
+talrug1,NA,NA,NA,NA,NA
+talsti1,NA,NA,NA,NA,NA
+talver1,NA,NA,NA,NA,NA
+tepsp.1,NA,NA,NA,NA,NA
+terbou1,NA,NA,NA,NA,NA
+tercla1,NA,NA,NA,NA,NA
+tersp.5,NA,NA,NA,NA,NA
+tirniv1,NA,NA,NA,NA,NA
+tolinf1,NA,NA,NA,NA,NA
+toloph1,NA,NA,NA,NA,NA
+tolpar1,NA,NA,NA,NA,NA
+torhem1,NA,NA,NA,NA,NA
+totfus1,NA,NA,NA,NA,NA
+treper1,NA,NA,NA,NA,NA
+triaru1,NA,NA,NA,NA,NA
+triasp2,NA,NA,NA,NA,NA
+triatr4,NA,NA,NA,NA,NA
+tribis1,NA,NA,NA,NA,NA
+triequ1,triequ1_571,fam06,group0964,hap0362,Trichophyton equinum
+triham1,NA,NA,NA,NA,NA
+trihar4,NA,NA,NA,NA,NA
+trihir1,NA,NA,NA,NA,NA
+trihyb1,NA,NA,NA,NA,NA
+trimen1,NA,NA,NA,NA,NA
+trisou1,NA,NA,NA,NA,NA
+triton1,NA,NA,NA,NA,NA
+truang1,NA,NA,NA,NA,NA
+tubaes1,NA,NA,NA,NA,NA
+tubmag1,NA,NA,NA,NA,NA
+tubmel2,tubmel2_tyr10610,fam01,group0098,hap0364,Tuber melanosporum
+tubmel2,tubmel2_tyr10605,fam01,group0467,hap0365,Tuber melanosporum
+tulsp.13,NA,NA,NA,NA,NA
+tulsp.7,NA,NA,NA,NA,NA
+umbpus1,NA,NA,NA,NA,NA
+uncree2,NA,NA,NA,NA,NA
+valmal3,NA,NA,NA,NA,NA
+venech1,NA,NA,NA,NA,NA
+verdah2,NA,NA,NA,NA,NA
+verdah3,verdah3_177874,fam04,group0055,hap0367,Verticillium dahliae
+verdah3,verdah3_443143,fam09,group0191,hap0125,Verticillium dahliae
+verdah3,verdah3_386947,fam09,group0191,hap0125,Verticillium dahliae
+verena1,NA,NA,NA,NA,NA
+vergal1,NA,NA,NA,NA,NA
+verlon1,NA,NA,NA,NA,NA
+viopal1,NA,NA,NA,NA,NA
+virvir1,NA,NA,NA,NA,NA
+volvol2,NA,NA,NA,NA,NA
+Voyager,NA,NA,NA,NA,NA
+wesorn1,NA,NA,NA,NA,NA
+wilmik1,NA,NA,NA,NA,NA
+xylacu1,NA,NA,NA,NA,NA
+xylarb1,NA,NA,NA,NA,NA
+xylbam1,NA,NA,NA,NA,NA
+xylcf.1,NA,NA,NA,NA,NA
+xylcf.2,NA,NA,NA,NA,NA
+xylcub1,NA,NA,NA,NA,NA
+xylcur2,NA,NA,NA,NA,NA
+xyldig1,NA,NA,NA,NA,NA
+xylgra1,NA,NA,NA,NA,NA
+xylhev1,NA,NA,NA,NA,NA
+xyllon1,NA,NA,NA,NA,NA
+xylpal1,NA,NA,NA,NA,NA
+xylsp.11,NA,NA,NA,NA,NA
+xylsp.14,NA,NA,NA,NA,NA
+xylsp.15,NA,NA,NA,NA,NA
+xylsp.18,NA,NA,NA,NA,NA
+xylsp.19,NA,NA,NA,NA,NA
+xylsp.2,NA,NA,NA,NA,NA
+xylsp.4,NA,NA,NA,NA,NA
+xylsp.5,NA,NA,NA,NA,NA
+xylsp.8,NA,NA,NA,NA,NA
+xylsp.9,NA,NA,NA,NA,NA
+xyltel1,NA,NA,NA,NA,NA
+zalvar1,NA,NA,NA,NA,NA
+zascel1,NA,NA,NA,NA,NA
+zoprhi1,NA,NA,NA,NA,NA
+zymtri1,NA,NA,NA,NA,NA
+zymtri3,NA,NA,NA,NA,NA
+zymtri4,NA,NA,NA,NA,NA
+zymtri5,NA,NA,NA,NA,NA
