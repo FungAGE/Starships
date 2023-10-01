@@ -1,0 +1,400 @@
+#regionID	elementGroupID	refElementID	refSiteID	otherElementIDs
+region0001	superfam01-1:fam0003	aspfum4_s01185	aspfum8_site020	
+region0001	superfam01-1:fam0065	aspche1_s00792	.	
+region0001	superfam01-3:fam0024	aspasp11_s00573	aspung1_site001	aspung2_s02900,aspung3_s02905,aspung4_s02912,
+region0001	superfam01-3:fam0071	aspfis1_s01040	aspfis5_site002	
+region0001	superfam01-3:fam0414	aspche2_s00817	aspche1_site008	
+region0001	superfam01-5:fam0069	aspfum4_s01183	aspfum3_site004	
+region0001	superfam02-1:fam0002	aspfum15_s01326	aspfum17_site008	aspfis1_s01047,aspfum3_s01169,aspfum4_s01186,aspfum5_s01199,aspfum6_s01211,
+region0001	superfam02-1:fam0030	aspfis1_s01048	.	
+region0001	superfam02-1:fam0077	aspfum11_s01256	.	
+region0001	superfam02-1:fam0228	aspfum3_s01172	aspfum17_site001	aspfum5_s01202,
+region0002	superfam01-5:fam0016	aspory8_s02170	aspory3_site014	
+region0002	superfam02-1:fam0030	aspfla7_s01131	aspfla13_site014	aspfla5_s01125,aspfla6_s01127,aspfla11_s01150,aspfla14_s01160,asppar8_s02236,
+region0002	superfam02-1:fam0052	aspory10_s02190	aspory5_site007	aspory1_s02138,aspory4_s02150,aspory9_s02184,aspory11_s02199,
+region0003	superfam01-1:fam0001	fuspil1_s06163	fustem1_site002	fusfus53_s05594,fusnyg2_s05865,fustem4_s06438,
+region0003	superfam02-2:fam0029	fusoxy46_s06068	fusoxy58_site008	fusfuj5_s05292,
+region0003	superfam03-1:fam0011	fuscir9_s05100	.	
+region0003	superfam03-1:fam0135	fusudu1_s06516	fussor1_site007	
+region0004	superfam01-5:fam0004	aspluc6_s01772	aspluc7_site003	aspawa2_s00612,aspluc5_s01764,aspluc8_s01784,aspluc9_s01792,aspluc10_s01801,aspluc11_s01810,aspluc12_s01824,
+region0004	superfam02-1:fam0049	aspawa2_s00611	aspluc13_site004	
+region0005	superfam01-1:fam0003	aspory9_s02181	aspory8_site024	
+region0005	superfam01-5:fam0004	aspory12_s02211	aspory9_site006	
+region0005	superfam01-5:fam0048	aspory12_s02212	aspory11_site008	aspory1_s02140,aspory4_s02152,
+region0005	superfam02-1:fam0002	aspasp9_s00554	asppar8_site006	
+region0005	superfam02-1:fam0030	aspfla8_s01137	.	
+region0005	superfam02-1:fam0052	aspory1_s02141	aspory7_site010	aspory4_s02153,
+region0006	superfam01-1:fam0003	aspnig12_s01992	aspnig16_site013	aspnig4_s01946,aspnig6_s01955,
+region0006	superfam01-2:fam0023	aspnig11_s01989	aspnig16_site013	aspnig4_s01947,aspnig6_s01954,aspnig10_s01981,aspnig12_s01991,
+region0006	superfam01-5:fam0012	aspluc2_s01743	aspluc10_site001	
+region0007	superfam01-4:fam0128	fuscul4_s05172	.	
+region0007	superfam01-5:fam0038	fuscul1_s05161	fuscul5_site004	fuscul6_s05177,
+region0007	superfam03-1:fam0011	fuspse7_s06224	fuspse5_site004	fusasi2_s04970,fusasi3_s04973,fusasi4_s04977,fusvor2_s06663,
+region0008	superfam01-3:fam0071	aspnov1_s02038	aspara1_site001	aspnov4_s02072,
+region0008	superfam02-1:fam0002	aspsoj2_s02515	asppar13_site001	aspsoj1_s02499,aspsoj3_s02526,
+region0008	superfam02-1:fam0030	aspsoj1_s02500	asppar10_site007	aspsoj2_s02516,aspsoj3_s02527,
+region0009	superfam02-1:fam0005	fuspro3_s06188	fuspro8_site010	
+region0009	superfam03-1:fam0011	fusoxy53_s06108	fusoxy56_site019	fusoxy30_s05975,fusoxy45_s06060,fusoxy52_s06102,fusoxy57_s06126,fusoxy58_s06132,
+region0010	superfam01-5:fam0074	altalt8_s00068	altalt10_site006	
+region0010	superfam03-4:fam0018	altalt9_s00071	altalt13_site005	altalt7_s00064,altlon1_s00170,
+region0010	superfam03-4:fam0056	altalt9_s00070	altalt13_site005	altalt7_s00065,altlon1_s00171,
+region0011	superfam01-5:fam0034	aspfla11_s01151	aspfla9_site018	aspfla5_s01123,aspfla6_s01126,aspfla14_s01161,asppar8_s02237,
+region0011	superfam02-1:fam0030	aspasp9_s00557	.	
+region0011	superfam02-1:fam0052	aspory5_s02161	aspory1_site015	
+region0012	superfam01-2:fam0023	aspfis1_s01050	.	
+region0012	superfam01-5:fam0004	aspnig11_s01987	.	
+region0012	superfam01-5:fam0215	aspnig13_s02000	aspeuc1_site002	
+region0012	superfam02-1:fam0002	aspnig13_s01999	aspluc3_site002	
+region0012	superfam02-1:fam0049	aspnig11_s01988	aspnig16_site009	aspnig10_s01984,
+region0013	superfam01-1:fam0003	aspory5_s02160	aspory12_site021	
+region0013	superfam01-5:fam0004	aspsoj2_s02513	aspfla6_site018	
+region0013	superfam01-5:fam0021	aspory12_s02213	aspory11_site019	
+region0013	superfam01-5:fam0034	aspfla8_s01140	aspfla14_site014	aspfla10_s01147,
+region0013	superfam02-1:fam0052	aspfla7_s01132	aspfla13_site018	
+region0014	superfam02-1:fam0008	fusspo3_s06336	fusspo1_site001	
+region0014	superfam03-1:fam0011	fuscul1_s05160	fuspse5_site003	fuscul2_s05164,fuscul4_s05171,fuscul5_s05173,fuscul6_s05176,
+region0015	superfam01-5:fam0017	fusmus1_s05805	.	
+region0015	superfam03-1:fam0011	fuspro3_s06186	fuspro10_site009	
+region0015	superfam03-1:fam0113	fusoxy43_s06035	fusoxy55_site013	fusoxy2_s05892,fusoxy32_s05988,
+region0016	superfam01-1:fam0003	aspfis1_s01039	.	aspfis2_s01056,aspfis4_s01085,
+region0016	superfam01-2:fam0037	aspcre1_s00870	asppuu1_site002	
+region0016	superfam01-3:fam0024	aspmel1_s01827	aspoch6_site001	
+region0017	superfam02-1:fam0002	asptub6_s02821	asptub2_site005	
+region0017	superfam02-1:fam0049	aspnig3_s01936	aspnig10_site001	asppho1_s02290,aspwel1_s02978,aspwel2_s02990,
+region0018	superfam01-5:fam0010	altalt12_s00075	altalt7_site005	
+region0018	superfam03-4:fam0018	altalt8_s00067	altalt10_site003	altals1_s00058,altalt7_s00066,altten6_s00205,
+region0019	superfam01-5:fam0215	aspnig4_s01942	aspnig16_site002	aspnig5_s01948,
+region0019	superfam02-1:fam0049	aspnig15_s02001	aspnig16_site001	
+region0019	superfam02-1:fam0212	aspnig4_s01943	aspnig16_site002	aspnig5_s01949,
+region0020	superfam01-1:fam0001	fussol2_s06321	.	
+region0020	superfam02-2:fam0029	fusman1_s05750	.	fusman3_s05775,
+region0020	superfam03-1:fam0011	fusequ2_s05203	fusequ8_site003	
+region0021	superfam01-3:fam0071	asppar13_s02259	.	asppar12_s02255,asptra2_s02803,asptra3_s02812,
+region0022	superfam01-1:fam0003	aspcri1_s00894	aspche1_site011	aspcri3_s00934,
+region0022	superfam02-1:fam0052	aspory8_s02174	.	
+region0022	superfam02-2:fam0310	aspoch6_s02111	.	
+region0023	superfam01-5:fam0004	aspnig11_s01985	aspnig15_site009	aspnig10_s01982,
+region0023	superfam01-5:fam0012	aspwel1_s02979	aspwel5_site004	aspwel2_s02991,
+region0024	superfam01-1:fam0001	fuscom1_s05121	fusoxy44_site014	fusred5_s06275,fussp.11_s06397,
+region0024	superfam02-1:fam0005	fusfuj10_s05302	fusfuj3_site012	
+region0025	superfam01-2:fam0037	aspper1_s02287	.	
+region0025	superfam01-5:fam0044	aspmel1_s01836	aspoch6_site006	
+region0025	superfam01-5:fam0221	aspmel1_s01838	aspoch6_site006	
+region0025	superfam02-2:fam0022	aspmel1_s01834	.	
+region0026	superfam01-5:fam0010	altalt13_s00079	altalt11_site008	
+region0026	superfam03-4:fam0018	altlon1_s00163	altalt7_site006	altalt13_s00078,
+region0026	superfam03-4:fam0056	altlon1_s00164	altarb7_site001	
+region0027	superfam01-1:fam0063	hiscap1_s07010	hiscap5_site014	
+region0027	superfam01-3:fam0040	hiscap1_s07007	hiscap5_site017	
+region0027	superfam01-5:fam0080	hiscap1_s07008	hiscap5_site016	
+region0027	superfam02-2:fam0165	hiscap1_s07009	hiscap10_site014	
+region0028	superfam01:sng1463	hiscap5_s07115	hiscap3_site018	
+region0028	superfam01-3:fam0040	hiscap4_s07105	hiscap3_site017	
+region0028	superfam01-5:fam0136	hiscap1_s07033	.	
+region0028	superfam02-1:fam0429	hiscap1_s07029	hiscap10_site016	
+region0029	superfam01-1:fam0146	aspcla2_s00838	.	aspcla3_s00849,
+region0029	superfam01-5:fam0027	aspnid3_s01913	aspnid4_site001	
+region0030	superfam01-1:fam0003	aspasp8_s00549	aspfum3_site002	
+region0031	superfam01-5:fam0034	aspfum15_s01319	aspfum17_site015	
+region0031	superfam02-2:fam0043	aspoch5_s02109	aspoch6_site002	
+region0031	superfam02-2:fam0102	pensp.9_s08576	.	
+region0032	superfam01-3:fam0062	aspnov2_s02058	asplen1_site003	aspnov3_s02066,
+region0033	superfam02-2:fam0029	fusoxy29_s05967	fusoxy58_site006	
+region0033	superfam03-1:fam0011	fusoxy21_s05919	fusoxy44_site002	
+region0033	superfam03-1:fam0113	fusoxy22_s05925	fusoxy19_site003	
+region0034	superfam03-4:fam0018	altlon1_s00168	altalt6_site002	altatr1_s00107,
+region0034	superfam03-4:fam0056	altlon1_s00167	altten6_site003	
+region0035	superfam01-2:fam0057	aspche2_s00829	.	
+region0035	superfam01-5:fam0048	aspche2_s00830	aspcri3_site005	aspche1_s00791,
+region0036	superfam03-4:fam0018	altcon1_s00144	altalt9_site006	altalt11_s00074,
+region0036	superfam03-4:fam0056	altalt11_s00073	altalt13_site009	
+region0037	superfam01-5:fam0016	aspnig3_s01937	aspnig16_site007	asppho1_s02291,
+region0037	superfam02-1:fam0002	aspnig15_s02004	aspnig4_site006	
+region0038	superfam01-5:fam0021	aspory10_s02188	aspory12_site006	
+region0038	superfam01-5:fam0810	aspory9_s02182	aspory4_site006	aspory11_s02197,
+region0039	superfam01-2:fam0057	asplen4_s01659	asplen6_site005	
+region0039	superfam01-2:sng1262	asplen2_s01651	asplen6_site005	
+region0039	superfam02-2:fam0147	aspfum15_s01324	aspfum16_site008	
+region0040	superfam01-1:fam0047	aspluc12_s01818	.	
+region0040	superfam01-5:fam0016	aspluc12_s01820	aspluc4_site002	
+region0041	superfam01-5:fam0013	aspasp8_s00544	aspfis1_site008	
+region0041	superfam01-5:fam0031	aspfum6_s01221	aspfum8_site014	
+region0041	superfam02-1:fam0002	aspuda2_s02839	.	
+region0042	superfam01-5:fam0010	aspfum6_s01217	.	
+region0042	superfam01-5:fam0012	aspfum6_s01218	aspfum3_site010	
+region0042	superfam01-5:fam0031	aspfum6_s01216	aspfum4_site010	
+region0043	superfam02-2:fam0310	aspcri2_s00906	aspche1_site003	aspcri1_s00883,aspcri3_s00923,
+region0044	superfam01-5:fam0014	cocpos5_s03995	cocimm4_site003	
+region0044	superfam01-5:fam0439	cocimm1_s03883	cocpos3_site009	
+region0044	superfam02-1:fam0429	cocimm1_s03882	cocpos4_site008	
+region0045	superfam01-2:fam0057	aspnom1_s02016	.	asppse10_s02359,
+region0045	superfam01-5:fam0016	aspory1_s02139	.	
+region0046	superfam01-1:fam0146	cocimm4_s03920	cocpos4_site006	
+region0046	superfam01-1:sng1090	cocimm1_s03876	cocpos4_site006	
+region0046	superfam01-1:sng1161	cocimm3_s03905	cocpos4_site007	
+region0047	superfam03-1:fam0066	fussol4_s06329	fussol5_site004	fusvir6_s06629,fusvir9_s06650,
+region0048	superfam01-1:fam0063	hiscap1_s07012	hiscap10_site001	
+region0048	superfam01-1:fam0232	hiscap1_s07013	hiscap10_site002	
+region0048	superfam01-5:fam0112	hiscap1_s07014	hiscap10_site003	
+region0049	superfam01-2:fam0046	aspung2_s02902	.	aspung3_s02909,aspung4_s02917,
+region0050	superfam01-5:fam0027	aspory8_s02173	aspory12_site002	
+region0050	superfam02-2:fam0147	aspfum4_s01195	aspfum10_site004	
+region0051	superfam02-2:fam0302	fusver1_s06569	.	fusver2_s06570,
+region0052	superfam01-3:fam0024	aspind2_s01473	aspjap3_site002	aspind3_s01476,
+region0053	superfam03-1:fam0011	fusoxy45_s06061	fusoxy32_site018	fusfuj5_s05294,
+region0054	superfam02-2:fam0022	aspara1_s00423	aspser2_site003	aspara3_s00451,
+region0055	superfam01-5:fam0034	aspasp9_s00555	asppar12_site010	
+region0055	superfam02-2:fam0022	aspfla12_s01152	aspfla5_site017	
+region0056	superfam01-3:fam0024	aspter8_s02741	aspter7_site001	aspter9_s02761,
+region0057	superfam01-1:fam0003	aspawa1_s00607	aspwel4_site003	
+region0057	superfam01-5:fam0004	aspnig15_s02002	aspnig16_site011	
+region0058	superfam01-5:fam0016	aspfla7_s01129	aspfla9_site005	aspory5_s02158,
+region0059	superfam02-1:fam0197	aspfis1_s01044	aspfis3_site007	aspfis2_s01057,
+region0060	superfam02-3:fam0739	orboli11_s08161	orboli18_site003	orboli16_s08169,
+region0061	superfam02-1:fam0052	aspfla10_s01146	aspfla11_site013	aspfla8_s01139,
+region0062	superfam01-5:fam0013	aspfla13_s01158	aspfla10_site021	
+region0062	superfam02-1:fam0052	aspory12_s02209	aspory8_site010	
+region0063	superfam01-2:fam0037	aspfum3_s01168	aspfum10_site010	aspfum5_s01198,
+region0064	superfam02-2:fam0022	aspory1_s02143	aspory12_site017	aspory4_s02155,
+region0065	superfam01-5:fam0194	aspcos2_s00867	asptub2_site003	aspcos3_s00869,
+region0066	superfam03-1:fam0012	aspcri1_s00891	.	aspcri3_s00931,
+region0067	superfam02-2:fam0022	aspnig4_s01945	aspnig16_site012	aspnig5_s01951,
+region0068	superfam01-5:fam0167	aspluc13_s01826	aspluc7_site009	aspluc12_s01823,
+region0069	superfam03-4:fam0018	altsol2_s00185	altsol1_site001	
+region0069	superfam03-4:fam0056	altsol2_s00184	altsol1_site001	
+region0070	superfam02-2:fam0401	colfru1_s04051	colfru3_site002	colfru4_s04067,
+region0071	superfam01-5:sng1015	aspwel3_s02999	aspwel2_site004	
+region0071	superfam01-5:sng1584	aspwel3_s03000	aspwel1_site003	
+region0072	superfam02-2:fam0029	fushos1_s05664	.	fushos2_s05690,
+region0073	superfam01-3:fam0637	aspwes1_s03031	aspwes2_site001	
+region0073	superfam02-2:fam0043	aspoch5_s02105	aspwes1_site001	
+region0074	superfam02-1:fam0087	asppar4_s02220	.	asppar7_s02234,
+region0075	superfam01-1:fam0001	fusvir6_s06631	fusvir8_site001	fusvir9_s06652,
+region0077	superfam02-2:fam0237	penchr1_s08356	penchr2_site001	penrub1_s08536,
+region0078	superfam03-4:fam0018	altcon1_s00140	altatr1_site002	
+region0078	superfam03-4:fam0056	altcon1_s00142	altatr1_site002	
+region0079	superfam01-2:fam0268	aspcal2_s00739	aspasp13_site003	aspcal3_s00755,
+region0080	superfam01-3:fam0227	blader2_s03200	.	blagil1_s03291,
+region0081	superfam01-5:fam0439	blader2_s03212	.	
+region0082	superfam01-5:fam0473	aspcri1_s00885	aspche1_site014	aspcri3_s00925,
+region0083	superfam03-1:fam0066	fussol1_s06317	fusfus16_site001	fussol5_s06332,
+region0084	superfam03-1:fam0140	pyrory2_s09327	.	pyrory2_s09328,
+region0085	superfam01-1:fam0001	fusvir6_s06633	fusvir8_site002	fusvir9_s06654,
+region0086	superfam01-3:fam0907	hiscap1_s07023	.	
+region0086	superfam01-5:fam0080	hiscap1_s07025	hiscap5_site019	
+region0087	superfam03-2:fam0243	aspfis3_s01074	aspfis5_site004	
+region0087	superfam03-4:sng1263	aspfis4_s01091	aspfis5_site004	
+region0088	superfam02-1:fam0087	asppse11_s02373	aspter6_site004	asppse12_s02375,
+region0089	superfam01-3:fam0040	hiscap1_s07035	hiscap5_site004	
+region0089	superfam03-4:fam0493	hiscap1_s07036	hiscap5_site004	
+region0090	superfam03-1:fam0138	metrob3_s07847	methum1_site001	metrob2_s07837,
+region0091	superfam03-1:fam0140	pyrory2_s09332	pyrory1_site002	
+region0091	superfam03-1:sng1026	pyrory2_s09331	pyrory1_site002	
+region0092	superfam01-3:fam0024	aspsyd1_s02595	.	aspsyd2_s02602,
+region0093	superfam02-2:fam0643	ilydes1_s07286	ilysp.2_site001	ilysp.1_s07298,
+region0094	superfam03-1:fam0191	verdah3_s10233	verdah4_site001	verdah3_s10237,
+region0095	superfam01-2:fam0057	aspcal2_s00743	aspasp13_site002	aspcal3_s00759,
+region0096	superfam01-2:fam0023	aspcal2_s00748	aspasp13_site001	aspcal3_s00764,
+region0097	superfam01-5:fam0054	fussp.11_s06395	fusoxy44_site007	fuscom1_s05119,
+region0098	superfam01-1:fam0063	hiscap4_s07103	hiscap3_site024	
+region0098	superfam01-3:fam0165	hiscap4_s07102	.	
+region0099	superfam01-3:fam0024	aspfum3_s01179	.	aspfum5_s01209,
+region0100	superfam01-3:fam0051	aspjap1_s01479	.	aspjap2_s01482,
+region0101	superfam02-1:fam0030	aspsoj5_s02547	.	aspsoj4_s02537,
+region0102	superfam01-1:fam0003	aspung2_s02899	.	aspung3_s02907,
+region0103	superfam01-1:fam0092	fusfus9_s05344	.	fusfus25_s05431,
+region0104	superfam03-1:fam0011	fusoxy32_s05986	.	fusoxy43_s06043,
+region0105	superfam01:fam0266	orboli11_s08160	.	orboli16_s08168,
+region0106	superfam01-1:fam0092	fussci1_s06284	fusfla3_site001	
+region0107	superfam01-3:fam0071	aspfum19_s01352	aspfum16_site016	
+region0108	superfam01-1:fam0003	aspasp11_s00578	aspung1_site003	
+region0109	superfam02-2:fam0029	fusoxy38_s06017	fusoxy17_site009	
+region0110	superfam02-2:fam0029	fusoxy23_s05928	fusoxy21_site007	
+region0111	superfam01-1:fam0001	fuspse7_s06223	fuspse1_site001	
+region0112	superfam02-2:fam0302	fuscir7_s05095	fuscir6_site002	
+region0113	superfam01-3:fam0071	asppar10_s02247	asppar12_site008	
+region0114	superfam03-1:fam0011	fusfuj10_s05301	fusfuj5_site001	
+region0115	superfam03-1:fam0011	fusred3_s06256	fusred1_site002	
+region0116	superfam02-2:fam0029	fuscit1_s05101	fusequ1_site003	
+region0117	superfam01-1:fam0001	fusoxy43_s06042	.	
+region0118	superfam01-5:fam0048	aspory5_s02157	aspory4_site002	
+region0119	superfam01-3:fam0071	aspfis3_s01071	aspfis5_site002	
+region0120	superfam01-4:fam0009	pyrtri1_s09374	.	
+region0121	superfam01-5:fam0021	aspasp9_s00556	aspory10_site002	
+region0122	superfam01-5:fam0014	aspche2_s00825	.	
+region0123	superfam01-5:fam0004	aspawa1_s00606	aspnig9_site004	
+region0124	superfam01-5:fam0034	aspfla12_s01153	aspfla10_site003	
+region0125	superfam01-5:fam0110	penfla1_s08416	pennal1_site001	
+region0126	superfam01-1:fam0001	fuspil1_s06164	fusfra1_site008	
+region0127	superfam01-3:fam0278	aspuda2_s02838	aspuda5_site002	
+region0128	superfam01-5:fam0048	aspory8_s02179	aspory12_site009	
+region0129	superfam01:fam0463	orboli15_s08166	orboli17_site004	
+region0130	superfam03-1:fam0011	fusoxy29_s05970	fusoxy35_site008	
+region0132	superfam01:fam0463	orboli20_s08174	orboli13_site004	
+region0133	superfam01-5:fam0074	altlon1_s00166	altalt13_site008	
+region0134	superfam01-1:fam0003	aspnig15_s02006	aspnig12_site004	
+region0135	superfam03-5:fam0105	fusnan1_s05806	.	
+region0136	superfam01-4:fam0009	altalt9_s00069	altalt14_site001	
+region0137	superfam01-1:fam0073	fusoxy46_s06066	fusoxy58_site007	
+region0138	superfam02-1:fam0030	aspfla12_s01155	aspfla11_site017	
+region0139	superfam01-5:fam0012	aspfum16_s01334	aspfum18_site013	
+region0140	superfam03-4:fam0018	altarb4_s00090	altarb5_site005	
+region0141	superfam01-5:fam0110	aspche2_s00822	aspche1_site007	
+region0142	superfam03-1:fam0267	kredeu2_s07384	.	
+region0143	superfam02-1:fam0049	aspawa1_s00598	aspnig16_site006	
+region0144	superfam01-5:fam0042	colfru2_s04058	colfru3_site006	
+region0145	superfam02-2:fam0280	colfru6_s04079	colfru5_site001	
+region0146	superfam02-1:fam0247	colsco1_s04130	colsim1_site001	
+region0147	superfam01-1:fam0129	kredeu2_s07382	.	
+region0148	superfam02-2:fam0102	pensol2_s08548	.	
+region0149	superfam01-1:fam0065	pensp.9_s08578	pensol2_site001	
+region0150	superfam01-2:fam0100	aspcri2_s00913	aspche1_site005	
+region0151	superfam01-2:fam0037	asppro1_s02300	.	
+region0152	superfam02-1:fam0415	fonnub1_s04880	fonped1_site002	
+region0153	superfam03-1:fam0331	fusaet1_s04918	fusaca2_site001	
+region0154	superfam03-1:fam0113	fusfuj2_s05282	fusoxy55_site012	
+region0155	superfam01-3:fam0071	aspfis4_s01088	aspfis3_site003	
+region0156	superfam01-3:fam0278	aspuda5_s02860	aspuda3_site004	
+region0157	superfam03-1:fam0011	fusfus52_s05590	fusfus63_site001	
+region0158	superfam02-1:fam0002	aspche2_s00837	.	
+region0159	superfam01-3:fam0051	aspmon1_s01878	aspcri5_site002	
+region0160	superfam02-2:fam0043	aspter6_s02730	aspter10_site004	
+region0161	superfam01-5:fam0039	aspter8_s02746	aspter6_site001	
+region0162	superfam01-5:fam0042	colfru7_s04082	colfru6_site005	
+region0163	superfam03-1:fam0742	colsid1_s04136	colorb2_site001	
+region0164	superfam01-1:fam0001	fusoxy28_s05961	fusoxy34_site017	
+region0165	superfam02-3:fam0378	orboli19_s08172	orboli13_site001	
+region0166	superfam02-3:fam0141	botsin1_s03468	.	
+region0167	superfam02-1:fam0247	colaen1_s04027	.	
+region0168	superfam01-5:fam0042	colfru1_s04050	colfru4_site004	
+region0169	superfam03-1:fam0011	fususs2_s06540	fusmer4_site005	
+region0170	superfam02-1:fam0964	triequ1_s10067	triton1_site001	
+region0171	superfam02-1:fam0610	trirub8_s10102	.	
+region0172	superfam03-1:fam0796	annsty1_s00255	annnit1_site001	
+region0173	superfam03-2:fam0243	aspfis1_s01045	aspfis5_site004	
+region0174	superfam01-3:sng1265	orboli2_s08150	orboli1_site001	
+region0175	superfam01-2:fam0100	aspche2_s00812	aspche1_site009	
+region0176	superfam02-1:fam0002	aspfum4_s01194	aspfum5_site001	
+region0177	superfam01-5:fam0039	aspter6_s02731	aspter9_site003	
+region0178	superfam03-2:sng1296	botdew1_s03436	botsin1_site001	
+region0179	superfam01-5:fam0028	colaen1_s04031	colfru2_site004	
+region0180	superfam01-1:sng1357	fusoxy21_s05920	fusoxy28_site019	
+region0181	superfam03-1:fam0066	fusvir7_s06637	fusvir6_site001	
+region0182	superfam01-1:fam0058	metmaj1_s07820	.	
+region0183	superfam01-2:fam0023	penchr2_s08358	penchr1_site001	
+region0184	superfam02-2:fam0043	pensp.9_s08575	.	
+region0185	superfam01:fam0467	tubmel2_s10150	tubind1_site003	
+region0187	superfam02-2:fam0667	aspche2_s00815	aspche1_site001	
+region0188	superfam01-3:fam0024	aspgla1_s01378	.	
+region0189	superfam01-5:fam0028	colfru3_s04066	colsia5_site001	
+region0190	superfam01:fam0098	tubmel2_s10149	tubind1_site002	
+region0191	superfam02-1:fam0563	altgai1_s00148	altalt12_site010	
+region0192	superfam02-1:fam0002	aspacu4_s00331	aspacu1_site001	
+region0193	superfam01-3:fam0071	aspfis2_s01054	.	
+region0194	superfam01-5:fam0012	aspfum17_s01338	.	
+region0195	superfam02-1:fam0143	aspoch5_s02106	aspwes2_site003	
+region0196	superfam01-5:fam0050	cocimm1_s03886	cocpos5_site008	
+region0197	superfam01-5:fam0021	hiscap1_s07005	hiscap5_site011	
+region0198	superfam01-5:fam0112	hiscap3_s07078	hiscap5_site020	
+region0199	superfam01-3:fam0452	hiscap4_s07090	hiscap3_site026	
+region0200	superfam01-1:fam0116	monsp.3_s07960	monsp.6_site001	
+region0201	superfam01:sng1386	morimp1_s08009	morimp2_site001	
+region0202	superfam01:fam0219	morimp1_s08010	morimp2_site002	
+region0203	superfam03-1:fam0261	pyrory1_s09315	pyrory2_site001	
+region0204	superfam01-2:sng1581	talcel1_s09839	talpin1_site002	
+region0205	superfam02-2:fam0216	aspche1_s00795	aspcri2_site006	
+region0206	superfam01-5:fam0473	aspcri2_s00901	aspche2_site006	
+region0207	superfam02-1:fam0077	aspfum13_s01290	aspfum14_site003	
+region0208	superfam01-5:fam0614	aspmel1_s01828	aspoch6_site004	
+region0209	superfam02-1:fam0002	aspneo8_s01897	.	
+region0210	superfam02-1:fam0002	aspnid3_s01917	aspnid4_site003	
+region0211	superfam01-5:fam0014	aspter7_s02740	aspter5_site003	
+region0212	superfam02-1:fam0049	asptub10_s02822	.	
+region0213	superfam01-5:fam0010	bipsor1_s03178	.	
+region0214	superfam01-4:fam0055	chaglo1_s03747	chaglo2_site001	
+region0215	superfam01-5:fam0014	cocimm4_s03923	cocimm1_site007	
+region0216	superfam01-5:fam0021	cocimm4_s03932	cocimm1_site001	
+region0217	superfam01-5:fam0028	colaen1_s04030	colsia1_site002	
+region0218	superfam02-1:fam0005	fuseuw2_s05245	.	
+region0219	superfam02-1:fam0005	fusred3_s06252	fusred5_site001	
+region0220	superfam01-1:fam0063	hiscap4_s07088	hiscap5_site001	
+region0221	superfam01-1:fam0006	metbru1_s07797	metani2_site001	
+region0222	superfam01-5:fam0072	parlut1_s08243	parbra1_site002	
+region0223	superfam01-5:fam0514	psesp.9_s08975	psesp.12_site001	
+region0224	superfam01-1:sng1074	spobra1_s09737	sposch2_site002	
+region0225	superfam01-5:fam0045	aspcri2_s00907	.	
+region0226	superfam02-1:fam0002	aspfum17_s01344	aspfum18_site009	
+region0227	superfam01-5:fam0169	aspjen1_s01486	aspasp6_site005	
+region0228	superfam02-1:fam0049	aspmel1_s01839	aspoch6_site003	
+region0229	superfam01-2:fam0023	aspnid3_s01918	.	
+region0230	superfam02-2:fam0060	aspnid4_s01927	aspnid1_site004	
+region0231	superfam02-1:fam0087	aspoch6_s02113	aspmel1_site001	
+region0232	superfam02-1:fam0341	aspste4_s02587	aspele1_site001	
+region0233	superfam02-1:fam0002	aspuda5_s02858	aspuda1_site003	
+region0234	superfam01-5:fam0039	cocimm1_s03874	cocpos5_site001	
+region0235	superfam01-1:fam0092	fusfus32_s05494	.	
+region0236	superfam01-1:sng1093	hiscap1_s07034	hiscap4_site012	
+region0237	superfam01-5:fam0122	hiscap1_s07045	hiscap4_site015	
+region0238	superfam01-5:fam0233	hiscap3_s07075	hiscap10_site005	
+region0239	superfam01-5:fam0318	hiscap4_s07087	.	
+region0240	superfam01-5:fam0392	hiscap4_s07098	hiscap5_site012	
+region0241	superfam01-3:fam0165	hiscap5_s07108	.	
+region0242	superfam01-1:fam0063	hiscap5_s07126	hiscap4_site011	
+region0243	superfam01-2:fam0037	paevar1_s08201	paevar2_site001	
+region0244	superfam01-3:fam0040	parbra2_s08229	parlut1_site001	
+region0245	superfam01-5:fam0534	altlon1_s00165	.	
+region0246	superfam02-2:sng1038	aspacu4_s00329	.	
+region0247	superfam01-2:fam0037	aspasp6_s00527	.	
+region0248	superfam01-1:sng1352	aspasp13_s00586	.	
+region0249	superfam02-2:fam0216	aspche2_s00835	.	
+region0250	superfam01-1:fam0003	aspcri2_s00908	.	
+region0251	superfam01-1:fam0012	aspcri2_s00912	.	
+region0252	superfam01-2:fam0037	aspfis4_s01084	.	
+region0253	superfam01-5:fam0021	aspfum4_s01182	.	
+region0254	superfam01-2:fam0037	aspfum6_s01223	.	
+region0255	superfam01-5:fam0034	aspfum6_s01226	.	
+region0256	superfam02-1:fam0077	aspfum13_s01287	.	
+region0257	superfam02-1:fam0002	aspfum15_s01316	.	
+region0258	superfam02-1:fam0002	aspnid1_s01906	.	
+region0259	superfam01-5:fam0016	aspory4_s02151	.	
+region0260	superfam01-5:fam0016	aspory10_s02187	.	
+region0261	superfam02-1:fam0052	aspory12_s02206	.	
+region0262	superfam01-2:fam0356	asppuu1_s02398	.	
+region0263	superfam01-2:fam0023	aspqua1_s02404	.	
+region0264	superfam02-1:fam0341	aspste3_s02578	.	
+region0265	superfam02-1:fam0087	aspter6_s02735	.	
+region0266	superfam02-1:fam0002	aspuda1_s02833	.	
+region0267	superfam01-1:fam0003	aspung4_s02914	.	
+region0268	superfam01-3:fam0195	cocimm1_s03881	.	
+region0269	superfam01-5:fam0107	cocpos5_s03996	.	
+region0270	superfam03-1:fam0742	colasi1_s04032	.	
+region0271	superfam01-1:fam0433	endpus1_s04768	.	
+region0272	superfam02-2:fam0541	fonmon1_s04879	.	
+region0273	superfam02-1:fam0415	fonped1_s04882	.	
+region0274	superfam01-5:fam0070	fusasi4_s04979	.	
+region0275	superfam03-1:fam0011	fusoxy2_s05890	.	
+region0276	superfam01-5:fam0015	fusoxy40_s06019	.	
+region0277	superfam01-1:fam0001	fusred1_s06245	.	
+region0278	superfam01-5:fam0017	fussuc1_s06424	.	
+region0279	superfam03-1:fam0011	fusxyl3_s06685	.	
+region0280	superfam01-5:fam0080	hiscap1_s07002	.	
+region0281	superfam01-5:fam0080	hiscap1_s07003	.	
+region0282	superfam01-5:fam0080	hiscap1_s07039	.	
+region0283	superfam01-5:fam0032	hiscap1_s07040	.	
+region0284	superfam01-3:fam0227	hiscap1_s07043	.	
+region0285	superfam01-5:fam0217	hiscap1_s07048	.	
+region0286	superfam02-1:fam0002	hiscap1_s07054	.	
+region0287	superfam01-5:fam0233	hiscap3_s07071	.	
+region0288	superfam01-5:fam0392	hiscap5_s07114	.	
+region0289	superfam03-4:fam0365	lasthe2_s07469	.	
+region0290	superfam01-5:fam0358	letlup1_s07607	.	
+region0291	superfam03-4:fam0365	macpha1_s07667	.	
+region0292	superfam02-3:fam0378	orboli12_s08163	.	
+region0293	superfam01-1:fam0063	parbra1_s08212	.	
+region0294	superfam01-5:fam0027	parbra2_s08231	.	
+region0295	superfam01-5:fam0080	parbra2_s08236	.	
+region0296	superfam01-5:fam0014	parlut1_s08246	.	
+region0297	superfam03-1:fam0749	podcom1_s08798	.	
+region0298	superfam03-1:fam0261	pyrory2_s09330	.	
+region0299	superfam01-5:sng1019	talcel1_s09841	.	
+region0300	superfam01-4:fam0055	verdah3_s10230	.	

@@ -1,0 +1,25 @@
+IQ-TREE multicore version 2.2.0-beta COVID-edition for Linux 64-bit built Mar  3 2022 built Mar  3 2022
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    pop-os (AVX2, FMA3, 15 GB RAM)
+Command: iqtree -s /home/adrian/Systematics/Starship_Database/Starships/tree/YRsuperfamRefs/YRsuperfamRefs.fa -T 8 --threads-max 8 --fast
+Seed:    434022 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Jun 14 13:45:18 2023
+Kernel:  AVX+FMA - 8 threads (8 CPU cores detected)
+
+Reading alignment file /home/adrian/Systematics/Starship_Database/Starships/tree/YRsuperfamRefs/YRsuperfamRefs.fa ... Fasta format detected
+Reading fasta file: done in 0.257121 secs using 82.61% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.266197 secs using 573.6% CPU
+WARNING: 2 sites contain only gaps or ambiguous characters.
+Alignment has 1222 sequences with 17267 columns, 11372 distinct patterns
+4374 parsimony-informative, 4991 singleton sites, 7902 constant sites
+Analyzing sequences: done in 0.0350552 secs using 768.2% CPU
+WARNING: 1222 sequences contain more than 50% gaps/ambiguity
+Checking for duplicate sequences: done in 0.0472119 secs using 754.2% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.06 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.00)
