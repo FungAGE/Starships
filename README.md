@@ -4,11 +4,17 @@
 
 ```
 .
-├── genes
+├── captain
 │   └── tyr
-└── starships
+├── cargo
+│   ├── duf3723
+│   ├── fre
+│   ├── nlr
+│   └── plp
+├── family
+└── ships
     ├── manual-annotations
-    └── starfish
+    └── mycodb
 ```
 
 ## TODO:
