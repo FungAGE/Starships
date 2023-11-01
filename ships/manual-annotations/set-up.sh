@@ -21,4 +21,4 @@ cat Starships.withtaxaids.tsv | /usr/local/bin/taxonkit lineage -i 14 -R > Stars
 
 # creates Starships.fulltaxa.csv
 #TODO: replace spaces and other characters (i.e. parentheses) in species names
-# Rscript format_taxonomy.R
+Rscript format_taxonomy.R
