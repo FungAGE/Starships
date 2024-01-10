@@ -1,0 +1,13 @@
+aspmon1_JAJFZZ010000008.1	bed	region	1	17461	.	-	flank	ID=gene_aspmon1_tyr1955|DR|down;Description=aspmon1_s01878;parent=aspmon1_JAJFZZ010000008.1
+aspmon1_JAJFZZ010000008.1	bed	region	35	17415	.	-	flank	ID=gene_aspmon1_tyr1955|TIR|down;Description=aspmon1_s01878;parent=aspmon1_JAJFZZ010000008.1
+aspmon1_JAJFZZ010000008.1	bed	gene	3565	12845	.	-	.	ID=gene_aspmon1_eg99110;Description=aspmon1_s01878;parent=aspmon1_JAJFZZ010000008.1
+aspmon1_JAJFZZ010000008.1	bed	gene	13379	2707	.	+	.	ID=gene_aspmon1_eg98948;Description=aspmon1_s01878;parent=aspmon1_JAJFZZ010000008.1
+aspmon1_JAJFZZ010000008.1	bed	gene	15658	543	.	-	cap	ID=gene_aspmon1_tyr1955;Description=aspmon1_s01878;parent=aspmon1_JAJFZZ010000008.1
+aspmon1_JAJFZZ010000008.1	bed	region	17404	44	.	-	flank	ID=gene_aspmon1_tyr1955|TIR|up;Description=aspmon1_s01878;parent=aspmon1_JAJFZZ010000008.1
+aspmon1_JAJFZZ010000008.1	bed	region	17462	0	.	-	flank	ID=gene_aspmon1_tyr1955|DR|up;Description=aspmon1_s01878;parent=aspmon1_JAJFZZ010000008.1
+aspmon1_JAJFZZ010000008.1	bed	RNA	3565	12845	.	-	ID=rna_aspmon1_eg99110;Description=;parent=gene_aspmon1_eg99110
+aspmon1_JAJFZZ010000008.1	bed	RNA	13379	2707	.	+	ID=rna_aspmon1_eg98948;Description=;parent=gene_aspmon1_eg98948
+aspmon1_JAJFZZ010000008.1	bed	RNA	15658	543	.	-	ID=rna_aspmon1_tyr1955;Description=;parent=gene_aspmon1_tyr1955
+aspmon1_JAJFZZ010000008.1	bed	CDS	3565	12845	.	-	ID=cds_aspmon1_eg99110;Description=;parent=rna_aspmon1_eg99110
+aspmon1_JAJFZZ010000008.1	bed	CDS	13379	2707	.	+	ID=cds_aspmon1_eg98948;Description=;parent=rna_aspmon1_eg98948
+aspmon1_JAJFZZ010000008.1	bed	CDS	15658	543	.	-	ID=cds_aspmon1_tyr1955;Description=;parent=rna_aspmon1_tyr1955

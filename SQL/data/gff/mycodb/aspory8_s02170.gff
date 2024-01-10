@@ -1,0 +1,61 @@
+aspory8_JABULI020000001.1	bed	region	1	118777	.	+	flank	ID=gene_aspory8_tyr2334|DR|up;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	region	48	118725	.	+	flank	ID=gene_aspory8_tyr2334|TIR|up;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	451	116062	.	+	cap	ID=gene_aspory8_tyr2334;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	5601	112052	.	-	.	ID=gene_aspory8_eg137443;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	15694	102817	.	+	.	ID=gene_aspory8_eg137753;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	16627	101869	.	+	.	ID=gene_aspory8_eg137964;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	21321	95596	.	-	d37	ID=gene_aspory8_d371384;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	46785	68637	.	-	plp	ID=gene_aspory8_plp2082;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	54546	63389	.	-	d37	ID=gene_aspory8_d371383;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	58567	58330	.	-	.	ID=gene_aspory8_eg137860;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	63839	54381	.	+	.	ID=gene_aspory8_eg137594;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	77574	40613	.	+	.	ID=gene_aspory8_eg137532;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	87614	29742	.	+	.	ID=gene_aspory8_eg137566;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	93954	24452	.	+	.	ID=gene_aspory8_eg137936;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	95011	21723	.	+	.	ID=gene_aspory8_eg137743;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	100260	18002	.	+	.	ID=gene_aspory8_eg137952;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	101741	16170	.	-	.	ID=gene_aspory8_eg137578;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	104674	13759	.	+	.	ID=gene_aspory8_eg137919;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	105650	11519	.	+	.	ID=gene_aspory8_eg137771;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	108151	6340	.	-	nlr	ID=gene_aspory8_nlr28204;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	gene	113194	5263	.	+	.	ID=gene_aspory8_eg137951;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	region	118738	37	.	+	flank	ID=gene_aspory8_tyr2334|TIR|down;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	region	118778	0	.	+	flank	ID=gene_aspory8_tyr2334|DR|down;Description=aspory8_s02170;parent=aspory8_JABULI020000001.1
+aspory8_JABULI020000001.1	bed	RNA	451	116062	.	+	ID=rna_aspory8_tyr2334;Description=;parent=gene_aspory8_tyr2334
+aspory8_JABULI020000001.1	bed	RNA	5601	112052	.	-	ID=rna_aspory8_eg137443;Description=;parent=gene_aspory8_eg137443
+aspory8_JABULI020000001.1	bed	RNA	15694	102817	.	+	ID=rna_aspory8_eg137753;Description=;parent=gene_aspory8_eg137753
+aspory8_JABULI020000001.1	bed	RNA	16627	101869	.	+	ID=rna_aspory8_eg137964;Description=;parent=gene_aspory8_eg137964
+aspory8_JABULI020000001.1	bed	RNA	21321	95596	.	-	ID=rna_aspory8_d371384;Description=;parent=gene_aspory8_d371384
+aspory8_JABULI020000001.1	bed	RNA	46785	68637	.	-	ID=rna_aspory8_plp2082;Description=;parent=gene_aspory8_plp2082
+aspory8_JABULI020000001.1	bed	RNA	54546	63389	.	-	ID=rna_aspory8_d371383;Description=;parent=gene_aspory8_d371383
+aspory8_JABULI020000001.1	bed	RNA	58567	58330	.	-	ID=rna_aspory8_eg137860;Description=;parent=gene_aspory8_eg137860
+aspory8_JABULI020000001.1	bed	RNA	63839	54381	.	+	ID=rna_aspory8_eg137594;Description=;parent=gene_aspory8_eg137594
+aspory8_JABULI020000001.1	bed	RNA	77574	40613	.	+	ID=rna_aspory8_eg137532;Description=;parent=gene_aspory8_eg137532
+aspory8_JABULI020000001.1	bed	RNA	87614	29742	.	+	ID=rna_aspory8_eg137566;Description=;parent=gene_aspory8_eg137566
+aspory8_JABULI020000001.1	bed	RNA	93954	24452	.	+	ID=rna_aspory8_eg137936;Description=;parent=gene_aspory8_eg137936
+aspory8_JABULI020000001.1	bed	RNA	95011	21723	.	+	ID=rna_aspory8_eg137743;Description=;parent=gene_aspory8_eg137743
+aspory8_JABULI020000001.1	bed	RNA	100260	18002	.	+	ID=rna_aspory8_eg137952;Description=;parent=gene_aspory8_eg137952
+aspory8_JABULI020000001.1	bed	RNA	101741	16170	.	-	ID=rna_aspory8_eg137578;Description=;parent=gene_aspory8_eg137578
+aspory8_JABULI020000001.1	bed	RNA	104674	13759	.	+	ID=rna_aspory8_eg137919;Description=;parent=gene_aspory8_eg137919
+aspory8_JABULI020000001.1	bed	RNA	105650	11519	.	+	ID=rna_aspory8_eg137771;Description=;parent=gene_aspory8_eg137771
+aspory8_JABULI020000001.1	bed	RNA	108151	6340	.	-	ID=rna_aspory8_nlr28204;Description=;parent=gene_aspory8_nlr28204
+aspory8_JABULI020000001.1	bed	RNA	113194	5263	.	+	ID=rna_aspory8_eg137951;Description=;parent=gene_aspory8_eg137951
+aspory8_JABULI020000001.1	bed	CDS	451	116062	.	+	ID=cds_aspory8_tyr2334;Description=;parent=rna_aspory8_tyr2334
+aspory8_JABULI020000001.1	bed	CDS	5601	112052	.	-	ID=cds_aspory8_eg137443;Description=;parent=rna_aspory8_eg137443
+aspory8_JABULI020000001.1	bed	CDS	15694	102817	.	+	ID=cds_aspory8_eg137753;Description=;parent=rna_aspory8_eg137753
+aspory8_JABULI020000001.1	bed	CDS	16627	101869	.	+	ID=cds_aspory8_eg137964;Description=;parent=rna_aspory8_eg137964
+aspory8_JABULI020000001.1	bed	CDS	21321	95596	.	-	ID=cds_aspory8_d371384;Description=;parent=rna_aspory8_d371384
+aspory8_JABULI020000001.1	bed	CDS	46785	68637	.	-	ID=cds_aspory8_plp2082;Description=;parent=rna_aspory8_plp2082
+aspory8_JABULI020000001.1	bed	CDS	54546	63389	.	-	ID=cds_aspory8_d371383;Description=;parent=rna_aspory8_d371383
+aspory8_JABULI020000001.1	bed	CDS	58567	58330	.	-	ID=cds_aspory8_eg137860;Description=;parent=rna_aspory8_eg137860
+aspory8_JABULI020000001.1	bed	CDS	63839	54381	.	+	ID=cds_aspory8_eg137594;Description=;parent=rna_aspory8_eg137594
+aspory8_JABULI020000001.1	bed	CDS	77574	40613	.	+	ID=cds_aspory8_eg137532;Description=;parent=rna_aspory8_eg137532
+aspory8_JABULI020000001.1	bed	CDS	87614	29742	.	+	ID=cds_aspory8_eg137566;Description=;parent=rna_aspory8_eg137566
+aspory8_JABULI020000001.1	bed	CDS	93954	24452	.	+	ID=cds_aspory8_eg137936;Description=;parent=rna_aspory8_eg137936
+aspory8_JABULI020000001.1	bed	CDS	95011	21723	.	+	ID=cds_aspory8_eg137743;Description=;parent=rna_aspory8_eg137743
+aspory8_JABULI020000001.1	bed	CDS	100260	18002	.	+	ID=cds_aspory8_eg137952;Description=;parent=rna_aspory8_eg137952
+aspory8_JABULI020000001.1	bed	CDS	101741	16170	.	-	ID=cds_aspory8_eg137578;Description=;parent=rna_aspory8_eg137578
+aspory8_JABULI020000001.1	bed	CDS	104674	13759	.	+	ID=cds_aspory8_eg137919;Description=;parent=rna_aspory8_eg137919
+aspory8_JABULI020000001.1	bed	CDS	105650	11519	.	+	ID=cds_aspory8_eg137771;Description=;parent=rna_aspory8_eg137771
+aspory8_JABULI020000001.1	bed	CDS	108151	6340	.	-	ID=cds_aspory8_nlr28204;Description=;parent=rna_aspory8_nlr28204
+aspory8_JABULI020000001.1	bed	CDS	113194	5263	.	+	ID=cds_aspory8_eg137951;Description=;parent=rna_aspory8_eg137951

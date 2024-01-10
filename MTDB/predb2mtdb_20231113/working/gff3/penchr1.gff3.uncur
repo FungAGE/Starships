@@ -1,0 +1,149 @@
+penchr1_Pc00c21	bed	region	1	111674	.	-	flank	ID=gene_penchr1_145210:145211:145212|DR|down;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	2171	108662	.	+	.	ID=gene_penchr1_145163;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	3440	106300	.	-	.	ID=gene_penchr1_145164;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	6208	105000	.	+	.	ID=gene_penchr1_145165;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	9211	102056	.	+	.	ID=gene_penchr1_145166;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	9911	101272	.	+	.	ID=gene_penchr1_145167;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	11916	96914	.	-	.	ID=gene_penchr1_145168;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	15798	93678	.	+	.	ID=gene_penchr1_145169;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	18678	91767	.	+	.	ID=gene_penchr1_145170;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	20854	89949	.	-	.	ID=gene_penchr1_145171;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	22117	88187	.	-	.	ID=gene_penchr1_145172;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	23561	87907	.	-	.	ID=gene_penchr1_145173;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	24104	86468	.	-	.	ID=gene_penchr1_145174;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	26972	83903	.	-	.	ID=gene_penchr1_145175;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	29768	81256	.	+	.	ID=gene_penchr1_145176;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	32067	78959	.	-	.	ID=gene_penchr1_145177;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	34031	76992	.	+	.	ID=gene_penchr1_145178;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	34725	76005	.	-	.	ID=gene_penchr1_145179;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	35765	75451	.	-	.	ID=gene_penchr1_145180;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	37278	73448	.	+	.	ID=gene_penchr1_145181;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	38963	71819	.	+	.	ID=gene_penchr1_145182;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	41317	70034	.	-	.	ID=gene_penchr1_145183;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	42910	67832	.	-	.	ID=gene_penchr1_145184;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	45576	65840	.	-	.	ID=gene_penchr1_145185;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	46242	64746	.	-	.	ID=gene_penchr1_145186;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	46936	64378	.	-	.	ID=gene_penchr1_145187;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	48421	62825	.	+	.	ID=gene_penchr1_145188;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	50016	60842	.	+	.	ID=gene_penchr1_145189;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	51166	59330	.	-	.	ID=gene_penchr1_eg346462;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	53506	54614	.	-	nlr	ID=gene_penchr1_145190;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	58346	52072	.	-	.	ID=gene_penchr1_145191;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	59619	49944	.	-	.	ID=gene_penchr1_145192;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	62872	48497	.	-	.	ID=gene_penchr1_145193;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	63645	47282	.	+	.	ID=gene_penchr1_145194;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	65039	45715	.	+	.	ID=gene_penchr1_145195;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	66153	37526	.	-	.	ID=gene_penchr1_145196;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	74944	35464	.	-	.	ID=gene_penchr1_145197;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	76917	33579	.	+	.	ID=gene_penchr1_145198;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	78412	32111	.	-	.	ID=gene_penchr1_145199;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	80435	28803	.	+	.	ID=gene_penchr1_145200;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	84148	26352	.	+	.	ID=gene_penchr1_145201;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	85875	18399	.	-	.	ID=gene_penchr1_145202;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	94031	16590	.	-	.	ID=gene_penchr1_145203;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	95526	14155	.	+	.	ID=gene_penchr1_145204;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	97949	12181	.	+	.	ID=gene_penchr1_145205;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	99639	11202	.	-	.	ID=gene_penchr1_145206;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	100836	9163	.	-	.	ID=gene_penchr1_145207;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	103028	7744	.	+	.	ID=gene_penchr1_145208;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	105067	5844	.	-	.	ID=gene_penchr1_145209;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	gene	107911	1171	.	-	cap	ID=gene_penchr1_145210:145211:145212;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	region	111675	0	.	-	flank	ID=gene_penchr1_145210:145211:145212|DR|up;Description=penchr1_s08356;parent=penchr1_Pc00c21
+penchr1_Pc00c21	bed	RNA	2171	108662	.	+	ID=rna_penchr1_145163;Description=;parent=gene_penchr1_145163
+penchr1_Pc00c21	bed	RNA	3440	106300	.	-	ID=rna_penchr1_145164;Description=;parent=gene_penchr1_145164
+penchr1_Pc00c21	bed	RNA	6208	105000	.	+	ID=rna_penchr1_145165;Description=;parent=gene_penchr1_145165
+penchr1_Pc00c21	bed	RNA	9211	102056	.	+	ID=rna_penchr1_145166;Description=;parent=gene_penchr1_145166
+penchr1_Pc00c21	bed	RNA	9911	101272	.	+	ID=rna_penchr1_145167;Description=;parent=gene_penchr1_145167
+penchr1_Pc00c21	bed	RNA	11916	96914	.	-	ID=rna_penchr1_145168;Description=;parent=gene_penchr1_145168
+penchr1_Pc00c21	bed	RNA	15798	93678	.	+	ID=rna_penchr1_145169;Description=;parent=gene_penchr1_145169
+penchr1_Pc00c21	bed	RNA	18678	91767	.	+	ID=rna_penchr1_145170;Description=;parent=gene_penchr1_145170
+penchr1_Pc00c21	bed	RNA	20854	89949	.	-	ID=rna_penchr1_145171;Description=;parent=gene_penchr1_145171
+penchr1_Pc00c21	bed	RNA	22117	88187	.	-	ID=rna_penchr1_145172;Description=;parent=gene_penchr1_145172
+penchr1_Pc00c21	bed	RNA	23561	87907	.	-	ID=rna_penchr1_145173;Description=;parent=gene_penchr1_145173
+penchr1_Pc00c21	bed	RNA	24104	86468	.	-	ID=rna_penchr1_145174;Description=;parent=gene_penchr1_145174
+penchr1_Pc00c21	bed	RNA	26972	83903	.	-	ID=rna_penchr1_145175;Description=;parent=gene_penchr1_145175
+penchr1_Pc00c21	bed	RNA	29768	81256	.	+	ID=rna_penchr1_145176;Description=;parent=gene_penchr1_145176
+penchr1_Pc00c21	bed	RNA	32067	78959	.	-	ID=rna_penchr1_145177;Description=;parent=gene_penchr1_145177
+penchr1_Pc00c21	bed	RNA	34031	76992	.	+	ID=rna_penchr1_145178;Description=;parent=gene_penchr1_145178
+penchr1_Pc00c21	bed	RNA	34725	76005	.	-	ID=rna_penchr1_145179;Description=;parent=gene_penchr1_145179
+penchr1_Pc00c21	bed	RNA	35765	75451	.	-	ID=rna_penchr1_145180;Description=;parent=gene_penchr1_145180
+penchr1_Pc00c21	bed	RNA	37278	73448	.	+	ID=rna_penchr1_145181;Description=;parent=gene_penchr1_145181
+penchr1_Pc00c21	bed	RNA	38963	71819	.	+	ID=rna_penchr1_145182;Description=;parent=gene_penchr1_145182
+penchr1_Pc00c21	bed	RNA	41317	70034	.	-	ID=rna_penchr1_145183;Description=;parent=gene_penchr1_145183
+penchr1_Pc00c21	bed	RNA	42910	67832	.	-	ID=rna_penchr1_145184;Description=;parent=gene_penchr1_145184
+penchr1_Pc00c21	bed	RNA	45576	65840	.	-	ID=rna_penchr1_145185;Description=;parent=gene_penchr1_145185
+penchr1_Pc00c21	bed	RNA	46242	64746	.	-	ID=rna_penchr1_145186;Description=;parent=gene_penchr1_145186
+penchr1_Pc00c21	bed	RNA	46936	64378	.	-	ID=rna_penchr1_145187;Description=;parent=gene_penchr1_145187
+penchr1_Pc00c21	bed	RNA	48421	62825	.	+	ID=rna_penchr1_145188;Description=;parent=gene_penchr1_145188
+penchr1_Pc00c21	bed	RNA	50016	60842	.	+	ID=rna_penchr1_145189;Description=;parent=gene_penchr1_145189
+penchr1_Pc00c21	bed	RNA	51166	59330	.	-	ID=rna_penchr1_eg346462;Description=;parent=gene_penchr1_eg346462
+penchr1_Pc00c21	bed	RNA	53506	54614	.	-	ID=rna_penchr1_145190;Description=;parent=gene_penchr1_145190
+penchr1_Pc00c21	bed	RNA	58346	52072	.	-	ID=rna_penchr1_145191;Description=;parent=gene_penchr1_145191
+penchr1_Pc00c21	bed	RNA	59619	49944	.	-	ID=rna_penchr1_145192;Description=;parent=gene_penchr1_145192
+penchr1_Pc00c21	bed	RNA	62872	48497	.	-	ID=rna_penchr1_145193;Description=;parent=gene_penchr1_145193
+penchr1_Pc00c21	bed	RNA	63645	47282	.	+	ID=rna_penchr1_145194;Description=;parent=gene_penchr1_145194
+penchr1_Pc00c21	bed	RNA	65039	45715	.	+	ID=rna_penchr1_145195;Description=;parent=gene_penchr1_145195
+penchr1_Pc00c21	bed	RNA	66153	37526	.	-	ID=rna_penchr1_145196;Description=;parent=gene_penchr1_145196
+penchr1_Pc00c21	bed	RNA	74944	35464	.	-	ID=rna_penchr1_145197;Description=;parent=gene_penchr1_145197
+penchr1_Pc00c21	bed	RNA	76917	33579	.	+	ID=rna_penchr1_145198;Description=;parent=gene_penchr1_145198
+penchr1_Pc00c21	bed	RNA	78412	32111	.	-	ID=rna_penchr1_145199;Description=;parent=gene_penchr1_145199
+penchr1_Pc00c21	bed	RNA	80435	28803	.	+	ID=rna_penchr1_145200;Description=;parent=gene_penchr1_145200
+penchr1_Pc00c21	bed	RNA	84148	26352	.	+	ID=rna_penchr1_145201;Description=;parent=gene_penchr1_145201
+penchr1_Pc00c21	bed	RNA	85875	18399	.	-	ID=rna_penchr1_145202;Description=;parent=gene_penchr1_145202
+penchr1_Pc00c21	bed	RNA	94031	16590	.	-	ID=rna_penchr1_145203;Description=;parent=gene_penchr1_145203
+penchr1_Pc00c21	bed	RNA	95526	14155	.	+	ID=rna_penchr1_145204;Description=;parent=gene_penchr1_145204
+penchr1_Pc00c21	bed	RNA	97949	12181	.	+	ID=rna_penchr1_145205;Description=;parent=gene_penchr1_145205
+penchr1_Pc00c21	bed	RNA	99639	11202	.	-	ID=rna_penchr1_145206;Description=;parent=gene_penchr1_145206
+penchr1_Pc00c21	bed	RNA	100836	9163	.	-	ID=rna_penchr1_145207;Description=;parent=gene_penchr1_145207
+penchr1_Pc00c21	bed	RNA	103028	7744	.	+	ID=rna_penchr1_145208;Description=;parent=gene_penchr1_145208
+penchr1_Pc00c21	bed	RNA	105067	5844	.	-	ID=rna_penchr1_145209;Description=;parent=gene_penchr1_145209
+penchr1_Pc00c21	bed	RNA	107911	1171	.	-	ID=rna_penchr1_145210:145211:145212;Description=;parent=gene_penchr1_145210:145211:145212
+penchr1_Pc00c21	bed	CDS	2171	108662	.	+	ID=cds_penchr1_145163;Description=;parent=rna_penchr1_145163
+penchr1_Pc00c21	bed	CDS	3440	106300	.	-	ID=cds_penchr1_145164;Description=;parent=rna_penchr1_145164
+penchr1_Pc00c21	bed	CDS	6208	105000	.	+	ID=cds_penchr1_145165;Description=;parent=rna_penchr1_145165
+penchr1_Pc00c21	bed	CDS	9211	102056	.	+	ID=cds_penchr1_145166;Description=;parent=rna_penchr1_145166
+penchr1_Pc00c21	bed	CDS	9911	101272	.	+	ID=cds_penchr1_145167;Description=;parent=rna_penchr1_145167
+penchr1_Pc00c21	bed	CDS	11916	96914	.	-	ID=cds_penchr1_145168;Description=;parent=rna_penchr1_145168
+penchr1_Pc00c21	bed	CDS	15798	93678	.	+	ID=cds_penchr1_145169;Description=;parent=rna_penchr1_145169
+penchr1_Pc00c21	bed	CDS	18678	91767	.	+	ID=cds_penchr1_145170;Description=;parent=rna_penchr1_145170
+penchr1_Pc00c21	bed	CDS	20854	89949	.	-	ID=cds_penchr1_145171;Description=;parent=rna_penchr1_145171
+penchr1_Pc00c21	bed	CDS	22117	88187	.	-	ID=cds_penchr1_145172;Description=;parent=rna_penchr1_145172
+penchr1_Pc00c21	bed	CDS	23561	87907	.	-	ID=cds_penchr1_145173;Description=;parent=rna_penchr1_145173
+penchr1_Pc00c21	bed	CDS	24104	86468	.	-	ID=cds_penchr1_145174;Description=;parent=rna_penchr1_145174
+penchr1_Pc00c21	bed	CDS	26972	83903	.	-	ID=cds_penchr1_145175;Description=;parent=rna_penchr1_145175
+penchr1_Pc00c21	bed	CDS	29768	81256	.	+	ID=cds_penchr1_145176;Description=;parent=rna_penchr1_145176
+penchr1_Pc00c21	bed	CDS	32067	78959	.	-	ID=cds_penchr1_145177;Description=;parent=rna_penchr1_145177
+penchr1_Pc00c21	bed	CDS	34031	76992	.	+	ID=cds_penchr1_145178;Description=;parent=rna_penchr1_145178
+penchr1_Pc00c21	bed	CDS	34725	76005	.	-	ID=cds_penchr1_145179;Description=;parent=rna_penchr1_145179
+penchr1_Pc00c21	bed	CDS	35765	75451	.	-	ID=cds_penchr1_145180;Description=;parent=rna_penchr1_145180
+penchr1_Pc00c21	bed	CDS	37278	73448	.	+	ID=cds_penchr1_145181;Description=;parent=rna_penchr1_145181
+penchr1_Pc00c21	bed	CDS	38963	71819	.	+	ID=cds_penchr1_145182;Description=;parent=rna_penchr1_145182
+penchr1_Pc00c21	bed	CDS	41317	70034	.	-	ID=cds_penchr1_145183;Description=;parent=rna_penchr1_145183
+penchr1_Pc00c21	bed	CDS	42910	67832	.	-	ID=cds_penchr1_145184;Description=;parent=rna_penchr1_145184
+penchr1_Pc00c21	bed	CDS	45576	65840	.	-	ID=cds_penchr1_145185;Description=;parent=rna_penchr1_145185
+penchr1_Pc00c21	bed	CDS	46242	64746	.	-	ID=cds_penchr1_145186;Description=;parent=rna_penchr1_145186
+penchr1_Pc00c21	bed	CDS	46936	64378	.	-	ID=cds_penchr1_145187;Description=;parent=rna_penchr1_145187
+penchr1_Pc00c21	bed	CDS	48421	62825	.	+	ID=cds_penchr1_145188;Description=;parent=rna_penchr1_145188
+penchr1_Pc00c21	bed	CDS	50016	60842	.	+	ID=cds_penchr1_145189;Description=;parent=rna_penchr1_145189
+penchr1_Pc00c21	bed	CDS	51166	59330	.	-	ID=cds_penchr1_eg346462;Description=;parent=rna_penchr1_eg346462
+penchr1_Pc00c21	bed	CDS	53506	54614	.	-	ID=cds_penchr1_145190;Description=;parent=rna_penchr1_145190
+penchr1_Pc00c21	bed	CDS	58346	52072	.	-	ID=cds_penchr1_145191;Description=;parent=rna_penchr1_145191
+penchr1_Pc00c21	bed	CDS	59619	49944	.	-	ID=cds_penchr1_145192;Description=;parent=rna_penchr1_145192
+penchr1_Pc00c21	bed	CDS	62872	48497	.	-	ID=cds_penchr1_145193;Description=;parent=rna_penchr1_145193
+penchr1_Pc00c21	bed	CDS	63645	47282	.	+	ID=cds_penchr1_145194;Description=;parent=rna_penchr1_145194
+penchr1_Pc00c21	bed	CDS	65039	45715	.	+	ID=cds_penchr1_145195;Description=;parent=rna_penchr1_145195
+penchr1_Pc00c21	bed	CDS	66153	37526	.	-	ID=cds_penchr1_145196;Description=;parent=rna_penchr1_145196
+penchr1_Pc00c21	bed	CDS	74944	35464	.	-	ID=cds_penchr1_145197;Description=;parent=rna_penchr1_145197
+penchr1_Pc00c21	bed	CDS	76917	33579	.	+	ID=cds_penchr1_145198;Description=;parent=rna_penchr1_145198
+penchr1_Pc00c21	bed	CDS	78412	32111	.	-	ID=cds_penchr1_145199;Description=;parent=rna_penchr1_145199
+penchr1_Pc00c21	bed	CDS	80435	28803	.	+	ID=cds_penchr1_145200;Description=;parent=rna_penchr1_145200
+penchr1_Pc00c21	bed	CDS	84148	26352	.	+	ID=cds_penchr1_145201;Description=;parent=rna_penchr1_145201
+penchr1_Pc00c21	bed	CDS	85875	18399	.	-	ID=cds_penchr1_145202;Description=;parent=rna_penchr1_145202
+penchr1_Pc00c21	bed	CDS	94031	16590	.	-	ID=cds_penchr1_145203;Description=;parent=rna_penchr1_145203
+penchr1_Pc00c21	bed	CDS	95526	14155	.	+	ID=cds_penchr1_145204;Description=;parent=rna_penchr1_145204
+penchr1_Pc00c21	bed	CDS	97949	12181	.	+	ID=cds_penchr1_145205;Description=;parent=rna_penchr1_145205
+penchr1_Pc00c21	bed	CDS	99639	11202	.	-	ID=cds_penchr1_145206;Description=;parent=rna_penchr1_145206
+penchr1_Pc00c21	bed	CDS	100836	9163	.	-	ID=cds_penchr1_145207;Description=;parent=rna_penchr1_145207
+penchr1_Pc00c21	bed	CDS	103028	7744	.	+	ID=cds_penchr1_145208;Description=;parent=rna_penchr1_145208
+penchr1_Pc00c21	bed	CDS	105067	5844	.	-	ID=cds_penchr1_145209;Description=;parent=rna_penchr1_145209
+penchr1_Pc00c21	bed	CDS	107911	1171	.	-	ID=cds_penchr1_145210:145211:145212;Description=;parent=rna_penchr1_145210:145211:145212

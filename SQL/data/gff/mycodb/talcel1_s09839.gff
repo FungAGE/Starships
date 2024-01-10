@@ -1,0 +1,31 @@
+talcel1_DF933829.1	bed	region	1	64910	.	-	flank	ID=gene_talcel1_GAM38547.1|DR|down;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	region	24	64866	.	-	flank	ID=gene_talcel1_GAM38547.1|TIR|down;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	26909	37508	.	+	.	ID=gene_talcel1_GAM38539.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	29318	31966	.	-	.	ID=gene_talcel1_GAM38540.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	33401	30355	.	+	.	ID=gene_talcel1_GAM38541.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	38155	25794	.	-	.	ID=gene_talcel1_GAM38542.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	39698	24672	.	+	.	ID=gene_talcel1_GAM38543.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	41103	23021	.	-	.	ID=gene_talcel1_GAM38544.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	43968	19840	.	-	.	ID=gene_talcel1_GAM38545.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	46487	8451	.	+	.	ID=gene_talcel1_GAM38546.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	gene	61281	1017	.	-	cap	ID=gene_talcel1_GAM38547.1;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	region	64863	28	.	-	flank	ID=gene_talcel1_GAM38547.1|TIR|up;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	region	64910	0	.	-	flank	ID=gene_talcel1_GAM38547.1|DR|up;Description=talcel1_s09839;parent=talcel1_DF933829.1
+talcel1_DF933829.1	bed	RNA	26909	37508	.	+	ID=rna_talcel1_GAM38539.1;Description=;parent=gene_talcel1_GAM38539.1
+talcel1_DF933829.1	bed	RNA	29318	31966	.	-	ID=rna_talcel1_GAM38540.1;Description=;parent=gene_talcel1_GAM38540.1
+talcel1_DF933829.1	bed	RNA	33401	30355	.	+	ID=rna_talcel1_GAM38541.1;Description=;parent=gene_talcel1_GAM38541.1
+talcel1_DF933829.1	bed	RNA	38155	25794	.	-	ID=rna_talcel1_GAM38542.1;Description=;parent=gene_talcel1_GAM38542.1
+talcel1_DF933829.1	bed	RNA	39698	24672	.	+	ID=rna_talcel1_GAM38543.1;Description=;parent=gene_talcel1_GAM38543.1
+talcel1_DF933829.1	bed	RNA	41103	23021	.	-	ID=rna_talcel1_GAM38544.1;Description=;parent=gene_talcel1_GAM38544.1
+talcel1_DF933829.1	bed	RNA	43968	19840	.	-	ID=rna_talcel1_GAM38545.1;Description=;parent=gene_talcel1_GAM38545.1
+talcel1_DF933829.1	bed	RNA	46487	8451	.	+	ID=rna_talcel1_GAM38546.1;Description=;parent=gene_talcel1_GAM38546.1
+talcel1_DF933829.1	bed	RNA	61281	1017	.	-	ID=rna_talcel1_GAM38547.1;Description=;parent=gene_talcel1_GAM38547.1
+talcel1_DF933829.1	bed	CDS	26909	37508	.	+	ID=cds_talcel1_GAM38539.1;Description=;parent=rna_talcel1_GAM38539.1
+talcel1_DF933829.1	bed	CDS	29318	31966	.	-	ID=cds_talcel1_GAM38540.1;Description=;parent=rna_talcel1_GAM38540.1
+talcel1_DF933829.1	bed	CDS	33401	30355	.	+	ID=cds_talcel1_GAM38541.1;Description=;parent=rna_talcel1_GAM38541.1
+talcel1_DF933829.1	bed	CDS	38155	25794	.	-	ID=cds_talcel1_GAM38542.1;Description=;parent=rna_talcel1_GAM38542.1
+talcel1_DF933829.1	bed	CDS	39698	24672	.	+	ID=cds_talcel1_GAM38543.1;Description=;parent=rna_talcel1_GAM38543.1
+talcel1_DF933829.1	bed	CDS	41103	23021	.	-	ID=cds_talcel1_GAM38544.1;Description=;parent=rna_talcel1_GAM38544.1
+talcel1_DF933829.1	bed	CDS	43968	19840	.	-	ID=cds_talcel1_GAM38545.1;Description=;parent=rna_talcel1_GAM38545.1
+talcel1_DF933829.1	bed	CDS	46487	8451	.	+	ID=cds_talcel1_GAM38546.1;Description=;parent=rna_talcel1_GAM38546.1
+talcel1_DF933829.1	bed	CDS	61281	1017	.	-	ID=cds_talcel1_GAM38547.1;Description=;parent=rna_talcel1_GAM38547.1

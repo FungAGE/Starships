@@ -1,0 +1,24 @@
+hiscap4_CP069105.1	bed	gene	1	48582	.	-	insert	ID=gene_hiscap4_tyr7422|hiscap5_GG692425.1|down;Description=hiscap4_s07098;parent=hiscap4_CP069105.1
+hiscap4_CP069105.1	bed	gene	1345	46124	.	-	.	ID=gene_hiscap4_eg334088;Description=hiscap4_s07098;parent=hiscap4_CP069105.1
+hiscap4_CP069105.1	bed	gene	35240	12912	.	-	.	ID=gene_=hiscap4_ncRNA03804;Description=hiscap4_s07098;parent=hiscap4_CP069105.1
+hiscap4_CP069105.1	bed	gene	36050	11787	.	-	.	ID=gene_=hiscap4_ncRNA03805;Description=hiscap4_s07098;parent=hiscap4_CP069105.1
+hiscap4_CP069105.1	bed	gene	37039	11060	.	+	.	ID=gene_=hiscap4_ncRNA03806;Description=hiscap4_s07098;parent=hiscap4_CP069105.1
+hiscap4_CP069105.1	bed	gene	44306	3894	.	+	.	ID=gene_hiscap4_eg334093;Description=hiscap4_s07098;parent=hiscap4_CP069105.1
+hiscap4_CP069105.1	bed	gene	45526	495	.	-	cap	ID=gene_hiscap4_tyr7422;Description=hiscap4_s07098;parent=hiscap4_CP069105.1
+hiscap4_CP069105.1	bed	gene	48583	0	.	-	insert	ID=gene_hiscap4_tyr7422|hiscap5_GG692425.1|up;Description=hiscap4_s07098;parent=hiscap4_CP069105.1
+hiscap4_CP069105.1	bed	RNA	1	48582	.	-	ID=rna_hiscap4_tyr7422|hiscap5_GG692425.1|down;Description=;parent=gene_hiscap4_tyr7422|hiscap5_GG692425.1|down
+hiscap4_CP069105.1	bed	RNA	1345	46124	.	-	ID=rna_hiscap4_eg334088;Description=;parent=gene_hiscap4_eg334088
+hiscap4_CP069105.1	bed	RNA	35240	12912	.	-	ID=rna_=hiscap4_ncRNA03804;Description=;parent=gene_=hiscap4_ncRNA03804
+hiscap4_CP069105.1	bed	RNA	36050	11787	.	-	ID=rna_=hiscap4_ncRNA03805;Description=;parent=gene_=hiscap4_ncRNA03805
+hiscap4_CP069105.1	bed	RNA	37039	11060	.	+	ID=rna_=hiscap4_ncRNA03806;Description=;parent=gene_=hiscap4_ncRNA03806
+hiscap4_CP069105.1	bed	RNA	44306	3894	.	+	ID=rna_hiscap4_eg334093;Description=;parent=gene_hiscap4_eg334093
+hiscap4_CP069105.1	bed	RNA	45526	495	.	-	ID=rna_hiscap4_tyr7422;Description=;parent=gene_hiscap4_tyr7422
+hiscap4_CP069105.1	bed	RNA	48583	0	.	-	ID=rna_hiscap4_tyr7422|hiscap5_GG692425.1|up;Description=;parent=gene_hiscap4_tyr7422|hiscap5_GG692425.1|up
+hiscap4_CP069105.1	bed	CDS	1	48582	.	-	ID=cds_hiscap4_tyr7422|hiscap5_GG692425.1|down;Description=;parent=rna_hiscap4_tyr7422|hiscap5_GG692425.1|down
+hiscap4_CP069105.1	bed	CDS	1345	46124	.	-	ID=cds_hiscap4_eg334088;Description=;parent=rna_hiscap4_eg334088
+hiscap4_CP069105.1	bed	CDS	35240	12912	.	-	ID=cds_=hiscap4_ncRNA03804;Description=;parent=rna_=hiscap4_ncRNA03804
+hiscap4_CP069105.1	bed	CDS	36050	11787	.	-	ID=cds_=hiscap4_ncRNA03805;Description=;parent=rna_=hiscap4_ncRNA03805
+hiscap4_CP069105.1	bed	CDS	37039	11060	.	+	ID=cds_=hiscap4_ncRNA03806;Description=;parent=rna_=hiscap4_ncRNA03806
+hiscap4_CP069105.1	bed	CDS	44306	3894	.	+	ID=cds_hiscap4_eg334093;Description=;parent=rna_hiscap4_eg334093
+hiscap4_CP069105.1	bed	CDS	45526	495	.	-	ID=cds_hiscap4_tyr7422;Description=;parent=rna_hiscap4_tyr7422
+hiscap4_CP069105.1	bed	CDS	48583	0	.	-	ID=cds_hiscap4_tyr7422|hiscap5_GG692425.1|up;Description=;parent=rna_hiscap4_tyr7422|hiscap5_GG692425.1|up

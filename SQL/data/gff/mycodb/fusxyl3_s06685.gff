@@ -1,0 +1,16 @@
+fusxyl3_JADFTT010000007.1	bed	gene	39	16896	.	+	.	ID=gene_fusxyl3_eg325168;Description=fusxyl3_s06685;parent=fusxyl3_JADFTT010000007.1
+fusxyl3_JADFTT010000007.1	bed	region	1	16970	.	-	flank	ID=gene_fusxyl3_KAG5773805.1|DR|down;Description=fusxyl3_s06685;parent=fusxyl3_JADFTT010000007.1
+fusxyl3_JADFTT010000007.1	bed	region	45	16918	.	-	flank	ID=gene_fusxyl3_KAG5773805.1|TIR|down;Description=fusxyl3_s06685;parent=fusxyl3_JADFTT010000007.1
+fusxyl3_JADFTT010000007.1	bed	gene	830	14534	.	-	.	ID=gene_fusxyl3_KAG5773807.1;Description=fusxyl3_s06685;parent=fusxyl3_JADFTT010000007.1
+fusxyl3_JADFTT010000007.1	bed	gene	6173	7742	.	+	nlr	ID=gene_fusxyl3_KAG5773806.1;Description=fusxyl3_s06685;parent=fusxyl3_JADFTT010000007.1
+fusxyl3_JADFTT010000007.1	bed	gene	13832	1782	.	-	cap	ID=gene_fusxyl3_KAG5773805.1;Description=fusxyl3_s06685;parent=fusxyl3_JADFTT010000007.1
+fusxyl3_JADFTT010000007.1	bed	region	16915	47	.	-	flank	ID=gene_fusxyl3_KAG5773805.1|TIR|up;Description=fusxyl3_s06685;parent=fusxyl3_JADFTT010000007.1
+fusxyl3_JADFTT010000007.1	bed	region	16972	0	.	-	flank	ID=gene_fusxyl3_KAG5773805.1|DR|up;Description=fusxyl3_s06685;parent=fusxyl3_JADFTT010000007.1
+fusxyl3_JADFTT010000007.1	bed	RNA	39	16896	.	+	ID=rna_fusxyl3_eg325168;Description=;parent=gene_fusxyl3_eg325168
+fusxyl3_JADFTT010000007.1	bed	RNA	830	14534	.	-	ID=rna_fusxyl3_KAG5773807.1;Description=;parent=gene_fusxyl3_KAG5773807.1
+fusxyl3_JADFTT010000007.1	bed	RNA	6173	7742	.	+	ID=rna_fusxyl3_KAG5773806.1;Description=;parent=gene_fusxyl3_KAG5773806.1
+fusxyl3_JADFTT010000007.1	bed	RNA	13832	1782	.	-	ID=rna_fusxyl3_KAG5773805.1;Description=;parent=gene_fusxyl3_KAG5773805.1
+fusxyl3_JADFTT010000007.1	bed	CDS	39	16896	.	+	ID=cds_fusxyl3_eg325168;Description=;parent=rna_fusxyl3_eg325168
+fusxyl3_JADFTT010000007.1	bed	CDS	830	14534	.	-	ID=cds_fusxyl3_KAG5773807.1;Description=;parent=rna_fusxyl3_KAG5773807.1
+fusxyl3_JADFTT010000007.1	bed	CDS	6173	7742	.	+	ID=cds_fusxyl3_KAG5773806.1;Description=;parent=rna_fusxyl3_KAG5773806.1
+fusxyl3_JADFTT010000007.1	bed	CDS	13832	1782	.	-	ID=cds_fusxyl3_KAG5773805.1;Description=;parent=rna_fusxyl3_KAG5773805.1

@@ -1,0 +1,15 @@
+aspche2_AP024423.1	bed	gene	1	24829	.	+	insert	ID=gene_aspche2_tyr892|aspcri2_MAQV01000009.1|up;Description=aspche2_s00837;parent=aspche2_AP024423.1
+aspche2_AP024423.1	bed	gene	4297	20180	.	+	.	ID=gene_aspche2_eg35794;Description=aspche2_s00837;parent=aspche2_AP024423.1
+aspche2_AP024423.1	bed	gene	5308	17223	.	+	cap	ID=gene_aspche2_tyr892;Description=aspche2_s00837;parent=aspche2_AP024423.1
+aspche2_AP024423.1	bed	gene	13766	9930	.	+	.	ID=gene_aspche2_eg36034;Description=aspche2_s00837;parent=aspche2_AP024423.1
+aspche2_AP024423.1	bed	gene	24830	0	.	+	insert	ID=gene_aspche2_tyr892|aspcri2_MAQV01000009.1|down;Description=aspche2_s00837;parent=aspche2_AP024423.1
+aspche2_AP024423.1	bed	RNA	1	24829	.	+	ID=rna_aspche2_tyr892|aspcri2_MAQV01000009.1|up;Description=;parent=gene_aspche2_tyr892|aspcri2_MAQV01000009.1|up
+aspche2_AP024423.1	bed	RNA	4297	20180	.	+	ID=rna_aspche2_eg35794;Description=;parent=gene_aspche2_eg35794
+aspche2_AP024423.1	bed	RNA	5308	17223	.	+	ID=rna_aspche2_tyr892;Description=;parent=gene_aspche2_tyr892
+aspche2_AP024423.1	bed	RNA	13766	9930	.	+	ID=rna_aspche2_eg36034;Description=;parent=gene_aspche2_eg36034
+aspche2_AP024423.1	bed	RNA	24830	0	.	+	ID=rna_aspche2_tyr892|aspcri2_MAQV01000009.1|down;Description=;parent=gene_aspche2_tyr892|aspcri2_MAQV01000009.1|down
+aspche2_AP024423.1	bed	CDS	1	24829	.	+	ID=cds_aspche2_tyr892|aspcri2_MAQV01000009.1|up;Description=;parent=rna_aspche2_tyr892|aspcri2_MAQV01000009.1|up
+aspche2_AP024423.1	bed	CDS	4297	20180	.	+	ID=cds_aspche2_eg35794;Description=;parent=rna_aspche2_eg35794
+aspche2_AP024423.1	bed	CDS	5308	17223	.	+	ID=cds_aspche2_tyr892;Description=;parent=rna_aspche2_tyr892
+aspche2_AP024423.1	bed	CDS	13766	9930	.	+	ID=cds_aspche2_eg36034;Description=;parent=rna_aspche2_eg36034
+aspche2_AP024423.1	bed	CDS	24830	0	.	+	ID=cds_aspche2_tyr892|aspcri2_MAQV01000009.1|down;Description=;parent=rna_aspche2_tyr892|aspcri2_MAQV01000009.1|down

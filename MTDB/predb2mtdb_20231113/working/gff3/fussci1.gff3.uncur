@@ -1,0 +1,12 @@
+fussci1_QHHJ01000055.1	bed	gene	1	25157	.	+	insert	ID=gene_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|up;Description=fussci1_s06284;parent=fussci1_QHHJ01000055.1
+fussci1_QHHJ01000055.1	bed	gene	377	23006	.	+	cap	ID=gene_fussci1_tyr6584;Description=fussci1_s06284;parent=fussci1_QHHJ01000055.1
+fussci1_QHHJ01000055.1	bed	gene	6725	16486	.	+	.	ID=gene_fussci1_eg288522;Description=fussci1_s06284;parent=fussci1_QHHJ01000055.1
+fussci1_QHHJ01000055.1	bed	gene	25158	0	.	+	insert	ID=gene_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|down;Description=fussci1_s06284;parent=fussci1_QHHJ01000055.1
+fussci1_QHHJ01000055.1	bed	RNA	1	25157	.	+	ID=rna_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|up;Description=;parent=gene_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|up
+fussci1_QHHJ01000055.1	bed	RNA	377	23006	.	+	ID=rna_fussci1_tyr6584;Description=;parent=gene_fussci1_tyr6584
+fussci1_QHHJ01000055.1	bed	RNA	6725	16486	.	+	ID=rna_fussci1_eg288522;Description=;parent=gene_fussci1_eg288522
+fussci1_QHHJ01000055.1	bed	RNA	25158	0	.	+	ID=rna_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|down;Description=;parent=gene_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|down
+fussci1_QHHJ01000055.1	bed	CDS	1	25157	.	+	ID=cds_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|up;Description=;parent=rna_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|up
+fussci1_QHHJ01000055.1	bed	CDS	377	23006	.	+	ID=cds_fussci1_tyr6584;Description=;parent=rna_fussci1_tyr6584
+fussci1_QHHJ01000055.1	bed	CDS	6725	16486	.	+	ID=cds_fussci1_eg288522;Description=;parent=rna_fussci1_eg288522
+fussci1_QHHJ01000055.1	bed	CDS	25158	0	.	+	ID=cds_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|down;Description=;parent=rna_fussci1_tyr6584|fusfla3_JAHBOO010000001.1|down

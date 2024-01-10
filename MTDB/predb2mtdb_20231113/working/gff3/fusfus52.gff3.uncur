@@ -1,0 +1,48 @@
+fusfus52_JACTAS010000073.1	bed	gene	1	64430	.	-	insert	ID=gene_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|down;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	88	63767	.	+	.	ID=gene_fusfus52_eg231042;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	2576	61259	.	-	.	ID=gene_fusfus52_eg231037;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	4669	58284	.	-	.	ID=gene_fusfus52_eg231034;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	24533	39476	.	-	.	ID=gene_fusfus52_eg231053;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	33542	29434	.	-	.	ID=gene_fusfus52_eg231054;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	37230	26377	.	+	.	ID=gene_fusfus52_eg231038;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	38617	24208	.	-	.	ID=gene_fusfus52_eg231033;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	41427	20951	.	-	.	ID=gene_fusfus52_eg231052;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	44232	18658	.	+	fre	ID=gene_fusfus52_fre13537;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	46296	17310	.	-	.	ID=gene_fusfus52_eg231035;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	47436	14241	.	+	d37	ID=gene_fusfus52_d373410;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	50966	11192	.	-	nlr	ID=gene_fusfus52_nlr121163;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	55620	8275	.	-	.	ID=gene_fusfus52_eg231036;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	60815	1126	.	-	cap	ID=gene_fusfus52_tyr5839;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	gene	64431	0	.	-	insert	ID=gene_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|up;Description=fusfus52_s05591;parent=fusfus52_JACTAS010000073.1
+fusfus52_JACTAS010000073.1	bed	RNA	1	64430	.	-	ID=rna_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|down;Description=;parent=gene_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|down
+fusfus52_JACTAS010000073.1	bed	RNA	88	63767	.	+	ID=rna_fusfus52_eg231042;Description=;parent=gene_fusfus52_eg231042
+fusfus52_JACTAS010000073.1	bed	RNA	2576	61259	.	-	ID=rna_fusfus52_eg231037;Description=;parent=gene_fusfus52_eg231037
+fusfus52_JACTAS010000073.1	bed	RNA	4669	58284	.	-	ID=rna_fusfus52_eg231034;Description=;parent=gene_fusfus52_eg231034
+fusfus52_JACTAS010000073.1	bed	RNA	24533	39476	.	-	ID=rna_fusfus52_eg231053;Description=;parent=gene_fusfus52_eg231053
+fusfus52_JACTAS010000073.1	bed	RNA	33542	29434	.	-	ID=rna_fusfus52_eg231054;Description=;parent=gene_fusfus52_eg231054
+fusfus52_JACTAS010000073.1	bed	RNA	37230	26377	.	+	ID=rna_fusfus52_eg231038;Description=;parent=gene_fusfus52_eg231038
+fusfus52_JACTAS010000073.1	bed	RNA	38617	24208	.	-	ID=rna_fusfus52_eg231033;Description=;parent=gene_fusfus52_eg231033
+fusfus52_JACTAS010000073.1	bed	RNA	41427	20951	.	-	ID=rna_fusfus52_eg231052;Description=;parent=gene_fusfus52_eg231052
+fusfus52_JACTAS010000073.1	bed	RNA	44232	18658	.	+	ID=rna_fusfus52_fre13537;Description=;parent=gene_fusfus52_fre13537
+fusfus52_JACTAS010000073.1	bed	RNA	46296	17310	.	-	ID=rna_fusfus52_eg231035;Description=;parent=gene_fusfus52_eg231035
+fusfus52_JACTAS010000073.1	bed	RNA	47436	14241	.	+	ID=rna_fusfus52_d373410;Description=;parent=gene_fusfus52_d373410
+fusfus52_JACTAS010000073.1	bed	RNA	50966	11192	.	-	ID=rna_fusfus52_nlr121163;Description=;parent=gene_fusfus52_nlr121163
+fusfus52_JACTAS010000073.1	bed	RNA	55620	8275	.	-	ID=rna_fusfus52_eg231036;Description=;parent=gene_fusfus52_eg231036
+fusfus52_JACTAS010000073.1	bed	RNA	60815	1126	.	-	ID=rna_fusfus52_tyr5839;Description=;parent=gene_fusfus52_tyr5839
+fusfus52_JACTAS010000073.1	bed	RNA	64431	0	.	-	ID=rna_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|up;Description=;parent=gene_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|up
+fusfus52_JACTAS010000073.1	bed	CDS	1	64430	.	-	ID=cds_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|down;Description=;parent=rna_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|down
+fusfus52_JACTAS010000073.1	bed	CDS	88	63767	.	+	ID=cds_fusfus52_eg231042;Description=;parent=rna_fusfus52_eg231042
+fusfus52_JACTAS010000073.1	bed	CDS	2576	61259	.	-	ID=cds_fusfus52_eg231037;Description=;parent=rna_fusfus52_eg231037
+fusfus52_JACTAS010000073.1	bed	CDS	4669	58284	.	-	ID=cds_fusfus52_eg231034;Description=;parent=rna_fusfus52_eg231034
+fusfus52_JACTAS010000073.1	bed	CDS	24533	39476	.	-	ID=cds_fusfus52_eg231053;Description=;parent=rna_fusfus52_eg231053
+fusfus52_JACTAS010000073.1	bed	CDS	33542	29434	.	-	ID=cds_fusfus52_eg231054;Description=;parent=rna_fusfus52_eg231054
+fusfus52_JACTAS010000073.1	bed	CDS	37230	26377	.	+	ID=cds_fusfus52_eg231038;Description=;parent=rna_fusfus52_eg231038
+fusfus52_JACTAS010000073.1	bed	CDS	38617	24208	.	-	ID=cds_fusfus52_eg231033;Description=;parent=rna_fusfus52_eg231033
+fusfus52_JACTAS010000073.1	bed	CDS	41427	20951	.	-	ID=cds_fusfus52_eg231052;Description=;parent=rna_fusfus52_eg231052
+fusfus52_JACTAS010000073.1	bed	CDS	44232	18658	.	+	ID=cds_fusfus52_fre13537;Description=;parent=rna_fusfus52_fre13537
+fusfus52_JACTAS010000073.1	bed	CDS	46296	17310	.	-	ID=cds_fusfus52_eg231035;Description=;parent=rna_fusfus52_eg231035
+fusfus52_JACTAS010000073.1	bed	CDS	47436	14241	.	+	ID=cds_fusfus52_d373410;Description=;parent=rna_fusfus52_d373410
+fusfus52_JACTAS010000073.1	bed	CDS	50966	11192	.	-	ID=cds_fusfus52_nlr121163;Description=;parent=rna_fusfus52_nlr121163
+fusfus52_JACTAS010000073.1	bed	CDS	55620	8275	.	-	ID=cds_fusfus52_eg231036;Description=;parent=rna_fusfus52_eg231036
+fusfus52_JACTAS010000073.1	bed	CDS	60815	1126	.	-	ID=cds_fusfus52_tyr5839;Description=;parent=rna_fusfus52_tyr5839
+fusfus52_JACTAS010000073.1	bed	CDS	64431	0	.	-	ID=cds_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|up;Description=;parent=rna_fusfus52_tyr5839|fusfus63_JAAIJJ010000440.1|up

@@ -1,0 +1,103 @@
+aspcal2_scaffold14	bed	region	1	90131	.	+	flank	ID=gene_aspcal2_761163|DR|up;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	region	17	90092	.	+	flank	ID=gene_aspcal2_761163|TIR|up;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	467	87006	.	+	cap	ID=gene_aspcal2_761163;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	4043	85734	.	-	tyr	ID=gene_aspcal2_tyr795;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	5761	75533	.	+	.	ID=gene_aspcal2_761164;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	7621	81545	.	-	.	ID=gene_aspcal2_761165;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	14734	71550	.	-	.	ID=gene_aspcal2_761166;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	20428	68625	.	-	.	ID=gene_aspcal2_761167;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	22260	67042	.	+	.	ID=gene_aspcal2_761168;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	39990	49266	.	+	.	ID=gene_aspcal2_761169;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	41989	47804	.	+	.	ID=gene_aspcal2_761170;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	42672	45538	.	+	.	ID=gene_aspcal2_761171;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	45485	42726	.	+	.	ID=gene_aspcal2_761172;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	47770	41268	.	-	.	ID=gene_aspcal2_761173;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	50041	36245	.	-	d37	ID=gene_aspcal2_761174:761175;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	54210	34783	.	+	.	ID=gene_aspcal2_761176;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	55569	33012	.	-	.	ID=gene_aspcal2_761177;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	58302	30041	.	-	fre	ID=gene_aspcal2_761178;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	60322	29451	.	+	.	ID=gene_aspcal2_761179;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	61436	27797	.	+	.	ID=gene_aspcal2_761180;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	63852	25613	.	+	.	ID=gene_aspcal2_761181;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	64931	24671	.	-	.	ID=gene_aspcal2_761182;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	65888	23690	.	+	.	ID=gene_aspcal2_761183;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	67496	17507	.	-	.	ID=gene_aspcal2_761184;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	73547	15359	.	+	.	ID=gene_aspcal2_761185;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	75101	13884	.	+	.	ID=gene_aspcal2_761186;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	76495	12657	.	+	.	ID=gene_aspcal2_761187;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	77675	10267	.	-	.	ID=gene_aspcal2_761188;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	79993	9768	.	-	.	ID=gene_aspcal2_761189;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	81650	8258	.	+	.	ID=gene_aspcal2_eg26431;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	82138	7374	.	-	.	ID=gene_aspcal2_761190;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	84829	4945	.	+	.	ID=gene_aspcal2_761191;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	85423	3592	.	-	.	ID=gene_aspcal2_761192;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	87698	1281	.	-	.	ID=gene_aspcal2_761193;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	gene	89056	741	.	+	.	ID=gene_aspcal2_761194;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	region	90095	14	.	+	flank	ID=gene_aspcal2_761163|TIR|down;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	region	90132	0	.	+	flank	ID=gene_aspcal2_761163|DR|down;Description=aspcal2_s00748;parent=aspcal2_scaffold14
+aspcal2_scaffold14	bed	RNA	467	87006	.	+	ID=rna_aspcal2_761163;Description=;parent=gene_aspcal2_761163
+aspcal2_scaffold14	bed	RNA	4043	85734	.	-	ID=rna_aspcal2_tyr795;Description=;parent=gene_aspcal2_tyr795
+aspcal2_scaffold14	bed	RNA	5761	75533	.	+	ID=rna_aspcal2_761164;Description=;parent=gene_aspcal2_761164
+aspcal2_scaffold14	bed	RNA	7621	81545	.	-	ID=rna_aspcal2_761165;Description=;parent=gene_aspcal2_761165
+aspcal2_scaffold14	bed	RNA	14734	71550	.	-	ID=rna_aspcal2_761166;Description=;parent=gene_aspcal2_761166
+aspcal2_scaffold14	bed	RNA	20428	68625	.	-	ID=rna_aspcal2_761167;Description=;parent=gene_aspcal2_761167
+aspcal2_scaffold14	bed	RNA	22260	67042	.	+	ID=rna_aspcal2_761168;Description=;parent=gene_aspcal2_761168
+aspcal2_scaffold14	bed	RNA	39990	49266	.	+	ID=rna_aspcal2_761169;Description=;parent=gene_aspcal2_761169
+aspcal2_scaffold14	bed	RNA	41989	47804	.	+	ID=rna_aspcal2_761170;Description=;parent=gene_aspcal2_761170
+aspcal2_scaffold14	bed	RNA	42672	45538	.	+	ID=rna_aspcal2_761171;Description=;parent=gene_aspcal2_761171
+aspcal2_scaffold14	bed	RNA	45485	42726	.	+	ID=rna_aspcal2_761172;Description=;parent=gene_aspcal2_761172
+aspcal2_scaffold14	bed	RNA	47770	41268	.	-	ID=rna_aspcal2_761173;Description=;parent=gene_aspcal2_761173
+aspcal2_scaffold14	bed	RNA	50041	36245	.	-	ID=rna_aspcal2_761174:761175;Description=;parent=gene_aspcal2_761174:761175
+aspcal2_scaffold14	bed	RNA	54210	34783	.	+	ID=rna_aspcal2_761176;Description=;parent=gene_aspcal2_761176
+aspcal2_scaffold14	bed	RNA	55569	33012	.	-	ID=rna_aspcal2_761177;Description=;parent=gene_aspcal2_761177
+aspcal2_scaffold14	bed	RNA	58302	30041	.	-	ID=rna_aspcal2_761178;Description=;parent=gene_aspcal2_761178
+aspcal2_scaffold14	bed	RNA	60322	29451	.	+	ID=rna_aspcal2_761179;Description=;parent=gene_aspcal2_761179
+aspcal2_scaffold14	bed	RNA	61436	27797	.	+	ID=rna_aspcal2_761180;Description=;parent=gene_aspcal2_761180
+aspcal2_scaffold14	bed	RNA	63852	25613	.	+	ID=rna_aspcal2_761181;Description=;parent=gene_aspcal2_761181
+aspcal2_scaffold14	bed	RNA	64931	24671	.	-	ID=rna_aspcal2_761182;Description=;parent=gene_aspcal2_761182
+aspcal2_scaffold14	bed	RNA	65888	23690	.	+	ID=rna_aspcal2_761183;Description=;parent=gene_aspcal2_761183
+aspcal2_scaffold14	bed	RNA	67496	17507	.	-	ID=rna_aspcal2_761184;Description=;parent=gene_aspcal2_761184
+aspcal2_scaffold14	bed	RNA	73547	15359	.	+	ID=rna_aspcal2_761185;Description=;parent=gene_aspcal2_761185
+aspcal2_scaffold14	bed	RNA	75101	13884	.	+	ID=rna_aspcal2_761186;Description=;parent=gene_aspcal2_761186
+aspcal2_scaffold14	bed	RNA	76495	12657	.	+	ID=rna_aspcal2_761187;Description=;parent=gene_aspcal2_761187
+aspcal2_scaffold14	bed	RNA	77675	10267	.	-	ID=rna_aspcal2_761188;Description=;parent=gene_aspcal2_761188
+aspcal2_scaffold14	bed	RNA	79993	9768	.	-	ID=rna_aspcal2_761189;Description=;parent=gene_aspcal2_761189
+aspcal2_scaffold14	bed	RNA	81650	8258	.	+	ID=rna_aspcal2_eg26431;Description=;parent=gene_aspcal2_eg26431
+aspcal2_scaffold14	bed	RNA	82138	7374	.	-	ID=rna_aspcal2_761190;Description=;parent=gene_aspcal2_761190
+aspcal2_scaffold14	bed	RNA	84829	4945	.	+	ID=rna_aspcal2_761191;Description=;parent=gene_aspcal2_761191
+aspcal2_scaffold14	bed	RNA	85423	3592	.	-	ID=rna_aspcal2_761192;Description=;parent=gene_aspcal2_761192
+aspcal2_scaffold14	bed	RNA	87698	1281	.	-	ID=rna_aspcal2_761193;Description=;parent=gene_aspcal2_761193
+aspcal2_scaffold14	bed	RNA	89056	741	.	+	ID=rna_aspcal2_761194;Description=;parent=gene_aspcal2_761194
+aspcal2_scaffold14	bed	CDS	467	87006	.	+	ID=cds_aspcal2_761163;Description=;parent=rna_aspcal2_761163
+aspcal2_scaffold14	bed	CDS	4043	85734	.	-	ID=cds_aspcal2_tyr795;Description=;parent=rna_aspcal2_tyr795
+aspcal2_scaffold14	bed	CDS	5761	75533	.	+	ID=cds_aspcal2_761164;Description=;parent=rna_aspcal2_761164
+aspcal2_scaffold14	bed	CDS	7621	81545	.	-	ID=cds_aspcal2_761165;Description=;parent=rna_aspcal2_761165
+aspcal2_scaffold14	bed	CDS	14734	71550	.	-	ID=cds_aspcal2_761166;Description=;parent=rna_aspcal2_761166
+aspcal2_scaffold14	bed	CDS	20428	68625	.	-	ID=cds_aspcal2_761167;Description=;parent=rna_aspcal2_761167
+aspcal2_scaffold14	bed	CDS	22260	67042	.	+	ID=cds_aspcal2_761168;Description=;parent=rna_aspcal2_761168
+aspcal2_scaffold14	bed	CDS	39990	49266	.	+	ID=cds_aspcal2_761169;Description=;parent=rna_aspcal2_761169
+aspcal2_scaffold14	bed	CDS	41989	47804	.	+	ID=cds_aspcal2_761170;Description=;parent=rna_aspcal2_761170
+aspcal2_scaffold14	bed	CDS	42672	45538	.	+	ID=cds_aspcal2_761171;Description=;parent=rna_aspcal2_761171
+aspcal2_scaffold14	bed	CDS	45485	42726	.	+	ID=cds_aspcal2_761172;Description=;parent=rna_aspcal2_761172
+aspcal2_scaffold14	bed	CDS	47770	41268	.	-	ID=cds_aspcal2_761173;Description=;parent=rna_aspcal2_761173
+aspcal2_scaffold14	bed	CDS	50041	36245	.	-	ID=cds_aspcal2_761174:761175;Description=;parent=rna_aspcal2_761174:761175
+aspcal2_scaffold14	bed	CDS	54210	34783	.	+	ID=cds_aspcal2_761176;Description=;parent=rna_aspcal2_761176
+aspcal2_scaffold14	bed	CDS	55569	33012	.	-	ID=cds_aspcal2_761177;Description=;parent=rna_aspcal2_761177
+aspcal2_scaffold14	bed	CDS	58302	30041	.	-	ID=cds_aspcal2_761178;Description=;parent=rna_aspcal2_761178
+aspcal2_scaffold14	bed	CDS	60322	29451	.	+	ID=cds_aspcal2_761179;Description=;parent=rna_aspcal2_761179
+aspcal2_scaffold14	bed	CDS	61436	27797	.	+	ID=cds_aspcal2_761180;Description=;parent=rna_aspcal2_761180
+aspcal2_scaffold14	bed	CDS	63852	25613	.	+	ID=cds_aspcal2_761181;Description=;parent=rna_aspcal2_761181
+aspcal2_scaffold14	bed	CDS	64931	24671	.	-	ID=cds_aspcal2_761182;Description=;parent=rna_aspcal2_761182
+aspcal2_scaffold14	bed	CDS	65888	23690	.	+	ID=cds_aspcal2_761183;Description=;parent=rna_aspcal2_761183
+aspcal2_scaffold14	bed	CDS	67496	17507	.	-	ID=cds_aspcal2_761184;Description=;parent=rna_aspcal2_761184
+aspcal2_scaffold14	bed	CDS	73547	15359	.	+	ID=cds_aspcal2_761185;Description=;parent=rna_aspcal2_761185
+aspcal2_scaffold14	bed	CDS	75101	13884	.	+	ID=cds_aspcal2_761186;Description=;parent=rna_aspcal2_761186
+aspcal2_scaffold14	bed	CDS	76495	12657	.	+	ID=cds_aspcal2_761187;Description=;parent=rna_aspcal2_761187
+aspcal2_scaffold14	bed	CDS	77675	10267	.	-	ID=cds_aspcal2_761188;Description=;parent=rna_aspcal2_761188
+aspcal2_scaffold14	bed	CDS	79993	9768	.	-	ID=cds_aspcal2_761189;Description=;parent=rna_aspcal2_761189
+aspcal2_scaffold14	bed	CDS	81650	8258	.	+	ID=cds_aspcal2_eg26431;Description=;parent=rna_aspcal2_eg26431
+aspcal2_scaffold14	bed	CDS	82138	7374	.	-	ID=cds_aspcal2_761190;Description=;parent=rna_aspcal2_761190
+aspcal2_scaffold14	bed	CDS	84829	4945	.	+	ID=cds_aspcal2_761191;Description=;parent=rna_aspcal2_761191
+aspcal2_scaffold14	bed	CDS	85423	3592	.	-	ID=cds_aspcal2_761192;Description=;parent=rna_aspcal2_761192
+aspcal2_scaffold14	bed	CDS	87698	1281	.	-	ID=cds_aspcal2_761193;Description=;parent=rna_aspcal2_761193
+aspcal2_scaffold14	bed	CDS	89056	741	.	+	ID=cds_aspcal2_761194;Description=;parent=rna_aspcal2_761194

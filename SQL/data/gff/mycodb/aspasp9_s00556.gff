@@ -1,0 +1,25 @@
+aspasp9_JAGXKE010000008.1	bed	region	1	50303	.	-	flank	ID=gene_aspasp9_tyr634|DR|down;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	region	15	50286	.	-	flank	ID=gene_aspasp9_tyr634|TIR|down;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	gene	11601	38300	.	-	.	ID=gene_aspasp9_eg22703;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	gene	19454	30633	.	-	.	ID=gene_aspasp9_eg22580;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	gene	22809	27278	.	+	.	ID=gene_aspasp9_eg22579;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	gene	28987	19049	.	-	.	ID=gene_aspasp9_eg22965;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	gene	37807	12283	.	+	.	ID=gene_aspasp9_eg22931;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	gene	40649	9142	.	+	.	ID=gene_aspasp9_eg22899;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	gene	43353	4346	.	-	cap	ID=gene_aspasp9_tyr634;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	region	50257	44	.	-	flank	ID=gene_aspasp9_tyr634|TIR|up;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	region	50303	0	.	-	flank	ID=gene_aspasp9_tyr634|DR|up;Description=aspasp9_s00556;parent=aspasp9_JAGXKE010000008.1
+aspasp9_JAGXKE010000008.1	bed	RNA	11601	38300	.	-	ID=rna_aspasp9_eg22703;Description=;parent=gene_aspasp9_eg22703
+aspasp9_JAGXKE010000008.1	bed	RNA	19454	30633	.	-	ID=rna_aspasp9_eg22580;Description=;parent=gene_aspasp9_eg22580
+aspasp9_JAGXKE010000008.1	bed	RNA	22809	27278	.	+	ID=rna_aspasp9_eg22579;Description=;parent=gene_aspasp9_eg22579
+aspasp9_JAGXKE010000008.1	bed	RNA	28987	19049	.	-	ID=rna_aspasp9_eg22965;Description=;parent=gene_aspasp9_eg22965
+aspasp9_JAGXKE010000008.1	bed	RNA	37807	12283	.	+	ID=rna_aspasp9_eg22931;Description=;parent=gene_aspasp9_eg22931
+aspasp9_JAGXKE010000008.1	bed	RNA	40649	9142	.	+	ID=rna_aspasp9_eg22899;Description=;parent=gene_aspasp9_eg22899
+aspasp9_JAGXKE010000008.1	bed	RNA	43353	4346	.	-	ID=rna_aspasp9_tyr634;Description=;parent=gene_aspasp9_tyr634
+aspasp9_JAGXKE010000008.1	bed	CDS	11601	38300	.	-	ID=cds_aspasp9_eg22703;Description=;parent=rna_aspasp9_eg22703
+aspasp9_JAGXKE010000008.1	bed	CDS	19454	30633	.	-	ID=cds_aspasp9_eg22580;Description=;parent=rna_aspasp9_eg22580
+aspasp9_JAGXKE010000008.1	bed	CDS	22809	27278	.	+	ID=cds_aspasp9_eg22579;Description=;parent=rna_aspasp9_eg22579
+aspasp9_JAGXKE010000008.1	bed	CDS	28987	19049	.	-	ID=cds_aspasp9_eg22965;Description=;parent=rna_aspasp9_eg22965
+aspasp9_JAGXKE010000008.1	bed	CDS	37807	12283	.	+	ID=cds_aspasp9_eg22931;Description=;parent=rna_aspasp9_eg22931
+aspasp9_JAGXKE010000008.1	bed	CDS	40649	9142	.	+	ID=cds_aspasp9_eg22899;Description=;parent=rna_aspasp9_eg22899
+aspasp9_JAGXKE010000008.1	bed	CDS	43353	4346	.	-	ID=cds_aspasp9_tyr634;Description=;parent=rna_aspasp9_tyr634

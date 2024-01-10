@@ -1,0 +1,25 @@
+aspfum11_JAAAPY010000002.1	bed	region	1	47174	.	-	flank	ID=gene_aspfum11_tyr1260|DR|down;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	region	47	47115	.	-	flank	ID=gene_aspfum11_tyr1260|TIR|down;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	gene	5584	41239	.	-	.	ID=gene_aspfum11_eg73043;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	gene	15446	30747	.	-	.	ID=gene_aspfum11_eg73057;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	gene	21505	24822	.	+	.	ID=gene_aspfum11_eg73118;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	gene	25951	18673	.	-	d37	ID=gene_aspfum11_d37741;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	gene	30325	13840	.	-	plp	ID=gene_aspfum11_plp1418;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	gene	37852	8681	.	-	.	ID=gene_aspfum11_eg73114;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	gene	44436	249	.	-	cap	ID=gene_aspfum11_tyr1260;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	region	47122	41	.	-	flank	ID=gene_aspfum11_tyr1260|TIR|up;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	region	47175	0	.	-	flank	ID=gene_aspfum11_tyr1260|DR|up;Description=aspfum11_s01256;parent=aspfum11_JAAAPY010000002.1
+aspfum11_JAAAPY010000002.1	bed	RNA	5584	41239	.	-	ID=rna_aspfum11_eg73043;Description=;parent=gene_aspfum11_eg73043
+aspfum11_JAAAPY010000002.1	bed	RNA	15446	30747	.	-	ID=rna_aspfum11_eg73057;Description=;parent=gene_aspfum11_eg73057
+aspfum11_JAAAPY010000002.1	bed	RNA	21505	24822	.	+	ID=rna_aspfum11_eg73118;Description=;parent=gene_aspfum11_eg73118
+aspfum11_JAAAPY010000002.1	bed	RNA	25951	18673	.	-	ID=rna_aspfum11_d37741;Description=;parent=gene_aspfum11_d37741
+aspfum11_JAAAPY010000002.1	bed	RNA	30325	13840	.	-	ID=rna_aspfum11_plp1418;Description=;parent=gene_aspfum11_plp1418
+aspfum11_JAAAPY010000002.1	bed	RNA	37852	8681	.	-	ID=rna_aspfum11_eg73114;Description=;parent=gene_aspfum11_eg73114
+aspfum11_JAAAPY010000002.1	bed	RNA	44436	249	.	-	ID=rna_aspfum11_tyr1260;Description=;parent=gene_aspfum11_tyr1260
+aspfum11_JAAAPY010000002.1	bed	CDS	5584	41239	.	-	ID=cds_aspfum11_eg73043;Description=;parent=rna_aspfum11_eg73043
+aspfum11_JAAAPY010000002.1	bed	CDS	15446	30747	.	-	ID=cds_aspfum11_eg73057;Description=;parent=rna_aspfum11_eg73057
+aspfum11_JAAAPY010000002.1	bed	CDS	21505	24822	.	+	ID=cds_aspfum11_eg73118;Description=;parent=rna_aspfum11_eg73118
+aspfum11_JAAAPY010000002.1	bed	CDS	25951	18673	.	-	ID=cds_aspfum11_d37741;Description=;parent=rna_aspfum11_d37741
+aspfum11_JAAAPY010000002.1	bed	CDS	30325	13840	.	-	ID=cds_aspfum11_plp1418;Description=;parent=rna_aspfum11_plp1418
+aspfum11_JAAAPY010000002.1	bed	CDS	37852	8681	.	-	ID=cds_aspfum11_eg73114;Description=;parent=rna_aspfum11_eg73114
+aspfum11_JAAAPY010000002.1	bed	CDS	44436	249	.	-	ID=cds_aspfum11_tyr1260;Description=;parent=rna_aspfum11_tyr1260

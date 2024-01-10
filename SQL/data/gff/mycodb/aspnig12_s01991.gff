@@ -1,0 +1,52 @@
+aspnig12_VTFN01000002.1	bed	region	1	173120	.	+	flank	ID=gene_aspnig12_tyr2048|DR|up;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	region	15	173101	.	+	flank	ID=gene_aspnig12_tyr2048|TIR|up;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	5929	166209	.	-	.	ID=gene_aspnig12_eg106777;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	7851	165196	.	-	.	ID=gene_aspnig12_eg106562;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	7953	165025	.	-	.	ID=gene_aspnig12_eg106548;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	14956	155835	.	+	cap	ID=gene_aspnig12_tyr2048;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	52878	120046	.	+	.	ID=gene_aspnig12_eg106763;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	53440	117903	.	+	.	ID=gene_aspnig12_eg106681;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	59364	111627	.	-	d37	ID=gene_aspnig12_d371218;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	63090	108240	.	-	plp	ID=gene_aspnig12_plp1850;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	67223	105425	.	+	.	ID=gene_aspnig12_eg106585;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	94211	78719	.	-	.	ID=gene_aspnig12_eg106694;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	99037	73893	.	+	.	ID=gene_aspnig12_eg106590;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	100163	72385	.	-	.	ID=gene_aspnig12_eg106740;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	104634	65696	.	-	.	ID=gene_aspnig12_eg106724;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	115105	54857	.	-	.	ID=gene_aspnig12_eg106583;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	135915	37006	.	-	.	ID=gene_aspnig12_eg106587;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	gene	147188	24673	.	-	.	ID=gene_aspnig12_eg106697;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	region	173072	45	.	+	flank	ID=gene_aspnig12_tyr2048|TIR|down;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	region	173121	0	.	+	flank	ID=gene_aspnig12_tyr2048|DR|down;Description=aspnig12_s01991;parent=aspnig12_VTFN01000002.1
+aspnig12_VTFN01000002.1	bed	RNA	5929	166209	.	-	ID=rna_aspnig12_eg106777;Description=;parent=gene_aspnig12_eg106777
+aspnig12_VTFN01000002.1	bed	RNA	7851	165196	.	-	ID=rna_aspnig12_eg106562;Description=;parent=gene_aspnig12_eg106562
+aspnig12_VTFN01000002.1	bed	RNA	7953	165025	.	-	ID=rna_aspnig12_eg106548;Description=;parent=gene_aspnig12_eg106548
+aspnig12_VTFN01000002.1	bed	RNA	14956	155835	.	+	ID=rna_aspnig12_tyr2048;Description=;parent=gene_aspnig12_tyr2048
+aspnig12_VTFN01000002.1	bed	RNA	52878	120046	.	+	ID=rna_aspnig12_eg106763;Description=;parent=gene_aspnig12_eg106763
+aspnig12_VTFN01000002.1	bed	RNA	53440	117903	.	+	ID=rna_aspnig12_eg106681;Description=;parent=gene_aspnig12_eg106681
+aspnig12_VTFN01000002.1	bed	RNA	59364	111627	.	-	ID=rna_aspnig12_d371218;Description=;parent=gene_aspnig12_d371218
+aspnig12_VTFN01000002.1	bed	RNA	63090	108240	.	-	ID=rna_aspnig12_plp1850;Description=;parent=gene_aspnig12_plp1850
+aspnig12_VTFN01000002.1	bed	RNA	67223	105425	.	+	ID=rna_aspnig12_eg106585;Description=;parent=gene_aspnig12_eg106585
+aspnig12_VTFN01000002.1	bed	RNA	94211	78719	.	-	ID=rna_aspnig12_eg106694;Description=;parent=gene_aspnig12_eg106694
+aspnig12_VTFN01000002.1	bed	RNA	99037	73893	.	+	ID=rna_aspnig12_eg106590;Description=;parent=gene_aspnig12_eg106590
+aspnig12_VTFN01000002.1	bed	RNA	100163	72385	.	-	ID=rna_aspnig12_eg106740;Description=;parent=gene_aspnig12_eg106740
+aspnig12_VTFN01000002.1	bed	RNA	104634	65696	.	-	ID=rna_aspnig12_eg106724;Description=;parent=gene_aspnig12_eg106724
+aspnig12_VTFN01000002.1	bed	RNA	115105	54857	.	-	ID=rna_aspnig12_eg106583;Description=;parent=gene_aspnig12_eg106583
+aspnig12_VTFN01000002.1	bed	RNA	135915	37006	.	-	ID=rna_aspnig12_eg106587;Description=;parent=gene_aspnig12_eg106587
+aspnig12_VTFN01000002.1	bed	RNA	147188	24673	.	-	ID=rna_aspnig12_eg106697;Description=;parent=gene_aspnig12_eg106697
+aspnig12_VTFN01000002.1	bed	CDS	5929	166209	.	-	ID=cds_aspnig12_eg106777;Description=;parent=rna_aspnig12_eg106777
+aspnig12_VTFN01000002.1	bed	CDS	7851	165196	.	-	ID=cds_aspnig12_eg106562;Description=;parent=rna_aspnig12_eg106562
+aspnig12_VTFN01000002.1	bed	CDS	7953	165025	.	-	ID=cds_aspnig12_eg106548;Description=;parent=rna_aspnig12_eg106548
+aspnig12_VTFN01000002.1	bed	CDS	14956	155835	.	+	ID=cds_aspnig12_tyr2048;Description=;parent=rna_aspnig12_tyr2048
+aspnig12_VTFN01000002.1	bed	CDS	52878	120046	.	+	ID=cds_aspnig12_eg106763;Description=;parent=rna_aspnig12_eg106763
+aspnig12_VTFN01000002.1	bed	CDS	53440	117903	.	+	ID=cds_aspnig12_eg106681;Description=;parent=rna_aspnig12_eg106681
+aspnig12_VTFN01000002.1	bed	CDS	59364	111627	.	-	ID=cds_aspnig12_d371218;Description=;parent=rna_aspnig12_d371218
+aspnig12_VTFN01000002.1	bed	CDS	63090	108240	.	-	ID=cds_aspnig12_plp1850;Description=;parent=rna_aspnig12_plp1850
+aspnig12_VTFN01000002.1	bed	CDS	67223	105425	.	+	ID=cds_aspnig12_eg106585;Description=;parent=rna_aspnig12_eg106585
+aspnig12_VTFN01000002.1	bed	CDS	94211	78719	.	-	ID=cds_aspnig12_eg106694;Description=;parent=rna_aspnig12_eg106694
+aspnig12_VTFN01000002.1	bed	CDS	99037	73893	.	+	ID=cds_aspnig12_eg106590;Description=;parent=rna_aspnig12_eg106590
+aspnig12_VTFN01000002.1	bed	CDS	100163	72385	.	-	ID=cds_aspnig12_eg106740;Description=;parent=rna_aspnig12_eg106740
+aspnig12_VTFN01000002.1	bed	CDS	104634	65696	.	-	ID=cds_aspnig12_eg106724;Description=;parent=rna_aspnig12_eg106724
+aspnig12_VTFN01000002.1	bed	CDS	115105	54857	.	-	ID=cds_aspnig12_eg106583;Description=;parent=rna_aspnig12_eg106583
+aspnig12_VTFN01000002.1	bed	CDS	135915	37006	.	-	ID=cds_aspnig12_eg106587;Description=;parent=rna_aspnig12_eg106587
+aspnig12_VTFN01000002.1	bed	CDS	147188	24673	.	-	ID=cds_aspnig12_eg106697;Description=;parent=rna_aspnig12_eg106697

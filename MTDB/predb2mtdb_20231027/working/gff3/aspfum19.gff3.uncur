@@ -1,0 +1,14 @@
+aspfum19_JAIBTQ010000011.1	bed	region	1	28816	.	-	flank	ID=gene_aspfum19_tyr1351|DR|down;Description=aspfum19_s01352;parent=aspfum19_JAIBTQ010000011.1
+aspfum19_JAIBTQ010000011.1	bed	gene	5565	22633	.	-	fre	ID=gene_aspfum19_fre2163;Description=aspfum19_s01352;parent=aspfum19_JAIBTQ010000011.1
+aspfum19_JAIBTQ010000011.1	bed	gene	19087	9069	.	+	.	ID=gene_aspfum19_eg74926;Description=aspfum19_s01352;parent=aspfum19_JAIBTQ010000011.1
+aspfum19_JAIBTQ010000011.1	bed	gene	20128	7433	.	+	.	ID=gene_aspfum19_eg74941;Description=aspfum19_s01352;parent=aspfum19_JAIBTQ010000011.1
+aspfum19_JAIBTQ010000011.1	bed	gene	26559	742	.	-	cap	ID=gene_aspfum19_tyr1351;Description=aspfum19_s01352;parent=aspfum19_JAIBTQ010000011.1
+aspfum19_JAIBTQ010000011.1	bed	region	28816	0	.	-	flank	ID=gene_aspfum19_tyr1351|DR|up;Description=aspfum19_s01352;parent=aspfum19_JAIBTQ010000011.1
+aspfum19_JAIBTQ010000011.1	bed	RNA	5565	22633	.	-	ID=rna_aspfum19_fre2163;Description=;parent=gene_aspfum19_fre2163
+aspfum19_JAIBTQ010000011.1	bed	RNA	19087	9069	.	+	ID=rna_aspfum19_eg74926;Description=;parent=gene_aspfum19_eg74926
+aspfum19_JAIBTQ010000011.1	bed	RNA	20128	7433	.	+	ID=rna_aspfum19_eg74941;Description=;parent=gene_aspfum19_eg74941
+aspfum19_JAIBTQ010000011.1	bed	RNA	26559	742	.	-	ID=rna_aspfum19_tyr1351;Description=;parent=gene_aspfum19_tyr1351
+aspfum19_JAIBTQ010000011.1	bed	CDS	5565	22633	.	-	ID=cds_aspfum19_fre2163;Description=;parent=rna_aspfum19_fre2163
+aspfum19_JAIBTQ010000011.1	bed	CDS	19087	9069	.	+	ID=cds_aspfum19_eg74926;Description=;parent=rna_aspfum19_eg74926
+aspfum19_JAIBTQ010000011.1	bed	CDS	20128	7433	.	+	ID=cds_aspfum19_eg74941;Description=;parent=rna_aspfum19_eg74941
+aspfum19_JAIBTQ010000011.1	bed	CDS	26559	742	.	-	ID=cds_aspfum19_tyr1351;Description=;parent=rna_aspfum19_tyr1351

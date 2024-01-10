@@ -1,0 +1,75 @@
+aspfum3_Chr1AfumigatusAf293	bed	gene	1	57342	.	-	insert	ID=gene_aspfum3_1480|aspfum16_JADLZQ010000296.1|down;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	1357	54793	.	+	.	ID=gene_aspfum3_1461;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	3161	53979	.	-	.	ID=gene_aspfum3_eg75328;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	4005	52244	.	+	.	ID=gene_aspfum3_1462;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	9628	47059	.	-	.	ID=gene_aspfum3_eg75778;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	11793	44388	.	+	.	ID=gene_aspfum3_1463;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	13026	43474	.	+	.	ID=gene_aspfum3_1464;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	15806	40147	.	-	.	ID=gene_aspfum3_1465;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	20507	35096	.	+	fre	ID=gene_aspfum3_1466;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	23513	32171	.	+	.	ID=gene_aspfum3_1467;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	25799	30323	.	-	.	ID=gene_aspfum3_1468;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	27286	26712	.	+	d37	ID=gene_aspfum3_1469;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	31519	25105	.	-	.	ID=gene_aspfum3_1470;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	34782	22154	.	-	.	ID=gene_aspfum3_1471;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	35838	20187	.	+	.	ID=gene_aspfum3_1472;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	37414	18948	.	-	.	ID=gene_aspfum3_1473;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	38678	17714	.	-	.	ID=gene_aspfum3_1474;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	41227	15418	.	+	.	ID=gene_aspfum3_eg75549;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	42590	13732	.	-	.	ID=gene_aspfum3_1475;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	45547	8388	.	-	.	ID=gene_aspfum3_1476;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	50400	6731	.	-	.	ID=gene_aspfum3_1477;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	51429	5239	.	+	.	ID=gene_aspfum3_1478;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	53082	3669	.	+	.	ID=gene_aspfum3_1479;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	54198	451	.	-	cap	ID=gene_aspfum3_1480;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	gene	57343	0	.	-	insert	ID=gene_aspfum3_1480|aspfum16_JADLZQ010000296.1|up;Description=aspfum3_s01168;parent=aspfum3_Chr1AfumigatusAf293
+aspfum3_Chr1AfumigatusAf293	bed	RNA	1	57342	.	-	ID=rna_aspfum3_1480|aspfum16_JADLZQ010000296.1|down;Description=;parent=gene_aspfum3_1480|aspfum16_JADLZQ010000296.1|down
+aspfum3_Chr1AfumigatusAf293	bed	RNA	1357	54793	.	+	ID=rna_aspfum3_1461;Description=;parent=gene_aspfum3_1461
+aspfum3_Chr1AfumigatusAf293	bed	RNA	3161	53979	.	-	ID=rna_aspfum3_eg75328;Description=;parent=gene_aspfum3_eg75328
+aspfum3_Chr1AfumigatusAf293	bed	RNA	4005	52244	.	+	ID=rna_aspfum3_1462;Description=;parent=gene_aspfum3_1462
+aspfum3_Chr1AfumigatusAf293	bed	RNA	9628	47059	.	-	ID=rna_aspfum3_eg75778;Description=;parent=gene_aspfum3_eg75778
+aspfum3_Chr1AfumigatusAf293	bed	RNA	11793	44388	.	+	ID=rna_aspfum3_1463;Description=;parent=gene_aspfum3_1463
+aspfum3_Chr1AfumigatusAf293	bed	RNA	13026	43474	.	+	ID=rna_aspfum3_1464;Description=;parent=gene_aspfum3_1464
+aspfum3_Chr1AfumigatusAf293	bed	RNA	15806	40147	.	-	ID=rna_aspfum3_1465;Description=;parent=gene_aspfum3_1465
+aspfum3_Chr1AfumigatusAf293	bed	RNA	20507	35096	.	+	ID=rna_aspfum3_1466;Description=;parent=gene_aspfum3_1466
+aspfum3_Chr1AfumigatusAf293	bed	RNA	23513	32171	.	+	ID=rna_aspfum3_1467;Description=;parent=gene_aspfum3_1467
+aspfum3_Chr1AfumigatusAf293	bed	RNA	25799	30323	.	-	ID=rna_aspfum3_1468;Description=;parent=gene_aspfum3_1468
+aspfum3_Chr1AfumigatusAf293	bed	RNA	27286	26712	.	+	ID=rna_aspfum3_1469;Description=;parent=gene_aspfum3_1469
+aspfum3_Chr1AfumigatusAf293	bed	RNA	31519	25105	.	-	ID=rna_aspfum3_1470;Description=;parent=gene_aspfum3_1470
+aspfum3_Chr1AfumigatusAf293	bed	RNA	34782	22154	.	-	ID=rna_aspfum3_1471;Description=;parent=gene_aspfum3_1471
+aspfum3_Chr1AfumigatusAf293	bed	RNA	35838	20187	.	+	ID=rna_aspfum3_1472;Description=;parent=gene_aspfum3_1472
+aspfum3_Chr1AfumigatusAf293	bed	RNA	37414	18948	.	-	ID=rna_aspfum3_1473;Description=;parent=gene_aspfum3_1473
+aspfum3_Chr1AfumigatusAf293	bed	RNA	38678	17714	.	-	ID=rna_aspfum3_1474;Description=;parent=gene_aspfum3_1474
+aspfum3_Chr1AfumigatusAf293	bed	RNA	41227	15418	.	+	ID=rna_aspfum3_eg75549;Description=;parent=gene_aspfum3_eg75549
+aspfum3_Chr1AfumigatusAf293	bed	RNA	42590	13732	.	-	ID=rna_aspfum3_1475;Description=;parent=gene_aspfum3_1475
+aspfum3_Chr1AfumigatusAf293	bed	RNA	45547	8388	.	-	ID=rna_aspfum3_1476;Description=;parent=gene_aspfum3_1476
+aspfum3_Chr1AfumigatusAf293	bed	RNA	50400	6731	.	-	ID=rna_aspfum3_1477;Description=;parent=gene_aspfum3_1477
+aspfum3_Chr1AfumigatusAf293	bed	RNA	51429	5239	.	+	ID=rna_aspfum3_1478;Description=;parent=gene_aspfum3_1478
+aspfum3_Chr1AfumigatusAf293	bed	RNA	53082	3669	.	+	ID=rna_aspfum3_1479;Description=;parent=gene_aspfum3_1479
+aspfum3_Chr1AfumigatusAf293	bed	RNA	54198	451	.	-	ID=rna_aspfum3_1480;Description=;parent=gene_aspfum3_1480
+aspfum3_Chr1AfumigatusAf293	bed	RNA	57343	0	.	-	ID=rna_aspfum3_1480|aspfum16_JADLZQ010000296.1|up;Description=;parent=gene_aspfum3_1480|aspfum16_JADLZQ010000296.1|up
+aspfum3_Chr1AfumigatusAf293	bed	CDS	1	57342	.	-	ID=cds_aspfum3_1480|aspfum16_JADLZQ010000296.1|down;Description=;parent=rna_aspfum3_1480|aspfum16_JADLZQ010000296.1|down
+aspfum3_Chr1AfumigatusAf293	bed	CDS	1357	54793	.	+	ID=cds_aspfum3_1461;Description=;parent=rna_aspfum3_1461
+aspfum3_Chr1AfumigatusAf293	bed	CDS	3161	53979	.	-	ID=cds_aspfum3_eg75328;Description=;parent=rna_aspfum3_eg75328
+aspfum3_Chr1AfumigatusAf293	bed	CDS	4005	52244	.	+	ID=cds_aspfum3_1462;Description=;parent=rna_aspfum3_1462
+aspfum3_Chr1AfumigatusAf293	bed	CDS	9628	47059	.	-	ID=cds_aspfum3_eg75778;Description=;parent=rna_aspfum3_eg75778
+aspfum3_Chr1AfumigatusAf293	bed	CDS	11793	44388	.	+	ID=cds_aspfum3_1463;Description=;parent=rna_aspfum3_1463
+aspfum3_Chr1AfumigatusAf293	bed	CDS	13026	43474	.	+	ID=cds_aspfum3_1464;Description=;parent=rna_aspfum3_1464
+aspfum3_Chr1AfumigatusAf293	bed	CDS	15806	40147	.	-	ID=cds_aspfum3_1465;Description=;parent=rna_aspfum3_1465
+aspfum3_Chr1AfumigatusAf293	bed	CDS	20507	35096	.	+	ID=cds_aspfum3_1466;Description=;parent=rna_aspfum3_1466
+aspfum3_Chr1AfumigatusAf293	bed	CDS	23513	32171	.	+	ID=cds_aspfum3_1467;Description=;parent=rna_aspfum3_1467
+aspfum3_Chr1AfumigatusAf293	bed	CDS	25799	30323	.	-	ID=cds_aspfum3_1468;Description=;parent=rna_aspfum3_1468
+aspfum3_Chr1AfumigatusAf293	bed	CDS	27286	26712	.	+	ID=cds_aspfum3_1469;Description=;parent=rna_aspfum3_1469
+aspfum3_Chr1AfumigatusAf293	bed	CDS	31519	25105	.	-	ID=cds_aspfum3_1470;Description=;parent=rna_aspfum3_1470
+aspfum3_Chr1AfumigatusAf293	bed	CDS	34782	22154	.	-	ID=cds_aspfum3_1471;Description=;parent=rna_aspfum3_1471
+aspfum3_Chr1AfumigatusAf293	bed	CDS	35838	20187	.	+	ID=cds_aspfum3_1472;Description=;parent=rna_aspfum3_1472
+aspfum3_Chr1AfumigatusAf293	bed	CDS	37414	18948	.	-	ID=cds_aspfum3_1473;Description=;parent=rna_aspfum3_1473
+aspfum3_Chr1AfumigatusAf293	bed	CDS	38678	17714	.	-	ID=cds_aspfum3_1474;Description=;parent=rna_aspfum3_1474
+aspfum3_Chr1AfumigatusAf293	bed	CDS	41227	15418	.	+	ID=cds_aspfum3_eg75549;Description=;parent=rna_aspfum3_eg75549
+aspfum3_Chr1AfumigatusAf293	bed	CDS	42590	13732	.	-	ID=cds_aspfum3_1475;Description=;parent=rna_aspfum3_1475
+aspfum3_Chr1AfumigatusAf293	bed	CDS	45547	8388	.	-	ID=cds_aspfum3_1476;Description=;parent=rna_aspfum3_1476
+aspfum3_Chr1AfumigatusAf293	bed	CDS	50400	6731	.	-	ID=cds_aspfum3_1477;Description=;parent=rna_aspfum3_1477
+aspfum3_Chr1AfumigatusAf293	bed	CDS	51429	5239	.	+	ID=cds_aspfum3_1478;Description=;parent=rna_aspfum3_1478
+aspfum3_Chr1AfumigatusAf293	bed	CDS	53082	3669	.	+	ID=cds_aspfum3_1479;Description=;parent=rna_aspfum3_1479
+aspfum3_Chr1AfumigatusAf293	bed	CDS	54198	451	.	-	ID=cds_aspfum3_1480;Description=;parent=rna_aspfum3_1480
+aspfum3_Chr1AfumigatusAf293	bed	CDS	57343	0	.	-	ID=cds_aspfum3_1480|aspfum16_JADLZQ010000296.1|up;Description=;parent=rna_aspfum3_1480|aspfum16_JADLZQ010000296.1|up

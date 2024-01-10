@@ -1,0 +1,32 @@
+colfru6_QPMW01000008.1	bed	region	1	63741	.	-	flank	ID=gene_colfru6_tyr4318|DR|down;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	4555	58792	.	-	.	ID=gene_colfru6_KAF4914430.1;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	6576	56648	.	+	.	ID=gene_colfru6_eg192903;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	14205	49322	.	+	.	ID=gene_colfru6_KAF4914431.1;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	18494	41310	.	+	.	ID=gene_colfru6_KAF4914438.1;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	24763	37495	.	-	d37	ID=gene_colfru6_d372553;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	35727	27692	.	+	.	ID=gene_colfru6_eg192898;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	37224	22569	.	+	nlr	ID=gene_colfru6_nlr57901;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	47395	15565	.	-	.	ID=gene_colfru6_eg192823;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	56511	6671	.	+	.	ID=gene_colfru6_eg192905;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	gene	59966	385	.	-	cap	ID=gene_colfru6_tyr4318;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	region	63742	0	.	-	flank	ID=gene_colfru6_tyr4318|DR|up;Description=colfru6_s04079;parent=colfru6_QPMW01000008.1
+colfru6_QPMW01000008.1	bed	RNA	4555	58792	.	-	ID=rna_colfru6_KAF4914430.1;Description=;parent=gene_colfru6_KAF4914430.1
+colfru6_QPMW01000008.1	bed	RNA	6576	56648	.	+	ID=rna_colfru6_eg192903;Description=;parent=gene_colfru6_eg192903
+colfru6_QPMW01000008.1	bed	RNA	14205	49322	.	+	ID=rna_colfru6_KAF4914431.1;Description=;parent=gene_colfru6_KAF4914431.1
+colfru6_QPMW01000008.1	bed	RNA	18494	41310	.	+	ID=rna_colfru6_KAF4914438.1;Description=;parent=gene_colfru6_KAF4914438.1
+colfru6_QPMW01000008.1	bed	RNA	24763	37495	.	-	ID=rna_colfru6_d372553;Description=;parent=gene_colfru6_d372553
+colfru6_QPMW01000008.1	bed	RNA	35727	27692	.	+	ID=rna_colfru6_eg192898;Description=;parent=gene_colfru6_eg192898
+colfru6_QPMW01000008.1	bed	RNA	37224	22569	.	+	ID=rna_colfru6_nlr57901;Description=;parent=gene_colfru6_nlr57901
+colfru6_QPMW01000008.1	bed	RNA	47395	15565	.	-	ID=rna_colfru6_eg192823;Description=;parent=gene_colfru6_eg192823
+colfru6_QPMW01000008.1	bed	RNA	56511	6671	.	+	ID=rna_colfru6_eg192905;Description=;parent=gene_colfru6_eg192905
+colfru6_QPMW01000008.1	bed	RNA	59966	385	.	-	ID=rna_colfru6_tyr4318;Description=;parent=gene_colfru6_tyr4318
+colfru6_QPMW01000008.1	bed	CDS	4555	58792	.	-	ID=cds_colfru6_KAF4914430.1;Description=;parent=rna_colfru6_KAF4914430.1
+colfru6_QPMW01000008.1	bed	CDS	6576	56648	.	+	ID=cds_colfru6_eg192903;Description=;parent=rna_colfru6_eg192903
+colfru6_QPMW01000008.1	bed	CDS	14205	49322	.	+	ID=cds_colfru6_KAF4914431.1;Description=;parent=rna_colfru6_KAF4914431.1
+colfru6_QPMW01000008.1	bed	CDS	18494	41310	.	+	ID=cds_colfru6_KAF4914438.1;Description=;parent=rna_colfru6_KAF4914438.1
+colfru6_QPMW01000008.1	bed	CDS	24763	37495	.	-	ID=cds_colfru6_d372553;Description=;parent=rna_colfru6_d372553
+colfru6_QPMW01000008.1	bed	CDS	35727	27692	.	+	ID=cds_colfru6_eg192898;Description=;parent=rna_colfru6_eg192898
+colfru6_QPMW01000008.1	bed	CDS	37224	22569	.	+	ID=cds_colfru6_nlr57901;Description=;parent=rna_colfru6_nlr57901
+colfru6_QPMW01000008.1	bed	CDS	47395	15565	.	-	ID=cds_colfru6_eg192823;Description=;parent=rna_colfru6_eg192823
+colfru6_QPMW01000008.1	bed	CDS	56511	6671	.	+	ID=cds_colfru6_eg192905;Description=;parent=rna_colfru6_eg192905
+colfru6_QPMW01000008.1	bed	CDS	59966	385	.	-	ID=cds_colfru6_tyr4318;Description=;parent=rna_colfru6_tyr4318

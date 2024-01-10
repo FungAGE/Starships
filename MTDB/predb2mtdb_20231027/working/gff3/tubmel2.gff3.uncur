@@ -1,0 +1,36 @@
+tubmel2_scaffold55	bed	gene	1	83156	.	+	insert	ID=gene_tubmel2_tyr10605|tubind1_scaffold56|up;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	4284	77833	.	+	cap	ID=gene_tubmel2_tyr10605;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	7969	73925	.	-	.	ID=gene_tubmel2_7622;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	40655	41848	.	+	.	ID=gene_tubmel2_7623;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	42843	39388	.	-	.	ID=gene_tubmel2_7624;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	54180	26618	.	-	.	ID=gene_tubmel2_7625;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	57716	23127	.	+	.	ID=gene_tubmel2_7626;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	58860	24049	.	+	.	ID=gene_tubmel2_7627;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	65855	16640	.	+	.	ID=gene_tubmel2_7628;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	67523	14212	.	+	.	ID=gene_tubmel2_7629;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	83123	3909	.	-	.	ID=gene_tubmel2_7630;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	gene	83157	0	.	+	insert	ID=gene_tubmel2_tyr10605|tubind1_scaffold56|down;Description=tubmel2_s10150;parent=tubmel2_scaffold55
+tubmel2_scaffold55	bed	RNA	1	83156	.	+	ID=rna_tubmel2_tyr10605|tubind1_scaffold56|up;Description=;parent=gene_tubmel2_tyr10605|tubind1_scaffold56|up
+tubmel2_scaffold55	bed	RNA	4284	77833	.	+	ID=rna_tubmel2_tyr10605;Description=;parent=gene_tubmel2_tyr10605
+tubmel2_scaffold55	bed	RNA	7969	73925	.	-	ID=rna_tubmel2_7622;Description=;parent=gene_tubmel2_7622
+tubmel2_scaffold55	bed	RNA	40655	41848	.	+	ID=rna_tubmel2_7623;Description=;parent=gene_tubmel2_7623
+tubmel2_scaffold55	bed	RNA	42843	39388	.	-	ID=rna_tubmel2_7624;Description=;parent=gene_tubmel2_7624
+tubmel2_scaffold55	bed	RNA	54180	26618	.	-	ID=rna_tubmel2_7625;Description=;parent=gene_tubmel2_7625
+tubmel2_scaffold55	bed	RNA	57716	23127	.	+	ID=rna_tubmel2_7626;Description=;parent=gene_tubmel2_7626
+tubmel2_scaffold55	bed	RNA	58860	24049	.	+	ID=rna_tubmel2_7627;Description=;parent=gene_tubmel2_7627
+tubmel2_scaffold55	bed	RNA	65855	16640	.	+	ID=rna_tubmel2_7628;Description=;parent=gene_tubmel2_7628
+tubmel2_scaffold55	bed	RNA	67523	14212	.	+	ID=rna_tubmel2_7629;Description=;parent=gene_tubmel2_7629
+tubmel2_scaffold55	bed	RNA	83123	3909	.	-	ID=rna_tubmel2_7630;Description=;parent=gene_tubmel2_7630
+tubmel2_scaffold55	bed	RNA	83157	0	.	+	ID=rna_tubmel2_tyr10605|tubind1_scaffold56|down;Description=;parent=gene_tubmel2_tyr10605|tubind1_scaffold56|down
+tubmel2_scaffold55	bed	CDS	1	83156	.	+	ID=cds_tubmel2_tyr10605|tubind1_scaffold56|up;Description=;parent=rna_tubmel2_tyr10605|tubind1_scaffold56|up
+tubmel2_scaffold55	bed	CDS	4284	77833	.	+	ID=cds_tubmel2_tyr10605;Description=;parent=rna_tubmel2_tyr10605
+tubmel2_scaffold55	bed	CDS	7969	73925	.	-	ID=cds_tubmel2_7622;Description=;parent=rna_tubmel2_7622
+tubmel2_scaffold55	bed	CDS	40655	41848	.	+	ID=cds_tubmel2_7623;Description=;parent=rna_tubmel2_7623
+tubmel2_scaffold55	bed	CDS	42843	39388	.	-	ID=cds_tubmel2_7624;Description=;parent=rna_tubmel2_7624
+tubmel2_scaffold55	bed	CDS	54180	26618	.	-	ID=cds_tubmel2_7625;Description=;parent=rna_tubmel2_7625
+tubmel2_scaffold55	bed	CDS	57716	23127	.	+	ID=cds_tubmel2_7626;Description=;parent=rna_tubmel2_7626
+tubmel2_scaffold55	bed	CDS	58860	24049	.	+	ID=cds_tubmel2_7627;Description=;parent=rna_tubmel2_7627
+tubmel2_scaffold55	bed	CDS	65855	16640	.	+	ID=cds_tubmel2_7628;Description=;parent=rna_tubmel2_7628
+tubmel2_scaffold55	bed	CDS	67523	14212	.	+	ID=cds_tubmel2_7629;Description=;parent=rna_tubmel2_7629
+tubmel2_scaffold55	bed	CDS	83123	3909	.	-	ID=cds_tubmel2_7630;Description=;parent=rna_tubmel2_7630
+tubmel2_scaffold55	bed	CDS	83157	0	.	+	ID=cds_tubmel2_tyr10605|tubind1_scaffold56|down;Description=;parent=rna_tubmel2_tyr10605|tubind1_scaffold56|down

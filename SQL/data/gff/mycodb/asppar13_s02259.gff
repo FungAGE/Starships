@@ -1,0 +1,18 @@
+asppar13_SJFK01000037.1	bed	gene	1	18368	.	+	insert	ID=gene_asppar13_tyr2364|aspnov4_ML733573.1|up;Description=asppar13_s02259;parent=asppar13_SJFK01000037.1
+asppar13_SJFK01000037.1	bed	gene	777	16084	.	+	.	ID=gene_asppar13_eg143043;Description=asppar13_s02259;parent=asppar13_SJFK01000037.1
+asppar13_SJFK01000037.1	bed	gene	2757	15337	.	+	.	ID=gene_asppar13_eg143172;Description=asppar13_s02259;parent=asppar13_SJFK01000037.1
+asppar13_SJFK01000037.1	bed	gene	3314	12504	.	+	cap	ID=gene_asppar13_tyr2364;Description=asppar13_s02259;parent=asppar13_SJFK01000037.1
+asppar13_SJFK01000037.1	bed	gene	15157	1795	.	+	.	ID=gene_asppar13_eg143122;Description=asppar13_s02259;parent=asppar13_SJFK01000037.1
+asppar13_SJFK01000037.1	bed	gene	18369	0	.	+	insert	ID=gene_asppar13_tyr2364|aspnov4_ML733573.1|down;Description=asppar13_s02259;parent=asppar13_SJFK01000037.1
+asppar13_SJFK01000037.1	bed	RNA	1	18368	.	+	ID=rna_asppar13_tyr2364|aspnov4_ML733573.1|up;Description=;parent=gene_asppar13_tyr2364|aspnov4_ML733573.1|up
+asppar13_SJFK01000037.1	bed	RNA	777	16084	.	+	ID=rna_asppar13_eg143043;Description=;parent=gene_asppar13_eg143043
+asppar13_SJFK01000037.1	bed	RNA	2757	15337	.	+	ID=rna_asppar13_eg143172;Description=;parent=gene_asppar13_eg143172
+asppar13_SJFK01000037.1	bed	RNA	3314	12504	.	+	ID=rna_asppar13_tyr2364;Description=;parent=gene_asppar13_tyr2364
+asppar13_SJFK01000037.1	bed	RNA	15157	1795	.	+	ID=rna_asppar13_eg143122;Description=;parent=gene_asppar13_eg143122
+asppar13_SJFK01000037.1	bed	RNA	18369	0	.	+	ID=rna_asppar13_tyr2364|aspnov4_ML733573.1|down;Description=;parent=gene_asppar13_tyr2364|aspnov4_ML733573.1|down
+asppar13_SJFK01000037.1	bed	CDS	1	18368	.	+	ID=cds_asppar13_tyr2364|aspnov4_ML733573.1|up;Description=;parent=rna_asppar13_tyr2364|aspnov4_ML733573.1|up
+asppar13_SJFK01000037.1	bed	CDS	777	16084	.	+	ID=cds_asppar13_eg143043;Description=;parent=rna_asppar13_eg143043
+asppar13_SJFK01000037.1	bed	CDS	2757	15337	.	+	ID=cds_asppar13_eg143172;Description=;parent=rna_asppar13_eg143172
+asppar13_SJFK01000037.1	bed	CDS	3314	12504	.	+	ID=cds_asppar13_tyr2364;Description=;parent=rna_asppar13_tyr2364
+asppar13_SJFK01000037.1	bed	CDS	15157	1795	.	+	ID=cds_asppar13_eg143122;Description=;parent=rna_asppar13_eg143122
+asppar13_SJFK01000037.1	bed	CDS	18369	0	.	+	ID=cds_asppar13_tyr2364|aspnov4_ML733573.1|down;Description=;parent=rna_asppar13_tyr2364|aspnov4_ML733573.1|down

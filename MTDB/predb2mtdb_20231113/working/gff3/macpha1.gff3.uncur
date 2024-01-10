@@ -1,0 +1,145 @@
+macpha1_scaffold1	bed	region	1	103350	.	+	flank	ID=gene_macpha1_749149|DR|up;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	region	17	103331	.	+	flank	ID=gene_macpha1_749149|TIR|up;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	405	100294	.	+	cap	ID=gene_macpha1_749149;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	3907	98466	.	+	.	ID=gene_macpha1_693456;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	5086	97967	.	+	.	ID=gene_macpha1_559809;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	6699	95983	.	+	.	ID=gene_macpha1_749156;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	8532	93972	.	+	.	ID=gene_macpha1_24606;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	10019	92704	.	+	.	ID=gene_macpha1_693460;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	13071	86242	.	-	nlr	ID=gene_macpha1_24715;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	19005	84006	.	+	.	ID=gene_macpha1_693463;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	21457	81326	.	-	.	ID=gene_macpha1_693464;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	23044	79439	.	-	.	ID=gene_macpha1_24807;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	23621	78540	.	-	.	ID=gene_macpha1_639053;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	25971	75689	.	+	.	ID=gene_macpha1_780493;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	28567	74564	.	-	.	ID=gene_macpha1_eg338719;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	28926	73764	.	-	.	ID=gene_macpha1_eg338446;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	29664	70834	.	-	nlr	ID=gene_macpha1_723152;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	36013	67127	.	+	.	ID=gene_macpha1_545041;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	36936	66024	.	+	.	ID=gene_macpha1_eg338716;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	39499	62542	.	-	.	ID=gene_macpha1_723154;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	41091	61548	.	+	.	ID=gene_macpha1_780495;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	42159	60768	.	-	.	ID=gene_macpha1_693471;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	46315	56353	.	-	.	ID=gene_macpha1_693472;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	47474	54606	.	+	.	ID=gene_macpha1_734466;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	48963	53958	.	-	.	ID=gene_macpha1_eg338399;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	49422	53343	.	-	.	ID=gene_macpha1_eg338714;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	50622	52323	.	-	.	ID=gene_macpha1_eg338702;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	51528	48986	.	-	.	ID=gene_macpha1_eg338563;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	54656	47478	.	+	.	ID=gene_macpha1_639125;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	55940	44639	.	+	.	ID=gene_macpha1_693475;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	58855	42922	.	-	.	ID=gene_macpha1_25163;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	60956	40512	.	-	fre	ID=gene_macpha1_fre20811;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	63740	39027	.	-	.	ID=gene_macpha1_734471;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	66214	33916	.	-	d37	ID=gene_macpha1_561719:639133;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	69715	30535	.	+	plp	ID=gene_macpha1_749192;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	73458	28610	.	+	.	ID=gene_macpha1_639137;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	75892	25834	.	+	.	ID=gene_macpha1_639143;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	77389	24891	.	+	.	ID=gene_macpha1_639148;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	78025	24605	.	-	.	ID=gene_macpha1_25264;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	81999	19654	.	-	.	ID=gene_macpha1_723169;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	85283	17263	.	-	.	ID=gene_macpha1_749208;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	86253	16321	.	+	.	ID=gene_macpha1_639153;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	88162	14270	.	-	.	ID=gene_macpha1_639155;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	89164	13072	.	-	.	ID=gene_macpha1_25320;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	90581	11586	.	-	.	ID=gene_macpha1_749212;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	91766	10477	.	-	.	ID=gene_macpha1_25339;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	93382	7923	.	-	.	ID=gene_macpha1_25361;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	99623	3625	.	-	.	ID=gene_macpha1_eg338420;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	gene	100080	1838	.	-	.	ID=gene_macpha1_25408;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	region	103330	19	.	+	flank	ID=gene_macpha1_749149|TIR|down;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	region	103352	0	.	+	flank	ID=gene_macpha1_749149|DR|down;Description=macpha1_s07667;parent=macpha1_scaffold1
+macpha1_scaffold1	bed	RNA	405	100294	.	+	ID=rna_macpha1_749149;Description=;parent=gene_macpha1_749149
+macpha1_scaffold1	bed	RNA	3907	98466	.	+	ID=rna_macpha1_693456;Description=;parent=gene_macpha1_693456
+macpha1_scaffold1	bed	RNA	5086	97967	.	+	ID=rna_macpha1_559809;Description=;parent=gene_macpha1_559809
+macpha1_scaffold1	bed	RNA	6699	95983	.	+	ID=rna_macpha1_749156;Description=;parent=gene_macpha1_749156
+macpha1_scaffold1	bed	RNA	8532	93972	.	+	ID=rna_macpha1_24606;Description=;parent=gene_macpha1_24606
+macpha1_scaffold1	bed	RNA	10019	92704	.	+	ID=rna_macpha1_693460;Description=;parent=gene_macpha1_693460
+macpha1_scaffold1	bed	RNA	13071	86242	.	-	ID=rna_macpha1_24715;Description=;parent=gene_macpha1_24715
+macpha1_scaffold1	bed	RNA	19005	84006	.	+	ID=rna_macpha1_693463;Description=;parent=gene_macpha1_693463
+macpha1_scaffold1	bed	RNA	21457	81326	.	-	ID=rna_macpha1_693464;Description=;parent=gene_macpha1_693464
+macpha1_scaffold1	bed	RNA	23044	79439	.	-	ID=rna_macpha1_24807;Description=;parent=gene_macpha1_24807
+macpha1_scaffold1	bed	RNA	23621	78540	.	-	ID=rna_macpha1_639053;Description=;parent=gene_macpha1_639053
+macpha1_scaffold1	bed	RNA	25971	75689	.	+	ID=rna_macpha1_780493;Description=;parent=gene_macpha1_780493
+macpha1_scaffold1	bed	RNA	28567	74564	.	-	ID=rna_macpha1_eg338719;Description=;parent=gene_macpha1_eg338719
+macpha1_scaffold1	bed	RNA	28926	73764	.	-	ID=rna_macpha1_eg338446;Description=;parent=gene_macpha1_eg338446
+macpha1_scaffold1	bed	RNA	29664	70834	.	-	ID=rna_macpha1_723152;Description=;parent=gene_macpha1_723152
+macpha1_scaffold1	bed	RNA	36013	67127	.	+	ID=rna_macpha1_545041;Description=;parent=gene_macpha1_545041
+macpha1_scaffold1	bed	RNA	36936	66024	.	+	ID=rna_macpha1_eg338716;Description=;parent=gene_macpha1_eg338716
+macpha1_scaffold1	bed	RNA	39499	62542	.	-	ID=rna_macpha1_723154;Description=;parent=gene_macpha1_723154
+macpha1_scaffold1	bed	RNA	41091	61548	.	+	ID=rna_macpha1_780495;Description=;parent=gene_macpha1_780495
+macpha1_scaffold1	bed	RNA	42159	60768	.	-	ID=rna_macpha1_693471;Description=;parent=gene_macpha1_693471
+macpha1_scaffold1	bed	RNA	46315	56353	.	-	ID=rna_macpha1_693472;Description=;parent=gene_macpha1_693472
+macpha1_scaffold1	bed	RNA	47474	54606	.	+	ID=rna_macpha1_734466;Description=;parent=gene_macpha1_734466
+macpha1_scaffold1	bed	RNA	48963	53958	.	-	ID=rna_macpha1_eg338399;Description=;parent=gene_macpha1_eg338399
+macpha1_scaffold1	bed	RNA	49422	53343	.	-	ID=rna_macpha1_eg338714;Description=;parent=gene_macpha1_eg338714
+macpha1_scaffold1	bed	RNA	50622	52323	.	-	ID=rna_macpha1_eg338702;Description=;parent=gene_macpha1_eg338702
+macpha1_scaffold1	bed	RNA	51528	48986	.	-	ID=rna_macpha1_eg338563;Description=;parent=gene_macpha1_eg338563
+macpha1_scaffold1	bed	RNA	54656	47478	.	+	ID=rna_macpha1_639125;Description=;parent=gene_macpha1_639125
+macpha1_scaffold1	bed	RNA	55940	44639	.	+	ID=rna_macpha1_693475;Description=;parent=gene_macpha1_693475
+macpha1_scaffold1	bed	RNA	58855	42922	.	-	ID=rna_macpha1_25163;Description=;parent=gene_macpha1_25163
+macpha1_scaffold1	bed	RNA	60956	40512	.	-	ID=rna_macpha1_fre20811;Description=;parent=gene_macpha1_fre20811
+macpha1_scaffold1	bed	RNA	63740	39027	.	-	ID=rna_macpha1_734471;Description=;parent=gene_macpha1_734471
+macpha1_scaffold1	bed	RNA	66214	33916	.	-	ID=rna_macpha1_561719:639133;Description=;parent=gene_macpha1_561719:639133
+macpha1_scaffold1	bed	RNA	69715	30535	.	+	ID=rna_macpha1_749192;Description=;parent=gene_macpha1_749192
+macpha1_scaffold1	bed	RNA	73458	28610	.	+	ID=rna_macpha1_639137;Description=;parent=gene_macpha1_639137
+macpha1_scaffold1	bed	RNA	75892	25834	.	+	ID=rna_macpha1_639143;Description=;parent=gene_macpha1_639143
+macpha1_scaffold1	bed	RNA	77389	24891	.	+	ID=rna_macpha1_639148;Description=;parent=gene_macpha1_639148
+macpha1_scaffold1	bed	RNA	78025	24605	.	-	ID=rna_macpha1_25264;Description=;parent=gene_macpha1_25264
+macpha1_scaffold1	bed	RNA	81999	19654	.	-	ID=rna_macpha1_723169;Description=;parent=gene_macpha1_723169
+macpha1_scaffold1	bed	RNA	85283	17263	.	-	ID=rna_macpha1_749208;Description=;parent=gene_macpha1_749208
+macpha1_scaffold1	bed	RNA	86253	16321	.	+	ID=rna_macpha1_639153;Description=;parent=gene_macpha1_639153
+macpha1_scaffold1	bed	RNA	88162	14270	.	-	ID=rna_macpha1_639155;Description=;parent=gene_macpha1_639155
+macpha1_scaffold1	bed	RNA	89164	13072	.	-	ID=rna_macpha1_25320;Description=;parent=gene_macpha1_25320
+macpha1_scaffold1	bed	RNA	90581	11586	.	-	ID=rna_macpha1_749212;Description=;parent=gene_macpha1_749212
+macpha1_scaffold1	bed	RNA	91766	10477	.	-	ID=rna_macpha1_25339;Description=;parent=gene_macpha1_25339
+macpha1_scaffold1	bed	RNA	93382	7923	.	-	ID=rna_macpha1_25361;Description=;parent=gene_macpha1_25361
+macpha1_scaffold1	bed	RNA	99623	3625	.	-	ID=rna_macpha1_eg338420;Description=;parent=gene_macpha1_eg338420
+macpha1_scaffold1	bed	RNA	100080	1838	.	-	ID=rna_macpha1_25408;Description=;parent=gene_macpha1_25408
+macpha1_scaffold1	bed	CDS	405	100294	.	+	ID=cds_macpha1_749149;Description=;parent=rna_macpha1_749149
+macpha1_scaffold1	bed	CDS	3907	98466	.	+	ID=cds_macpha1_693456;Description=;parent=rna_macpha1_693456
+macpha1_scaffold1	bed	CDS	5086	97967	.	+	ID=cds_macpha1_559809;Description=;parent=rna_macpha1_559809
+macpha1_scaffold1	bed	CDS	6699	95983	.	+	ID=cds_macpha1_749156;Description=;parent=rna_macpha1_749156
+macpha1_scaffold1	bed	CDS	8532	93972	.	+	ID=cds_macpha1_24606;Description=;parent=rna_macpha1_24606
+macpha1_scaffold1	bed	CDS	10019	92704	.	+	ID=cds_macpha1_693460;Description=;parent=rna_macpha1_693460
+macpha1_scaffold1	bed	CDS	13071	86242	.	-	ID=cds_macpha1_24715;Description=;parent=rna_macpha1_24715
+macpha1_scaffold1	bed	CDS	19005	84006	.	+	ID=cds_macpha1_693463;Description=;parent=rna_macpha1_693463
+macpha1_scaffold1	bed	CDS	21457	81326	.	-	ID=cds_macpha1_693464;Description=;parent=rna_macpha1_693464
+macpha1_scaffold1	bed	CDS	23044	79439	.	-	ID=cds_macpha1_24807;Description=;parent=rna_macpha1_24807
+macpha1_scaffold1	bed	CDS	23621	78540	.	-	ID=cds_macpha1_639053;Description=;parent=rna_macpha1_639053
+macpha1_scaffold1	bed	CDS	25971	75689	.	+	ID=cds_macpha1_780493;Description=;parent=rna_macpha1_780493
+macpha1_scaffold1	bed	CDS	28567	74564	.	-	ID=cds_macpha1_eg338719;Description=;parent=rna_macpha1_eg338719
+macpha1_scaffold1	bed	CDS	28926	73764	.	-	ID=cds_macpha1_eg338446;Description=;parent=rna_macpha1_eg338446
+macpha1_scaffold1	bed	CDS	29664	70834	.	-	ID=cds_macpha1_723152;Description=;parent=rna_macpha1_723152
+macpha1_scaffold1	bed	CDS	36013	67127	.	+	ID=cds_macpha1_545041;Description=;parent=rna_macpha1_545041
+macpha1_scaffold1	bed	CDS	36936	66024	.	+	ID=cds_macpha1_eg338716;Description=;parent=rna_macpha1_eg338716
+macpha1_scaffold1	bed	CDS	39499	62542	.	-	ID=cds_macpha1_723154;Description=;parent=rna_macpha1_723154
+macpha1_scaffold1	bed	CDS	41091	61548	.	+	ID=cds_macpha1_780495;Description=;parent=rna_macpha1_780495
+macpha1_scaffold1	bed	CDS	42159	60768	.	-	ID=cds_macpha1_693471;Description=;parent=rna_macpha1_693471
+macpha1_scaffold1	bed	CDS	46315	56353	.	-	ID=cds_macpha1_693472;Description=;parent=rna_macpha1_693472
+macpha1_scaffold1	bed	CDS	47474	54606	.	+	ID=cds_macpha1_734466;Description=;parent=rna_macpha1_734466
+macpha1_scaffold1	bed	CDS	48963	53958	.	-	ID=cds_macpha1_eg338399;Description=;parent=rna_macpha1_eg338399
+macpha1_scaffold1	bed	CDS	49422	53343	.	-	ID=cds_macpha1_eg338714;Description=;parent=rna_macpha1_eg338714
+macpha1_scaffold1	bed	CDS	50622	52323	.	-	ID=cds_macpha1_eg338702;Description=;parent=rna_macpha1_eg338702
+macpha1_scaffold1	bed	CDS	51528	48986	.	-	ID=cds_macpha1_eg338563;Description=;parent=rna_macpha1_eg338563
+macpha1_scaffold1	bed	CDS	54656	47478	.	+	ID=cds_macpha1_639125;Description=;parent=rna_macpha1_639125
+macpha1_scaffold1	bed	CDS	55940	44639	.	+	ID=cds_macpha1_693475;Description=;parent=rna_macpha1_693475
+macpha1_scaffold1	bed	CDS	58855	42922	.	-	ID=cds_macpha1_25163;Description=;parent=rna_macpha1_25163
+macpha1_scaffold1	bed	CDS	60956	40512	.	-	ID=cds_macpha1_fre20811;Description=;parent=rna_macpha1_fre20811
+macpha1_scaffold1	bed	CDS	63740	39027	.	-	ID=cds_macpha1_734471;Description=;parent=rna_macpha1_734471
+macpha1_scaffold1	bed	CDS	66214	33916	.	-	ID=cds_macpha1_561719:639133;Description=;parent=rna_macpha1_561719:639133
+macpha1_scaffold1	bed	CDS	69715	30535	.	+	ID=cds_macpha1_749192;Description=;parent=rna_macpha1_749192
+macpha1_scaffold1	bed	CDS	73458	28610	.	+	ID=cds_macpha1_639137;Description=;parent=rna_macpha1_639137
+macpha1_scaffold1	bed	CDS	75892	25834	.	+	ID=cds_macpha1_639143;Description=;parent=rna_macpha1_639143
+macpha1_scaffold1	bed	CDS	77389	24891	.	+	ID=cds_macpha1_639148;Description=;parent=rna_macpha1_639148
+macpha1_scaffold1	bed	CDS	78025	24605	.	-	ID=cds_macpha1_25264;Description=;parent=rna_macpha1_25264
+macpha1_scaffold1	bed	CDS	81999	19654	.	-	ID=cds_macpha1_723169;Description=;parent=rna_macpha1_723169
+macpha1_scaffold1	bed	CDS	85283	17263	.	-	ID=cds_macpha1_749208;Description=;parent=rna_macpha1_749208
+macpha1_scaffold1	bed	CDS	86253	16321	.	+	ID=cds_macpha1_639153;Description=;parent=rna_macpha1_639153
+macpha1_scaffold1	bed	CDS	88162	14270	.	-	ID=cds_macpha1_639155;Description=;parent=rna_macpha1_639155
+macpha1_scaffold1	bed	CDS	89164	13072	.	-	ID=cds_macpha1_25320;Description=;parent=rna_macpha1_25320
+macpha1_scaffold1	bed	CDS	90581	11586	.	-	ID=cds_macpha1_749212;Description=;parent=rna_macpha1_749212
+macpha1_scaffold1	bed	CDS	91766	10477	.	-	ID=cds_macpha1_25339;Description=;parent=rna_macpha1_25339
+macpha1_scaffold1	bed	CDS	93382	7923	.	-	ID=cds_macpha1_25361;Description=;parent=rna_macpha1_25361
+macpha1_scaffold1	bed	CDS	99623	3625	.	-	ID=cds_macpha1_eg338420;Description=;parent=rna_macpha1_eg338420
+macpha1_scaffold1	bed	CDS	100080	1838	.	-	ID=cds_macpha1_25408;Description=;parent=rna_macpha1_25408

@@ -1,0 +1,43 @@
+altlon1_JAHLEY010000013.1	bed	region	1	85282	.	-	flank	ID=gene_altlon1_tyr176|DR|down;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	region	16	85263	.	-	flank	ID=gene_altlon1_tyr176|TIR|down;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	3815	80387	.	+	.	ID=gene_altlon1_eg13336;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	9528	74326	.	+	.	ID=gene_altlon1_eg13028;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	13863	70838	.	-	.	ID=gene_altlon1_eg13382;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	19140	65678	.	+	.	ID=gene_altlon1_eg13421;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	36608	47024	.	-	fre	ID=gene_altlon1_fre533;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	39895	43415	.	-	d37	ID=gene_altlon1_d37165;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	42326	42669	.	-	d37	ID=gene_altlon1_d37164;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	42973	39750	.	+	plp	ID=gene_altlon1_plp467;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	50057	34746	.	-	.	ID=gene_altlon1_eg13371;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	50911	32380	.	-	nlr	ID=gene_altlon1_nlr8014;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	53941	29611	.	-	.	ID=gene_altlon1_eg13195;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	67934	17073	.	+	.	ID=gene_altlon1_eg13178;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	gene	83555	602	.	-	cap	ID=gene_altlon1_tyr176;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	region	85228	51	.	-	flank	ID=gene_altlon1_tyr176|TIR|up;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	region	85281	0	.	-	flank	ID=gene_altlon1_tyr176|DR|up;Description=altlon1_s00171;parent=altlon1_JAHLEY010000013.1
+altlon1_JAHLEY010000013.1	bed	RNA	3815	80387	.	+	ID=rna_altlon1_eg13336;Description=;parent=gene_altlon1_eg13336
+altlon1_JAHLEY010000013.1	bed	RNA	9528	74326	.	+	ID=rna_altlon1_eg13028;Description=;parent=gene_altlon1_eg13028
+altlon1_JAHLEY010000013.1	bed	RNA	13863	70838	.	-	ID=rna_altlon1_eg13382;Description=;parent=gene_altlon1_eg13382
+altlon1_JAHLEY010000013.1	bed	RNA	19140	65678	.	+	ID=rna_altlon1_eg13421;Description=;parent=gene_altlon1_eg13421
+altlon1_JAHLEY010000013.1	bed	RNA	36608	47024	.	-	ID=rna_altlon1_fre533;Description=;parent=gene_altlon1_fre533
+altlon1_JAHLEY010000013.1	bed	RNA	39895	43415	.	-	ID=rna_altlon1_d37165;Description=;parent=gene_altlon1_d37165
+altlon1_JAHLEY010000013.1	bed	RNA	42326	42669	.	-	ID=rna_altlon1_d37164;Description=;parent=gene_altlon1_d37164
+altlon1_JAHLEY010000013.1	bed	RNA	42973	39750	.	+	ID=rna_altlon1_plp467;Description=;parent=gene_altlon1_plp467
+altlon1_JAHLEY010000013.1	bed	RNA	50057	34746	.	-	ID=rna_altlon1_eg13371;Description=;parent=gene_altlon1_eg13371
+altlon1_JAHLEY010000013.1	bed	RNA	50911	32380	.	-	ID=rna_altlon1_nlr8014;Description=;parent=gene_altlon1_nlr8014
+altlon1_JAHLEY010000013.1	bed	RNA	53941	29611	.	-	ID=rna_altlon1_eg13195;Description=;parent=gene_altlon1_eg13195
+altlon1_JAHLEY010000013.1	bed	RNA	67934	17073	.	+	ID=rna_altlon1_eg13178;Description=;parent=gene_altlon1_eg13178
+altlon1_JAHLEY010000013.1	bed	RNA	83555	602	.	-	ID=rna_altlon1_tyr176;Description=;parent=gene_altlon1_tyr176
+altlon1_JAHLEY010000013.1	bed	CDS	3815	80387	.	+	ID=cds_altlon1_eg13336;Description=;parent=rna_altlon1_eg13336
+altlon1_JAHLEY010000013.1	bed	CDS	9528	74326	.	+	ID=cds_altlon1_eg13028;Description=;parent=rna_altlon1_eg13028
+altlon1_JAHLEY010000013.1	bed	CDS	13863	70838	.	-	ID=cds_altlon1_eg13382;Description=;parent=rna_altlon1_eg13382
+altlon1_JAHLEY010000013.1	bed	CDS	19140	65678	.	+	ID=cds_altlon1_eg13421;Description=;parent=rna_altlon1_eg13421
+altlon1_JAHLEY010000013.1	bed	CDS	36608	47024	.	-	ID=cds_altlon1_fre533;Description=;parent=rna_altlon1_fre533
+altlon1_JAHLEY010000013.1	bed	CDS	39895	43415	.	-	ID=cds_altlon1_d37165;Description=;parent=rna_altlon1_d37165
+altlon1_JAHLEY010000013.1	bed	CDS	42326	42669	.	-	ID=cds_altlon1_d37164;Description=;parent=rna_altlon1_d37164
+altlon1_JAHLEY010000013.1	bed	CDS	42973	39750	.	+	ID=cds_altlon1_plp467;Description=;parent=rna_altlon1_plp467
+altlon1_JAHLEY010000013.1	bed	CDS	50057	34746	.	-	ID=cds_altlon1_eg13371;Description=;parent=rna_altlon1_eg13371
+altlon1_JAHLEY010000013.1	bed	CDS	50911	32380	.	-	ID=cds_altlon1_nlr8014;Description=;parent=rna_altlon1_nlr8014
+altlon1_JAHLEY010000013.1	bed	CDS	53941	29611	.	-	ID=cds_altlon1_eg13195;Description=;parent=rna_altlon1_eg13195
+altlon1_JAHLEY010000013.1	bed	CDS	67934	17073	.	+	ID=cds_altlon1_eg13178;Description=;parent=rna_altlon1_eg13178
+altlon1_JAHLEY010000013.1	bed	CDS	83555	602	.	-	ID=cds_altlon1_tyr176;Description=;parent=rna_altlon1_tyr176

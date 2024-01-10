@@ -1,0 +1,14 @@
+altalt8_BJEP01000002.1	bed	region	1	55420	.	-	flank	ID=gene_altalt8_tyr84|DR|down;Description=altalt8_s00067;parent=altalt8_BJEP01000002.1
+altalt8_BJEP01000002.1	bed	gene	6974	47315	.	-	.	ID=gene_altalt8_eg3464;Description=altalt8_s00067;parent=altalt8_BJEP01000002.1
+altalt8_BJEP01000002.1	bed	gene	10606	43593	.	-	.	ID=gene_altalt8_eg3235;Description=altalt8_s00067;parent=altalt8_BJEP01000002.1
+altalt8_BJEP01000002.1	bed	gene	16464	37441	.	+	.	ID=gene_altalt8_eg2811;Description=altalt8_s00067;parent=altalt8_BJEP01000002.1
+altalt8_BJEP01000002.1	bed	gene	52283	936	.	-	cap	ID=gene_altalt8_tyr84;Description=altalt8_s00067;parent=altalt8_BJEP01000002.1
+altalt8_BJEP01000002.1	bed	region	55421	0	.	-	flank	ID=gene_altalt8_tyr84|DR|up;Description=altalt8_s00067;parent=altalt8_BJEP01000002.1
+altalt8_BJEP01000002.1	bed	RNA	6974	47315	.	-	ID=rna_altalt8_eg3464;Description=;parent=gene_altalt8_eg3464
+altalt8_BJEP01000002.1	bed	RNA	10606	43593	.	-	ID=rna_altalt8_eg3235;Description=;parent=gene_altalt8_eg3235
+altalt8_BJEP01000002.1	bed	RNA	16464	37441	.	+	ID=rna_altalt8_eg2811;Description=;parent=gene_altalt8_eg2811
+altalt8_BJEP01000002.1	bed	RNA	52283	936	.	-	ID=rna_altalt8_tyr84;Description=;parent=gene_altalt8_tyr84
+altalt8_BJEP01000002.1	bed	CDS	6974	47315	.	-	ID=cds_altalt8_eg3464;Description=;parent=rna_altalt8_eg3464
+altalt8_BJEP01000002.1	bed	CDS	10606	43593	.	-	ID=cds_altalt8_eg3235;Description=;parent=rna_altalt8_eg3235
+altalt8_BJEP01000002.1	bed	CDS	16464	37441	.	+	ID=cds_altalt8_eg2811;Description=;parent=rna_altalt8_eg2811
+altalt8_BJEP01000002.1	bed	CDS	52283	936	.	-	ID=cds_altalt8_tyr84;Description=;parent=rna_altalt8_tyr84

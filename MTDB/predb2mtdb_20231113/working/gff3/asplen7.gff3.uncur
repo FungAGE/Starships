@@ -1,0 +1,15 @@
+asplen7_JAAAPU010000119.1	bed	gene	1	20183	.	-	insert	ID=gene_asplen7_tyr1763|asplen2_BLKD01000109.1|down;Description=asplen7_s01673;parent=asplen7_JAAAPU010000119.1
+asplen7_JAAAPU010000119.1	bed	gene	3765	16188	.	+	d37	ID=gene_asplen7_d371038;Description=asplen7_s01673;parent=asplen7_JAAAPU010000119.1
+asplen7_JAAAPU010000119.1	bed	gene	4358	15337	.	+	d37	ID=gene_asplen7_d371037;Description=asplen7_s01673;parent=asplen7_JAAAPU010000119.1
+asplen7_JAAAPU010000119.1	bed	gene	17537	980	.	-	cap	ID=gene_asplen7_tyr1763;Description=asplen7_s01673;parent=asplen7_JAAAPU010000119.1
+asplen7_JAAAPU010000119.1	bed	gene	20184	0	.	-	insert	ID=gene_asplen7_tyr1763|asplen2_BLKD01000109.1|up;Description=asplen7_s01673;parent=asplen7_JAAAPU010000119.1
+asplen7_JAAAPU010000119.1	bed	RNA	1	20183	.	-	ID=rna_asplen7_tyr1763|asplen2_BLKD01000109.1|down;Description=;parent=gene_asplen7_tyr1763|asplen2_BLKD01000109.1|down
+asplen7_JAAAPU010000119.1	bed	RNA	3765	16188	.	+	ID=rna_asplen7_d371038;Description=;parent=gene_asplen7_d371038
+asplen7_JAAAPU010000119.1	bed	RNA	4358	15337	.	+	ID=rna_asplen7_d371037;Description=;parent=gene_asplen7_d371037
+asplen7_JAAAPU010000119.1	bed	RNA	17537	980	.	-	ID=rna_asplen7_tyr1763;Description=;parent=gene_asplen7_tyr1763
+asplen7_JAAAPU010000119.1	bed	RNA	20184	0	.	-	ID=rna_asplen7_tyr1763|asplen2_BLKD01000109.1|up;Description=;parent=gene_asplen7_tyr1763|asplen2_BLKD01000109.1|up
+asplen7_JAAAPU010000119.1	bed	CDS	1	20183	.	-	ID=cds_asplen7_tyr1763|asplen2_BLKD01000109.1|down;Description=;parent=rna_asplen7_tyr1763|asplen2_BLKD01000109.1|down
+asplen7_JAAAPU010000119.1	bed	CDS	3765	16188	.	+	ID=cds_asplen7_d371038;Description=;parent=rna_asplen7_d371038
+asplen7_JAAAPU010000119.1	bed	CDS	4358	15337	.	+	ID=cds_asplen7_d371037;Description=;parent=rna_asplen7_d371037
+asplen7_JAAAPU010000119.1	bed	CDS	17537	980	.	-	ID=cds_asplen7_tyr1763;Description=;parent=rna_asplen7_tyr1763
+asplen7_JAAAPU010000119.1	bed	CDS	20184	0	.	-	ID=cds_asplen7_tyr1763|asplen2_BLKD01000109.1|up;Description=;parent=rna_asplen7_tyr1763|asplen2_BLKD01000109.1|up

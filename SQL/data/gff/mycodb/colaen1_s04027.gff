@@ -1,0 +1,79 @@
+colaen1_QPNB01000004.1	bed	gene	426	93180	.	+	.	ID=gene_colaen1_eg188602;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	region	1	93186	.	+	flank	ID=gene_colaen1_KAF5522205.1|DR|up;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	region	59	93120	.	+	flank	ID=gene_colaen1_KAF5522205.1|TIR|up;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	494	90788	.	-	d37	ID=gene_colaen1_d372501;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	2451	90359	.	-	d37	ID=gene_colaen1_d372502;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	3064	89566	.	+	.	ID=gene_colaen1_KAF5522084.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	4708	87473	.	+	cap	ID=gene_colaen1_KAF5522205.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	11846	78715	.	+	plp	ID=gene_colaen1_plp4109;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	16682	75240	.	-	.	ID=gene_colaen1_KAF5522415.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	25091	67597	.	-	.	ID=gene_colaen1_KAF5522416.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	30876	61830	.	+	.	ID=gene_colaen1_KAF5522659.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	32306	58483	.	+	.	ID=gene_colaen1_KAF5521324.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	36314	53925	.	-	.	ID=gene_colaen1_KAF5521323.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	39868	50834	.	+	.	ID=gene_colaen1_KAF5521322.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	42733	49464	.	-	.	ID=gene_colaen1_KAF5522658.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	44982	47454	.	-	.	ID=gene_colaen1_eg187931;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	47178	44982	.	+	.	ID=gene_colaen1_KAF5521321.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	49522	42286	.	+	.	ID=gene_colaen1_eg188515;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	53021	39000	.	+	.	ID=gene_colaen1_eg188435;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	56497	32725	.	+	nlr	ID=gene_colaen1_KAF5522657.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	62468	29085	.	+	.	ID=gene_colaen1_eg187998;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	67533	25160	.	-	.	ID=gene_colaen1_eg188512;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	70140	21738	.	+	fre	ID=gene_colaen1_fre7575;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	74136	18497	.	+	.	ID=gene_colaen1_eg187924;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	75365	13680	.	-	.	ID=gene_colaen1_KAF5521320.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	81249	11141	.	-	.	ID=gene_colaen1_KAF5522666.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	gene	82920	9368	.	+	.	ID=gene_colaen1_KAF5521326.1;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	region	93123	57	.	+	flank	ID=gene_colaen1_KAF5522205.1|TIR|down;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	region	93188	0	.	+	flank	ID=gene_colaen1_KAF5522205.1|DR|down;Description=colaen1_s04027;parent=colaen1_QPNB01000004.1
+colaen1_QPNB01000004.1	bed	RNA	426	93180	.	+	ID=rna_colaen1_eg188602;Description=;parent=gene_colaen1_eg188602
+colaen1_QPNB01000004.1	bed	RNA	494	90788	.	-	ID=rna_colaen1_d372501;Description=;parent=gene_colaen1_d372501
+colaen1_QPNB01000004.1	bed	RNA	2451	90359	.	-	ID=rna_colaen1_d372502;Description=;parent=gene_colaen1_d372502
+colaen1_QPNB01000004.1	bed	RNA	3064	89566	.	+	ID=rna_colaen1_KAF5522084.1;Description=;parent=gene_colaen1_KAF5522084.1
+colaen1_QPNB01000004.1	bed	RNA	4708	87473	.	+	ID=rna_colaen1_KAF5522205.1;Description=;parent=gene_colaen1_KAF5522205.1
+colaen1_QPNB01000004.1	bed	RNA	11846	78715	.	+	ID=rna_colaen1_plp4109;Description=;parent=gene_colaen1_plp4109
+colaen1_QPNB01000004.1	bed	RNA	16682	75240	.	-	ID=rna_colaen1_KAF5522415.1;Description=;parent=gene_colaen1_KAF5522415.1
+colaen1_QPNB01000004.1	bed	RNA	25091	67597	.	-	ID=rna_colaen1_KAF5522416.1;Description=;parent=gene_colaen1_KAF5522416.1
+colaen1_QPNB01000004.1	bed	RNA	30876	61830	.	+	ID=rna_colaen1_KAF5522659.1;Description=;parent=gene_colaen1_KAF5522659.1
+colaen1_QPNB01000004.1	bed	RNA	32306	58483	.	+	ID=rna_colaen1_KAF5521324.1;Description=;parent=gene_colaen1_KAF5521324.1
+colaen1_QPNB01000004.1	bed	RNA	36314	53925	.	-	ID=rna_colaen1_KAF5521323.1;Description=;parent=gene_colaen1_KAF5521323.1
+colaen1_QPNB01000004.1	bed	RNA	39868	50834	.	+	ID=rna_colaen1_KAF5521322.1;Description=;parent=gene_colaen1_KAF5521322.1
+colaen1_QPNB01000004.1	bed	RNA	42733	49464	.	-	ID=rna_colaen1_KAF5522658.1;Description=;parent=gene_colaen1_KAF5522658.1
+colaen1_QPNB01000004.1	bed	RNA	44982	47454	.	-	ID=rna_colaen1_eg187931;Description=;parent=gene_colaen1_eg187931
+colaen1_QPNB01000004.1	bed	RNA	47178	44982	.	+	ID=rna_colaen1_KAF5521321.1;Description=;parent=gene_colaen1_KAF5521321.1
+colaen1_QPNB01000004.1	bed	RNA	49522	42286	.	+	ID=rna_colaen1_eg188515;Description=;parent=gene_colaen1_eg188515
+colaen1_QPNB01000004.1	bed	RNA	53021	39000	.	+	ID=rna_colaen1_eg188435;Description=;parent=gene_colaen1_eg188435
+colaen1_QPNB01000004.1	bed	RNA	56497	32725	.	+	ID=rna_colaen1_KAF5522657.1;Description=;parent=gene_colaen1_KAF5522657.1
+colaen1_QPNB01000004.1	bed	RNA	62468	29085	.	+	ID=rna_colaen1_eg187998;Description=;parent=gene_colaen1_eg187998
+colaen1_QPNB01000004.1	bed	RNA	67533	25160	.	-	ID=rna_colaen1_eg188512;Description=;parent=gene_colaen1_eg188512
+colaen1_QPNB01000004.1	bed	RNA	70140	21738	.	+	ID=rna_colaen1_fre7575;Description=;parent=gene_colaen1_fre7575
+colaen1_QPNB01000004.1	bed	RNA	74136	18497	.	+	ID=rna_colaen1_eg187924;Description=;parent=gene_colaen1_eg187924
+colaen1_QPNB01000004.1	bed	RNA	75365	13680	.	-	ID=rna_colaen1_KAF5521320.1;Description=;parent=gene_colaen1_KAF5521320.1
+colaen1_QPNB01000004.1	bed	RNA	81249	11141	.	-	ID=rna_colaen1_KAF5522666.1;Description=;parent=gene_colaen1_KAF5522666.1
+colaen1_QPNB01000004.1	bed	RNA	82920	9368	.	+	ID=rna_colaen1_KAF5521326.1;Description=;parent=gene_colaen1_KAF5521326.1
+colaen1_QPNB01000004.1	bed	CDS	426	93180	.	+	ID=cds_colaen1_eg188602;Description=;parent=rna_colaen1_eg188602
+colaen1_QPNB01000004.1	bed	CDS	494	90788	.	-	ID=cds_colaen1_d372501;Description=;parent=rna_colaen1_d372501
+colaen1_QPNB01000004.1	bed	CDS	2451	90359	.	-	ID=cds_colaen1_d372502;Description=;parent=rna_colaen1_d372502
+colaen1_QPNB01000004.1	bed	CDS	3064	89566	.	+	ID=cds_colaen1_KAF5522084.1;Description=;parent=rna_colaen1_KAF5522084.1
+colaen1_QPNB01000004.1	bed	CDS	4708	87473	.	+	ID=cds_colaen1_KAF5522205.1;Description=;parent=rna_colaen1_KAF5522205.1
+colaen1_QPNB01000004.1	bed	CDS	11846	78715	.	+	ID=cds_colaen1_plp4109;Description=;parent=rna_colaen1_plp4109
+colaen1_QPNB01000004.1	bed	CDS	16682	75240	.	-	ID=cds_colaen1_KAF5522415.1;Description=;parent=rna_colaen1_KAF5522415.1
+colaen1_QPNB01000004.1	bed	CDS	25091	67597	.	-	ID=cds_colaen1_KAF5522416.1;Description=;parent=rna_colaen1_KAF5522416.1
+colaen1_QPNB01000004.1	bed	CDS	30876	61830	.	+	ID=cds_colaen1_KAF5522659.1;Description=;parent=rna_colaen1_KAF5522659.1
+colaen1_QPNB01000004.1	bed	CDS	32306	58483	.	+	ID=cds_colaen1_KAF5521324.1;Description=;parent=rna_colaen1_KAF5521324.1
+colaen1_QPNB01000004.1	bed	CDS	36314	53925	.	-	ID=cds_colaen1_KAF5521323.1;Description=;parent=rna_colaen1_KAF5521323.1
+colaen1_QPNB01000004.1	bed	CDS	39868	50834	.	+	ID=cds_colaen1_KAF5521322.1;Description=;parent=rna_colaen1_KAF5521322.1
+colaen1_QPNB01000004.1	bed	CDS	42733	49464	.	-	ID=cds_colaen1_KAF5522658.1;Description=;parent=rna_colaen1_KAF5522658.1
+colaen1_QPNB01000004.1	bed	CDS	44982	47454	.	-	ID=cds_colaen1_eg187931;Description=;parent=rna_colaen1_eg187931
+colaen1_QPNB01000004.1	bed	CDS	47178	44982	.	+	ID=cds_colaen1_KAF5521321.1;Description=;parent=rna_colaen1_KAF5521321.1
+colaen1_QPNB01000004.1	bed	CDS	49522	42286	.	+	ID=cds_colaen1_eg188515;Description=;parent=rna_colaen1_eg188515
+colaen1_QPNB01000004.1	bed	CDS	53021	39000	.	+	ID=cds_colaen1_eg188435;Description=;parent=rna_colaen1_eg188435
+colaen1_QPNB01000004.1	bed	CDS	56497	32725	.	+	ID=cds_colaen1_KAF5522657.1;Description=;parent=rna_colaen1_KAF5522657.1
+colaen1_QPNB01000004.1	bed	CDS	62468	29085	.	+	ID=cds_colaen1_eg187998;Description=;parent=rna_colaen1_eg187998
+colaen1_QPNB01000004.1	bed	CDS	67533	25160	.	-	ID=cds_colaen1_eg188512;Description=;parent=rna_colaen1_eg188512
+colaen1_QPNB01000004.1	bed	CDS	70140	21738	.	+	ID=cds_colaen1_fre7575;Description=;parent=rna_colaen1_fre7575
+colaen1_QPNB01000004.1	bed	CDS	74136	18497	.	+	ID=cds_colaen1_eg187924;Description=;parent=rna_colaen1_eg187924
+colaen1_QPNB01000004.1	bed	CDS	75365	13680	.	-	ID=cds_colaen1_KAF5521320.1;Description=;parent=rna_colaen1_KAF5521320.1
+colaen1_QPNB01000004.1	bed	CDS	81249	11141	.	-	ID=cds_colaen1_KAF5522666.1;Description=;parent=rna_colaen1_KAF5522666.1
+colaen1_QPNB01000004.1	bed	CDS	82920	9368	.	+	ID=cds_colaen1_KAF5521326.1;Description=;parent=rna_colaen1_KAF5521326.1

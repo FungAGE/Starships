@@ -1,0 +1,202 @@
+pensp.9_JAASRZ010000051.1	bed	region	1	269273	.	+	flank	ID=gene_pensp.9_KAF4759935.1|DR|up;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	region	42	269222	.	+	flank	ID=gene_pensp.9_KAF4759935.1|TIR|up;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	576	266713	.	+	cap	ID=gene_pensp.9_KAF4759935.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	10381	257808	.	+	.	ID=gene_pensp.9_eg353851;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	13594	255279	.	+	.	ID=gene_pensp.9_KAF4760237.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	17457	251110	.	+	.	ID=gene_pensp.9_KAF4760241.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	21594	247102	.	+	.	ID=gene_pensp.9_KAF4759721.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	22297	245980	.	+	.	ID=gene_pensp.9_KAF4759636.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	24745	243897	.	+	.	ID=gene_pensp.9_KAF4759743.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	33530	235146	.	-	.	ID=gene_pensp.9_KAF4761038.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	39653	229075	.	+	.	ID=gene_pensp.9_KAF4759843.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	40440	227557	.	-	.	ID=gene_pensp.9_KAF4759927.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	43400	223736	.	+	.	ID=gene_pensp.9_KAF4759994.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	46550	219420	.	-	.	ID=gene_pensp.9_eg353432;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	50660	217499	.	+	.	ID=gene_pensp.9_KAF4762379.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	52668	214714	.	-	.	ID=gene_pensp.9_KAF4760585.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	54584	214299	.	-	.	ID=gene_pensp.9_KAF4761976.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	57411	211392	.	-	.	ID=gene_pensp.9_KAF4762179.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	73037	195748	.	+	.	ID=gene_pensp.9_KAF4760745.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	78097	190322	.	+	.	ID=gene_pensp.9_KAF4762581.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	81674	187331	.	+	.	ID=gene_pensp.9_eg353730;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	87193	181658	.	+	.	ID=gene_pensp.9_KAF4761101.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	88840	180222	.	+	.	ID=gene_pensp.9_KAF4762576.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	90695	176446	.	+	.	ID=gene_pensp.9_eg353814;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	100101	168697	.	-	.	ID=gene_pensp.9_KAF4759956.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	109884	158482	.	-	.	ID=gene_pensp.9_KAF4762599.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	112002	156920	.	+	.	ID=gene_pensp.9_KAF4761289.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	113186	155771	.	-	.	ID=gene_pensp.9_KAF4761213.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	113958	154652	.	+	.	ID=gene_pensp.9_KAF4761232.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	114660	153958	.	-	.	ID=gene_pensp.9_KAF4761909.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	115961	151501	.	-	.	ID=gene_pensp.9_KAF4761807.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	121543	146221	.	-	.	ID=gene_pensp.9_KAF4761495.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	123463	145341	.	+	.	ID=gene_pensp.9_KAF4762464.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	126184	142773	.	+	.	ID=gene_pensp.9_eg354519;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	127394	141716	.	-	.	ID=gene_pensp.9_eg354531;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	127694	141021	.	-	.	ID=gene_pensp.9_KAF4760869.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	129157	139407	.	+	.	ID=gene_pensp.9_KAF4762672.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	129958	137668	.	-	.	ID=gene_pensp.9_KAF4760672.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	133630	134802	.	-	.	ID=gene_pensp.9_eg353837;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	136130	132497	.	+	.	ID=gene_pensp.9_KAF4762035.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	137724	131270	.	-	.	ID=gene_pensp.9_KAF4760467.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	140877	127694	.	-	.	ID=gene_pensp.9_KAF4762115.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	145973	123056	.	+	.	ID=gene_pensp.9_KAF4760617.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	146245	122772	.	+	.	ID=gene_pensp.9_KAF4761856.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	148640	120243	.	-	.	ID=gene_pensp.9_KAF4761631.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	149555	117774	.	+	.	ID=gene_pensp.9_KAF4761613.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	154631	114068	.	+	.	ID=gene_pensp.9_eg353777;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	155999	112321	.	-	.	ID=gene_pensp.9_eg354588;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	157944	110483	.	+	.	ID=gene_pensp.9_KAF4761486.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	176960	91832	.	-	.	ID=gene_pensp.9_eg353800;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	182029	87006	.	+	.	ID=gene_pensp.9_KAF4761010.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	183378	85630	.	+	.	ID=gene_pensp.9_KAF4759764.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	183690	85081	.	+	.	ID=gene_pensp.9_KAF4759608.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	186123	82933	.	-	.	ID=gene_pensp.9_KAF4759697.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	187219	80823	.	+	.	ID=gene_pensp.9_KAF4761168.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	196011	72673	.	-	.	ID=gene_pensp.9_KAF4762554.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	197892	70799	.	+	.	ID=gene_pensp.9_KAF4759975.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	199876	68121	.	-	.	ID=gene_pensp.9_KAF4760187.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	218491	49371	.	-	.	ID=gene_pensp.9_KAF4760387.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	227867	38373	.	-	.	ID=gene_pensp.9_KAF4760173.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	234142	34638	.	+	.	ID=gene_pensp.9_KAF4762349.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	237236	31206	.	-	.	ID=gene_pensp.9_KAF4760332.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	249560	19361	.	-	.	ID=gene_pensp.9_KAF4760037.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	251831	16502	.	-	.	ID=gene_pensp.9_eg353852;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	258111	10804	.	-	.	ID=gene_pensp.9_KAF4759945.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	261598	6747	.	-	.	ID=gene_pensp.9_KAF4761051.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	264523	4503	.	-	.	ID=gene_pensp.9_KAF4762642.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	gene	267074	935	.	-	.	ID=gene_pensp.9_KAF4759722.1;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	region	269222	39	.	+	flank	ID=gene_pensp.9_KAF4759935.1|TIR|down;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	region	269274	0	.	+	flank	ID=gene_pensp.9_KAF4759935.1|DR|down;Description=pensp.9_s08578;parent=pensp.9_JAASRZ010000051.1
+pensp.9_JAASRZ010000051.1	bed	RNA	576	266713	.	+	ID=rna_pensp.9_KAF4759935.1;Description=;parent=gene_pensp.9_KAF4759935.1
+pensp.9_JAASRZ010000051.1	bed	RNA	10381	257808	.	+	ID=rna_pensp.9_eg353851;Description=;parent=gene_pensp.9_eg353851
+pensp.9_JAASRZ010000051.1	bed	RNA	13594	255279	.	+	ID=rna_pensp.9_KAF4760237.1;Description=;parent=gene_pensp.9_KAF4760237.1
+pensp.9_JAASRZ010000051.1	bed	RNA	17457	251110	.	+	ID=rna_pensp.9_KAF4760241.1;Description=;parent=gene_pensp.9_KAF4760241.1
+pensp.9_JAASRZ010000051.1	bed	RNA	21594	247102	.	+	ID=rna_pensp.9_KAF4759721.1;Description=;parent=gene_pensp.9_KAF4759721.1
+pensp.9_JAASRZ010000051.1	bed	RNA	22297	245980	.	+	ID=rna_pensp.9_KAF4759636.1;Description=;parent=gene_pensp.9_KAF4759636.1
+pensp.9_JAASRZ010000051.1	bed	RNA	24745	243897	.	+	ID=rna_pensp.9_KAF4759743.1;Description=;parent=gene_pensp.9_KAF4759743.1
+pensp.9_JAASRZ010000051.1	bed	RNA	33530	235146	.	-	ID=rna_pensp.9_KAF4761038.1;Description=;parent=gene_pensp.9_KAF4761038.1
+pensp.9_JAASRZ010000051.1	bed	RNA	39653	229075	.	+	ID=rna_pensp.9_KAF4759843.1;Description=;parent=gene_pensp.9_KAF4759843.1
+pensp.9_JAASRZ010000051.1	bed	RNA	40440	227557	.	-	ID=rna_pensp.9_KAF4759927.1;Description=;parent=gene_pensp.9_KAF4759927.1
+pensp.9_JAASRZ010000051.1	bed	RNA	43400	223736	.	+	ID=rna_pensp.9_KAF4759994.1;Description=;parent=gene_pensp.9_KAF4759994.1
+pensp.9_JAASRZ010000051.1	bed	RNA	46550	219420	.	-	ID=rna_pensp.9_eg353432;Description=;parent=gene_pensp.9_eg353432
+pensp.9_JAASRZ010000051.1	bed	RNA	50660	217499	.	+	ID=rna_pensp.9_KAF4762379.1;Description=;parent=gene_pensp.9_KAF4762379.1
+pensp.9_JAASRZ010000051.1	bed	RNA	52668	214714	.	-	ID=rna_pensp.9_KAF4760585.1;Description=;parent=gene_pensp.9_KAF4760585.1
+pensp.9_JAASRZ010000051.1	bed	RNA	54584	214299	.	-	ID=rna_pensp.9_KAF4761976.1;Description=;parent=gene_pensp.9_KAF4761976.1
+pensp.9_JAASRZ010000051.1	bed	RNA	57411	211392	.	-	ID=rna_pensp.9_KAF4762179.1;Description=;parent=gene_pensp.9_KAF4762179.1
+pensp.9_JAASRZ010000051.1	bed	RNA	73037	195748	.	+	ID=rna_pensp.9_KAF4760745.1;Description=;parent=gene_pensp.9_KAF4760745.1
+pensp.9_JAASRZ010000051.1	bed	RNA	78097	190322	.	+	ID=rna_pensp.9_KAF4762581.1;Description=;parent=gene_pensp.9_KAF4762581.1
+pensp.9_JAASRZ010000051.1	bed	RNA	81674	187331	.	+	ID=rna_pensp.9_eg353730;Description=;parent=gene_pensp.9_eg353730
+pensp.9_JAASRZ010000051.1	bed	RNA	87193	181658	.	+	ID=rna_pensp.9_KAF4761101.1;Description=;parent=gene_pensp.9_KAF4761101.1
+pensp.9_JAASRZ010000051.1	bed	RNA	88840	180222	.	+	ID=rna_pensp.9_KAF4762576.1;Description=;parent=gene_pensp.9_KAF4762576.1
+pensp.9_JAASRZ010000051.1	bed	RNA	90695	176446	.	+	ID=rna_pensp.9_eg353814;Description=;parent=gene_pensp.9_eg353814
+pensp.9_JAASRZ010000051.1	bed	RNA	100101	168697	.	-	ID=rna_pensp.9_KAF4759956.1;Description=;parent=gene_pensp.9_KAF4759956.1
+pensp.9_JAASRZ010000051.1	bed	RNA	109884	158482	.	-	ID=rna_pensp.9_KAF4762599.1;Description=;parent=gene_pensp.9_KAF4762599.1
+pensp.9_JAASRZ010000051.1	bed	RNA	112002	156920	.	+	ID=rna_pensp.9_KAF4761289.1;Description=;parent=gene_pensp.9_KAF4761289.1
+pensp.9_JAASRZ010000051.1	bed	RNA	113186	155771	.	-	ID=rna_pensp.9_KAF4761213.1;Description=;parent=gene_pensp.9_KAF4761213.1
+pensp.9_JAASRZ010000051.1	bed	RNA	113958	154652	.	+	ID=rna_pensp.9_KAF4761232.1;Description=;parent=gene_pensp.9_KAF4761232.1
+pensp.9_JAASRZ010000051.1	bed	RNA	114660	153958	.	-	ID=rna_pensp.9_KAF4761909.1;Description=;parent=gene_pensp.9_KAF4761909.1
+pensp.9_JAASRZ010000051.1	bed	RNA	115961	151501	.	-	ID=rna_pensp.9_KAF4761807.1;Description=;parent=gene_pensp.9_KAF4761807.1
+pensp.9_JAASRZ010000051.1	bed	RNA	121543	146221	.	-	ID=rna_pensp.9_KAF4761495.1;Description=;parent=gene_pensp.9_KAF4761495.1
+pensp.9_JAASRZ010000051.1	bed	RNA	123463	145341	.	+	ID=rna_pensp.9_KAF4762464.1;Description=;parent=gene_pensp.9_KAF4762464.1
+pensp.9_JAASRZ010000051.1	bed	RNA	126184	142773	.	+	ID=rna_pensp.9_eg354519;Description=;parent=gene_pensp.9_eg354519
+pensp.9_JAASRZ010000051.1	bed	RNA	127394	141716	.	-	ID=rna_pensp.9_eg354531;Description=;parent=gene_pensp.9_eg354531
+pensp.9_JAASRZ010000051.1	bed	RNA	127694	141021	.	-	ID=rna_pensp.9_KAF4760869.1;Description=;parent=gene_pensp.9_KAF4760869.1
+pensp.9_JAASRZ010000051.1	bed	RNA	129157	139407	.	+	ID=rna_pensp.9_KAF4762672.1;Description=;parent=gene_pensp.9_KAF4762672.1
+pensp.9_JAASRZ010000051.1	bed	RNA	129958	137668	.	-	ID=rna_pensp.9_KAF4760672.1;Description=;parent=gene_pensp.9_KAF4760672.1
+pensp.9_JAASRZ010000051.1	bed	RNA	133630	134802	.	-	ID=rna_pensp.9_eg353837;Description=;parent=gene_pensp.9_eg353837
+pensp.9_JAASRZ010000051.1	bed	RNA	136130	132497	.	+	ID=rna_pensp.9_KAF4762035.1;Description=;parent=gene_pensp.9_KAF4762035.1
+pensp.9_JAASRZ010000051.1	bed	RNA	137724	131270	.	-	ID=rna_pensp.9_KAF4760467.1;Description=;parent=gene_pensp.9_KAF4760467.1
+pensp.9_JAASRZ010000051.1	bed	RNA	140877	127694	.	-	ID=rna_pensp.9_KAF4762115.1;Description=;parent=gene_pensp.9_KAF4762115.1
+pensp.9_JAASRZ010000051.1	bed	RNA	145973	123056	.	+	ID=rna_pensp.9_KAF4760617.1;Description=;parent=gene_pensp.9_KAF4760617.1
+pensp.9_JAASRZ010000051.1	bed	RNA	146245	122772	.	+	ID=rna_pensp.9_KAF4761856.1;Description=;parent=gene_pensp.9_KAF4761856.1
+pensp.9_JAASRZ010000051.1	bed	RNA	148640	120243	.	-	ID=rna_pensp.9_KAF4761631.1;Description=;parent=gene_pensp.9_KAF4761631.1
+pensp.9_JAASRZ010000051.1	bed	RNA	149555	117774	.	+	ID=rna_pensp.9_KAF4761613.1;Description=;parent=gene_pensp.9_KAF4761613.1
+pensp.9_JAASRZ010000051.1	bed	RNA	154631	114068	.	+	ID=rna_pensp.9_eg353777;Description=;parent=gene_pensp.9_eg353777
+pensp.9_JAASRZ010000051.1	bed	RNA	155999	112321	.	-	ID=rna_pensp.9_eg354588;Description=;parent=gene_pensp.9_eg354588
+pensp.9_JAASRZ010000051.1	bed	RNA	157944	110483	.	+	ID=rna_pensp.9_KAF4761486.1;Description=;parent=gene_pensp.9_KAF4761486.1
+pensp.9_JAASRZ010000051.1	bed	RNA	176960	91832	.	-	ID=rna_pensp.9_eg353800;Description=;parent=gene_pensp.9_eg353800
+pensp.9_JAASRZ010000051.1	bed	RNA	182029	87006	.	+	ID=rna_pensp.9_KAF4761010.1;Description=;parent=gene_pensp.9_KAF4761010.1
+pensp.9_JAASRZ010000051.1	bed	RNA	183378	85630	.	+	ID=rna_pensp.9_KAF4759764.1;Description=;parent=gene_pensp.9_KAF4759764.1
+pensp.9_JAASRZ010000051.1	bed	RNA	183690	85081	.	+	ID=rna_pensp.9_KAF4759608.1;Description=;parent=gene_pensp.9_KAF4759608.1
+pensp.9_JAASRZ010000051.1	bed	RNA	186123	82933	.	-	ID=rna_pensp.9_KAF4759697.1;Description=;parent=gene_pensp.9_KAF4759697.1
+pensp.9_JAASRZ010000051.1	bed	RNA	187219	80823	.	+	ID=rna_pensp.9_KAF4761168.1;Description=;parent=gene_pensp.9_KAF4761168.1
+pensp.9_JAASRZ010000051.1	bed	RNA	196011	72673	.	-	ID=rna_pensp.9_KAF4762554.1;Description=;parent=gene_pensp.9_KAF4762554.1
+pensp.9_JAASRZ010000051.1	bed	RNA	197892	70799	.	+	ID=rna_pensp.9_KAF4759975.1;Description=;parent=gene_pensp.9_KAF4759975.1
+pensp.9_JAASRZ010000051.1	bed	RNA	199876	68121	.	-	ID=rna_pensp.9_KAF4760187.1;Description=;parent=gene_pensp.9_KAF4760187.1
+pensp.9_JAASRZ010000051.1	bed	RNA	218491	49371	.	-	ID=rna_pensp.9_KAF4760387.1;Description=;parent=gene_pensp.9_KAF4760387.1
+pensp.9_JAASRZ010000051.1	bed	RNA	227867	38373	.	-	ID=rna_pensp.9_KAF4760173.1;Description=;parent=gene_pensp.9_KAF4760173.1
+pensp.9_JAASRZ010000051.1	bed	RNA	234142	34638	.	+	ID=rna_pensp.9_KAF4762349.1;Description=;parent=gene_pensp.9_KAF4762349.1
+pensp.9_JAASRZ010000051.1	bed	RNA	237236	31206	.	-	ID=rna_pensp.9_KAF4760332.1;Description=;parent=gene_pensp.9_KAF4760332.1
+pensp.9_JAASRZ010000051.1	bed	RNA	249560	19361	.	-	ID=rna_pensp.9_KAF4760037.1;Description=;parent=gene_pensp.9_KAF4760037.1
+pensp.9_JAASRZ010000051.1	bed	RNA	251831	16502	.	-	ID=rna_pensp.9_eg353852;Description=;parent=gene_pensp.9_eg353852
+pensp.9_JAASRZ010000051.1	bed	RNA	258111	10804	.	-	ID=rna_pensp.9_KAF4759945.1;Description=;parent=gene_pensp.9_KAF4759945.1
+pensp.9_JAASRZ010000051.1	bed	RNA	261598	6747	.	-	ID=rna_pensp.9_KAF4761051.1;Description=;parent=gene_pensp.9_KAF4761051.1
+pensp.9_JAASRZ010000051.1	bed	RNA	264523	4503	.	-	ID=rna_pensp.9_KAF4762642.1;Description=;parent=gene_pensp.9_KAF4762642.1
+pensp.9_JAASRZ010000051.1	bed	RNA	267074	935	.	-	ID=rna_pensp.9_KAF4759722.1;Description=;parent=gene_pensp.9_KAF4759722.1
+pensp.9_JAASRZ010000051.1	bed	CDS	576	266713	.	+	ID=cds_pensp.9_KAF4759935.1;Description=;parent=rna_pensp.9_KAF4759935.1
+pensp.9_JAASRZ010000051.1	bed	CDS	10381	257808	.	+	ID=cds_pensp.9_eg353851;Description=;parent=rna_pensp.9_eg353851
+pensp.9_JAASRZ010000051.1	bed	CDS	13594	255279	.	+	ID=cds_pensp.9_KAF4760237.1;Description=;parent=rna_pensp.9_KAF4760237.1
+pensp.9_JAASRZ010000051.1	bed	CDS	17457	251110	.	+	ID=cds_pensp.9_KAF4760241.1;Description=;parent=rna_pensp.9_KAF4760241.1
+pensp.9_JAASRZ010000051.1	bed	CDS	21594	247102	.	+	ID=cds_pensp.9_KAF4759721.1;Description=;parent=rna_pensp.9_KAF4759721.1
+pensp.9_JAASRZ010000051.1	bed	CDS	22297	245980	.	+	ID=cds_pensp.9_KAF4759636.1;Description=;parent=rna_pensp.9_KAF4759636.1
+pensp.9_JAASRZ010000051.1	bed	CDS	24745	243897	.	+	ID=cds_pensp.9_KAF4759743.1;Description=;parent=rna_pensp.9_KAF4759743.1
+pensp.9_JAASRZ010000051.1	bed	CDS	33530	235146	.	-	ID=cds_pensp.9_KAF4761038.1;Description=;parent=rna_pensp.9_KAF4761038.1
+pensp.9_JAASRZ010000051.1	bed	CDS	39653	229075	.	+	ID=cds_pensp.9_KAF4759843.1;Description=;parent=rna_pensp.9_KAF4759843.1
+pensp.9_JAASRZ010000051.1	bed	CDS	40440	227557	.	-	ID=cds_pensp.9_KAF4759927.1;Description=;parent=rna_pensp.9_KAF4759927.1
+pensp.9_JAASRZ010000051.1	bed	CDS	43400	223736	.	+	ID=cds_pensp.9_KAF4759994.1;Description=;parent=rna_pensp.9_KAF4759994.1
+pensp.9_JAASRZ010000051.1	bed	CDS	46550	219420	.	-	ID=cds_pensp.9_eg353432;Description=;parent=rna_pensp.9_eg353432
+pensp.9_JAASRZ010000051.1	bed	CDS	50660	217499	.	+	ID=cds_pensp.9_KAF4762379.1;Description=;parent=rna_pensp.9_KAF4762379.1
+pensp.9_JAASRZ010000051.1	bed	CDS	52668	214714	.	-	ID=cds_pensp.9_KAF4760585.1;Description=;parent=rna_pensp.9_KAF4760585.1
+pensp.9_JAASRZ010000051.1	bed	CDS	54584	214299	.	-	ID=cds_pensp.9_KAF4761976.1;Description=;parent=rna_pensp.9_KAF4761976.1
+pensp.9_JAASRZ010000051.1	bed	CDS	57411	211392	.	-	ID=cds_pensp.9_KAF4762179.1;Description=;parent=rna_pensp.9_KAF4762179.1
+pensp.9_JAASRZ010000051.1	bed	CDS	73037	195748	.	+	ID=cds_pensp.9_KAF4760745.1;Description=;parent=rna_pensp.9_KAF4760745.1
+pensp.9_JAASRZ010000051.1	bed	CDS	78097	190322	.	+	ID=cds_pensp.9_KAF4762581.1;Description=;parent=rna_pensp.9_KAF4762581.1
+pensp.9_JAASRZ010000051.1	bed	CDS	81674	187331	.	+	ID=cds_pensp.9_eg353730;Description=;parent=rna_pensp.9_eg353730
+pensp.9_JAASRZ010000051.1	bed	CDS	87193	181658	.	+	ID=cds_pensp.9_KAF4761101.1;Description=;parent=rna_pensp.9_KAF4761101.1
+pensp.9_JAASRZ010000051.1	bed	CDS	88840	180222	.	+	ID=cds_pensp.9_KAF4762576.1;Description=;parent=rna_pensp.9_KAF4762576.1
+pensp.9_JAASRZ010000051.1	bed	CDS	90695	176446	.	+	ID=cds_pensp.9_eg353814;Description=;parent=rna_pensp.9_eg353814
+pensp.9_JAASRZ010000051.1	bed	CDS	100101	168697	.	-	ID=cds_pensp.9_KAF4759956.1;Description=;parent=rna_pensp.9_KAF4759956.1
+pensp.9_JAASRZ010000051.1	bed	CDS	109884	158482	.	-	ID=cds_pensp.9_KAF4762599.1;Description=;parent=rna_pensp.9_KAF4762599.1
+pensp.9_JAASRZ010000051.1	bed	CDS	112002	156920	.	+	ID=cds_pensp.9_KAF4761289.1;Description=;parent=rna_pensp.9_KAF4761289.1
+pensp.9_JAASRZ010000051.1	bed	CDS	113186	155771	.	-	ID=cds_pensp.9_KAF4761213.1;Description=;parent=rna_pensp.9_KAF4761213.1
+pensp.9_JAASRZ010000051.1	bed	CDS	113958	154652	.	+	ID=cds_pensp.9_KAF4761232.1;Description=;parent=rna_pensp.9_KAF4761232.1
+pensp.9_JAASRZ010000051.1	bed	CDS	114660	153958	.	-	ID=cds_pensp.9_KAF4761909.1;Description=;parent=rna_pensp.9_KAF4761909.1
+pensp.9_JAASRZ010000051.1	bed	CDS	115961	151501	.	-	ID=cds_pensp.9_KAF4761807.1;Description=;parent=rna_pensp.9_KAF4761807.1
+pensp.9_JAASRZ010000051.1	bed	CDS	121543	146221	.	-	ID=cds_pensp.9_KAF4761495.1;Description=;parent=rna_pensp.9_KAF4761495.1
+pensp.9_JAASRZ010000051.1	bed	CDS	123463	145341	.	+	ID=cds_pensp.9_KAF4762464.1;Description=;parent=rna_pensp.9_KAF4762464.1
+pensp.9_JAASRZ010000051.1	bed	CDS	126184	142773	.	+	ID=cds_pensp.9_eg354519;Description=;parent=rna_pensp.9_eg354519
+pensp.9_JAASRZ010000051.1	bed	CDS	127394	141716	.	-	ID=cds_pensp.9_eg354531;Description=;parent=rna_pensp.9_eg354531
+pensp.9_JAASRZ010000051.1	bed	CDS	127694	141021	.	-	ID=cds_pensp.9_KAF4760869.1;Description=;parent=rna_pensp.9_KAF4760869.1
+pensp.9_JAASRZ010000051.1	bed	CDS	129157	139407	.	+	ID=cds_pensp.9_KAF4762672.1;Description=;parent=rna_pensp.9_KAF4762672.1
+pensp.9_JAASRZ010000051.1	bed	CDS	129958	137668	.	-	ID=cds_pensp.9_KAF4760672.1;Description=;parent=rna_pensp.9_KAF4760672.1
+pensp.9_JAASRZ010000051.1	bed	CDS	133630	134802	.	-	ID=cds_pensp.9_eg353837;Description=;parent=rna_pensp.9_eg353837
+pensp.9_JAASRZ010000051.1	bed	CDS	136130	132497	.	+	ID=cds_pensp.9_KAF4762035.1;Description=;parent=rna_pensp.9_KAF4762035.1
+pensp.9_JAASRZ010000051.1	bed	CDS	137724	131270	.	-	ID=cds_pensp.9_KAF4760467.1;Description=;parent=rna_pensp.9_KAF4760467.1
+pensp.9_JAASRZ010000051.1	bed	CDS	140877	127694	.	-	ID=cds_pensp.9_KAF4762115.1;Description=;parent=rna_pensp.9_KAF4762115.1
+pensp.9_JAASRZ010000051.1	bed	CDS	145973	123056	.	+	ID=cds_pensp.9_KAF4760617.1;Description=;parent=rna_pensp.9_KAF4760617.1
+pensp.9_JAASRZ010000051.1	bed	CDS	146245	122772	.	+	ID=cds_pensp.9_KAF4761856.1;Description=;parent=rna_pensp.9_KAF4761856.1
+pensp.9_JAASRZ010000051.1	bed	CDS	148640	120243	.	-	ID=cds_pensp.9_KAF4761631.1;Description=;parent=rna_pensp.9_KAF4761631.1
+pensp.9_JAASRZ010000051.1	bed	CDS	149555	117774	.	+	ID=cds_pensp.9_KAF4761613.1;Description=;parent=rna_pensp.9_KAF4761613.1
+pensp.9_JAASRZ010000051.1	bed	CDS	154631	114068	.	+	ID=cds_pensp.9_eg353777;Description=;parent=rna_pensp.9_eg353777
+pensp.9_JAASRZ010000051.1	bed	CDS	155999	112321	.	-	ID=cds_pensp.9_eg354588;Description=;parent=rna_pensp.9_eg354588
+pensp.9_JAASRZ010000051.1	bed	CDS	157944	110483	.	+	ID=cds_pensp.9_KAF4761486.1;Description=;parent=rna_pensp.9_KAF4761486.1
+pensp.9_JAASRZ010000051.1	bed	CDS	176960	91832	.	-	ID=cds_pensp.9_eg353800;Description=;parent=rna_pensp.9_eg353800
+pensp.9_JAASRZ010000051.1	bed	CDS	182029	87006	.	+	ID=cds_pensp.9_KAF4761010.1;Description=;parent=rna_pensp.9_KAF4761010.1
+pensp.9_JAASRZ010000051.1	bed	CDS	183378	85630	.	+	ID=cds_pensp.9_KAF4759764.1;Description=;parent=rna_pensp.9_KAF4759764.1
+pensp.9_JAASRZ010000051.1	bed	CDS	183690	85081	.	+	ID=cds_pensp.9_KAF4759608.1;Description=;parent=rna_pensp.9_KAF4759608.1
+pensp.9_JAASRZ010000051.1	bed	CDS	186123	82933	.	-	ID=cds_pensp.9_KAF4759697.1;Description=;parent=rna_pensp.9_KAF4759697.1
+pensp.9_JAASRZ010000051.1	bed	CDS	187219	80823	.	+	ID=cds_pensp.9_KAF4761168.1;Description=;parent=rna_pensp.9_KAF4761168.1
+pensp.9_JAASRZ010000051.1	bed	CDS	196011	72673	.	-	ID=cds_pensp.9_KAF4762554.1;Description=;parent=rna_pensp.9_KAF4762554.1
+pensp.9_JAASRZ010000051.1	bed	CDS	197892	70799	.	+	ID=cds_pensp.9_KAF4759975.1;Description=;parent=rna_pensp.9_KAF4759975.1
+pensp.9_JAASRZ010000051.1	bed	CDS	199876	68121	.	-	ID=cds_pensp.9_KAF4760187.1;Description=;parent=rna_pensp.9_KAF4760187.1
+pensp.9_JAASRZ010000051.1	bed	CDS	218491	49371	.	-	ID=cds_pensp.9_KAF4760387.1;Description=;parent=rna_pensp.9_KAF4760387.1
+pensp.9_JAASRZ010000051.1	bed	CDS	227867	38373	.	-	ID=cds_pensp.9_KAF4760173.1;Description=;parent=rna_pensp.9_KAF4760173.1
+pensp.9_JAASRZ010000051.1	bed	CDS	234142	34638	.	+	ID=cds_pensp.9_KAF4762349.1;Description=;parent=rna_pensp.9_KAF4762349.1
+pensp.9_JAASRZ010000051.1	bed	CDS	237236	31206	.	-	ID=cds_pensp.9_KAF4760332.1;Description=;parent=rna_pensp.9_KAF4760332.1
+pensp.9_JAASRZ010000051.1	bed	CDS	249560	19361	.	-	ID=cds_pensp.9_KAF4760037.1;Description=;parent=rna_pensp.9_KAF4760037.1
+pensp.9_JAASRZ010000051.1	bed	CDS	251831	16502	.	-	ID=cds_pensp.9_eg353852;Description=;parent=rna_pensp.9_eg353852
+pensp.9_JAASRZ010000051.1	bed	CDS	258111	10804	.	-	ID=cds_pensp.9_KAF4759945.1;Description=;parent=rna_pensp.9_KAF4759945.1
+pensp.9_JAASRZ010000051.1	bed	CDS	261598	6747	.	-	ID=cds_pensp.9_KAF4761051.1;Description=;parent=rna_pensp.9_KAF4761051.1
+pensp.9_JAASRZ010000051.1	bed	CDS	264523	4503	.	-	ID=cds_pensp.9_KAF4762642.1;Description=;parent=rna_pensp.9_KAF4762642.1
+pensp.9_JAASRZ010000051.1	bed	CDS	267074	935	.	-	ID=cds_pensp.9_KAF4759722.1;Description=;parent=rna_pensp.9_KAF4759722.1

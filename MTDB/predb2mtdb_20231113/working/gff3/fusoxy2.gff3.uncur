@@ -1,0 +1,155 @@
+fusoxy2_Chromosome17	bed	region	1	100579	.	-	flank	ID=gene_fusoxy2_445937|DR|down;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	1524	95505	.	+	nlr	ID=gene_fusoxy2_53316;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	6310	93529	.	+	.	ID=gene_fusoxy2_521340;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	7864	89391	.	-	nlr	ID=gene_fusoxy2_281346;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	13008	86434	.	+	.	ID=gene_fusoxy2_459694;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	16423	83961	.	+	.	ID=gene_fusoxy2_7023;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	16665	82326	.	-	.	ID=gene_fusoxy2_279991;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	19120	80618	.	-	.	ID=gene_fusoxy2_427147;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	21193	78672	.	-	.	ID=gene_fusoxy2_445909;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	22859	77033	.	-	.	ID=gene_fusoxy2_445910;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	24005	75842	.	-	.	ID=gene_fusoxy2_280444;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	25401	74620	.	+	.	ID=gene_fusoxy2_445911;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	27114	72798	.	+	.	ID=gene_fusoxy2_227240;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	27967	70697	.	+	.	ID=gene_fusoxy2_281458;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	30241	67920	.	-	.	ID=gene_fusoxy2_7026;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	33943	65131	.	+	.	ID=gene_fusoxy2_472368;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	35540	64453	.	-	.	ID=gene_fusoxy2_280431;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	37493	62045	.	-	.	ID=gene_fusoxy2_445915;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	39940	59909	.	+	.	ID=gene_fusoxy2_370393;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	40889	59258	.	+	.	ID=gene_fusoxy2_507722;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	41759	57695	.	-	.	ID=gene_fusoxy2_427173;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	43368	55334	.	+	.	ID=gene_fusoxy2_280676;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	46133	52219	.	+	.	ID=gene_fusoxy2_279742;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	48673	50891	.	-	.	ID=gene_fusoxy2_370397;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	50983	48467	.	+	.	ID=gene_fusoxy2_317023;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	52385	45102	.	+	.	ID=gene_fusoxy2_352101;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	58037	40736	.	-	.	ID=gene_fusoxy2_eg247013;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	60526	39041	.	+	.	ID=gene_fusoxy2_507726;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	61467	38493	.	+	.	ID=gene_fusoxy2_427181;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	62320	36522	.	-	.	ID=gene_fusoxy2_445923;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	64445	34162	.	-	.	ID=gene_fusoxy2_352105;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	66890	33144	.	+	.	ID=gene_fusoxy2_7034;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	67708	30451	.	-	.	ID=gene_fusoxy2_472374;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	70398	28066	.	+	d37	ID=gene_fusoxy2_280935:472375;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	72960	26841	.	-	.	ID=gene_fusoxy2_317037;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	72960	26841	.	-	.	ID=gene_fusoxy2_427185;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	74243	21662	.	+	nlr	ID=gene_fusoxy2_427193:427196:317039;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	79199	20626	.	-	.	ID=gene_fusoxy2_521385;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	80173	19979	.	+	.	ID=gene_fusoxy2_445928;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	82522	17514	.	+	.	ID=gene_fusoxy2_370409;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	83634	16267	.	+	.	ID=gene_fusoxy2_7040;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	84657	15540	.	-	.	ID=gene_fusoxy2_279745;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	85376	14288	.	+	.	ID=gene_fusoxy2_459709;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	86340	12883	.	-	.	ID=gene_fusoxy2_370412;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	88170	12064	.	+	.	ID=gene_fusoxy2_370413;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	89045	11269	.	-	.	ID=gene_fusoxy2_445933;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	91676	8576	.	+	.	ID=gene_fusoxy2_280056;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	92111	7271	.	-	.	ID=gene_fusoxy2_445934;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	94162	6051	.	+	.	ID=gene_fusoxy2_445935;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	94687	5150	.	-	.	ID=gene_fusoxy2_445936;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	96471	3306	.	+	.	ID=gene_fusoxy2_280357;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	gene	97391	377	.	-	cap	ID=gene_fusoxy2_445937;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	region	100581	0	.	-	flank	ID=gene_fusoxy2_445937|DR|up;Description=fusoxy2_s05892;parent=fusoxy2_Chromosome17
+fusoxy2_Chromosome17	bed	RNA	1524	95505	.	+	ID=rna_fusoxy2_53316;Description=;parent=gene_fusoxy2_53316
+fusoxy2_Chromosome17	bed	RNA	6310	93529	.	+	ID=rna_fusoxy2_521340;Description=;parent=gene_fusoxy2_521340
+fusoxy2_Chromosome17	bed	RNA	7864	89391	.	-	ID=rna_fusoxy2_281346;Description=;parent=gene_fusoxy2_281346
+fusoxy2_Chromosome17	bed	RNA	13008	86434	.	+	ID=rna_fusoxy2_459694;Description=;parent=gene_fusoxy2_459694
+fusoxy2_Chromosome17	bed	RNA	16423	83961	.	+	ID=rna_fusoxy2_7023;Description=;parent=gene_fusoxy2_7023
+fusoxy2_Chromosome17	bed	RNA	16665	82326	.	-	ID=rna_fusoxy2_279991;Description=;parent=gene_fusoxy2_279991
+fusoxy2_Chromosome17	bed	RNA	19120	80618	.	-	ID=rna_fusoxy2_427147;Description=;parent=gene_fusoxy2_427147
+fusoxy2_Chromosome17	bed	RNA	21193	78672	.	-	ID=rna_fusoxy2_445909;Description=;parent=gene_fusoxy2_445909
+fusoxy2_Chromosome17	bed	RNA	22859	77033	.	-	ID=rna_fusoxy2_445910;Description=;parent=gene_fusoxy2_445910
+fusoxy2_Chromosome17	bed	RNA	24005	75842	.	-	ID=rna_fusoxy2_280444;Description=;parent=gene_fusoxy2_280444
+fusoxy2_Chromosome17	bed	RNA	25401	74620	.	+	ID=rna_fusoxy2_445911;Description=;parent=gene_fusoxy2_445911
+fusoxy2_Chromosome17	bed	RNA	27114	72798	.	+	ID=rna_fusoxy2_227240;Description=;parent=gene_fusoxy2_227240
+fusoxy2_Chromosome17	bed	RNA	27967	70697	.	+	ID=rna_fusoxy2_281458;Description=;parent=gene_fusoxy2_281458
+fusoxy2_Chromosome17	bed	RNA	30241	67920	.	-	ID=rna_fusoxy2_7026;Description=;parent=gene_fusoxy2_7026
+fusoxy2_Chromosome17	bed	RNA	33943	65131	.	+	ID=rna_fusoxy2_472368;Description=;parent=gene_fusoxy2_472368
+fusoxy2_Chromosome17	bed	RNA	35540	64453	.	-	ID=rna_fusoxy2_280431;Description=;parent=gene_fusoxy2_280431
+fusoxy2_Chromosome17	bed	RNA	37493	62045	.	-	ID=rna_fusoxy2_445915;Description=;parent=gene_fusoxy2_445915
+fusoxy2_Chromosome17	bed	RNA	39940	59909	.	+	ID=rna_fusoxy2_370393;Description=;parent=gene_fusoxy2_370393
+fusoxy2_Chromosome17	bed	RNA	40889	59258	.	+	ID=rna_fusoxy2_507722;Description=;parent=gene_fusoxy2_507722
+fusoxy2_Chromosome17	bed	RNA	41759	57695	.	-	ID=rna_fusoxy2_427173;Description=;parent=gene_fusoxy2_427173
+fusoxy2_Chromosome17	bed	RNA	43368	55334	.	+	ID=rna_fusoxy2_280676;Description=;parent=gene_fusoxy2_280676
+fusoxy2_Chromosome17	bed	RNA	46133	52219	.	+	ID=rna_fusoxy2_279742;Description=;parent=gene_fusoxy2_279742
+fusoxy2_Chromosome17	bed	RNA	48673	50891	.	-	ID=rna_fusoxy2_370397;Description=;parent=gene_fusoxy2_370397
+fusoxy2_Chromosome17	bed	RNA	50983	48467	.	+	ID=rna_fusoxy2_317023;Description=;parent=gene_fusoxy2_317023
+fusoxy2_Chromosome17	bed	RNA	52385	45102	.	+	ID=rna_fusoxy2_352101;Description=;parent=gene_fusoxy2_352101
+fusoxy2_Chromosome17	bed	RNA	58037	40736	.	-	ID=rna_fusoxy2_eg247013;Description=;parent=gene_fusoxy2_eg247013
+fusoxy2_Chromosome17	bed	RNA	60526	39041	.	+	ID=rna_fusoxy2_507726;Description=;parent=gene_fusoxy2_507726
+fusoxy2_Chromosome17	bed	RNA	61467	38493	.	+	ID=rna_fusoxy2_427181;Description=;parent=gene_fusoxy2_427181
+fusoxy2_Chromosome17	bed	RNA	62320	36522	.	-	ID=rna_fusoxy2_445923;Description=;parent=gene_fusoxy2_445923
+fusoxy2_Chromosome17	bed	RNA	64445	34162	.	-	ID=rna_fusoxy2_352105;Description=;parent=gene_fusoxy2_352105
+fusoxy2_Chromosome17	bed	RNA	66890	33144	.	+	ID=rna_fusoxy2_7034;Description=;parent=gene_fusoxy2_7034
+fusoxy2_Chromosome17	bed	RNA	67708	30451	.	-	ID=rna_fusoxy2_472374;Description=;parent=gene_fusoxy2_472374
+fusoxy2_Chromosome17	bed	RNA	70398	28066	.	+	ID=rna_fusoxy2_280935:472375;Description=;parent=gene_fusoxy2_280935:472375
+fusoxy2_Chromosome17	bed	RNA	72960	26841	.	-	ID=rna_fusoxy2_317037;Description=;parent=gene_fusoxy2_317037
+fusoxy2_Chromosome17	bed	RNA	72960	26841	.	-	ID=rna_fusoxy2_427185;Description=;parent=gene_fusoxy2_427185
+fusoxy2_Chromosome17	bed	RNA	74243	21662	.	+	ID=rna_fusoxy2_427193:427196:317039;Description=;parent=gene_fusoxy2_427193:427196:317039
+fusoxy2_Chromosome17	bed	RNA	79199	20626	.	-	ID=rna_fusoxy2_521385;Description=;parent=gene_fusoxy2_521385
+fusoxy2_Chromosome17	bed	RNA	80173	19979	.	+	ID=rna_fusoxy2_445928;Description=;parent=gene_fusoxy2_445928
+fusoxy2_Chromosome17	bed	RNA	82522	17514	.	+	ID=rna_fusoxy2_370409;Description=;parent=gene_fusoxy2_370409
+fusoxy2_Chromosome17	bed	RNA	83634	16267	.	+	ID=rna_fusoxy2_7040;Description=;parent=gene_fusoxy2_7040
+fusoxy2_Chromosome17	bed	RNA	84657	15540	.	-	ID=rna_fusoxy2_279745;Description=;parent=gene_fusoxy2_279745
+fusoxy2_Chromosome17	bed	RNA	85376	14288	.	+	ID=rna_fusoxy2_459709;Description=;parent=gene_fusoxy2_459709
+fusoxy2_Chromosome17	bed	RNA	86340	12883	.	-	ID=rna_fusoxy2_370412;Description=;parent=gene_fusoxy2_370412
+fusoxy2_Chromosome17	bed	RNA	88170	12064	.	+	ID=rna_fusoxy2_370413;Description=;parent=gene_fusoxy2_370413
+fusoxy2_Chromosome17	bed	RNA	89045	11269	.	-	ID=rna_fusoxy2_445933;Description=;parent=gene_fusoxy2_445933
+fusoxy2_Chromosome17	bed	RNA	91676	8576	.	+	ID=rna_fusoxy2_280056;Description=;parent=gene_fusoxy2_280056
+fusoxy2_Chromosome17	bed	RNA	92111	7271	.	-	ID=rna_fusoxy2_445934;Description=;parent=gene_fusoxy2_445934
+fusoxy2_Chromosome17	bed	RNA	94162	6051	.	+	ID=rna_fusoxy2_445935;Description=;parent=gene_fusoxy2_445935
+fusoxy2_Chromosome17	bed	RNA	94687	5150	.	-	ID=rna_fusoxy2_445936;Description=;parent=gene_fusoxy2_445936
+fusoxy2_Chromosome17	bed	RNA	96471	3306	.	+	ID=rna_fusoxy2_280357;Description=;parent=gene_fusoxy2_280357
+fusoxy2_Chromosome17	bed	RNA	97391	377	.	-	ID=rna_fusoxy2_445937;Description=;parent=gene_fusoxy2_445937
+fusoxy2_Chromosome17	bed	CDS	1524	95505	.	+	ID=cds_fusoxy2_53316;Description=;parent=rna_fusoxy2_53316
+fusoxy2_Chromosome17	bed	CDS	6310	93529	.	+	ID=cds_fusoxy2_521340;Description=;parent=rna_fusoxy2_521340
+fusoxy2_Chromosome17	bed	CDS	7864	89391	.	-	ID=cds_fusoxy2_281346;Description=;parent=rna_fusoxy2_281346
+fusoxy2_Chromosome17	bed	CDS	13008	86434	.	+	ID=cds_fusoxy2_459694;Description=;parent=rna_fusoxy2_459694
+fusoxy2_Chromosome17	bed	CDS	16423	83961	.	+	ID=cds_fusoxy2_7023;Description=;parent=rna_fusoxy2_7023
+fusoxy2_Chromosome17	bed	CDS	16665	82326	.	-	ID=cds_fusoxy2_279991;Description=;parent=rna_fusoxy2_279991
+fusoxy2_Chromosome17	bed	CDS	19120	80618	.	-	ID=cds_fusoxy2_427147;Description=;parent=rna_fusoxy2_427147
+fusoxy2_Chromosome17	bed	CDS	21193	78672	.	-	ID=cds_fusoxy2_445909;Description=;parent=rna_fusoxy2_445909
+fusoxy2_Chromosome17	bed	CDS	22859	77033	.	-	ID=cds_fusoxy2_445910;Description=;parent=rna_fusoxy2_445910
+fusoxy2_Chromosome17	bed	CDS	24005	75842	.	-	ID=cds_fusoxy2_280444;Description=;parent=rna_fusoxy2_280444
+fusoxy2_Chromosome17	bed	CDS	25401	74620	.	+	ID=cds_fusoxy2_445911;Description=;parent=rna_fusoxy2_445911
+fusoxy2_Chromosome17	bed	CDS	27114	72798	.	+	ID=cds_fusoxy2_227240;Description=;parent=rna_fusoxy2_227240
+fusoxy2_Chromosome17	bed	CDS	27967	70697	.	+	ID=cds_fusoxy2_281458;Description=;parent=rna_fusoxy2_281458
+fusoxy2_Chromosome17	bed	CDS	30241	67920	.	-	ID=cds_fusoxy2_7026;Description=;parent=rna_fusoxy2_7026
+fusoxy2_Chromosome17	bed	CDS	33943	65131	.	+	ID=cds_fusoxy2_472368;Description=;parent=rna_fusoxy2_472368
+fusoxy2_Chromosome17	bed	CDS	35540	64453	.	-	ID=cds_fusoxy2_280431;Description=;parent=rna_fusoxy2_280431
+fusoxy2_Chromosome17	bed	CDS	37493	62045	.	-	ID=cds_fusoxy2_445915;Description=;parent=rna_fusoxy2_445915
+fusoxy2_Chromosome17	bed	CDS	39940	59909	.	+	ID=cds_fusoxy2_370393;Description=;parent=rna_fusoxy2_370393
+fusoxy2_Chromosome17	bed	CDS	40889	59258	.	+	ID=cds_fusoxy2_507722;Description=;parent=rna_fusoxy2_507722
+fusoxy2_Chromosome17	bed	CDS	41759	57695	.	-	ID=cds_fusoxy2_427173;Description=;parent=rna_fusoxy2_427173
+fusoxy2_Chromosome17	bed	CDS	43368	55334	.	+	ID=cds_fusoxy2_280676;Description=;parent=rna_fusoxy2_280676
+fusoxy2_Chromosome17	bed	CDS	46133	52219	.	+	ID=cds_fusoxy2_279742;Description=;parent=rna_fusoxy2_279742
+fusoxy2_Chromosome17	bed	CDS	48673	50891	.	-	ID=cds_fusoxy2_370397;Description=;parent=rna_fusoxy2_370397
+fusoxy2_Chromosome17	bed	CDS	50983	48467	.	+	ID=cds_fusoxy2_317023;Description=;parent=rna_fusoxy2_317023
+fusoxy2_Chromosome17	bed	CDS	52385	45102	.	+	ID=cds_fusoxy2_352101;Description=;parent=rna_fusoxy2_352101
+fusoxy2_Chromosome17	bed	CDS	58037	40736	.	-	ID=cds_fusoxy2_eg247013;Description=;parent=rna_fusoxy2_eg247013
+fusoxy2_Chromosome17	bed	CDS	60526	39041	.	+	ID=cds_fusoxy2_507726;Description=;parent=rna_fusoxy2_507726
+fusoxy2_Chromosome17	bed	CDS	61467	38493	.	+	ID=cds_fusoxy2_427181;Description=;parent=rna_fusoxy2_427181
+fusoxy2_Chromosome17	bed	CDS	62320	36522	.	-	ID=cds_fusoxy2_445923;Description=;parent=rna_fusoxy2_445923
+fusoxy2_Chromosome17	bed	CDS	64445	34162	.	-	ID=cds_fusoxy2_352105;Description=;parent=rna_fusoxy2_352105
+fusoxy2_Chromosome17	bed	CDS	66890	33144	.	+	ID=cds_fusoxy2_7034;Description=;parent=rna_fusoxy2_7034
+fusoxy2_Chromosome17	bed	CDS	67708	30451	.	-	ID=cds_fusoxy2_472374;Description=;parent=rna_fusoxy2_472374
+fusoxy2_Chromosome17	bed	CDS	70398	28066	.	+	ID=cds_fusoxy2_280935:472375;Description=;parent=rna_fusoxy2_280935:472375
+fusoxy2_Chromosome17	bed	CDS	72960	26841	.	-	ID=cds_fusoxy2_317037;Description=;parent=rna_fusoxy2_317037
+fusoxy2_Chromosome17	bed	CDS	72960	26841	.	-	ID=cds_fusoxy2_427185;Description=;parent=rna_fusoxy2_427185
+fusoxy2_Chromosome17	bed	CDS	74243	21662	.	+	ID=cds_fusoxy2_427193:427196:317039;Description=;parent=rna_fusoxy2_427193:427196:317039
+fusoxy2_Chromosome17	bed	CDS	79199	20626	.	-	ID=cds_fusoxy2_521385;Description=;parent=rna_fusoxy2_521385
+fusoxy2_Chromosome17	bed	CDS	80173	19979	.	+	ID=cds_fusoxy2_445928;Description=;parent=rna_fusoxy2_445928
+fusoxy2_Chromosome17	bed	CDS	82522	17514	.	+	ID=cds_fusoxy2_370409;Description=;parent=rna_fusoxy2_370409
+fusoxy2_Chromosome17	bed	CDS	83634	16267	.	+	ID=cds_fusoxy2_7040;Description=;parent=rna_fusoxy2_7040
+fusoxy2_Chromosome17	bed	CDS	84657	15540	.	-	ID=cds_fusoxy2_279745;Description=;parent=rna_fusoxy2_279745
+fusoxy2_Chromosome17	bed	CDS	85376	14288	.	+	ID=cds_fusoxy2_459709;Description=;parent=rna_fusoxy2_459709
+fusoxy2_Chromosome17	bed	CDS	86340	12883	.	-	ID=cds_fusoxy2_370412;Description=;parent=rna_fusoxy2_370412
+fusoxy2_Chromosome17	bed	CDS	88170	12064	.	+	ID=cds_fusoxy2_370413;Description=;parent=rna_fusoxy2_370413
+fusoxy2_Chromosome17	bed	CDS	89045	11269	.	-	ID=cds_fusoxy2_445933;Description=;parent=rna_fusoxy2_445933
+fusoxy2_Chromosome17	bed	CDS	91676	8576	.	+	ID=cds_fusoxy2_280056;Description=;parent=rna_fusoxy2_280056
+fusoxy2_Chromosome17	bed	CDS	92111	7271	.	-	ID=cds_fusoxy2_445934;Description=;parent=rna_fusoxy2_445934
+fusoxy2_Chromosome17	bed	CDS	94162	6051	.	+	ID=cds_fusoxy2_445935;Description=;parent=rna_fusoxy2_445935
+fusoxy2_Chromosome17	bed	CDS	94687	5150	.	-	ID=cds_fusoxy2_445936;Description=;parent=rna_fusoxy2_445936
+fusoxy2_Chromosome17	bed	CDS	96471	3306	.	+	ID=cds_fusoxy2_280357;Description=;parent=rna_fusoxy2_280357
+fusoxy2_Chromosome17	bed	CDS	97391	377	.	-	ID=cds_fusoxy2_445937;Description=;parent=rna_fusoxy2_445937

@@ -1,0 +1,123 @@
+aspjap1_scaffold1	bed	gene	1	89281	.	-	insert	ID=gene_aspjap1_444533|aspjap3_JACEER010000009.1|down;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	576	87996	.	-	.	ID=gene_aspjap1_374591;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	2873	85580	.	-	.	ID=gene_aspjap1_6485;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	4253	83394	.	+	.	ID=gene_aspjap1_452372;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	7581	80554	.	+	.	ID=gene_aspjap1_300309;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	9306	78585	.	+	.	ID=gene_aspjap1_424318;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	11196	76824	.	-	.	ID=gene_aspjap1_424323;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	12859	74697	.	+	d37	ID=gene_aspjap1_424327;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	15659	72620	.	-	.	ID=gene_aspjap1_444516;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	17553	71418	.	+	.	ID=gene_aspjap1_6592;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	18029	70852	.	+	.	ID=gene_aspjap1_6584;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	20001	68596	.	+	.	ID=gene_aspjap1_351525;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	20966	65249	.	+	plp	ID=gene_aspjap1_424334;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	24633	64117	.	+	.	ID=gene_aspjap1_6637;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	25894	62573	.	-	.	ID=gene_aspjap1_414684;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	27247	60953	.	+	.	ID=gene_aspjap1_424339;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	28557	60247	.	-	.	ID=gene_aspjap1_351530;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	29429	58583	.	+	fre	ID=gene_aspjap1_384674;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	31825	57125	.	-	.	ID=gene_aspjap1_272186;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	32578	54569	.	+	.	ID=gene_aspjap1_374603;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	35476	49304	.	-	.	ID=gene_aspjap1_374604;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	43255	45200	.	-	.	ID=gene_aspjap1_301094;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	46298	42760	.	+	.	ID=gene_aspjap1_eg88276;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	47017	41666	.	-	.	ID=gene_aspjap1_394384;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	48018	39989	.	-	.	ID=gene_aspjap1_444520;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	50415	38275	.	+	.	ID=gene_aspjap1_328102;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	51376	34174	.	-	.	ID=gene_aspjap1_328106;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	55837	32005	.	+	.	ID=gene_aspjap1_444523;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	57417	30362	.	-	.	ID=gene_aspjap1_414691;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	61509	26702	.	+	.	ID=gene_aspjap1_384682;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	63146	24625	.	+	.	ID=gene_aspjap1_452387;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	64969	23987	.	-	.	ID=gene_aspjap1_394391;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	65908	21967	.	+	.	ID=gene_aspjap1_405594;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	67922	19777	.	+	.	ID=gene_aspjap1_405595;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	69722	18091	.	-	.	ID=gene_aspjap1_328129;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	71996	16663	.	+	.	ID=gene_aspjap1_405597;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	73769	13503	.	+	.	ID=gene_aspjap1_394396;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	79046	8540	.	+	.	ID=gene_aspjap1_414699;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	81213	5870	.	-	cap	ID=gene_aspjap1_444533;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	84812	2227	.	+	.	ID=gene_aspjap1_384690;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	gene	89282	0	.	-	insert	ID=gene_aspjap1_444533|aspjap3_JACEER010000009.1|up;Description=aspjap1_s01479;parent=aspjap1_scaffold1
+aspjap1_scaffold1	bed	RNA	1	89281	.	-	ID=rna_aspjap1_444533|aspjap3_JACEER010000009.1|down;Description=;parent=gene_aspjap1_444533|aspjap3_JACEER010000009.1|down
+aspjap1_scaffold1	bed	RNA	576	87996	.	-	ID=rna_aspjap1_374591;Description=;parent=gene_aspjap1_374591
+aspjap1_scaffold1	bed	RNA	2873	85580	.	-	ID=rna_aspjap1_6485;Description=;parent=gene_aspjap1_6485
+aspjap1_scaffold1	bed	RNA	4253	83394	.	+	ID=rna_aspjap1_452372;Description=;parent=gene_aspjap1_452372
+aspjap1_scaffold1	bed	RNA	7581	80554	.	+	ID=rna_aspjap1_300309;Description=;parent=gene_aspjap1_300309
+aspjap1_scaffold1	bed	RNA	9306	78585	.	+	ID=rna_aspjap1_424318;Description=;parent=gene_aspjap1_424318
+aspjap1_scaffold1	bed	RNA	11196	76824	.	-	ID=rna_aspjap1_424323;Description=;parent=gene_aspjap1_424323
+aspjap1_scaffold1	bed	RNA	12859	74697	.	+	ID=rna_aspjap1_424327;Description=;parent=gene_aspjap1_424327
+aspjap1_scaffold1	bed	RNA	15659	72620	.	-	ID=rna_aspjap1_444516;Description=;parent=gene_aspjap1_444516
+aspjap1_scaffold1	bed	RNA	17553	71418	.	+	ID=rna_aspjap1_6592;Description=;parent=gene_aspjap1_6592
+aspjap1_scaffold1	bed	RNA	18029	70852	.	+	ID=rna_aspjap1_6584;Description=;parent=gene_aspjap1_6584
+aspjap1_scaffold1	bed	RNA	20001	68596	.	+	ID=rna_aspjap1_351525;Description=;parent=gene_aspjap1_351525
+aspjap1_scaffold1	bed	RNA	20966	65249	.	+	ID=rna_aspjap1_424334;Description=;parent=gene_aspjap1_424334
+aspjap1_scaffold1	bed	RNA	24633	64117	.	+	ID=rna_aspjap1_6637;Description=;parent=gene_aspjap1_6637
+aspjap1_scaffold1	bed	RNA	25894	62573	.	-	ID=rna_aspjap1_414684;Description=;parent=gene_aspjap1_414684
+aspjap1_scaffold1	bed	RNA	27247	60953	.	+	ID=rna_aspjap1_424339;Description=;parent=gene_aspjap1_424339
+aspjap1_scaffold1	bed	RNA	28557	60247	.	-	ID=rna_aspjap1_351530;Description=;parent=gene_aspjap1_351530
+aspjap1_scaffold1	bed	RNA	29429	58583	.	+	ID=rna_aspjap1_384674;Description=;parent=gene_aspjap1_384674
+aspjap1_scaffold1	bed	RNA	31825	57125	.	-	ID=rna_aspjap1_272186;Description=;parent=gene_aspjap1_272186
+aspjap1_scaffold1	bed	RNA	32578	54569	.	+	ID=rna_aspjap1_374603;Description=;parent=gene_aspjap1_374603
+aspjap1_scaffold1	bed	RNA	35476	49304	.	-	ID=rna_aspjap1_374604;Description=;parent=gene_aspjap1_374604
+aspjap1_scaffold1	bed	RNA	43255	45200	.	-	ID=rna_aspjap1_301094;Description=;parent=gene_aspjap1_301094
+aspjap1_scaffold1	bed	RNA	46298	42760	.	+	ID=rna_aspjap1_eg88276;Description=;parent=gene_aspjap1_eg88276
+aspjap1_scaffold1	bed	RNA	47017	41666	.	-	ID=rna_aspjap1_394384;Description=;parent=gene_aspjap1_394384
+aspjap1_scaffold1	bed	RNA	48018	39989	.	-	ID=rna_aspjap1_444520;Description=;parent=gene_aspjap1_444520
+aspjap1_scaffold1	bed	RNA	50415	38275	.	+	ID=rna_aspjap1_328102;Description=;parent=gene_aspjap1_328102
+aspjap1_scaffold1	bed	RNA	51376	34174	.	-	ID=rna_aspjap1_328106;Description=;parent=gene_aspjap1_328106
+aspjap1_scaffold1	bed	RNA	55837	32005	.	+	ID=rna_aspjap1_444523;Description=;parent=gene_aspjap1_444523
+aspjap1_scaffold1	bed	RNA	57417	30362	.	-	ID=rna_aspjap1_414691;Description=;parent=gene_aspjap1_414691
+aspjap1_scaffold1	bed	RNA	61509	26702	.	+	ID=rna_aspjap1_384682;Description=;parent=gene_aspjap1_384682
+aspjap1_scaffold1	bed	RNA	63146	24625	.	+	ID=rna_aspjap1_452387;Description=;parent=gene_aspjap1_452387
+aspjap1_scaffold1	bed	RNA	64969	23987	.	-	ID=rna_aspjap1_394391;Description=;parent=gene_aspjap1_394391
+aspjap1_scaffold1	bed	RNA	65908	21967	.	+	ID=rna_aspjap1_405594;Description=;parent=gene_aspjap1_405594
+aspjap1_scaffold1	bed	RNA	67922	19777	.	+	ID=rna_aspjap1_405595;Description=;parent=gene_aspjap1_405595
+aspjap1_scaffold1	bed	RNA	69722	18091	.	-	ID=rna_aspjap1_328129;Description=;parent=gene_aspjap1_328129
+aspjap1_scaffold1	bed	RNA	71996	16663	.	+	ID=rna_aspjap1_405597;Description=;parent=gene_aspjap1_405597
+aspjap1_scaffold1	bed	RNA	73769	13503	.	+	ID=rna_aspjap1_394396;Description=;parent=gene_aspjap1_394396
+aspjap1_scaffold1	bed	RNA	79046	8540	.	+	ID=rna_aspjap1_414699;Description=;parent=gene_aspjap1_414699
+aspjap1_scaffold1	bed	RNA	81213	5870	.	-	ID=rna_aspjap1_444533;Description=;parent=gene_aspjap1_444533
+aspjap1_scaffold1	bed	RNA	84812	2227	.	+	ID=rna_aspjap1_384690;Description=;parent=gene_aspjap1_384690
+aspjap1_scaffold1	bed	RNA	89282	0	.	-	ID=rna_aspjap1_444533|aspjap3_JACEER010000009.1|up;Description=;parent=gene_aspjap1_444533|aspjap3_JACEER010000009.1|up
+aspjap1_scaffold1	bed	CDS	1	89281	.	-	ID=cds_aspjap1_444533|aspjap3_JACEER010000009.1|down;Description=;parent=rna_aspjap1_444533|aspjap3_JACEER010000009.1|down
+aspjap1_scaffold1	bed	CDS	576	87996	.	-	ID=cds_aspjap1_374591;Description=;parent=rna_aspjap1_374591
+aspjap1_scaffold1	bed	CDS	2873	85580	.	-	ID=cds_aspjap1_6485;Description=;parent=rna_aspjap1_6485
+aspjap1_scaffold1	bed	CDS	4253	83394	.	+	ID=cds_aspjap1_452372;Description=;parent=rna_aspjap1_452372
+aspjap1_scaffold1	bed	CDS	7581	80554	.	+	ID=cds_aspjap1_300309;Description=;parent=rna_aspjap1_300309
+aspjap1_scaffold1	bed	CDS	9306	78585	.	+	ID=cds_aspjap1_424318;Description=;parent=rna_aspjap1_424318
+aspjap1_scaffold1	bed	CDS	11196	76824	.	-	ID=cds_aspjap1_424323;Description=;parent=rna_aspjap1_424323
+aspjap1_scaffold1	bed	CDS	12859	74697	.	+	ID=cds_aspjap1_424327;Description=;parent=rna_aspjap1_424327
+aspjap1_scaffold1	bed	CDS	15659	72620	.	-	ID=cds_aspjap1_444516;Description=;parent=rna_aspjap1_444516
+aspjap1_scaffold1	bed	CDS	17553	71418	.	+	ID=cds_aspjap1_6592;Description=;parent=rna_aspjap1_6592
+aspjap1_scaffold1	bed	CDS	18029	70852	.	+	ID=cds_aspjap1_6584;Description=;parent=rna_aspjap1_6584
+aspjap1_scaffold1	bed	CDS	20001	68596	.	+	ID=cds_aspjap1_351525;Description=;parent=rna_aspjap1_351525
+aspjap1_scaffold1	bed	CDS	20966	65249	.	+	ID=cds_aspjap1_424334;Description=;parent=rna_aspjap1_424334
+aspjap1_scaffold1	bed	CDS	24633	64117	.	+	ID=cds_aspjap1_6637;Description=;parent=rna_aspjap1_6637
+aspjap1_scaffold1	bed	CDS	25894	62573	.	-	ID=cds_aspjap1_414684;Description=;parent=rna_aspjap1_414684
+aspjap1_scaffold1	bed	CDS	27247	60953	.	+	ID=cds_aspjap1_424339;Description=;parent=rna_aspjap1_424339
+aspjap1_scaffold1	bed	CDS	28557	60247	.	-	ID=cds_aspjap1_351530;Description=;parent=rna_aspjap1_351530
+aspjap1_scaffold1	bed	CDS	29429	58583	.	+	ID=cds_aspjap1_384674;Description=;parent=rna_aspjap1_384674
+aspjap1_scaffold1	bed	CDS	31825	57125	.	-	ID=cds_aspjap1_272186;Description=;parent=rna_aspjap1_272186
+aspjap1_scaffold1	bed	CDS	32578	54569	.	+	ID=cds_aspjap1_374603;Description=;parent=rna_aspjap1_374603
+aspjap1_scaffold1	bed	CDS	35476	49304	.	-	ID=cds_aspjap1_374604;Description=;parent=rna_aspjap1_374604
+aspjap1_scaffold1	bed	CDS	43255	45200	.	-	ID=cds_aspjap1_301094;Description=;parent=rna_aspjap1_301094
+aspjap1_scaffold1	bed	CDS	46298	42760	.	+	ID=cds_aspjap1_eg88276;Description=;parent=rna_aspjap1_eg88276
+aspjap1_scaffold1	bed	CDS	47017	41666	.	-	ID=cds_aspjap1_394384;Description=;parent=rna_aspjap1_394384
+aspjap1_scaffold1	bed	CDS	48018	39989	.	-	ID=cds_aspjap1_444520;Description=;parent=rna_aspjap1_444520
+aspjap1_scaffold1	bed	CDS	50415	38275	.	+	ID=cds_aspjap1_328102;Description=;parent=rna_aspjap1_328102
+aspjap1_scaffold1	bed	CDS	51376	34174	.	-	ID=cds_aspjap1_328106;Description=;parent=rna_aspjap1_328106
+aspjap1_scaffold1	bed	CDS	55837	32005	.	+	ID=cds_aspjap1_444523;Description=;parent=rna_aspjap1_444523
+aspjap1_scaffold1	bed	CDS	57417	30362	.	-	ID=cds_aspjap1_414691;Description=;parent=rna_aspjap1_414691
+aspjap1_scaffold1	bed	CDS	61509	26702	.	+	ID=cds_aspjap1_384682;Description=;parent=rna_aspjap1_384682
+aspjap1_scaffold1	bed	CDS	63146	24625	.	+	ID=cds_aspjap1_452387;Description=;parent=rna_aspjap1_452387
+aspjap1_scaffold1	bed	CDS	64969	23987	.	-	ID=cds_aspjap1_394391;Description=;parent=rna_aspjap1_394391
+aspjap1_scaffold1	bed	CDS	65908	21967	.	+	ID=cds_aspjap1_405594;Description=;parent=rna_aspjap1_405594
+aspjap1_scaffold1	bed	CDS	67922	19777	.	+	ID=cds_aspjap1_405595;Description=;parent=rna_aspjap1_405595
+aspjap1_scaffold1	bed	CDS	69722	18091	.	-	ID=cds_aspjap1_328129;Description=;parent=rna_aspjap1_328129
+aspjap1_scaffold1	bed	CDS	71996	16663	.	+	ID=cds_aspjap1_405597;Description=;parent=rna_aspjap1_405597
+aspjap1_scaffold1	bed	CDS	73769	13503	.	+	ID=cds_aspjap1_394396;Description=;parent=rna_aspjap1_394396
+aspjap1_scaffold1	bed	CDS	79046	8540	.	+	ID=cds_aspjap1_414699;Description=;parent=rna_aspjap1_414699
+aspjap1_scaffold1	bed	CDS	81213	5870	.	-	ID=cds_aspjap1_444533;Description=;parent=rna_aspjap1_444533
+aspjap1_scaffold1	bed	CDS	84812	2227	.	+	ID=cds_aspjap1_384690;Description=;parent=rna_aspjap1_384690
+aspjap1_scaffold1	bed	CDS	89282	0	.	-	ID=cds_aspjap1_444533|aspjap3_JACEER010000009.1|up;Description=;parent=rna_aspjap1_444533|aspjap3_JACEER010000009.1|up

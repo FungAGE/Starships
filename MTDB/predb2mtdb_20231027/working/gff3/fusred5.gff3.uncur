@@ -1,0 +1,75 @@
+fusred5_JAGMUX010000023.1	bed	gene	1	133099	.	+	insert	ID=gene_fusred5_tyr6572|fusred3_JAFFJM010000009.1|up;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	1715	128734	.	+	cap	ID=gene_fusred5_tyr6572;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	10055	122581	.	-	.	ID=gene_fusred5_eg288395;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	16012	114003	.	-	.	ID=gene_fusred5_eg288400;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	20635	111833	.	+	.	ID=gene_fusred5_eg288464;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	32804	99646	.	+	.	ID=gene_fusred5_eg288446;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	34153	98084	.	+	.	ID=gene_fusred5_eg288468;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	35188	96842	.	-	.	ID=gene_fusred5_eg288374;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	37710	94669	.	-	.	ID=gene_fusred5_eg288457;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	51871	78542	.	+	plp	ID=gene_fusred5_plp8737;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	64832	65778	.	+	d37	ID=gene_fusred5_d374068;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	69592	62614	.	-	.	ID=gene_fusred5_eg288402;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	73878	57886	.	-	.	ID=gene_fusred5_eg288431;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	76501	55784	.	-	.	ID=gene_fusred5_eg288443;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	78733	53318	.	-	.	ID=gene_fusred5_eg288441;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	87672	44809	.	-	.	ID=gene_fusred5_eg288456;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	88670	40451	.	+	nlr	ID=gene_fusred5_nlr157032;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	94189	35380	.	+	nlr	ID=gene_fusred5_nlr157027;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	101629	30276	.	+	.	ID=gene_fusred5_eg288466;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	103894	28001	.	+	.	ID=gene_fusred5_eg288387;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	105798	25075	.	-	.	ID=gene_fusred5_eg288401;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	111331	19454	.	+	.	ID=gene_fusred5_eg288409;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	119768	12487	.	+	.	ID=gene_fusred5_eg288398;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	121094	10281	.	-	.	ID=gene_fusred5_eg288382;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	gene	133100	0	.	+	insert	ID=gene_fusred5_tyr6572|fusred3_JAFFJM010000009.1|down;Description=fusred5_s06275;parent=fusred5_JAGMUX010000023.1
+fusred5_JAGMUX010000023.1	bed	RNA	1	133099	.	+	ID=rna_fusred5_tyr6572|fusred3_JAFFJM010000009.1|up;Description=;parent=gene_fusred5_tyr6572|fusred3_JAFFJM010000009.1|up
+fusred5_JAGMUX010000023.1	bed	RNA	1715	128734	.	+	ID=rna_fusred5_tyr6572;Description=;parent=gene_fusred5_tyr6572
+fusred5_JAGMUX010000023.1	bed	RNA	10055	122581	.	-	ID=rna_fusred5_eg288395;Description=;parent=gene_fusred5_eg288395
+fusred5_JAGMUX010000023.1	bed	RNA	16012	114003	.	-	ID=rna_fusred5_eg288400;Description=;parent=gene_fusred5_eg288400
+fusred5_JAGMUX010000023.1	bed	RNA	20635	111833	.	+	ID=rna_fusred5_eg288464;Description=;parent=gene_fusred5_eg288464
+fusred5_JAGMUX010000023.1	bed	RNA	32804	99646	.	+	ID=rna_fusred5_eg288446;Description=;parent=gene_fusred5_eg288446
+fusred5_JAGMUX010000023.1	bed	RNA	34153	98084	.	+	ID=rna_fusred5_eg288468;Description=;parent=gene_fusred5_eg288468
+fusred5_JAGMUX010000023.1	bed	RNA	35188	96842	.	-	ID=rna_fusred5_eg288374;Description=;parent=gene_fusred5_eg288374
+fusred5_JAGMUX010000023.1	bed	RNA	37710	94669	.	-	ID=rna_fusred5_eg288457;Description=;parent=gene_fusred5_eg288457
+fusred5_JAGMUX010000023.1	bed	RNA	51871	78542	.	+	ID=rna_fusred5_plp8737;Description=;parent=gene_fusred5_plp8737
+fusred5_JAGMUX010000023.1	bed	RNA	64832	65778	.	+	ID=rna_fusred5_d374068;Description=;parent=gene_fusred5_d374068
+fusred5_JAGMUX010000023.1	bed	RNA	69592	62614	.	-	ID=rna_fusred5_eg288402;Description=;parent=gene_fusred5_eg288402
+fusred5_JAGMUX010000023.1	bed	RNA	73878	57886	.	-	ID=rna_fusred5_eg288431;Description=;parent=gene_fusred5_eg288431
+fusred5_JAGMUX010000023.1	bed	RNA	76501	55784	.	-	ID=rna_fusred5_eg288443;Description=;parent=gene_fusred5_eg288443
+fusred5_JAGMUX010000023.1	bed	RNA	78733	53318	.	-	ID=rna_fusred5_eg288441;Description=;parent=gene_fusred5_eg288441
+fusred5_JAGMUX010000023.1	bed	RNA	87672	44809	.	-	ID=rna_fusred5_eg288456;Description=;parent=gene_fusred5_eg288456
+fusred5_JAGMUX010000023.1	bed	RNA	88670	40451	.	+	ID=rna_fusred5_nlr157032;Description=;parent=gene_fusred5_nlr157032
+fusred5_JAGMUX010000023.1	bed	RNA	94189	35380	.	+	ID=rna_fusred5_nlr157027;Description=;parent=gene_fusred5_nlr157027
+fusred5_JAGMUX010000023.1	bed	RNA	101629	30276	.	+	ID=rna_fusred5_eg288466;Description=;parent=gene_fusred5_eg288466
+fusred5_JAGMUX010000023.1	bed	RNA	103894	28001	.	+	ID=rna_fusred5_eg288387;Description=;parent=gene_fusred5_eg288387
+fusred5_JAGMUX010000023.1	bed	RNA	105798	25075	.	-	ID=rna_fusred5_eg288401;Description=;parent=gene_fusred5_eg288401
+fusred5_JAGMUX010000023.1	bed	RNA	111331	19454	.	+	ID=rna_fusred5_eg288409;Description=;parent=gene_fusred5_eg288409
+fusred5_JAGMUX010000023.1	bed	RNA	119768	12487	.	+	ID=rna_fusred5_eg288398;Description=;parent=gene_fusred5_eg288398
+fusred5_JAGMUX010000023.1	bed	RNA	121094	10281	.	-	ID=rna_fusred5_eg288382;Description=;parent=gene_fusred5_eg288382
+fusred5_JAGMUX010000023.1	bed	RNA	133100	0	.	+	ID=rna_fusred5_tyr6572|fusred3_JAFFJM010000009.1|down;Description=;parent=gene_fusred5_tyr6572|fusred3_JAFFJM010000009.1|down
+fusred5_JAGMUX010000023.1	bed	CDS	1	133099	.	+	ID=cds_fusred5_tyr6572|fusred3_JAFFJM010000009.1|up;Description=;parent=rna_fusred5_tyr6572|fusred3_JAFFJM010000009.1|up
+fusred5_JAGMUX010000023.1	bed	CDS	1715	128734	.	+	ID=cds_fusred5_tyr6572;Description=;parent=rna_fusred5_tyr6572
+fusred5_JAGMUX010000023.1	bed	CDS	10055	122581	.	-	ID=cds_fusred5_eg288395;Description=;parent=rna_fusred5_eg288395
+fusred5_JAGMUX010000023.1	bed	CDS	16012	114003	.	-	ID=cds_fusred5_eg288400;Description=;parent=rna_fusred5_eg288400
+fusred5_JAGMUX010000023.1	bed	CDS	20635	111833	.	+	ID=cds_fusred5_eg288464;Description=;parent=rna_fusred5_eg288464
+fusred5_JAGMUX010000023.1	bed	CDS	32804	99646	.	+	ID=cds_fusred5_eg288446;Description=;parent=rna_fusred5_eg288446
+fusred5_JAGMUX010000023.1	bed	CDS	34153	98084	.	+	ID=cds_fusred5_eg288468;Description=;parent=rna_fusred5_eg288468
+fusred5_JAGMUX010000023.1	bed	CDS	35188	96842	.	-	ID=cds_fusred5_eg288374;Description=;parent=rna_fusred5_eg288374
+fusred5_JAGMUX010000023.1	bed	CDS	37710	94669	.	-	ID=cds_fusred5_eg288457;Description=;parent=rna_fusred5_eg288457
+fusred5_JAGMUX010000023.1	bed	CDS	51871	78542	.	+	ID=cds_fusred5_plp8737;Description=;parent=rna_fusred5_plp8737
+fusred5_JAGMUX010000023.1	bed	CDS	64832	65778	.	+	ID=cds_fusred5_d374068;Description=;parent=rna_fusred5_d374068
+fusred5_JAGMUX010000023.1	bed	CDS	69592	62614	.	-	ID=cds_fusred5_eg288402;Description=;parent=rna_fusred5_eg288402
+fusred5_JAGMUX010000023.1	bed	CDS	73878	57886	.	-	ID=cds_fusred5_eg288431;Description=;parent=rna_fusred5_eg288431
+fusred5_JAGMUX010000023.1	bed	CDS	76501	55784	.	-	ID=cds_fusred5_eg288443;Description=;parent=rna_fusred5_eg288443
+fusred5_JAGMUX010000023.1	bed	CDS	78733	53318	.	-	ID=cds_fusred5_eg288441;Description=;parent=rna_fusred5_eg288441
+fusred5_JAGMUX010000023.1	bed	CDS	87672	44809	.	-	ID=cds_fusred5_eg288456;Description=;parent=rna_fusred5_eg288456
+fusred5_JAGMUX010000023.1	bed	CDS	88670	40451	.	+	ID=cds_fusred5_nlr157032;Description=;parent=rna_fusred5_nlr157032
+fusred5_JAGMUX010000023.1	bed	CDS	94189	35380	.	+	ID=cds_fusred5_nlr157027;Description=;parent=rna_fusred5_nlr157027
+fusred5_JAGMUX010000023.1	bed	CDS	101629	30276	.	+	ID=cds_fusred5_eg288466;Description=;parent=rna_fusred5_eg288466
+fusred5_JAGMUX010000023.1	bed	CDS	103894	28001	.	+	ID=cds_fusred5_eg288387;Description=;parent=rna_fusred5_eg288387
+fusred5_JAGMUX010000023.1	bed	CDS	105798	25075	.	-	ID=cds_fusred5_eg288401;Description=;parent=rna_fusred5_eg288401
+fusred5_JAGMUX010000023.1	bed	CDS	111331	19454	.	+	ID=cds_fusred5_eg288409;Description=;parent=rna_fusred5_eg288409
+fusred5_JAGMUX010000023.1	bed	CDS	119768	12487	.	+	ID=cds_fusred5_eg288398;Description=;parent=rna_fusred5_eg288398
+fusred5_JAGMUX010000023.1	bed	CDS	121094	10281	.	-	ID=cds_fusred5_eg288382;Description=;parent=rna_fusred5_eg288382
+fusred5_JAGMUX010000023.1	bed	CDS	133100	0	.	+	ID=cds_fusred5_tyr6572|fusred3_JAFFJM010000009.1|down;Description=;parent=rna_fusred5_tyr6572|fusred3_JAFFJM010000009.1|down

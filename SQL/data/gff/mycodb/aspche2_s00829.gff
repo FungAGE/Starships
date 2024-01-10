@@ -1,0 +1,21 @@
+aspche2_AP024421.1	bed	gene	1	21972	.	+	insert	ID=gene_aspche2_tyr890|aspche1_BCIE01000019.1|up;Description=aspche2_s00829;parent=aspche2_AP024421.1
+aspche2_AP024421.1	bed	gene	438	18868	.	+	cap	ID=gene_aspche2_tyr890;Description=aspche2_s00829;parent=aspche2_AP024421.1
+aspche2_AP024421.1	bed	gene	5627	14081	.	+	.	ID=gene_aspche2_eg35508;Description=aspche2_s00829;parent=aspche2_AP024421.1
+aspche2_AP024421.1	bed	gene	8802	11969	.	+	.	ID=gene_aspche2_eg35521;Description=aspche2_s00829;parent=aspche2_AP024421.1
+aspche2_AP024421.1	bed	gene	11682	9662	.	+	.	ID=gene_aspche2_eg35627;Description=aspche2_s00829;parent=aspche2_AP024421.1
+aspche2_AP024421.1	bed	gene	12778	8345	.	-	.	ID=gene_aspche2_eg35631;Description=aspche2_s00829;parent=aspche2_AP024421.1
+aspche2_AP024421.1	bed	gene	21973	0	.	+	insert	ID=gene_aspche2_tyr890|aspche1_BCIE01000019.1|down;Description=aspche2_s00829;parent=aspche2_AP024421.1
+aspche2_AP024421.1	bed	RNA	1	21972	.	+	ID=rna_aspche2_tyr890|aspche1_BCIE01000019.1|up;Description=;parent=gene_aspche2_tyr890|aspche1_BCIE01000019.1|up
+aspche2_AP024421.1	bed	RNA	438	18868	.	+	ID=rna_aspche2_tyr890;Description=;parent=gene_aspche2_tyr890
+aspche2_AP024421.1	bed	RNA	5627	14081	.	+	ID=rna_aspche2_eg35508;Description=;parent=gene_aspche2_eg35508
+aspche2_AP024421.1	bed	RNA	8802	11969	.	+	ID=rna_aspche2_eg35521;Description=;parent=gene_aspche2_eg35521
+aspche2_AP024421.1	bed	RNA	11682	9662	.	+	ID=rna_aspche2_eg35627;Description=;parent=gene_aspche2_eg35627
+aspche2_AP024421.1	bed	RNA	12778	8345	.	-	ID=rna_aspche2_eg35631;Description=;parent=gene_aspche2_eg35631
+aspche2_AP024421.1	bed	RNA	21973	0	.	+	ID=rna_aspche2_tyr890|aspche1_BCIE01000019.1|down;Description=;parent=gene_aspche2_tyr890|aspche1_BCIE01000019.1|down
+aspche2_AP024421.1	bed	CDS	1	21972	.	+	ID=cds_aspche2_tyr890|aspche1_BCIE01000019.1|up;Description=;parent=rna_aspche2_tyr890|aspche1_BCIE01000019.1|up
+aspche2_AP024421.1	bed	CDS	438	18868	.	+	ID=cds_aspche2_tyr890;Description=;parent=rna_aspche2_tyr890
+aspche2_AP024421.1	bed	CDS	5627	14081	.	+	ID=cds_aspche2_eg35508;Description=;parent=rna_aspche2_eg35508
+aspche2_AP024421.1	bed	CDS	8802	11969	.	+	ID=cds_aspche2_eg35521;Description=;parent=rna_aspche2_eg35521
+aspche2_AP024421.1	bed	CDS	11682	9662	.	+	ID=cds_aspche2_eg35627;Description=;parent=rna_aspche2_eg35627
+aspche2_AP024421.1	bed	CDS	12778	8345	.	-	ID=cds_aspche2_eg35631;Description=;parent=rna_aspche2_eg35631
+aspche2_AP024421.1	bed	CDS	21973	0	.	+	ID=cds_aspche2_tyr890|aspche1_BCIE01000019.1|down;Description=;parent=rna_aspche2_tyr890|aspche1_BCIE01000019.1|down

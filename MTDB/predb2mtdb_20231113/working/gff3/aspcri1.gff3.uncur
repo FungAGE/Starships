@@ -1,0 +1,24 @@
+aspcri1_scaffold16	bed	gene	1	17040	.	+	insert	ID=gene_aspcri1_3555|aspche1_BCIE01000015.1|up;Description=aspcri1_s00894;parent=aspcri1_scaffold16
+aspcri1_scaffold16	bed	gene	125	15766	.	+	.	ID=gene_aspcri1_3553;Description=aspcri1_s00894;parent=aspcri1_scaffold16
+aspcri1_scaffold16	bed	gene	5836	10678	.	-	.	ID=gene_aspcri1_3554;Description=aspcri1_s00894;parent=aspcri1_scaffold16
+aspcri1_scaffold16	bed	gene	8105	6366	.	+	cap	ID=gene_aspcri1_3555;Description=aspcri1_s00894;parent=aspcri1_scaffold16
+aspcri1_scaffold16	bed	gene	11015	4407	.	-	.	ID=gene_aspcri1_3556;Description=aspcri1_s00894;parent=aspcri1_scaffold16
+aspcri1_scaffold16	bed	gene	13862	2826	.	+	.	ID=gene_aspcri1_3557;Description=aspcri1_s00894;parent=aspcri1_scaffold16
+aspcri1_scaffold16	bed	gene	14533	403	.	-	.	ID=gene_aspcri1_3558;Description=aspcri1_s00894;parent=aspcri1_scaffold16
+aspcri1_scaffold16	bed	gene	17041	0	.	+	insert	ID=gene_aspcri1_3555|aspche1_BCIE01000015.1|down;Description=aspcri1_s00894;parent=aspcri1_scaffold16
+aspcri1_scaffold16	bed	RNA	1	17040	.	+	ID=rna_aspcri1_3555|aspche1_BCIE01000015.1|up;Description=;parent=gene_aspcri1_3555|aspche1_BCIE01000015.1|up
+aspcri1_scaffold16	bed	RNA	125	15766	.	+	ID=rna_aspcri1_3553;Description=;parent=gene_aspcri1_3553
+aspcri1_scaffold16	bed	RNA	5836	10678	.	-	ID=rna_aspcri1_3554;Description=;parent=gene_aspcri1_3554
+aspcri1_scaffold16	bed	RNA	8105	6366	.	+	ID=rna_aspcri1_3555;Description=;parent=gene_aspcri1_3555
+aspcri1_scaffold16	bed	RNA	11015	4407	.	-	ID=rna_aspcri1_3556;Description=;parent=gene_aspcri1_3556
+aspcri1_scaffold16	bed	RNA	13862	2826	.	+	ID=rna_aspcri1_3557;Description=;parent=gene_aspcri1_3557
+aspcri1_scaffold16	bed	RNA	14533	403	.	-	ID=rna_aspcri1_3558;Description=;parent=gene_aspcri1_3558
+aspcri1_scaffold16	bed	RNA	17041	0	.	+	ID=rna_aspcri1_3555|aspche1_BCIE01000015.1|down;Description=;parent=gene_aspcri1_3555|aspche1_BCIE01000015.1|down
+aspcri1_scaffold16	bed	CDS	1	17040	.	+	ID=cds_aspcri1_3555|aspche1_BCIE01000015.1|up;Description=;parent=rna_aspcri1_3555|aspche1_BCIE01000015.1|up
+aspcri1_scaffold16	bed	CDS	125	15766	.	+	ID=cds_aspcri1_3553;Description=;parent=rna_aspcri1_3553
+aspcri1_scaffold16	bed	CDS	5836	10678	.	-	ID=cds_aspcri1_3554;Description=;parent=rna_aspcri1_3554
+aspcri1_scaffold16	bed	CDS	8105	6366	.	+	ID=cds_aspcri1_3555;Description=;parent=rna_aspcri1_3555
+aspcri1_scaffold16	bed	CDS	11015	4407	.	-	ID=cds_aspcri1_3556;Description=;parent=rna_aspcri1_3556
+aspcri1_scaffold16	bed	CDS	13862	2826	.	+	ID=cds_aspcri1_3557;Description=;parent=rna_aspcri1_3557
+aspcri1_scaffold16	bed	CDS	14533	403	.	-	ID=cds_aspcri1_3558;Description=;parent=rna_aspcri1_3558
+aspcri1_scaffold16	bed	CDS	17041	0	.	+	ID=cds_aspcri1_3555|aspche1_BCIE01000015.1|down;Description=;parent=rna_aspcri1_3555|aspche1_BCIE01000015.1|down

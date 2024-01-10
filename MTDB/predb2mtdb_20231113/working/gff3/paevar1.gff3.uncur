@@ -1,0 +1,106 @@
+paevar1_scaffold123	bed	region	1	77580	.	+	flank	ID=gene_paevar1_195182|DR|up;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	region	12	77546	.	+	flank	ID=gene_paevar1_195182|TIR|up;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	460	74188	.	+	cap	ID=gene_paevar1_195182;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	3900	73501	.	+	.	ID=gene_paevar1_167128;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	4294	72625	.	-	.	ID=gene_paevar1_290670;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	5734	70740	.	+	.	ID=gene_paevar1_276811;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	7254	70144	.	-	.	ID=gene_paevar1_eg342437;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	12768	62321	.	-	.	ID=gene_paevar1_276812;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	16124	60413	.	-	.	ID=gene_paevar1_290673;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	17392	59730	.	+	.	ID=gene_paevar1_290674;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	18943	57939	.	-	.	ID=gene_paevar1_290675;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	20122	56551	.	+	.	ID=gene_paevar1_276813;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	22011	55087	.	-	.	ID=gene_paevar1_239850;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	24244	52932	.	-	.	ID=gene_paevar1_239851;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	25586	51188	.	+	.	ID=gene_paevar1_239852;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	26984	49250	.	-	.	ID=gene_paevar1_290679;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	29190	47998	.	+	.	ID=gene_paevar1_239854;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	30366	46426	.	+	.	ID=gene_paevar1_290681;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	31329	45129	.	-	.	ID=gene_paevar1_290682;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	33063	43391	.	+	.	ID=gene_paevar1_290683;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	34396	39511	.	-	.	ID=gene_paevar1_239858;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	38565	38520	.	+	.	ID=gene_paevar1_eg342519;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	39639	34267	.	-	.	ID=gene_paevar1_195275;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	49061	28160	.	-	.	ID=gene_paevar1_276819;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	52215	24130	.	-	.	ID=gene_paevar1_eg342567;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	55201	20574	.	+	.	ID=gene_paevar1_290686;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	57625	19323	.	+	.	ID=gene_paevar1_290687;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	58518	18499	.	-	.	ID=gene_paevar1_290688;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	59751	17350	.	+	.	ID=gene_paevar1_eg342469;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	63076	12171	.	+	.	ID=gene_paevar1_195756;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	65694	10429	.	-	.	ID=gene_paevar1_290691;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	67739	8498	.	+	.	ID=gene_paevar1_290692;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	69115	6395	.	-	.	ID=gene_paevar1_290693;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	71663	5224	.	-	.	ID=gene_paevar1_290694;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	72564	4627	.	-	.	ID=gene_paevar1_239869;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	gene	74757	1965	.	-	.	ID=gene_paevar1_239870;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	region	77548	8	.	+	flank	ID=gene_paevar1_195182|TIR|down;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	region	77581	0	.	+	flank	ID=gene_paevar1_195182|DR|down;Description=paevar1_s08201;parent=paevar1_scaffold123
+paevar1_scaffold123	bed	RNA	460	74188	.	+	ID=rna_paevar1_195182;Description=;parent=gene_paevar1_195182
+paevar1_scaffold123	bed	RNA	3900	73501	.	+	ID=rna_paevar1_167128;Description=;parent=gene_paevar1_167128
+paevar1_scaffold123	bed	RNA	4294	72625	.	-	ID=rna_paevar1_290670;Description=;parent=gene_paevar1_290670
+paevar1_scaffold123	bed	RNA	5734	70740	.	+	ID=rna_paevar1_276811;Description=;parent=gene_paevar1_276811
+paevar1_scaffold123	bed	RNA	7254	70144	.	-	ID=rna_paevar1_eg342437;Description=;parent=gene_paevar1_eg342437
+paevar1_scaffold123	bed	RNA	12768	62321	.	-	ID=rna_paevar1_276812;Description=;parent=gene_paevar1_276812
+paevar1_scaffold123	bed	RNA	16124	60413	.	-	ID=rna_paevar1_290673;Description=;parent=gene_paevar1_290673
+paevar1_scaffold123	bed	RNA	17392	59730	.	+	ID=rna_paevar1_290674;Description=;parent=gene_paevar1_290674
+paevar1_scaffold123	bed	RNA	18943	57939	.	-	ID=rna_paevar1_290675;Description=;parent=gene_paevar1_290675
+paevar1_scaffold123	bed	RNA	20122	56551	.	+	ID=rna_paevar1_276813;Description=;parent=gene_paevar1_276813
+paevar1_scaffold123	bed	RNA	22011	55087	.	-	ID=rna_paevar1_239850;Description=;parent=gene_paevar1_239850
+paevar1_scaffold123	bed	RNA	24244	52932	.	-	ID=rna_paevar1_239851;Description=;parent=gene_paevar1_239851
+paevar1_scaffold123	bed	RNA	25586	51188	.	+	ID=rna_paevar1_239852;Description=;parent=gene_paevar1_239852
+paevar1_scaffold123	bed	RNA	26984	49250	.	-	ID=rna_paevar1_290679;Description=;parent=gene_paevar1_290679
+paevar1_scaffold123	bed	RNA	29190	47998	.	+	ID=rna_paevar1_239854;Description=;parent=gene_paevar1_239854
+paevar1_scaffold123	bed	RNA	30366	46426	.	+	ID=rna_paevar1_290681;Description=;parent=gene_paevar1_290681
+paevar1_scaffold123	bed	RNA	31329	45129	.	-	ID=rna_paevar1_290682;Description=;parent=gene_paevar1_290682
+paevar1_scaffold123	bed	RNA	33063	43391	.	+	ID=rna_paevar1_290683;Description=;parent=gene_paevar1_290683
+paevar1_scaffold123	bed	RNA	34396	39511	.	-	ID=rna_paevar1_239858;Description=;parent=gene_paevar1_239858
+paevar1_scaffold123	bed	RNA	38565	38520	.	+	ID=rna_paevar1_eg342519;Description=;parent=gene_paevar1_eg342519
+paevar1_scaffold123	bed	RNA	39639	34267	.	-	ID=rna_paevar1_195275;Description=;parent=gene_paevar1_195275
+paevar1_scaffold123	bed	RNA	49061	28160	.	-	ID=rna_paevar1_276819;Description=;parent=gene_paevar1_276819
+paevar1_scaffold123	bed	RNA	52215	24130	.	-	ID=rna_paevar1_eg342567;Description=;parent=gene_paevar1_eg342567
+paevar1_scaffold123	bed	RNA	55201	20574	.	+	ID=rna_paevar1_290686;Description=;parent=gene_paevar1_290686
+paevar1_scaffold123	bed	RNA	57625	19323	.	+	ID=rna_paevar1_290687;Description=;parent=gene_paevar1_290687
+paevar1_scaffold123	bed	RNA	58518	18499	.	-	ID=rna_paevar1_290688;Description=;parent=gene_paevar1_290688
+paevar1_scaffold123	bed	RNA	59751	17350	.	+	ID=rna_paevar1_eg342469;Description=;parent=gene_paevar1_eg342469
+paevar1_scaffold123	bed	RNA	63076	12171	.	+	ID=rna_paevar1_195756;Description=;parent=gene_paevar1_195756
+paevar1_scaffold123	bed	RNA	65694	10429	.	-	ID=rna_paevar1_290691;Description=;parent=gene_paevar1_290691
+paevar1_scaffold123	bed	RNA	67739	8498	.	+	ID=rna_paevar1_290692;Description=;parent=gene_paevar1_290692
+paevar1_scaffold123	bed	RNA	69115	6395	.	-	ID=rna_paevar1_290693;Description=;parent=gene_paevar1_290693
+paevar1_scaffold123	bed	RNA	71663	5224	.	-	ID=rna_paevar1_290694;Description=;parent=gene_paevar1_290694
+paevar1_scaffold123	bed	RNA	72564	4627	.	-	ID=rna_paevar1_239869;Description=;parent=gene_paevar1_239869
+paevar1_scaffold123	bed	RNA	74757	1965	.	-	ID=rna_paevar1_239870;Description=;parent=gene_paevar1_239870
+paevar1_scaffold123	bed	CDS	460	74188	.	+	ID=cds_paevar1_195182;Description=;parent=rna_paevar1_195182
+paevar1_scaffold123	bed	CDS	3900	73501	.	+	ID=cds_paevar1_167128;Description=;parent=rna_paevar1_167128
+paevar1_scaffold123	bed	CDS	4294	72625	.	-	ID=cds_paevar1_290670;Description=;parent=rna_paevar1_290670
+paevar1_scaffold123	bed	CDS	5734	70740	.	+	ID=cds_paevar1_276811;Description=;parent=rna_paevar1_276811
+paevar1_scaffold123	bed	CDS	7254	70144	.	-	ID=cds_paevar1_eg342437;Description=;parent=rna_paevar1_eg342437
+paevar1_scaffold123	bed	CDS	12768	62321	.	-	ID=cds_paevar1_276812;Description=;parent=rna_paevar1_276812
+paevar1_scaffold123	bed	CDS	16124	60413	.	-	ID=cds_paevar1_290673;Description=;parent=rna_paevar1_290673
+paevar1_scaffold123	bed	CDS	17392	59730	.	+	ID=cds_paevar1_290674;Description=;parent=rna_paevar1_290674
+paevar1_scaffold123	bed	CDS	18943	57939	.	-	ID=cds_paevar1_290675;Description=;parent=rna_paevar1_290675
+paevar1_scaffold123	bed	CDS	20122	56551	.	+	ID=cds_paevar1_276813;Description=;parent=rna_paevar1_276813
+paevar1_scaffold123	bed	CDS	22011	55087	.	-	ID=cds_paevar1_239850;Description=;parent=rna_paevar1_239850
+paevar1_scaffold123	bed	CDS	24244	52932	.	-	ID=cds_paevar1_239851;Description=;parent=rna_paevar1_239851
+paevar1_scaffold123	bed	CDS	25586	51188	.	+	ID=cds_paevar1_239852;Description=;parent=rna_paevar1_239852
+paevar1_scaffold123	bed	CDS	26984	49250	.	-	ID=cds_paevar1_290679;Description=;parent=rna_paevar1_290679
+paevar1_scaffold123	bed	CDS	29190	47998	.	+	ID=cds_paevar1_239854;Description=;parent=rna_paevar1_239854
+paevar1_scaffold123	bed	CDS	30366	46426	.	+	ID=cds_paevar1_290681;Description=;parent=rna_paevar1_290681
+paevar1_scaffold123	bed	CDS	31329	45129	.	-	ID=cds_paevar1_290682;Description=;parent=rna_paevar1_290682
+paevar1_scaffold123	bed	CDS	33063	43391	.	+	ID=cds_paevar1_290683;Description=;parent=rna_paevar1_290683
+paevar1_scaffold123	bed	CDS	34396	39511	.	-	ID=cds_paevar1_239858;Description=;parent=rna_paevar1_239858
+paevar1_scaffold123	bed	CDS	38565	38520	.	+	ID=cds_paevar1_eg342519;Description=;parent=rna_paevar1_eg342519
+paevar1_scaffold123	bed	CDS	39639	34267	.	-	ID=cds_paevar1_195275;Description=;parent=rna_paevar1_195275
+paevar1_scaffold123	bed	CDS	49061	28160	.	-	ID=cds_paevar1_276819;Description=;parent=rna_paevar1_276819
+paevar1_scaffold123	bed	CDS	52215	24130	.	-	ID=cds_paevar1_eg342567;Description=;parent=rna_paevar1_eg342567
+paevar1_scaffold123	bed	CDS	55201	20574	.	+	ID=cds_paevar1_290686;Description=;parent=rna_paevar1_290686
+paevar1_scaffold123	bed	CDS	57625	19323	.	+	ID=cds_paevar1_290687;Description=;parent=rna_paevar1_290687
+paevar1_scaffold123	bed	CDS	58518	18499	.	-	ID=cds_paevar1_290688;Description=;parent=rna_paevar1_290688
+paevar1_scaffold123	bed	CDS	59751	17350	.	+	ID=cds_paevar1_eg342469;Description=;parent=rna_paevar1_eg342469
+paevar1_scaffold123	bed	CDS	63076	12171	.	+	ID=cds_paevar1_195756;Description=;parent=rna_paevar1_195756
+paevar1_scaffold123	bed	CDS	65694	10429	.	-	ID=cds_paevar1_290691;Description=;parent=rna_paevar1_290691
+paevar1_scaffold123	bed	CDS	67739	8498	.	+	ID=cds_paevar1_290692;Description=;parent=rna_paevar1_290692
+paevar1_scaffold123	bed	CDS	69115	6395	.	-	ID=cds_paevar1_290693;Description=;parent=rna_paevar1_290693
+paevar1_scaffold123	bed	CDS	71663	5224	.	-	ID=cds_paevar1_290694;Description=;parent=rna_paevar1_290694
+paevar1_scaffold123	bed	CDS	72564	4627	.	-	ID=cds_paevar1_239869;Description=;parent=rna_paevar1_239869
+paevar1_scaffold123	bed	CDS	74757	1965	.	-	ID=cds_paevar1_239870;Description=;parent=rna_paevar1_239870

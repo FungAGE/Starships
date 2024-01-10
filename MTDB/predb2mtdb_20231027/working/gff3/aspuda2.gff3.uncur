@@ -1,0 +1,57 @@
+aspuda2_BBXM02000003.1	bed	gene	1	113205	.	-	insert	ID=gene_aspuda2_tyr3008|aspuda5_BLKF01000046.1|down;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	521	111345	.	-	.	ID=gene_aspuda2_eg165381;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	2550	109031	.	+	.	ID=gene_aspuda2_eg165740;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	12336	100562	.	+	.	ID=gene_aspuda2_eg165665;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	20366	92229	.	-	.	ID=gene_aspuda2_eg165733;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	24096	86689	.	+	.	ID=gene_aspuda2_eg165613;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	49415	62592	.	+	.	ID=gene_aspuda2_eg165745;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	53896	59092	.	-	.	ID=gene_aspuda2_eg165529;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	60367	52215	.	-	.	ID=gene_aspuda2_eg165849;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	64493	48543	.	-	.	ID=gene_aspuda2_eg165571;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	68990	43968	.	-	.	ID=gene_aspuda2_eg165881;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	78528	33545	.	-	.	ID=gene_aspuda2_eg165867;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	80269	31288	.	-	.	ID=gene_aspuda2_eg165511;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	83212	27634	.	-	fre	ID=gene_aspuda2_fre4360;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	88347	23113	.	-	.	ID=gene_aspuda2_eg165556;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	98277	12433	.	+	d37	ID=gene_aspuda2_d371850;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	103258	6679	.	-	nlr	ID=gene_aspuda2_nlr34332;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	107929	3143	.	-	cap	ID=gene_aspuda2_tyr3008;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	gene	113206	0	.	-	insert	ID=gene_aspuda2_tyr3008|aspuda5_BLKF01000046.1|up;Description=aspuda2_s02839;parent=aspuda2_BBXM02000003.1
+aspuda2_BBXM02000003.1	bed	RNA	1	113205	.	-	ID=rna_aspuda2_tyr3008|aspuda5_BLKF01000046.1|down;Description=;parent=gene_aspuda2_tyr3008|aspuda5_BLKF01000046.1|down
+aspuda2_BBXM02000003.1	bed	RNA	521	111345	.	-	ID=rna_aspuda2_eg165381;Description=;parent=gene_aspuda2_eg165381
+aspuda2_BBXM02000003.1	bed	RNA	2550	109031	.	+	ID=rna_aspuda2_eg165740;Description=;parent=gene_aspuda2_eg165740
+aspuda2_BBXM02000003.1	bed	RNA	12336	100562	.	+	ID=rna_aspuda2_eg165665;Description=;parent=gene_aspuda2_eg165665
+aspuda2_BBXM02000003.1	bed	RNA	20366	92229	.	-	ID=rna_aspuda2_eg165733;Description=;parent=gene_aspuda2_eg165733
+aspuda2_BBXM02000003.1	bed	RNA	24096	86689	.	+	ID=rna_aspuda2_eg165613;Description=;parent=gene_aspuda2_eg165613
+aspuda2_BBXM02000003.1	bed	RNA	49415	62592	.	+	ID=rna_aspuda2_eg165745;Description=;parent=gene_aspuda2_eg165745
+aspuda2_BBXM02000003.1	bed	RNA	53896	59092	.	-	ID=rna_aspuda2_eg165529;Description=;parent=gene_aspuda2_eg165529
+aspuda2_BBXM02000003.1	bed	RNA	60367	52215	.	-	ID=rna_aspuda2_eg165849;Description=;parent=gene_aspuda2_eg165849
+aspuda2_BBXM02000003.1	bed	RNA	64493	48543	.	-	ID=rna_aspuda2_eg165571;Description=;parent=gene_aspuda2_eg165571
+aspuda2_BBXM02000003.1	bed	RNA	68990	43968	.	-	ID=rna_aspuda2_eg165881;Description=;parent=gene_aspuda2_eg165881
+aspuda2_BBXM02000003.1	bed	RNA	78528	33545	.	-	ID=rna_aspuda2_eg165867;Description=;parent=gene_aspuda2_eg165867
+aspuda2_BBXM02000003.1	bed	RNA	80269	31288	.	-	ID=rna_aspuda2_eg165511;Description=;parent=gene_aspuda2_eg165511
+aspuda2_BBXM02000003.1	bed	RNA	83212	27634	.	-	ID=rna_aspuda2_fre4360;Description=;parent=gene_aspuda2_fre4360
+aspuda2_BBXM02000003.1	bed	RNA	88347	23113	.	-	ID=rna_aspuda2_eg165556;Description=;parent=gene_aspuda2_eg165556
+aspuda2_BBXM02000003.1	bed	RNA	98277	12433	.	+	ID=rna_aspuda2_d371850;Description=;parent=gene_aspuda2_d371850
+aspuda2_BBXM02000003.1	bed	RNA	103258	6679	.	-	ID=rna_aspuda2_nlr34332;Description=;parent=gene_aspuda2_nlr34332
+aspuda2_BBXM02000003.1	bed	RNA	107929	3143	.	-	ID=rna_aspuda2_tyr3008;Description=;parent=gene_aspuda2_tyr3008
+aspuda2_BBXM02000003.1	bed	RNA	113206	0	.	-	ID=rna_aspuda2_tyr3008|aspuda5_BLKF01000046.1|up;Description=;parent=gene_aspuda2_tyr3008|aspuda5_BLKF01000046.1|up
+aspuda2_BBXM02000003.1	bed	CDS	1	113205	.	-	ID=cds_aspuda2_tyr3008|aspuda5_BLKF01000046.1|down;Description=;parent=rna_aspuda2_tyr3008|aspuda5_BLKF01000046.1|down
+aspuda2_BBXM02000003.1	bed	CDS	521	111345	.	-	ID=cds_aspuda2_eg165381;Description=;parent=rna_aspuda2_eg165381
+aspuda2_BBXM02000003.1	bed	CDS	2550	109031	.	+	ID=cds_aspuda2_eg165740;Description=;parent=rna_aspuda2_eg165740
+aspuda2_BBXM02000003.1	bed	CDS	12336	100562	.	+	ID=cds_aspuda2_eg165665;Description=;parent=rna_aspuda2_eg165665
+aspuda2_BBXM02000003.1	bed	CDS	20366	92229	.	-	ID=cds_aspuda2_eg165733;Description=;parent=rna_aspuda2_eg165733
+aspuda2_BBXM02000003.1	bed	CDS	24096	86689	.	+	ID=cds_aspuda2_eg165613;Description=;parent=rna_aspuda2_eg165613
+aspuda2_BBXM02000003.1	bed	CDS	49415	62592	.	+	ID=cds_aspuda2_eg165745;Description=;parent=rna_aspuda2_eg165745
+aspuda2_BBXM02000003.1	bed	CDS	53896	59092	.	-	ID=cds_aspuda2_eg165529;Description=;parent=rna_aspuda2_eg165529
+aspuda2_BBXM02000003.1	bed	CDS	60367	52215	.	-	ID=cds_aspuda2_eg165849;Description=;parent=rna_aspuda2_eg165849
+aspuda2_BBXM02000003.1	bed	CDS	64493	48543	.	-	ID=cds_aspuda2_eg165571;Description=;parent=rna_aspuda2_eg165571
+aspuda2_BBXM02000003.1	bed	CDS	68990	43968	.	-	ID=cds_aspuda2_eg165881;Description=;parent=rna_aspuda2_eg165881
+aspuda2_BBXM02000003.1	bed	CDS	78528	33545	.	-	ID=cds_aspuda2_eg165867;Description=;parent=rna_aspuda2_eg165867
+aspuda2_BBXM02000003.1	bed	CDS	80269	31288	.	-	ID=cds_aspuda2_eg165511;Description=;parent=rna_aspuda2_eg165511
+aspuda2_BBXM02000003.1	bed	CDS	83212	27634	.	-	ID=cds_aspuda2_fre4360;Description=;parent=rna_aspuda2_fre4360
+aspuda2_BBXM02000003.1	bed	CDS	88347	23113	.	-	ID=cds_aspuda2_eg165556;Description=;parent=rna_aspuda2_eg165556
+aspuda2_BBXM02000003.1	bed	CDS	98277	12433	.	+	ID=cds_aspuda2_d371850;Description=;parent=rna_aspuda2_d371850
+aspuda2_BBXM02000003.1	bed	CDS	103258	6679	.	-	ID=cds_aspuda2_nlr34332;Description=;parent=rna_aspuda2_nlr34332
+aspuda2_BBXM02000003.1	bed	CDS	107929	3143	.	-	ID=cds_aspuda2_tyr3008;Description=;parent=rna_aspuda2_tyr3008
+aspuda2_BBXM02000003.1	bed	CDS	113206	0	.	-	ID=cds_aspuda2_tyr3008|aspuda5_BLKF01000046.1|up;Description=;parent=rna_aspuda2_tyr3008|aspuda5_BLKF01000046.1|up

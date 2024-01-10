@@ -1,0 +1,33 @@
+fusvir8_JAJHJD010000020.1	bed	gene	1	76740	.	+	insert	ID=gene_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|up;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	579	73788	.	+	cap	ID=gene_fusvir8_tyr6951;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	3928	70358	.	-	nlr	ID=gene_fusvir8_nlr176120;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	10787	64783	.	-	.	ID=gene_fusvir8_eg322848;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	18066	58112	.	-	.	ID=gene_fusvir8_eg322847;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	53579	22722	.	+	.	ID=gene_fusvir8_eg322849;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	60678	13898	.	+	.	ID=gene_fusvir8_eg322859;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	63191	12405	.	-	.	ID=gene_fusvir8_eg322853;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	65052	10917	.	-	.	ID=gene_fusvir8_eg322850;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	67255	8938	.	-	.	ID=gene_fusvir8_eg322854;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	gene	76741	0	.	+	insert	ID=gene_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|down;Description=fusvir8_s06648;parent=fusvir8_JAJHJD010000020.1
+fusvir8_JAJHJD010000020.1	bed	RNA	1	76740	.	+	ID=rna_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|up;Description=;parent=gene_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|up
+fusvir8_JAJHJD010000020.1	bed	RNA	579	73788	.	+	ID=rna_fusvir8_tyr6951;Description=;parent=gene_fusvir8_tyr6951
+fusvir8_JAJHJD010000020.1	bed	RNA	3928	70358	.	-	ID=rna_fusvir8_nlr176120;Description=;parent=gene_fusvir8_nlr176120
+fusvir8_JAJHJD010000020.1	bed	RNA	10787	64783	.	-	ID=rna_fusvir8_eg322848;Description=;parent=gene_fusvir8_eg322848
+fusvir8_JAJHJD010000020.1	bed	RNA	18066	58112	.	-	ID=rna_fusvir8_eg322847;Description=;parent=gene_fusvir8_eg322847
+fusvir8_JAJHJD010000020.1	bed	RNA	53579	22722	.	+	ID=rna_fusvir8_eg322849;Description=;parent=gene_fusvir8_eg322849
+fusvir8_JAJHJD010000020.1	bed	RNA	60678	13898	.	+	ID=rna_fusvir8_eg322859;Description=;parent=gene_fusvir8_eg322859
+fusvir8_JAJHJD010000020.1	bed	RNA	63191	12405	.	-	ID=rna_fusvir8_eg322853;Description=;parent=gene_fusvir8_eg322853
+fusvir8_JAJHJD010000020.1	bed	RNA	65052	10917	.	-	ID=rna_fusvir8_eg322850;Description=;parent=gene_fusvir8_eg322850
+fusvir8_JAJHJD010000020.1	bed	RNA	67255	8938	.	-	ID=rna_fusvir8_eg322854;Description=;parent=gene_fusvir8_eg322854
+fusvir8_JAJHJD010000020.1	bed	RNA	76741	0	.	+	ID=rna_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|down;Description=;parent=gene_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|down
+fusvir8_JAJHJD010000020.1	bed	CDS	1	76740	.	+	ID=cds_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|up;Description=;parent=rna_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|up
+fusvir8_JAJHJD010000020.1	bed	CDS	579	73788	.	+	ID=cds_fusvir8_tyr6951;Description=;parent=rna_fusvir8_tyr6951
+fusvir8_JAJHJD010000020.1	bed	CDS	3928	70358	.	-	ID=cds_fusvir8_nlr176120;Description=;parent=rna_fusvir8_nlr176120
+fusvir8_JAJHJD010000020.1	bed	CDS	10787	64783	.	-	ID=cds_fusvir8_eg322848;Description=;parent=rna_fusvir8_eg322848
+fusvir8_JAJHJD010000020.1	bed	CDS	18066	58112	.	-	ID=cds_fusvir8_eg322847;Description=;parent=rna_fusvir8_eg322847
+fusvir8_JAJHJD010000020.1	bed	CDS	53579	22722	.	+	ID=cds_fusvir8_eg322849;Description=;parent=rna_fusvir8_eg322849
+fusvir8_JAJHJD010000020.1	bed	CDS	60678	13898	.	+	ID=cds_fusvir8_eg322859;Description=;parent=rna_fusvir8_eg322859
+fusvir8_JAJHJD010000020.1	bed	CDS	63191	12405	.	-	ID=cds_fusvir8_eg322853;Description=;parent=rna_fusvir8_eg322853
+fusvir8_JAJHJD010000020.1	bed	CDS	65052	10917	.	-	ID=cds_fusvir8_eg322850;Description=;parent=rna_fusvir8_eg322850
+fusvir8_JAJHJD010000020.1	bed	CDS	67255	8938	.	-	ID=cds_fusvir8_eg322854;Description=;parent=rna_fusvir8_eg322854
+fusvir8_JAJHJD010000020.1	bed	CDS	76741	0	.	+	ID=cds_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|down;Description=;parent=rna_fusvir8_tyr6951|fusvir6_JAJGQA010000012.1|down

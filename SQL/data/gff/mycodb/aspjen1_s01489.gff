@@ -1,0 +1,8 @@
+aspjen1_JAJAED010000037.1	bed	region	1	21524	.	+	flank	ID=gene_aspjen1_tyr1573|DR|up;Description=aspjen1_s01489;parent=aspjen1_JAJAED010000037.1
+aspjen1_JAJAED010000037.1	bed	gene	255	18840	.	+	cap	ID=gene_aspjen1_tyr1573;Description=aspjen1_s01489;parent=aspjen1_JAJAED010000037.1
+aspjen1_JAJAED010000037.1	bed	gene	7088	11278	.	-	nlr	ID=gene_aspjen1_nlr23034;Description=aspjen1_s01489;parent=aspjen1_JAJAED010000037.1
+aspjen1_JAJAED010000037.1	bed	region	21527	0	.	+	flank	ID=gene_aspjen1_tyr1573|DR|down;Description=aspjen1_s01489;parent=aspjen1_JAJAED010000037.1
+aspjen1_JAJAED010000037.1	bed	RNA	255	18840	.	+	ID=rna_aspjen1_tyr1573;Description=;parent=gene_aspjen1_tyr1573
+aspjen1_JAJAED010000037.1	bed	RNA	7088	11278	.	-	ID=rna_aspjen1_nlr23034;Description=;parent=gene_aspjen1_nlr23034
+aspjen1_JAJAED010000037.1	bed	CDS	255	18840	.	+	ID=cds_aspjen1_tyr1573;Description=;parent=rna_aspjen1_tyr1573
+aspjen1_JAJAED010000037.1	bed	CDS	7088	11278	.	-	ID=cds_aspjen1_nlr23034;Description=;parent=rna_aspjen1_nlr23034

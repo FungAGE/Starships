@@ -1,0 +1,35 @@
+pyrory2_CP034207.1	bed	region	1	92379	.	+	flank	ID=gene_pyrory2_QBZ61703.1|DR|up;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	1011	89143	.	+	cap	ID=gene_pyrory2_QBZ61703.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	7771	84197	.	+	.	ID=gene_pyrory2_QBZ61704.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	12406	79469	.	+	.	ID=gene_pyrory2_QBZ61705.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	21147	70968	.	+	.	ID=gene_pyrory2_QBZ61706.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	31018	60322	.	+	.	ID=gene_pyrory2_QBZ61707.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	53227	38813	.	+	.	ID=gene_pyrory2_QBZ61708.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	56309	35764	.	+	.	ID=gene_pyrory2_QBZ61709.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	76924	14693	.	+	.	ID=gene_pyrory2_QBZ61710.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	77779	13809	.	+	.	ID=gene_pyrory2_QBZ61711.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	80199	11697	.	+	.	ID=gene_pyrory2_QBZ61712.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	gene	91676	89	.	-	.	ID=gene_pyrory2_QBZ61714.1;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	region	92379	0	.	+	flank	ID=gene_pyrory2_QBZ61703.1|DR|down;Description=pyrory2_s09331;parent=pyrory2_CP034207.1
+pyrory2_CP034207.1	bed	RNA	1011	89143	.	+	ID=rna_pyrory2_QBZ61703.1;Description=;parent=gene_pyrory2_QBZ61703.1
+pyrory2_CP034207.1	bed	RNA	7771	84197	.	+	ID=rna_pyrory2_QBZ61704.1;Description=;parent=gene_pyrory2_QBZ61704.1
+pyrory2_CP034207.1	bed	RNA	12406	79469	.	+	ID=rna_pyrory2_QBZ61705.1;Description=;parent=gene_pyrory2_QBZ61705.1
+pyrory2_CP034207.1	bed	RNA	21147	70968	.	+	ID=rna_pyrory2_QBZ61706.1;Description=;parent=gene_pyrory2_QBZ61706.1
+pyrory2_CP034207.1	bed	RNA	31018	60322	.	+	ID=rna_pyrory2_QBZ61707.1;Description=;parent=gene_pyrory2_QBZ61707.1
+pyrory2_CP034207.1	bed	RNA	53227	38813	.	+	ID=rna_pyrory2_QBZ61708.1;Description=;parent=gene_pyrory2_QBZ61708.1
+pyrory2_CP034207.1	bed	RNA	56309	35764	.	+	ID=rna_pyrory2_QBZ61709.1;Description=;parent=gene_pyrory2_QBZ61709.1
+pyrory2_CP034207.1	bed	RNA	76924	14693	.	+	ID=rna_pyrory2_QBZ61710.1;Description=;parent=gene_pyrory2_QBZ61710.1
+pyrory2_CP034207.1	bed	RNA	77779	13809	.	+	ID=rna_pyrory2_QBZ61711.1;Description=;parent=gene_pyrory2_QBZ61711.1
+pyrory2_CP034207.1	bed	RNA	80199	11697	.	+	ID=rna_pyrory2_QBZ61712.1;Description=;parent=gene_pyrory2_QBZ61712.1
+pyrory2_CP034207.1	bed	RNA	91676	89	.	-	ID=rna_pyrory2_QBZ61714.1;Description=;parent=gene_pyrory2_QBZ61714.1
+pyrory2_CP034207.1	bed	CDS	1011	89143	.	+	ID=cds_pyrory2_QBZ61703.1;Description=;parent=rna_pyrory2_QBZ61703.1
+pyrory2_CP034207.1	bed	CDS	7771	84197	.	+	ID=cds_pyrory2_QBZ61704.1;Description=;parent=rna_pyrory2_QBZ61704.1
+pyrory2_CP034207.1	bed	CDS	12406	79469	.	+	ID=cds_pyrory2_QBZ61705.1;Description=;parent=rna_pyrory2_QBZ61705.1
+pyrory2_CP034207.1	bed	CDS	21147	70968	.	+	ID=cds_pyrory2_QBZ61706.1;Description=;parent=rna_pyrory2_QBZ61706.1
+pyrory2_CP034207.1	bed	CDS	31018	60322	.	+	ID=cds_pyrory2_QBZ61707.1;Description=;parent=rna_pyrory2_QBZ61707.1
+pyrory2_CP034207.1	bed	CDS	53227	38813	.	+	ID=cds_pyrory2_QBZ61708.1;Description=;parent=rna_pyrory2_QBZ61708.1
+pyrory2_CP034207.1	bed	CDS	56309	35764	.	+	ID=cds_pyrory2_QBZ61709.1;Description=;parent=rna_pyrory2_QBZ61709.1
+pyrory2_CP034207.1	bed	CDS	76924	14693	.	+	ID=cds_pyrory2_QBZ61710.1;Description=;parent=rna_pyrory2_QBZ61710.1
+pyrory2_CP034207.1	bed	CDS	77779	13809	.	+	ID=cds_pyrory2_QBZ61711.1;Description=;parent=rna_pyrory2_QBZ61711.1
+pyrory2_CP034207.1	bed	CDS	80199	11697	.	+	ID=cds_pyrory2_QBZ61712.1;Description=;parent=rna_pyrory2_QBZ61712.1
+pyrory2_CP034207.1	bed	CDS	91676	89	.	-	ID=cds_pyrory2_QBZ61714.1;Description=;parent=rna_pyrory2_QBZ61714.1

@@ -1,0 +1,35 @@
+altlon1_JAHLEY010000006.1	bed	region	1	74350	.	+	flank	ID=gene_altlon1_tyr170|DR|up;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	616	72611	.	+	cap	ID=gene_altlon1_tyr170;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	4379	66114	.	+	nlr	ID=gene_altlon1_nlr7871;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	8956	61070	.	-	nlr	ID=gene_altlon1_nlr7883;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	16822	56865	.	-	nlr	ID=gene_altlon1_nlr7862;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	24231	49957	.	+	.	ID=gene_altlon1_eg12455;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	28344	44893	.	+	.	ID=gene_altlon1_eg12550;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	39884	34244	.	-	.	ID=gene_altlon1_eg12509;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	41945	32087	.	-	.	ID=gene_altlon1_eg12487;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	46974	24288	.	-	plp	ID=gene_altlon1_plp446;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	51173	21207	.	+	d37	ID=gene_altlon1_d37151;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	gene	54782	17921	.	+	fre	ID=gene_altlon1_fre522;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	region	74349	0	.	+	flank	ID=gene_altlon1_tyr170|DR|down;Description=altlon1_s00167;parent=altlon1_JAHLEY010000006.1
+altlon1_JAHLEY010000006.1	bed	RNA	616	72611	.	+	ID=rna_altlon1_tyr170;Description=;parent=gene_altlon1_tyr170
+altlon1_JAHLEY010000006.1	bed	RNA	4379	66114	.	+	ID=rna_altlon1_nlr7871;Description=;parent=gene_altlon1_nlr7871
+altlon1_JAHLEY010000006.1	bed	RNA	8956	61070	.	-	ID=rna_altlon1_nlr7883;Description=;parent=gene_altlon1_nlr7883
+altlon1_JAHLEY010000006.1	bed	RNA	16822	56865	.	-	ID=rna_altlon1_nlr7862;Description=;parent=gene_altlon1_nlr7862
+altlon1_JAHLEY010000006.1	bed	RNA	24231	49957	.	+	ID=rna_altlon1_eg12455;Description=;parent=gene_altlon1_eg12455
+altlon1_JAHLEY010000006.1	bed	RNA	28344	44893	.	+	ID=rna_altlon1_eg12550;Description=;parent=gene_altlon1_eg12550
+altlon1_JAHLEY010000006.1	bed	RNA	39884	34244	.	-	ID=rna_altlon1_eg12509;Description=;parent=gene_altlon1_eg12509
+altlon1_JAHLEY010000006.1	bed	RNA	41945	32087	.	-	ID=rna_altlon1_eg12487;Description=;parent=gene_altlon1_eg12487
+altlon1_JAHLEY010000006.1	bed	RNA	46974	24288	.	-	ID=rna_altlon1_plp446;Description=;parent=gene_altlon1_plp446
+altlon1_JAHLEY010000006.1	bed	RNA	51173	21207	.	+	ID=rna_altlon1_d37151;Description=;parent=gene_altlon1_d37151
+altlon1_JAHLEY010000006.1	bed	RNA	54782	17921	.	+	ID=rna_altlon1_fre522;Description=;parent=gene_altlon1_fre522
+altlon1_JAHLEY010000006.1	bed	CDS	616	72611	.	+	ID=cds_altlon1_tyr170;Description=;parent=rna_altlon1_tyr170
+altlon1_JAHLEY010000006.1	bed	CDS	4379	66114	.	+	ID=cds_altlon1_nlr7871;Description=;parent=rna_altlon1_nlr7871
+altlon1_JAHLEY010000006.1	bed	CDS	8956	61070	.	-	ID=cds_altlon1_nlr7883;Description=;parent=rna_altlon1_nlr7883
+altlon1_JAHLEY010000006.1	bed	CDS	16822	56865	.	-	ID=cds_altlon1_nlr7862;Description=;parent=rna_altlon1_nlr7862
+altlon1_JAHLEY010000006.1	bed	CDS	24231	49957	.	+	ID=cds_altlon1_eg12455;Description=;parent=rna_altlon1_eg12455
+altlon1_JAHLEY010000006.1	bed	CDS	28344	44893	.	+	ID=cds_altlon1_eg12550;Description=;parent=rna_altlon1_eg12550
+altlon1_JAHLEY010000006.1	bed	CDS	39884	34244	.	-	ID=cds_altlon1_eg12509;Description=;parent=rna_altlon1_eg12509
+altlon1_JAHLEY010000006.1	bed	CDS	41945	32087	.	-	ID=cds_altlon1_eg12487;Description=;parent=rna_altlon1_eg12487
+altlon1_JAHLEY010000006.1	bed	CDS	46974	24288	.	-	ID=cds_altlon1_plp446;Description=;parent=rna_altlon1_plp446
+altlon1_JAHLEY010000006.1	bed	CDS	51173	21207	.	+	ID=cds_altlon1_d37151;Description=;parent=rna_altlon1_d37151
+altlon1_JAHLEY010000006.1	bed	CDS	54782	17921	.	+	ID=cds_altlon1_fre522;Description=;parent=rna_altlon1_fre522

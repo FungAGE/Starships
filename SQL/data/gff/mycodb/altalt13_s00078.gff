@@ -1,0 +1,23 @@
+altalt13_CM034652.1	bed	region	1	44186	.	+	flank	ID=gene_altalt13_tyr74|DR|up;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	gene	872	41367	.	+	cap	ID=gene_altalt13_tyr74;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	gene	13650	30211	.	+	.	ID=gene_altalt13_eg1346;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	gene	17780	25718	.	+	.	ID=gene_altalt13_eg1636;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	gene	19333	24639	.	+	.	ID=gene_altalt13_eg1734;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	gene	20083	23763	.	+	.	ID=gene_altalt13_eg1679;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	gene	26107	16563	.	-	.	ID=gene_altalt13_eg1130;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	gene	35981	7072	.	+	.	ID=gene_altalt13_eg1533;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	region	44186	0	.	+	flank	ID=gene_altalt13_tyr74|DR|down;Description=altalt13_s00078;parent=altalt13_CM034652.1
+altalt13_CM034652.1	bed	RNA	872	41367	.	+	ID=rna_altalt13_tyr74;Description=;parent=gene_altalt13_tyr74
+altalt13_CM034652.1	bed	RNA	13650	30211	.	+	ID=rna_altalt13_eg1346;Description=;parent=gene_altalt13_eg1346
+altalt13_CM034652.1	bed	RNA	17780	25718	.	+	ID=rna_altalt13_eg1636;Description=;parent=gene_altalt13_eg1636
+altalt13_CM034652.1	bed	RNA	19333	24639	.	+	ID=rna_altalt13_eg1734;Description=;parent=gene_altalt13_eg1734
+altalt13_CM034652.1	bed	RNA	20083	23763	.	+	ID=rna_altalt13_eg1679;Description=;parent=gene_altalt13_eg1679
+altalt13_CM034652.1	bed	RNA	26107	16563	.	-	ID=rna_altalt13_eg1130;Description=;parent=gene_altalt13_eg1130
+altalt13_CM034652.1	bed	RNA	35981	7072	.	+	ID=rna_altalt13_eg1533;Description=;parent=gene_altalt13_eg1533
+altalt13_CM034652.1	bed	CDS	872	41367	.	+	ID=cds_altalt13_tyr74;Description=;parent=rna_altalt13_tyr74
+altalt13_CM034652.1	bed	CDS	13650	30211	.	+	ID=cds_altalt13_eg1346;Description=;parent=rna_altalt13_eg1346
+altalt13_CM034652.1	bed	CDS	17780	25718	.	+	ID=cds_altalt13_eg1636;Description=;parent=rna_altalt13_eg1636
+altalt13_CM034652.1	bed	CDS	19333	24639	.	+	ID=cds_altalt13_eg1734;Description=;parent=rna_altalt13_eg1734
+altalt13_CM034652.1	bed	CDS	20083	23763	.	+	ID=cds_altalt13_eg1679;Description=;parent=rna_altalt13_eg1679
+altalt13_CM034652.1	bed	CDS	26107	16563	.	-	ID=cds_altalt13_eg1130;Description=;parent=rna_altalt13_eg1130
+altalt13_CM034652.1	bed	CDS	35981	7072	.	+	ID=cds_altalt13_eg1533;Description=;parent=rna_altalt13_eg1533

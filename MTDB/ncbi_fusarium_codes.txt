@@ -1,0 +1,359 @@
+Executing command: /home/emile/scripts/glofish//bin/format-ncbi -r fusarium_ncbi_notMycodb.txt -a fusarium_assembly_paths.txt -c ../20211215.pub.genome_codes.txt
+fusgra4	GCA_000240135.3	Fusarium graminearum PH-1
+fusodo2	GCA_000260195.2	Fusarium odoratissimum NRRL 54006
+fuscir2	GCA_000497325.3	Fusarium circinatum
+fusvir1	GCA_000585705.1	Fusarium virguliforme Mont-1
+fusgra5	GCA_000599445.1	Fusarium graminearum
+fusave2	GCA_000769295.1	Fusarium avenaceum
+fusave3	GCA_000769305.1	Fusarium avenaceum
+fusfus1	GCA_000966855.1	Fusarium sp. JS1030
+fusfus2	GCA_000966865.1	Fusarium sp. JS626
+fuspse4	GCA_000974265.2	Fusarium pseudograminearum
+fusnyg2	GCA_001262555.1	Fusarium nygamai
+fuslan2	GCA_001292635.1	Fusarium langsethiae
+fustem1	GCA_001513835.1	Fusarium temperatum
+fussam1	GCA_001567575.1	Fusarium sambucinum
+fuscom2	GCA_001599515.1	Fusarium commune
+fusmet1	GCA_001633045.1	Fusarium metavorans
+fusaga2	GCA_001654545.1	Fusarium agapanthi
+fuspoa2	GCA_001675295.1	Fusarium poae
+fuscun1	GCA_001680505.1	Fusarium cuneirostrum
+fuspha1	GCA_001680515.1	Fusarium phaseoli
+fusvir2	GCA_001680525.1	Fusarium virguliforme
+fustuc1	GCA_001680535.1	Fusarium tucumaniae
+fustuc2	GCA_001680595.1	Fusarium tucumaniae
+fusvir3	GCA_001680605.1	Fusarium virguliforme
+fusazu1	GCA_001680625.1	Fusarium azukicola
+fusvir4	GCA_001680665.1	Fusarium virguliforme
+fusbra1	GCA_001680685.1	Fusarium brasiliense
+fustuc3	GCA_001680725.1	Fusarium tucumaniae
+fuspse5	GCA_001703955.2	Fusarium pseudograminearum
+fusmer1	GCA_001717825.1	Fusarium meridionale
+fusasi1	GCA_001717835.1	Fusarium asiaticum
+fusasi2	GCA_001717845.1	Fusarium asiaticum
+fusmer2	GCA_001717855.1	Fusarium meridionale
+fuspra1	GCA_002093855.1	Fusarium praegraminearum
+fuspin1	GCA_002165215.1	Fusarium pininemorale
+fuseuw2	GCA_002168265.2	Fusarium euwallaceae
+fusudu1	GCA_002194535.1	Fusarium udum
+fusfuj2	GCA_002196585.2	Fusarium fujikuroi
+fussol2	GCA_002215905.1	Fusarium solani
+fushos1	GCA_002234205.1	Fusarium hostae
+fushos2	GCA_002234235.1	Fusarium hostae
+fusfus3	GCA_002234255.1	Fusarium sp. Na10
+fusbur1	GCA_002980515.1	Fusarium burgessii
+fusalg1	GCA_002982035.1	Fusarium algeriense
+fusalg2	GCA_002982055.1	Fusarium algeriense
+fuscul2	GCA_003033665.1	Fusarium culmorum
+fustri3	GCA_003045085.1	Fusarium tricinctum
+fuspro2	GCA_003123625.1	Fusarium proliferatum
+fustri4	GCA_003149365.1	Fusarium tricinctum
+fuspro3	GCA_003290285.1	Fusarium proliferatum
+fusequ2	GCA_003313175.1	Fusarium equiseti
+fusoxy52	GCA_003315725.1	Fusarium oxysporum f. sp. lycopersici 4287
+fusequ3	GCA_003316835.1	Fusarium equiseti
+fusver3	GCA_003316975.2	Fusarium verticillioides
+fusver4	GCA_003316995.2	Fusarium verticillioides
+fusver5	GCA_003317015.2	Fusarium verticillioides
+fusfra1	GCA_003353625.1	Fusarium fracticaudum
+fuspro4	GCA_003615215.1	Fusarium proliferatum
+fussub2	GCA_003670145.1	Fusarium subtropicale
+fusinc1	GCA_003704985.1	Fusarium incarnatum
+fusinc2	GCA_003709435.1	Fusarium incarnatum
+fushae1	GCA_004026335.1	Fusarium haematococcum
+fushae2	GCA_004026385.1	Fusarium haematococcum
+fusxyl7	GCA_004329255.1	Fusarium xylarioides
+fushum1	GCA_004366955.1	Fusarium humuli
+fusfus4	GCA_004367055.1	Fusarium sp. NRRL 66335
+fusinc3	GCA_004367075.1	Fusarium incarnatum
+fusirr1	GCA_004367085.1	Fusarium irregulare
+fusnan1	GCA_004367095.1	Fusarium nanum
+fuscla1	GCA_004367155.1	Fusarium clavum
+fusfla2	GCA_004367175.1	Fusarium flagelliforme
+fuscof2	GCA_004367465.1	Fusarium coffeatum
+fuscam1	GCA_004367475.1	Fusarium camptoceras
+fuscit1	GCA_004367485.1	Fusarium citri
+fussci1	GCA_004367495.1	Fusarium scirpi
+fusneo1	GCA_006518225.1	Fusarium neocosmosporiellum
+fusxyr1	GCA_008711575.1	Fusarium xyrophilum
+fusxyr2	GCA_008711595.1	Fusarium xyrophilum
+fusxyr3	GCA_008711615.1	Fusarium xyrophilum
+fuscor1	GCA_009617495.1	Fusarium cortaderiae
+fusaus3	GCA_009617505.1	Fusarium austroamericanum
+fusmer3	GCA_009617515.1	Fusarium meridionale
+fusaus4	GCA_009617525.1	Fusarium austroamericanum
+fusfuj3	GCA_009663055.1	Fusarium fujikuroi
+fusfuj4	GCA_009663095.1	Fusarium fujikuroi
+fusfuj5	GCA_009663115.1	Fusarium fujikuroi
+fushae3	GCA_010015875.1	Fusarium haematococcum
+fusfus5	GCA_011033385.1	Fusarium cf. solani
+fusfus6	GCA_011033525.1	Fusarium cf. falciforme
+fusfus7	GCA_011033595.1	Fusarium cf. falciforme
+fusfus8	GCA_011033625.1	Fusarium cf. solani
+fusfus9	GCA_011033705.1	Fusarium cf. falciforme
+fusfus10	GCA_011033785.1	Fusarium cf. falciforme
+fusfus11	GCA_011033925.1	Fusarium cf. solani
+fusfus12	GCA_011033945.1	Fusarium cf. solani
+fusfus13	GCA_011034095.1	Fusarium cf. aywerte
+fusfus14	GCA_011034235.1	Fusarium cf. hostae
+fusfus15	GCA_011034735.1	Fusarium cf. falciforme
+fusfus16	GCA_011034825.1	Fusarium cf. solani
+fusfus17	GCA_011035275.1	Fusarium cf. verticillioides
+fusfus18	GCA_011035525.1	Fusarium cf. nygamai
+fusfus19	GCA_011035825.1	Fusarium cf. hostae
+fusfus20	GCA_011035845.1	Fusarium cf. hostae
+fusfus21	GCA_011036015.1	Fusarium cf. verticillioides
+fusfus22	GCA_011036165.1	Fusarium cf. solani
+fusfus23	GCA_011036225.1	Fusarium cf. verticillioides
+fusfus24	GCA_011036285.1	Fusarium cf. falciforme
+fusfus25	GCA_011036445.1	Fusarium cf. falciforme
+fusfus26	GCA_011036515.1	Fusarium cf. solani
+fusfus27	GCA_011036565.1	Fusarium cf. falciforme
+fusfus28	GCA_011036685.1	Fusarium cf. nygamai
+fusfus29	GCA_011036725.1	Fusarium cf. solani
+fusfus30	GCA_011036745.1	Fusarium cf. solani
+fusfus31	GCA_011036775.1	Fusarium cf. falciforme
+fusfus32	GCA_011036815.1	Fusarium cf. falciforme
+fusfus33	GCA_011036905.1	Fusarium cf. verticillioides
+fusoxy53	GCA_011316005.3	Fusarium oxysporum f. sp. cubense
+fuspro5	GCA_011320165.1	Fusarium protoensiforme
+fusfus34	GCA_011421325.1	Fusarium cf. solani
+fustem2	GCA_012070365.1	Fusarium temperatum
+fussub3	GCA_012070385.1	Fusarium subglutinans
+fussub4	GCA_012071885.1	Fusarium subglutinans
+fuscer1	GCA_012600195.1	Fusarium cerealis
+fusave4	GCA_012959155.1	Fusarium avenaceum
+fustri5	GCA_012977725.1	Fusarium tricinctum
+fustan1	GCA_012977735.1	Fusarium tanahbumbuense
+fusang1	GCA_012977745.1	Fusarium anguioides
+fusnur1	GCA_012977755.1	Fusarium nurragi
+fusbab1	GCA_012977765.1	Fusarium babinda
+fusfus35	GCA_012978535.1	Fusarium sp. NRRL 62957
+fusfus36	GCA_012978555.1	Fusarium sp. NRRL 62941
+fusfus37	GCA_013010345.1	Fusarium sp. NRRL 22101
+fusoxy54	GCA_013085055.1	Fusarium oxysporum Fo47
+fussol3	GCA_013168735.1	Fusarium solani
+fuscir3	GCA_013168815.2	Fusarium circinatum
+fuscir4	GCA_013168825.2	Fusarium circinatum
+fuscir5	GCA_013168835.2	Fusarium circinatum
+fusxyl8	GCA_013183765.1	Fusarium xylarioides
+fusbra2	GCA_013184295.1	Fusarium brasilicum
+fuscor2	GCA_013184305.1	Fusarium cortaderiae
+fuskyu1	GCA_013184315.1	Fusarium kyushuense
+fusluf1	GCA_013184325.1	Fusarium luffae
+fushos3	GCA_013184365.1	Fusarium hostae
+fusnew1	GCA_013184375.1	Fusarium newnesense
+fuscon1	GCA_013184415.1	Fusarium concolor
+fusbab2	GCA_013184435.1	Fusarium babinda
+fusfus38	GCA_013184445.1	Fusarium sp. NRRL 53497
+fuscon2	GCA_013184455.1	Fusarium continuum
+fusayw1	GCA_013186375.1	Fusarium aywerte
+fusfus39	GCA_013186395.1	Fusarium sp. NRRL 62944
+fusfus40	GCA_013186415.1	Fusarium sp. NRRL 66088
+fusfus41	GCA_013186425.2	Fusarium sp. NRRL 62610
+fusbeg1	GCA_013186755.1	Fusarium begoniae
+fusbul2	GCA_013186765.1	Fusarium bulbicola
+fusdla1	GCA_013186775.1	Fusarium dlaminii
+fuspse6	GCA_013186785.1	Fusarium pseudonygamai
+fusgut1	GCA_013186795.1	Fusarium guttiforme
+fusnyg3	GCA_013186815.1	Fusarium nygamai
+fusste1	GCA_013186845.1	Fusarium sterilihyphosum
+fusram1	GCA_013186855.1	Fusarium ramigenum
+fusudu2	GCA_013186905.1	Fusarium udum
+fussuc1	GCA_013186925.1	Fusarium succisae
+fustha1	GCA_013186935.1	Fusarium thapsinum
+fusfal1	GCA_013363125.1	Fusarium falciforme
+fusbre1	GCA_013363135.1	Fusarium brevicatenulatum
+fusvir5	GCA_013363175.1	Fusarium virguliforme
+fussec1	GCA_013363185.1	Fusarium secorum
+fustua1	GCA_013363205.1	Fusarium tuaranense
+fusacu2	GCA_013363215.1	Fusarium acuminatum
+fuspha2	GCA_013364925.1	Fusarium phaseoli
+fustup1	GCA_013364945.1	Fusarium tupiense
+fusfus42	GCA_013416755.1	Fusarium sp. QHM
+fusfus43	GCA_013416785.2	Fusarium sp. BWC1
+fusalb2	GCA_013618265.1	Fusarium albidum
+fusarm1	GCA_013618295.1	Fusarium armeniacum
+fusasi3	GCA_013618305.1	Fusarium asiaticum
+fuscom3	GCA_013618355.1	Fusarium commune
+fuscul3	GCA_013618375.1	Fusarium culmorum
+fusfus44	GCA_013618385.1	Fusarium sp. FSAMSC_23
+fusdom1	GCA_013618395.1	Fusarium domesticum
+fushai1	GCA_013618405.1	Fusarium hainanense
+fuslon2	GCA_013618485.1	Fusarium longipes
+fuslon3	GCA_013618495.1	Fusarium longipes
+fuslon4	GCA_013623335.1	Fusarium longipes
+fusmus2	GCA_013623345.1	Fusarium musae
+fusbac1	GCA_013623355.1	Fusarium bactridioides
+fusill1	GCA_013623515.1	Fusarium illudens
+fusdim1	GCA_013623525.1	Fusarium dimerum
+fuspen1	GCA_013623535.1	Fusarium penzigii
+fusnis1	GCA_013623555.1	Fusarium nisikadoi
+fusnem1	GCA_013623595.1	Fusarium nematophilum
+fuspoa3	GCA_013623615.1	Fusarium poae
+fusset1	GCA_013623625.1	Fusarium setosum
+fusven2	GCA_013623635.1	Fusarium venenatum
+fussub5	GCA_013623665.1	Fusarium sublunatum
+fustra1	GCA_013623685.1	Fusarium transvaalense
+fusver6	GCA_013623715.1	Fusarium verrucosum
+fusven3	GCA_013623725.1	Fusarium ventricosum
+fusxyl9	GCA_013623735.1	Fusarium xylarioides
+fuszan1	GCA_013623745.1	Fusarium zanthoxyli
+fusarm2	GCA_013623825.1	Fusarium armeniacum
+fusfoe1	GCA_013623845.1	Fusarium foetens
+fustor1	GCA_013623875.1	Fusarium torulosum
+fuscaa1	GCA_013624355.1	Fusarium caatingaense
+fusfus45	GCA_013624395.1	Fusarium sp. KOD 1611
+fushum2	GCA_013753835.1	Fusarium humuli
+fusfus46	GCA_013755755.1	Fusarium sp. NRRL 25184
+fusman2	GCA_013758935.1	Fusarium mangiferae
+fussac1	GCA_013759005.1	Fusarium sacchari
+fusfus47	GCA_013759095.1	Fusarium sp. NRRL 29148
+fusfus48	GCA_013759115.1	Fusarium sp. NRRL 47473
+fusfus49	GCA_013759125.1	Fusarium sp. NRRL 53293
+fusver7	GCA_013759275.1	Fusarium verticillioides
+fusoxy55	GCA_014282265.3	Fusarium oxysporum f. sp. cubense
+fustem3	GCA_014706205.1	Fusarium temperatum
+fustem4	GCA_014706235.1	Fusarium temperatum
+fusaca1	GCA_014822065.1	Fusarium acaciae-mearnsii
+fusbuh1	GCA_014822075.1	Fusarium buharicum
+fussti1	GCA_014822085.1	Fusarium stilboides
+fusfus50	GCA_014824365.1	Fusarium sp. NRRL 66894
+fuscya1	GCA_014824385.1	Fusarium cyanostomum
+fusfus51	GCA_014824405.1	Fusarium sp. NRRL 66896
+fuscon3	GCA_014824425.1	Fusarium concentricum
+fustor2	GCA_014824505.1	Fusarium torreyae
+fusoxy56	GCA_014857105.1	Fusarium oxysporum f. sp. koae
+fusfus52	GCA_014884825.1	Fusarium sp. 190-020-2
+fusfus53	GCA_014885045.1	Fusarium sp. 'flavolapis'
+fuslat1	GCA_014898835.1	Fusarium lateritium
+fusmis1	GCA_014898875.1	Fusarium miscanthi
+fuslya1	GCA_014898885.1	Fusarium lyarnte (nom. inval.)
+fuschl1	GCA_014898915.1	Fusarium chlamydosporum
+fusnel1	GCA_014898925.1	Fusarium nelsonii
+fusnod1	GCA_014898975.1	Fusarium nodosum
+fussib1	GCA_014898995.1	Fusarium sibiricum
+fussam2	GCA_014899025.1	Fusarium sambucinum
+fuspal1	GCA_014899045.1	Fusarium palustre
+fusgoo1	GCA_014899075.1	Fusarium goolgardi
+fusred2	GCA_014899085.1	Fusarium redolens
+fusbux1	GCA_014899095.1	Fusarium buxicola
+fusoxy57	GCA_016802195.1	Fusarium oxysporum f. sp. cubense
+fusoxy58	GCA_016802205.1	Fusarium oxysporum f. sp. cubense
+fuspse7	GCA_016952305.1	Fusarium pseudograminearum
+fuscul4	GCA_016952355.1	Fusarium culmorum
+fusrus1	GCA_017140155.1	Fusarium rusci
+fussta1	GCA_017140175.1	Fusarium staphyleae
+fussac2	GCA_017165645.1	Fusarium sacchari
+fuspro6	GCA_017309875.1	Fusarium proliferatum
+fuspro7	GCA_017309895.1	Fusarium proliferatum
+fusred3	GCA_017562085.1	Fusarium redolens
+fussor1	GCA_017579625.1	Fusarium sororula
+fusvor1	GCA_017656575.1	Fusarium vorosii
+fususs1	GCA_017656585.1	Fusarium ussurianum
+fusfus54	GCA_017656595.1	Fusarium sp. CBS 123663
+fususs2	GCA_017656605.1	Fusarium ussurianum
+fusvor2	GCA_017656615.1	Fusarium vorosii
+fusnep1	GCA_017656675.1	Fusarium nepalense
+fususs3	GCA_017656685.1	Fusarium ussurianum
+fususs4	GCA_017656695.1	Fusarium ussurianum
+fusnep2	GCA_017656735.1	Fusarium nepalense
+fusmes1	GCA_017656745.1	Fusarium mesoamericanum
+fuslou1	GCA_017656775.1	Fusarium louisianense
+fusmer4	GCA_017656785.1	Fusarium meridionale
+fusmer5	GCA_017656815.1	Fusarium meridionale x Fusarium asiaticum
+fuslou2	GCA_017656825.1	Fusarium louisianense
+fusger1	GCA_017656835.1	Fusarium gerlachii
+fusger2	GCA_017656845.1	Fusarium gerlachii
+fuscor3	GCA_017656885.1	Fusarium cortaderiae
+fuscor4	GCA_017656915.1	Fusarium cortaderiae
+fuscor5	GCA_017656935.1	Fusarium cortaderiae
+fusboo1	GCA_017656945.1	Fusarium boothii
+fusbra3	GCA_017656955.1	Fusarium brasilicum
+fusboo2	GCA_017656985.1	Fusarium boothii
+fusboo3	GCA_017656995.1	Fusarium boothii
+fusaus5	GCA_017657025.1	Fusarium austroamericanum
+fusaus6	GCA_017657035.1	Fusarium austroamericanum
+fusaet1	GCA_017657045.1	Fusarium aethiopicum
+fusasi4	GCA_017657095.1	Fusarium asiaticum
+fusaca2	GCA_017657105.1	Fusarium acaciae-mearnsii
+fusaca3	GCA_017657115.1	Fusarium acaciae-mearnsii
+fusaca4	GCA_017657135.1	Fusarium acaciae-mearnsii
+fuslan3	GCA_018104275.1	Fusarium langsethiae
+fusave5	GCA_018282135.1	Fusarium avenaceum
+fusgra6	GCA_018345515.1	Fusarium graminearum
+fusgra7	GCA_018345745.1	Fusarium graminearum
+fusgra8	GCA_018346015.1	Fusarium graminearum
+fusgra9	GCA_018346495.1	Fusarium graminearum
+fuspro8	GCA_018350245.1	Fusarium proliferatum
+fusbra4	GCA_018886245.1	Fusarium brachygibbosum
+fuspro9	GCA_019022535.1	Fusarium proliferatum
+fusspo2	GCA_019054615.1	Fusarium sporotrichioides
+fusspo3	GCA_019054645.1	Fusarium sporotrichioides
+fusspo4	GCA_019054675.1	Fusarium sporotrichioides
+fusfus55	GCA_019054715.1	Fusarium sp. S19/10
+fusfus56	GCA_019054735.1	Fusarium sp. S18/39
+fusfus57	GCA_019054775.1	Fusarium sp. S18/7
+fusfus58	GCA_019054865.1	Fusarium sp. S18/2
+fusequ4	GCA_019054925.1	Fusarium equiseti
+fusequ5	GCA_019054965.1	Fusarium equiseti
+fusequ6	GCA_019055005.1	Fusarium equiseti
+fusequ7	GCA_019055015.1	Fusarium equiseti
+fusequ8	GCA_019055045.1	Fusarium equiseti
+fusequ9	GCA_019055105.1	Fusarium equiseti
+fusequ10	GCA_019055125.1	Fusarium equiseti
+fuscer2	GCA_019055205.1	Fusarium cerealis
+fuscul5	GCA_019055245.1	Fusarium culmorum
+fusave6	GCA_019055275.1	Fusarium avenaceum
+fusave7	GCA_019055285.1	Fusarium avenaceum
+fusave8	GCA_019055295.1	Fusarium avenaceum
+fusave9	GCA_019055315.1	Fusarium avenaceum
+fusann1	GCA_019189555.1	Fusarium annulatum
+fusann2	GCA_019189625.1	Fusarium annulatum
+fusann3	GCA_019189685.1	Fusarium annulatum
+fusann4	GCA_019189765.1	Fusarium annulatum
+fusann5	GCA_019189775.1	Fusarium annulatum
+fusvet1	GCA_019191165.1	Fusarium veterinarium
+fusvet2	GCA_019191175.1	Fusarium veterinarium
+fusfus59	GCA_019192225.1	Fusarium sp. TH15
+fussol4	GCA_019320015.1	Fusarium solani
+fusgra10	GCA_019343145.1	Fusarium graminearum
+fusven4	GCA_019425555.1	Fusarium venenatum
+fuspoa4	GCA_019609905.1	Fusarium poae
+fussic1	GCA_019843635.1	Fusarium siculi
+fusred4	GCA_019843785.1	Fusarium redolens
+fusfus60	GCA_020137375.1	Fusarium sp. RP-2020a
+fusfus61	GCA_020137435.1	Fusarium sp. RP-2020a
+fusfus62	GCA_020137885.1	Fusarium sp. RP-2020a
+fuspil1	GCA_020615335.1	Fusarium pilosicola
+fustri6	GCA_020744115.1	Fusarium tricinctum
+fusven5	GCA_020744135.1	Fusarium venenatum
+fusfla3	GCA_020744385.1	Fusarium flagelliforme
+fusred5	GCA_020744475.1	Fusarium redolens
+fussol5	GCA_020744495.1	Fusarium solani
+fustri7	GCA_020744515.1	Fusarium tricinctum
+fusver8	GCA_020882315.1	Fusarium verticillioides
+fusvir6	GCA_020883595.1	Fusarium virguliforme
+fusvir7	GCA_020883605.1	Fusarium virguliforme
+fusvir8	GCA_020883615.1	Fusarium virguliforme
+fusvir9	GCA_020883625.1	Fusarium virguliforme
+fusfus63	GCA_020976545.1	Fusarium sp. Barmshour
+fusgra11	GCA_020991245.1	Fusarium graminearum
+fusfus64	GCA_021020635.1	Fusarium sp. PT
+fuscir6	GCA_021436885.1	Fusarium circinatum
+fuscir7	GCA_021436905.1	Fusarium circinatum
+fuscir8	GCA_021513745.1	Fusarium circinatum
+fuscir9	GCA_021513755.1	Fusarium circinatum
+fusfus65	GCA_021533815.1	Fusarium sp. C39
+fusven6	GCA_900007375.1	Fusarium venenatum
+fuspro10	GCA_900029915.1	Fusarium proliferatum
+fusman3	GCA_900044065.1	Fusarium mangiferae
+fusgra12	GCA_900044135.1	Fusarium graminearum
+fuspro11	GCA_900067095.1	Fusarium proliferatum ET1
+fuscul6	GCA_900074845.1	Fusarium culmorum
+fusfuj6	GCA_900079805.1	Fusarium fujikuroi IMI 58289
+fusfuj7	GCA_900096505.1	Fusarium fujikuroi
+fusfuj8	GCA_900096615.1	Fusarium fujikuroi
+fusfuj9	GCA_900096635.1	Fusarium fujikuroi
+fusfuj10	GCA_900096645.1	Fusarium fujikuroi
+fustri8	GCA_900382705.2	Fusarium tricinctum

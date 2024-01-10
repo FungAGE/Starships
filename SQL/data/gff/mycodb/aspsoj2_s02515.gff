@@ -1,0 +1,73 @@
+aspsoj2_CP035528.1	bed	region	1	146890	.	+	flank	ID=gene_aspsoj2_tyr2670|DR|up;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	region	45	146837	.	+	flank	ID=gene_aspsoj2_tyr2670|TIR|up;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	363	143943	.	+	cap	ID=gene_aspsoj2_tyr2670;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	9579	136522	.	+	.	ID=gene_aspsoj2_eg152505;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	15376	130479	.	-	.	ID=gene_aspsoj2_eg153002;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	17221	128714	.	+	.	ID=gene_aspsoj2_eg152427;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	26589	118878	.	-	.	ID=gene_aspsoj2_eg152213;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	40685	106000	.	-	.	ID=gene_aspsoj2_eg152552;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	50437	96194	.	+	.	ID=gene_aspsoj2_eg153026;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	51179	95482	.	-	.	ID=gene_aspsoj2_eg152682;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	52577	93583	.	-	.	ID=gene_aspsoj2_eg152535;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	60396	85194	.	+	.	ID=gene_aspsoj2_eg152928;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	63631	81425	.	+	.	ID=gene_aspsoj2_eg152254;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	78992	67516	.	-	.	ID=gene_aspsoj2_eg152517;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	83758	62586	.	-	.	ID=gene_aspsoj2_eg152918;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	85004	61062	.	-	.	ID=gene_aspsoj2_eg152516;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	87313	55962	.	+	d37	ID=gene_aspsoj2_d371609;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	92293	53230	.	-	fre	ID=gene_aspsoj2_fre3856;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	94937	51023	.	-	.	ID=gene_aspsoj2_eg152966;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	98951	46912	.	-	.	ID=gene_aspsoj2_eg152510;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	105111	40157	.	-	.	ID=gene_aspsoj2_eg152556;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	120797	25774	.	-	.	ID=gene_aspsoj2_eg152409;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	121383	24181	.	-	.	ID=gene_aspsoj2_eg152536;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	137968	8252	.	-	.	ID=gene_aspsoj2_eg152417;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	gene	144384	2016	.	+	.	ID=gene_aspsoj2_eg152905;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	region	146836	44	.	+	flank	ID=gene_aspsoj2_tyr2670|TIR|down;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	region	146890	0	.	+	flank	ID=gene_aspsoj2_tyr2670|DR|down;Description=aspsoj2_s02515;parent=aspsoj2_CP035528.1
+aspsoj2_CP035528.1	bed	RNA	363	143943	.	+	ID=rna_aspsoj2_tyr2670;Description=;parent=gene_aspsoj2_tyr2670
+aspsoj2_CP035528.1	bed	RNA	9579	136522	.	+	ID=rna_aspsoj2_eg152505;Description=;parent=gene_aspsoj2_eg152505
+aspsoj2_CP035528.1	bed	RNA	15376	130479	.	-	ID=rna_aspsoj2_eg153002;Description=;parent=gene_aspsoj2_eg153002
+aspsoj2_CP035528.1	bed	RNA	17221	128714	.	+	ID=rna_aspsoj2_eg152427;Description=;parent=gene_aspsoj2_eg152427
+aspsoj2_CP035528.1	bed	RNA	26589	118878	.	-	ID=rna_aspsoj2_eg152213;Description=;parent=gene_aspsoj2_eg152213
+aspsoj2_CP035528.1	bed	RNA	40685	106000	.	-	ID=rna_aspsoj2_eg152552;Description=;parent=gene_aspsoj2_eg152552
+aspsoj2_CP035528.1	bed	RNA	50437	96194	.	+	ID=rna_aspsoj2_eg153026;Description=;parent=gene_aspsoj2_eg153026
+aspsoj2_CP035528.1	bed	RNA	51179	95482	.	-	ID=rna_aspsoj2_eg152682;Description=;parent=gene_aspsoj2_eg152682
+aspsoj2_CP035528.1	bed	RNA	52577	93583	.	-	ID=rna_aspsoj2_eg152535;Description=;parent=gene_aspsoj2_eg152535
+aspsoj2_CP035528.1	bed	RNA	60396	85194	.	+	ID=rna_aspsoj2_eg152928;Description=;parent=gene_aspsoj2_eg152928
+aspsoj2_CP035528.1	bed	RNA	63631	81425	.	+	ID=rna_aspsoj2_eg152254;Description=;parent=gene_aspsoj2_eg152254
+aspsoj2_CP035528.1	bed	RNA	78992	67516	.	-	ID=rna_aspsoj2_eg152517;Description=;parent=gene_aspsoj2_eg152517
+aspsoj2_CP035528.1	bed	RNA	83758	62586	.	-	ID=rna_aspsoj2_eg152918;Description=;parent=gene_aspsoj2_eg152918
+aspsoj2_CP035528.1	bed	RNA	85004	61062	.	-	ID=rna_aspsoj2_eg152516;Description=;parent=gene_aspsoj2_eg152516
+aspsoj2_CP035528.1	bed	RNA	87313	55962	.	+	ID=rna_aspsoj2_d371609;Description=;parent=gene_aspsoj2_d371609
+aspsoj2_CP035528.1	bed	RNA	92293	53230	.	-	ID=rna_aspsoj2_fre3856;Description=;parent=gene_aspsoj2_fre3856
+aspsoj2_CP035528.1	bed	RNA	94937	51023	.	-	ID=rna_aspsoj2_eg152966;Description=;parent=gene_aspsoj2_eg152966
+aspsoj2_CP035528.1	bed	RNA	98951	46912	.	-	ID=rna_aspsoj2_eg152510;Description=;parent=gene_aspsoj2_eg152510
+aspsoj2_CP035528.1	bed	RNA	105111	40157	.	-	ID=rna_aspsoj2_eg152556;Description=;parent=gene_aspsoj2_eg152556
+aspsoj2_CP035528.1	bed	RNA	120797	25774	.	-	ID=rna_aspsoj2_eg152409;Description=;parent=gene_aspsoj2_eg152409
+aspsoj2_CP035528.1	bed	RNA	121383	24181	.	-	ID=rna_aspsoj2_eg152536;Description=;parent=gene_aspsoj2_eg152536
+aspsoj2_CP035528.1	bed	RNA	137968	8252	.	-	ID=rna_aspsoj2_eg152417;Description=;parent=gene_aspsoj2_eg152417
+aspsoj2_CP035528.1	bed	RNA	144384	2016	.	+	ID=rna_aspsoj2_eg152905;Description=;parent=gene_aspsoj2_eg152905
+aspsoj2_CP035528.1	bed	CDS	363	143943	.	+	ID=cds_aspsoj2_tyr2670;Description=;parent=rna_aspsoj2_tyr2670
+aspsoj2_CP035528.1	bed	CDS	9579	136522	.	+	ID=cds_aspsoj2_eg152505;Description=;parent=rna_aspsoj2_eg152505
+aspsoj2_CP035528.1	bed	CDS	15376	130479	.	-	ID=cds_aspsoj2_eg153002;Description=;parent=rna_aspsoj2_eg153002
+aspsoj2_CP035528.1	bed	CDS	17221	128714	.	+	ID=cds_aspsoj2_eg152427;Description=;parent=rna_aspsoj2_eg152427
+aspsoj2_CP035528.1	bed	CDS	26589	118878	.	-	ID=cds_aspsoj2_eg152213;Description=;parent=rna_aspsoj2_eg152213
+aspsoj2_CP035528.1	bed	CDS	40685	106000	.	-	ID=cds_aspsoj2_eg152552;Description=;parent=rna_aspsoj2_eg152552
+aspsoj2_CP035528.1	bed	CDS	50437	96194	.	+	ID=cds_aspsoj2_eg153026;Description=;parent=rna_aspsoj2_eg153026
+aspsoj2_CP035528.1	bed	CDS	51179	95482	.	-	ID=cds_aspsoj2_eg152682;Description=;parent=rna_aspsoj2_eg152682
+aspsoj2_CP035528.1	bed	CDS	52577	93583	.	-	ID=cds_aspsoj2_eg152535;Description=;parent=rna_aspsoj2_eg152535
+aspsoj2_CP035528.1	bed	CDS	60396	85194	.	+	ID=cds_aspsoj2_eg152928;Description=;parent=rna_aspsoj2_eg152928
+aspsoj2_CP035528.1	bed	CDS	63631	81425	.	+	ID=cds_aspsoj2_eg152254;Description=;parent=rna_aspsoj2_eg152254
+aspsoj2_CP035528.1	bed	CDS	78992	67516	.	-	ID=cds_aspsoj2_eg152517;Description=;parent=rna_aspsoj2_eg152517
+aspsoj2_CP035528.1	bed	CDS	83758	62586	.	-	ID=cds_aspsoj2_eg152918;Description=;parent=rna_aspsoj2_eg152918
+aspsoj2_CP035528.1	bed	CDS	85004	61062	.	-	ID=cds_aspsoj2_eg152516;Description=;parent=rna_aspsoj2_eg152516
+aspsoj2_CP035528.1	bed	CDS	87313	55962	.	+	ID=cds_aspsoj2_d371609;Description=;parent=rna_aspsoj2_d371609
+aspsoj2_CP035528.1	bed	CDS	92293	53230	.	-	ID=cds_aspsoj2_fre3856;Description=;parent=rna_aspsoj2_fre3856
+aspsoj2_CP035528.1	bed	CDS	94937	51023	.	-	ID=cds_aspsoj2_eg152966;Description=;parent=rna_aspsoj2_eg152966
+aspsoj2_CP035528.1	bed	CDS	98951	46912	.	-	ID=cds_aspsoj2_eg152510;Description=;parent=rna_aspsoj2_eg152510
+aspsoj2_CP035528.1	bed	CDS	105111	40157	.	-	ID=cds_aspsoj2_eg152556;Description=;parent=rna_aspsoj2_eg152556
+aspsoj2_CP035528.1	bed	CDS	120797	25774	.	-	ID=cds_aspsoj2_eg152409;Description=;parent=rna_aspsoj2_eg152409
+aspsoj2_CP035528.1	bed	CDS	121383	24181	.	-	ID=cds_aspsoj2_eg152536;Description=;parent=rna_aspsoj2_eg152536
+aspsoj2_CP035528.1	bed	CDS	137968	8252	.	-	ID=cds_aspsoj2_eg152417;Description=;parent=rna_aspsoj2_eg152417
+aspsoj2_CP035528.1	bed	CDS	144384	2016	.	+	ID=cds_aspsoj2_eg152905;Description=;parent=rna_aspsoj2_eg152905

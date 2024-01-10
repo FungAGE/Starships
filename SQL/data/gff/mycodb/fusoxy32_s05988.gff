@@ -1,0 +1,83 @@
+fusoxy32_JACDXP010000017.1	bed	region	1	100579	.	-	flank	ID=gene_fusoxy32_KAF6513717.1|DR|down;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	1524	95505	.	+	nlr	ID=gene_fusoxy32_KAF6513695.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	7864	89391	.	-	nlr	ID=gene_fusoxy32_KAF6513696.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	13008	86434	.	+	.	ID=gene_fusoxy32_KAF6513697.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	16423	83961	.	+	.	ID=gene_fusoxy32_KAF6513698.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	16665	82326	.	-	.	ID=gene_fusoxy32_KAF6513699.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	19225	80622	.	-	.	ID=gene_fusoxy32_KAF6513700.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	25416	74632	.	+	.	ID=gene_fusoxy32_eg249662;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	30241	67920	.	-	.	ID=gene_fusoxy32_KAF6513701.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	33984	65343	.	+	.	ID=gene_fusoxy32_KAF6513702.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	35329	64483	.	-	.	ID=gene_fusoxy32_KAF6513703.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	40889	59465	.	+	.	ID=gene_fusoxy32_KAF6513704.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	41763	57856	.	-	.	ID=gene_fusoxy32_KAF6513705.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	46197	53261	.	+	.	ID=gene_fusoxy32_KAF6513706.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	51173	48634	.	+	.	ID=gene_fusoxy32_eg249615;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	52684	45102	.	+	.	ID=gene_fusoxy32_KAF6513707.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	58037	40736	.	-	.	ID=gene_fusoxy32_eg249661;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	62320	34267	.	-	.	ID=gene_fusoxy32_KAF6513708.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	66890	33144	.	+	.	ID=gene_fusoxy32_KAF6513709.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	67819	32394	.	-	.	ID=gene_fusoxy32_eg249945;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	70398	28066	.	+	d37	ID=gene_fusoxy32_KAF6513710.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	74243	21662	.	+	nlr	ID=gene_fusoxy32_KAF6513712.1:KAF6513711.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	81222	18299	.	-	.	ID=gene_fusoxy32_KAF6513713.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	82522	17514	.	+	.	ID=gene_fusoxy32_KAF6513714.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	83634	16267	.	+	.	ID=gene_fusoxy32_KAF6513715.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	86343	12883	.	-	.	ID=gene_fusoxy32_eg249915;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	92111	7193	.	-	.	ID=gene_fusoxy32_KAF6513716.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	gene	97391	377	.	-	cap	ID=gene_fusoxy32_KAF6513717.1;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	region	100581	0	.	-	flank	ID=gene_fusoxy32_KAF6513717.1|DR|up;Description=fusoxy32_s05988;parent=fusoxy32_JACDXP010000017.1
+fusoxy32_JACDXP010000017.1	bed	RNA	1524	95505	.	+	ID=rna_fusoxy32_KAF6513695.1;Description=;parent=gene_fusoxy32_KAF6513695.1
+fusoxy32_JACDXP010000017.1	bed	RNA	7864	89391	.	-	ID=rna_fusoxy32_KAF6513696.1;Description=;parent=gene_fusoxy32_KAF6513696.1
+fusoxy32_JACDXP010000017.1	bed	RNA	13008	86434	.	+	ID=rna_fusoxy32_KAF6513697.1;Description=;parent=gene_fusoxy32_KAF6513697.1
+fusoxy32_JACDXP010000017.1	bed	RNA	16423	83961	.	+	ID=rna_fusoxy32_KAF6513698.1;Description=;parent=gene_fusoxy32_KAF6513698.1
+fusoxy32_JACDXP010000017.1	bed	RNA	16665	82326	.	-	ID=rna_fusoxy32_KAF6513699.1;Description=;parent=gene_fusoxy32_KAF6513699.1
+fusoxy32_JACDXP010000017.1	bed	RNA	19225	80622	.	-	ID=rna_fusoxy32_KAF6513700.1;Description=;parent=gene_fusoxy32_KAF6513700.1
+fusoxy32_JACDXP010000017.1	bed	RNA	25416	74632	.	+	ID=rna_fusoxy32_eg249662;Description=;parent=gene_fusoxy32_eg249662
+fusoxy32_JACDXP010000017.1	bed	RNA	30241	67920	.	-	ID=rna_fusoxy32_KAF6513701.1;Description=;parent=gene_fusoxy32_KAF6513701.1
+fusoxy32_JACDXP010000017.1	bed	RNA	33984	65343	.	+	ID=rna_fusoxy32_KAF6513702.1;Description=;parent=gene_fusoxy32_KAF6513702.1
+fusoxy32_JACDXP010000017.1	bed	RNA	35329	64483	.	-	ID=rna_fusoxy32_KAF6513703.1;Description=;parent=gene_fusoxy32_KAF6513703.1
+fusoxy32_JACDXP010000017.1	bed	RNA	40889	59465	.	+	ID=rna_fusoxy32_KAF6513704.1;Description=;parent=gene_fusoxy32_KAF6513704.1
+fusoxy32_JACDXP010000017.1	bed	RNA	41763	57856	.	-	ID=rna_fusoxy32_KAF6513705.1;Description=;parent=gene_fusoxy32_KAF6513705.1
+fusoxy32_JACDXP010000017.1	bed	RNA	46197	53261	.	+	ID=rna_fusoxy32_KAF6513706.1;Description=;parent=gene_fusoxy32_KAF6513706.1
+fusoxy32_JACDXP010000017.1	bed	RNA	51173	48634	.	+	ID=rna_fusoxy32_eg249615;Description=;parent=gene_fusoxy32_eg249615
+fusoxy32_JACDXP010000017.1	bed	RNA	52684	45102	.	+	ID=rna_fusoxy32_KAF6513707.1;Description=;parent=gene_fusoxy32_KAF6513707.1
+fusoxy32_JACDXP010000017.1	bed	RNA	58037	40736	.	-	ID=rna_fusoxy32_eg249661;Description=;parent=gene_fusoxy32_eg249661
+fusoxy32_JACDXP010000017.1	bed	RNA	62320	34267	.	-	ID=rna_fusoxy32_KAF6513708.1;Description=;parent=gene_fusoxy32_KAF6513708.1
+fusoxy32_JACDXP010000017.1	bed	RNA	66890	33144	.	+	ID=rna_fusoxy32_KAF6513709.1;Description=;parent=gene_fusoxy32_KAF6513709.1
+fusoxy32_JACDXP010000017.1	bed	RNA	67819	32394	.	-	ID=rna_fusoxy32_eg249945;Description=;parent=gene_fusoxy32_eg249945
+fusoxy32_JACDXP010000017.1	bed	RNA	70398	28066	.	+	ID=rna_fusoxy32_KAF6513710.1;Description=;parent=gene_fusoxy32_KAF6513710.1
+fusoxy32_JACDXP010000017.1	bed	RNA	74243	21662	.	+	ID=rna_fusoxy32_KAF6513712.1:KAF6513711.1;Description=;parent=gene_fusoxy32_KAF6513712.1:KAF6513711.1
+fusoxy32_JACDXP010000017.1	bed	RNA	81222	18299	.	-	ID=rna_fusoxy32_KAF6513713.1;Description=;parent=gene_fusoxy32_KAF6513713.1
+fusoxy32_JACDXP010000017.1	bed	RNA	82522	17514	.	+	ID=rna_fusoxy32_KAF6513714.1;Description=;parent=gene_fusoxy32_KAF6513714.1
+fusoxy32_JACDXP010000017.1	bed	RNA	83634	16267	.	+	ID=rna_fusoxy32_KAF6513715.1;Description=;parent=gene_fusoxy32_KAF6513715.1
+fusoxy32_JACDXP010000017.1	bed	RNA	86343	12883	.	-	ID=rna_fusoxy32_eg249915;Description=;parent=gene_fusoxy32_eg249915
+fusoxy32_JACDXP010000017.1	bed	RNA	92111	7193	.	-	ID=rna_fusoxy32_KAF6513716.1;Description=;parent=gene_fusoxy32_KAF6513716.1
+fusoxy32_JACDXP010000017.1	bed	RNA	97391	377	.	-	ID=rna_fusoxy32_KAF6513717.1;Description=;parent=gene_fusoxy32_KAF6513717.1
+fusoxy32_JACDXP010000017.1	bed	CDS	1524	95505	.	+	ID=cds_fusoxy32_KAF6513695.1;Description=;parent=rna_fusoxy32_KAF6513695.1
+fusoxy32_JACDXP010000017.1	bed	CDS	7864	89391	.	-	ID=cds_fusoxy32_KAF6513696.1;Description=;parent=rna_fusoxy32_KAF6513696.1
+fusoxy32_JACDXP010000017.1	bed	CDS	13008	86434	.	+	ID=cds_fusoxy32_KAF6513697.1;Description=;parent=rna_fusoxy32_KAF6513697.1
+fusoxy32_JACDXP010000017.1	bed	CDS	16423	83961	.	+	ID=cds_fusoxy32_KAF6513698.1;Description=;parent=rna_fusoxy32_KAF6513698.1
+fusoxy32_JACDXP010000017.1	bed	CDS	16665	82326	.	-	ID=cds_fusoxy32_KAF6513699.1;Description=;parent=rna_fusoxy32_KAF6513699.1
+fusoxy32_JACDXP010000017.1	bed	CDS	19225	80622	.	-	ID=cds_fusoxy32_KAF6513700.1;Description=;parent=rna_fusoxy32_KAF6513700.1
+fusoxy32_JACDXP010000017.1	bed	CDS	25416	74632	.	+	ID=cds_fusoxy32_eg249662;Description=;parent=rna_fusoxy32_eg249662
+fusoxy32_JACDXP010000017.1	bed	CDS	30241	67920	.	-	ID=cds_fusoxy32_KAF6513701.1;Description=;parent=rna_fusoxy32_KAF6513701.1
+fusoxy32_JACDXP010000017.1	bed	CDS	33984	65343	.	+	ID=cds_fusoxy32_KAF6513702.1;Description=;parent=rna_fusoxy32_KAF6513702.1
+fusoxy32_JACDXP010000017.1	bed	CDS	35329	64483	.	-	ID=cds_fusoxy32_KAF6513703.1;Description=;parent=rna_fusoxy32_KAF6513703.1
+fusoxy32_JACDXP010000017.1	bed	CDS	40889	59465	.	+	ID=cds_fusoxy32_KAF6513704.1;Description=;parent=rna_fusoxy32_KAF6513704.1
+fusoxy32_JACDXP010000017.1	bed	CDS	41763	57856	.	-	ID=cds_fusoxy32_KAF6513705.1;Description=;parent=rna_fusoxy32_KAF6513705.1
+fusoxy32_JACDXP010000017.1	bed	CDS	46197	53261	.	+	ID=cds_fusoxy32_KAF6513706.1;Description=;parent=rna_fusoxy32_KAF6513706.1
+fusoxy32_JACDXP010000017.1	bed	CDS	51173	48634	.	+	ID=cds_fusoxy32_eg249615;Description=;parent=rna_fusoxy32_eg249615
+fusoxy32_JACDXP010000017.1	bed	CDS	52684	45102	.	+	ID=cds_fusoxy32_KAF6513707.1;Description=;parent=rna_fusoxy32_KAF6513707.1
+fusoxy32_JACDXP010000017.1	bed	CDS	58037	40736	.	-	ID=cds_fusoxy32_eg249661;Description=;parent=rna_fusoxy32_eg249661
+fusoxy32_JACDXP010000017.1	bed	CDS	62320	34267	.	-	ID=cds_fusoxy32_KAF6513708.1;Description=;parent=rna_fusoxy32_KAF6513708.1
+fusoxy32_JACDXP010000017.1	bed	CDS	66890	33144	.	+	ID=cds_fusoxy32_KAF6513709.1;Description=;parent=rna_fusoxy32_KAF6513709.1
+fusoxy32_JACDXP010000017.1	bed	CDS	67819	32394	.	-	ID=cds_fusoxy32_eg249945;Description=;parent=rna_fusoxy32_eg249945
+fusoxy32_JACDXP010000017.1	bed	CDS	70398	28066	.	+	ID=cds_fusoxy32_KAF6513710.1;Description=;parent=rna_fusoxy32_KAF6513710.1
+fusoxy32_JACDXP010000017.1	bed	CDS	74243	21662	.	+	ID=cds_fusoxy32_KAF6513712.1:KAF6513711.1;Description=;parent=rna_fusoxy32_KAF6513712.1:KAF6513711.1
+fusoxy32_JACDXP010000017.1	bed	CDS	81222	18299	.	-	ID=cds_fusoxy32_KAF6513713.1;Description=;parent=rna_fusoxy32_KAF6513713.1
+fusoxy32_JACDXP010000017.1	bed	CDS	82522	17514	.	+	ID=cds_fusoxy32_KAF6513714.1;Description=;parent=rna_fusoxy32_KAF6513714.1
+fusoxy32_JACDXP010000017.1	bed	CDS	83634	16267	.	+	ID=cds_fusoxy32_KAF6513715.1;Description=;parent=rna_fusoxy32_KAF6513715.1
+fusoxy32_JACDXP010000017.1	bed	CDS	86343	12883	.	-	ID=cds_fusoxy32_eg249915;Description=;parent=rna_fusoxy32_eg249915
+fusoxy32_JACDXP010000017.1	bed	CDS	92111	7193	.	-	ID=cds_fusoxy32_KAF6513716.1;Description=;parent=rna_fusoxy32_KAF6513716.1
+fusoxy32_JACDXP010000017.1	bed	CDS	97391	377	.	-	ID=cds_fusoxy32_KAF6513717.1;Description=;parent=rna_fusoxy32_KAF6513717.1

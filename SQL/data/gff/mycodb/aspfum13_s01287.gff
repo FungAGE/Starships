@@ -1,0 +1,25 @@
+aspfum13_JAAAPW010000009.1	bed	region	1	47059	.	+	flank	ID=gene_aspfum13_tyr1277|DR|up;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	region	23	47031	.	+	flank	ID=gene_aspfum13_tyr1277|TIR|up;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	gene	192	44374	.	+	cap	ID=gene_aspfum13_tyr1277;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	gene	8624	37790	.	+	.	ID=gene_aspfum13_eg73350;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	gene	13783	30263	.	+	plp	ID=gene_aspfum13_plp1436;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	gene	18616	25889	.	+	d37	ID=gene_aspfum13_d37761;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	gene	24782	21426	.	-	.	ID=gene_aspfum13_eg73352;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	gene	30707	15367	.	+	.	ID=gene_aspfum13_eg73326;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	gene	41199	5505	.	+	.	ID=gene_aspfum13_eg73315;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	region	47035	19	.	+	flank	ID=gene_aspfum13_tyr1277|TIR|down;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	region	47060	0	.	+	flank	ID=gene_aspfum13_tyr1277|DR|down;Description=aspfum13_s01287;parent=aspfum13_JAAAPW010000009.1
+aspfum13_JAAAPW010000009.1	bed	RNA	192	44374	.	+	ID=rna_aspfum13_tyr1277;Description=;parent=gene_aspfum13_tyr1277
+aspfum13_JAAAPW010000009.1	bed	RNA	8624	37790	.	+	ID=rna_aspfum13_eg73350;Description=;parent=gene_aspfum13_eg73350
+aspfum13_JAAAPW010000009.1	bed	RNA	13783	30263	.	+	ID=rna_aspfum13_plp1436;Description=;parent=gene_aspfum13_plp1436
+aspfum13_JAAAPW010000009.1	bed	RNA	18616	25889	.	+	ID=rna_aspfum13_d37761;Description=;parent=gene_aspfum13_d37761
+aspfum13_JAAAPW010000009.1	bed	RNA	24782	21426	.	-	ID=rna_aspfum13_eg73352;Description=;parent=gene_aspfum13_eg73352
+aspfum13_JAAAPW010000009.1	bed	RNA	30707	15367	.	+	ID=rna_aspfum13_eg73326;Description=;parent=gene_aspfum13_eg73326
+aspfum13_JAAAPW010000009.1	bed	RNA	41199	5505	.	+	ID=rna_aspfum13_eg73315;Description=;parent=gene_aspfum13_eg73315
+aspfum13_JAAAPW010000009.1	bed	CDS	192	44374	.	+	ID=cds_aspfum13_tyr1277;Description=;parent=rna_aspfum13_tyr1277
+aspfum13_JAAAPW010000009.1	bed	CDS	8624	37790	.	+	ID=cds_aspfum13_eg73350;Description=;parent=rna_aspfum13_eg73350
+aspfum13_JAAAPW010000009.1	bed	CDS	13783	30263	.	+	ID=cds_aspfum13_plp1436;Description=;parent=rna_aspfum13_plp1436
+aspfum13_JAAAPW010000009.1	bed	CDS	18616	25889	.	+	ID=cds_aspfum13_d37761;Description=;parent=rna_aspfum13_d37761
+aspfum13_JAAAPW010000009.1	bed	CDS	24782	21426	.	-	ID=cds_aspfum13_eg73352;Description=;parent=rna_aspfum13_eg73352
+aspfum13_JAAAPW010000009.1	bed	CDS	30707	15367	.	+	ID=cds_aspfum13_eg73326;Description=;parent=rna_aspfum13_eg73326
+aspfum13_JAAAPW010000009.1	bed	CDS	41199	5505	.	+	ID=cds_aspfum13_eg73315;Description=;parent=rna_aspfum13_eg73315

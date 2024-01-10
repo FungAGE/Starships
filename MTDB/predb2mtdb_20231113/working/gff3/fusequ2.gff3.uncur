@@ -1,0 +1,65 @@
+fusequ2_QOHM01000002.1	bed	region	1	127118	.	+	flank	ID=gene_fusequ2_tyr5478|DR|up;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	1007	124466	.	+	cap	ID=gene_fusequ2_tyr5478;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	14387	111385	.	+	.	ID=gene_fusequ2_eg219872;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	18053	108706	.	-	.	ID=gene_fusequ2_eg219296;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	23510	101707	.	-	d37	ID=gene_fusequ2_d373179;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	25677	100323	.	+	.	ID=gene_fusequ2_eg219292;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	48200	78374	.	+	.	ID=gene_fusequ2_eg219358;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	54179	72127	.	+	.	ID=gene_fusequ2_eg219477;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	64844	61816	.	+	.	ID=gene_fusequ2_eg219277;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	65922	59627	.	+	.	ID=gene_fusequ2_eg218991;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	71595	54501	.	+	.	ID=gene_fusequ2_eg219387;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	74824	51311	.	+	.	ID=gene_fusequ2_eg219673;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	78544	47921	.	-	.	ID=gene_fusequ2_eg219581;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	81333	45177	.	-	.	ID=gene_fusequ2_eg218933;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	83279	40253	.	-	.	ID=gene_fusequ2_eg219285;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	88115	37218	.	-	.	ID=gene_fusequ2_eg219200;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	91846	32910	.	+	nlr	ID=gene_fusequ2_nlr101497;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	98324	27812	.	-	.	ID=gene_fusequ2_eg219503;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	101479	24767	.	-	.	ID=gene_fusequ2_eg219367;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	108943	15115	.	-	nlr	ID=gene_fusequ2_nlr101505;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	115028	8627	.	-	nlr	ID=gene_fusequ2_nlr101500;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	gene	122107	1573	.	-	nlr	ID=gene_fusequ2_nlr101487;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	region	127118	0	.	+	flank	ID=gene_fusequ2_tyr5478|DR|down;Description=fusequ2_s05203;parent=fusequ2_QOHM01000002.1
+fusequ2_QOHM01000002.1	bed	RNA	1007	124466	.	+	ID=rna_fusequ2_tyr5478;Description=;parent=gene_fusequ2_tyr5478
+fusequ2_QOHM01000002.1	bed	RNA	14387	111385	.	+	ID=rna_fusequ2_eg219872;Description=;parent=gene_fusequ2_eg219872
+fusequ2_QOHM01000002.1	bed	RNA	18053	108706	.	-	ID=rna_fusequ2_eg219296;Description=;parent=gene_fusequ2_eg219296
+fusequ2_QOHM01000002.1	bed	RNA	23510	101707	.	-	ID=rna_fusequ2_d373179;Description=;parent=gene_fusequ2_d373179
+fusequ2_QOHM01000002.1	bed	RNA	25677	100323	.	+	ID=rna_fusequ2_eg219292;Description=;parent=gene_fusequ2_eg219292
+fusequ2_QOHM01000002.1	bed	RNA	48200	78374	.	+	ID=rna_fusequ2_eg219358;Description=;parent=gene_fusequ2_eg219358
+fusequ2_QOHM01000002.1	bed	RNA	54179	72127	.	+	ID=rna_fusequ2_eg219477;Description=;parent=gene_fusequ2_eg219477
+fusequ2_QOHM01000002.1	bed	RNA	64844	61816	.	+	ID=rna_fusequ2_eg219277;Description=;parent=gene_fusequ2_eg219277
+fusequ2_QOHM01000002.1	bed	RNA	65922	59627	.	+	ID=rna_fusequ2_eg218991;Description=;parent=gene_fusequ2_eg218991
+fusequ2_QOHM01000002.1	bed	RNA	71595	54501	.	+	ID=rna_fusequ2_eg219387;Description=;parent=gene_fusequ2_eg219387
+fusequ2_QOHM01000002.1	bed	RNA	74824	51311	.	+	ID=rna_fusequ2_eg219673;Description=;parent=gene_fusequ2_eg219673
+fusequ2_QOHM01000002.1	bed	RNA	78544	47921	.	-	ID=rna_fusequ2_eg219581;Description=;parent=gene_fusequ2_eg219581
+fusequ2_QOHM01000002.1	bed	RNA	81333	45177	.	-	ID=rna_fusequ2_eg218933;Description=;parent=gene_fusequ2_eg218933
+fusequ2_QOHM01000002.1	bed	RNA	83279	40253	.	-	ID=rna_fusequ2_eg219285;Description=;parent=gene_fusequ2_eg219285
+fusequ2_QOHM01000002.1	bed	RNA	88115	37218	.	-	ID=rna_fusequ2_eg219200;Description=;parent=gene_fusequ2_eg219200
+fusequ2_QOHM01000002.1	bed	RNA	91846	32910	.	+	ID=rna_fusequ2_nlr101497;Description=;parent=gene_fusequ2_nlr101497
+fusequ2_QOHM01000002.1	bed	RNA	98324	27812	.	-	ID=rna_fusequ2_eg219503;Description=;parent=gene_fusequ2_eg219503
+fusequ2_QOHM01000002.1	bed	RNA	101479	24767	.	-	ID=rna_fusequ2_eg219367;Description=;parent=gene_fusequ2_eg219367
+fusequ2_QOHM01000002.1	bed	RNA	108943	15115	.	-	ID=rna_fusequ2_nlr101505;Description=;parent=gene_fusequ2_nlr101505
+fusequ2_QOHM01000002.1	bed	RNA	115028	8627	.	-	ID=rna_fusequ2_nlr101500;Description=;parent=gene_fusequ2_nlr101500
+fusequ2_QOHM01000002.1	bed	RNA	122107	1573	.	-	ID=rna_fusequ2_nlr101487;Description=;parent=gene_fusequ2_nlr101487
+fusequ2_QOHM01000002.1	bed	CDS	1007	124466	.	+	ID=cds_fusequ2_tyr5478;Description=;parent=rna_fusequ2_tyr5478
+fusequ2_QOHM01000002.1	bed	CDS	14387	111385	.	+	ID=cds_fusequ2_eg219872;Description=;parent=rna_fusequ2_eg219872
+fusequ2_QOHM01000002.1	bed	CDS	18053	108706	.	-	ID=cds_fusequ2_eg219296;Description=;parent=rna_fusequ2_eg219296
+fusequ2_QOHM01000002.1	bed	CDS	23510	101707	.	-	ID=cds_fusequ2_d373179;Description=;parent=rna_fusequ2_d373179
+fusequ2_QOHM01000002.1	bed	CDS	25677	100323	.	+	ID=cds_fusequ2_eg219292;Description=;parent=rna_fusequ2_eg219292
+fusequ2_QOHM01000002.1	bed	CDS	48200	78374	.	+	ID=cds_fusequ2_eg219358;Description=;parent=rna_fusequ2_eg219358
+fusequ2_QOHM01000002.1	bed	CDS	54179	72127	.	+	ID=cds_fusequ2_eg219477;Description=;parent=rna_fusequ2_eg219477
+fusequ2_QOHM01000002.1	bed	CDS	64844	61816	.	+	ID=cds_fusequ2_eg219277;Description=;parent=rna_fusequ2_eg219277
+fusequ2_QOHM01000002.1	bed	CDS	65922	59627	.	+	ID=cds_fusequ2_eg218991;Description=;parent=rna_fusequ2_eg218991
+fusequ2_QOHM01000002.1	bed	CDS	71595	54501	.	+	ID=cds_fusequ2_eg219387;Description=;parent=rna_fusequ2_eg219387
+fusequ2_QOHM01000002.1	bed	CDS	74824	51311	.	+	ID=cds_fusequ2_eg219673;Description=;parent=rna_fusequ2_eg219673
+fusequ2_QOHM01000002.1	bed	CDS	78544	47921	.	-	ID=cds_fusequ2_eg219581;Description=;parent=rna_fusequ2_eg219581
+fusequ2_QOHM01000002.1	bed	CDS	81333	45177	.	-	ID=cds_fusequ2_eg218933;Description=;parent=rna_fusequ2_eg218933
+fusequ2_QOHM01000002.1	bed	CDS	83279	40253	.	-	ID=cds_fusequ2_eg219285;Description=;parent=rna_fusequ2_eg219285
+fusequ2_QOHM01000002.1	bed	CDS	88115	37218	.	-	ID=cds_fusequ2_eg219200;Description=;parent=rna_fusequ2_eg219200
+fusequ2_QOHM01000002.1	bed	CDS	91846	32910	.	+	ID=cds_fusequ2_nlr101497;Description=;parent=rna_fusequ2_nlr101497
+fusequ2_QOHM01000002.1	bed	CDS	98324	27812	.	-	ID=cds_fusequ2_eg219503;Description=;parent=rna_fusequ2_eg219503
+fusequ2_QOHM01000002.1	bed	CDS	101479	24767	.	-	ID=cds_fusequ2_eg219367;Description=;parent=rna_fusequ2_eg219367
+fusequ2_QOHM01000002.1	bed	CDS	108943	15115	.	-	ID=cds_fusequ2_nlr101505;Description=;parent=rna_fusequ2_nlr101505
+fusequ2_QOHM01000002.1	bed	CDS	115028	8627	.	-	ID=cds_fusequ2_nlr101500;Description=;parent=rna_fusequ2_nlr101500
+fusequ2_QOHM01000002.1	bed	CDS	122107	1573	.	-	ID=cds_fusequ2_nlr101487;Description=;parent=rna_fusequ2_nlr101487

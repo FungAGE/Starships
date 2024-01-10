@@ -1,0 +1,101 @@
+orboli11_WIQW01000004.1	bed	gene	201	64315	.	-	.	ID=gene_orboli11_KAF3111298.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	region	1	65462	.	-	flank	ID=gene_orboli11_KAF3111326.1|DR|down;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	2220	62604	.	-	.	ID=gene_orboli11_KAF3111299.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	4527	58968	.	-	.	ID=gene_orboli11_KAF3111300.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	8399	56305	.	+	.	ID=gene_orboli11_KAF3111301.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	10380	54639	.	+	.	ID=gene_orboli11_KAF3111302.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	11805	53217	.	+	.	ID=gene_orboli11_KAF3111303.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	12345	52626	.	-	.	ID=gene_orboli11_KAF3111304.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	13472	51213	.	-	.	ID=gene_orboli11_KAF3111305.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	15109	50042	.	-	.	ID=gene_orboli11_KAF3111306.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	15986	48931	.	-	.	ID=gene_orboli11_KAF3111307.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	17618	46141	.	+	.	ID=gene_orboli11_KAF3111308.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	19512	44240	.	-	.	ID=gene_orboli11_KAF3111309.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	22280	41319	.	-	.	ID=gene_orboli11_KAF3111310.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	24689	39046	.	-	plp	ID=gene_orboli11_KAF3111311.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	28643	35997	.	-	.	ID=gene_orboli11_KAF3111312.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	30125	34891	.	-	.	ID=gene_orboli11_KAF3111313.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	31827	33235	.	-	.	ID=gene_orboli11_KAF3111314.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	33238	30954	.	+	.	ID=gene_orboli11_KAF3111315.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	34675	29799	.	-	.	ID=gene_orboli11_KAF3111316.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	35914	29062	.	-	.	ID=gene_orboli11_KAF3111317.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	36923	27667	.	+	.	ID=gene_orboli11_KAF3111318.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	38640	25141	.	+	d37	ID=gene_orboli11_KAF3111319.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	41764	22187	.	+	.	ID=gene_orboli11_KAF3111320.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	43411	21011	.	-	.	ID=gene_orboli11_KAF3111321.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	44787	19957	.	-	.	ID=gene_orboli11_KAF3111322.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	46614	17565	.	+	.	ID=gene_orboli11_KAF3111323.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	47952	17007	.	-	.	ID=gene_orboli11_KAF3111324.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	48808	15855	.	+	.	ID=gene_orboli11_KAF3111325.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	51165	12830	.	-	cap	ID=gene_orboli11_KAF3111326.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	55622	8606	.	-	.	ID=gene_orboli11_KAF3111327.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	61642	2904	.	-	.	ID=gene_orboli11_KAF3111328.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	62925	1620	.	-	.	ID=gene_orboli11_KAF3111329.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	gene	64017	324	.	+	.	ID=gene_orboli11_KAF3111330.1;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	region	65462	0	.	-	flank	ID=gene_orboli11_KAF3111326.1|DR|up;Description=orboli11_s08161;parent=orboli11_WIQW01000004.1
+orboli11_WIQW01000004.1	bed	RNA	201	64315	.	-	ID=rna_orboli11_KAF3111298.1;Description=;parent=gene_orboli11_KAF3111298.1
+orboli11_WIQW01000004.1	bed	RNA	2220	62604	.	-	ID=rna_orboli11_KAF3111299.1;Description=;parent=gene_orboli11_KAF3111299.1
+orboli11_WIQW01000004.1	bed	RNA	4527	58968	.	-	ID=rna_orboli11_KAF3111300.1;Description=;parent=gene_orboli11_KAF3111300.1
+orboli11_WIQW01000004.1	bed	RNA	8399	56305	.	+	ID=rna_orboli11_KAF3111301.1;Description=;parent=gene_orboli11_KAF3111301.1
+orboli11_WIQW01000004.1	bed	RNA	10380	54639	.	+	ID=rna_orboli11_KAF3111302.1;Description=;parent=gene_orboli11_KAF3111302.1
+orboli11_WIQW01000004.1	bed	RNA	11805	53217	.	+	ID=rna_orboli11_KAF3111303.1;Description=;parent=gene_orboli11_KAF3111303.1
+orboli11_WIQW01000004.1	bed	RNA	12345	52626	.	-	ID=rna_orboli11_KAF3111304.1;Description=;parent=gene_orboli11_KAF3111304.1
+orboli11_WIQW01000004.1	bed	RNA	13472	51213	.	-	ID=rna_orboli11_KAF3111305.1;Description=;parent=gene_orboli11_KAF3111305.1
+orboli11_WIQW01000004.1	bed	RNA	15109	50042	.	-	ID=rna_orboli11_KAF3111306.1;Description=;parent=gene_orboli11_KAF3111306.1
+orboli11_WIQW01000004.1	bed	RNA	15986	48931	.	-	ID=rna_orboli11_KAF3111307.1;Description=;parent=gene_orboli11_KAF3111307.1
+orboli11_WIQW01000004.1	bed	RNA	17618	46141	.	+	ID=rna_orboli11_KAF3111308.1;Description=;parent=gene_orboli11_KAF3111308.1
+orboli11_WIQW01000004.1	bed	RNA	19512	44240	.	-	ID=rna_orboli11_KAF3111309.1;Description=;parent=gene_orboli11_KAF3111309.1
+orboli11_WIQW01000004.1	bed	RNA	22280	41319	.	-	ID=rna_orboli11_KAF3111310.1;Description=;parent=gene_orboli11_KAF3111310.1
+orboli11_WIQW01000004.1	bed	RNA	24689	39046	.	-	ID=rna_orboli11_KAF3111311.1;Description=;parent=gene_orboli11_KAF3111311.1
+orboli11_WIQW01000004.1	bed	RNA	28643	35997	.	-	ID=rna_orboli11_KAF3111312.1;Description=;parent=gene_orboli11_KAF3111312.1
+orboli11_WIQW01000004.1	bed	RNA	30125	34891	.	-	ID=rna_orboli11_KAF3111313.1;Description=;parent=gene_orboli11_KAF3111313.1
+orboli11_WIQW01000004.1	bed	RNA	31827	33235	.	-	ID=rna_orboli11_KAF3111314.1;Description=;parent=gene_orboli11_KAF3111314.1
+orboli11_WIQW01000004.1	bed	RNA	33238	30954	.	+	ID=rna_orboli11_KAF3111315.1;Description=;parent=gene_orboli11_KAF3111315.1
+orboli11_WIQW01000004.1	bed	RNA	34675	29799	.	-	ID=rna_orboli11_KAF3111316.1;Description=;parent=gene_orboli11_KAF3111316.1
+orboli11_WIQW01000004.1	bed	RNA	35914	29062	.	-	ID=rna_orboli11_KAF3111317.1;Description=;parent=gene_orboli11_KAF3111317.1
+orboli11_WIQW01000004.1	bed	RNA	36923	27667	.	+	ID=rna_orboli11_KAF3111318.1;Description=;parent=gene_orboli11_KAF3111318.1
+orboli11_WIQW01000004.1	bed	RNA	38640	25141	.	+	ID=rna_orboli11_KAF3111319.1;Description=;parent=gene_orboli11_KAF3111319.1
+orboli11_WIQW01000004.1	bed	RNA	41764	22187	.	+	ID=rna_orboli11_KAF3111320.1;Description=;parent=gene_orboli11_KAF3111320.1
+orboli11_WIQW01000004.1	bed	RNA	43411	21011	.	-	ID=rna_orboli11_KAF3111321.1;Description=;parent=gene_orboli11_KAF3111321.1
+orboli11_WIQW01000004.1	bed	RNA	44787	19957	.	-	ID=rna_orboli11_KAF3111322.1;Description=;parent=gene_orboli11_KAF3111322.1
+orboli11_WIQW01000004.1	bed	RNA	46614	17565	.	+	ID=rna_orboli11_KAF3111323.1;Description=;parent=gene_orboli11_KAF3111323.1
+orboli11_WIQW01000004.1	bed	RNA	47952	17007	.	-	ID=rna_orboli11_KAF3111324.1;Description=;parent=gene_orboli11_KAF3111324.1
+orboli11_WIQW01000004.1	bed	RNA	48808	15855	.	+	ID=rna_orboli11_KAF3111325.1;Description=;parent=gene_orboli11_KAF3111325.1
+orboli11_WIQW01000004.1	bed	RNA	51165	12830	.	-	ID=rna_orboli11_KAF3111326.1;Description=;parent=gene_orboli11_KAF3111326.1
+orboli11_WIQW01000004.1	bed	RNA	55622	8606	.	-	ID=rna_orboli11_KAF3111327.1;Description=;parent=gene_orboli11_KAF3111327.1
+orboli11_WIQW01000004.1	bed	RNA	61642	2904	.	-	ID=rna_orboli11_KAF3111328.1;Description=;parent=gene_orboli11_KAF3111328.1
+orboli11_WIQW01000004.1	bed	RNA	62925	1620	.	-	ID=rna_orboli11_KAF3111329.1;Description=;parent=gene_orboli11_KAF3111329.1
+orboli11_WIQW01000004.1	bed	RNA	64017	324	.	+	ID=rna_orboli11_KAF3111330.1;Description=;parent=gene_orboli11_KAF3111330.1
+orboli11_WIQW01000004.1	bed	CDS	201	64315	.	-	ID=cds_orboli11_KAF3111298.1;Description=;parent=rna_orboli11_KAF3111298.1
+orboli11_WIQW01000004.1	bed	CDS	2220	62604	.	-	ID=cds_orboli11_KAF3111299.1;Description=;parent=rna_orboli11_KAF3111299.1
+orboli11_WIQW01000004.1	bed	CDS	4527	58968	.	-	ID=cds_orboli11_KAF3111300.1;Description=;parent=rna_orboli11_KAF3111300.1
+orboli11_WIQW01000004.1	bed	CDS	8399	56305	.	+	ID=cds_orboli11_KAF3111301.1;Description=;parent=rna_orboli11_KAF3111301.1
+orboli11_WIQW01000004.1	bed	CDS	10380	54639	.	+	ID=cds_orboli11_KAF3111302.1;Description=;parent=rna_orboli11_KAF3111302.1
+orboli11_WIQW01000004.1	bed	CDS	11805	53217	.	+	ID=cds_orboli11_KAF3111303.1;Description=;parent=rna_orboli11_KAF3111303.1
+orboli11_WIQW01000004.1	bed	CDS	12345	52626	.	-	ID=cds_orboli11_KAF3111304.1;Description=;parent=rna_orboli11_KAF3111304.1
+orboli11_WIQW01000004.1	bed	CDS	13472	51213	.	-	ID=cds_orboli11_KAF3111305.1;Description=;parent=rna_orboli11_KAF3111305.1
+orboli11_WIQW01000004.1	bed	CDS	15109	50042	.	-	ID=cds_orboli11_KAF3111306.1;Description=;parent=rna_orboli11_KAF3111306.1
+orboli11_WIQW01000004.1	bed	CDS	15986	48931	.	-	ID=cds_orboli11_KAF3111307.1;Description=;parent=rna_orboli11_KAF3111307.1
+orboli11_WIQW01000004.1	bed	CDS	17618	46141	.	+	ID=cds_orboli11_KAF3111308.1;Description=;parent=rna_orboli11_KAF3111308.1
+orboli11_WIQW01000004.1	bed	CDS	19512	44240	.	-	ID=cds_orboli11_KAF3111309.1;Description=;parent=rna_orboli11_KAF3111309.1
+orboli11_WIQW01000004.1	bed	CDS	22280	41319	.	-	ID=cds_orboli11_KAF3111310.1;Description=;parent=rna_orboli11_KAF3111310.1
+orboli11_WIQW01000004.1	bed	CDS	24689	39046	.	-	ID=cds_orboli11_KAF3111311.1;Description=;parent=rna_orboli11_KAF3111311.1
+orboli11_WIQW01000004.1	bed	CDS	28643	35997	.	-	ID=cds_orboli11_KAF3111312.1;Description=;parent=rna_orboli11_KAF3111312.1
+orboli11_WIQW01000004.1	bed	CDS	30125	34891	.	-	ID=cds_orboli11_KAF3111313.1;Description=;parent=rna_orboli11_KAF3111313.1
+orboli11_WIQW01000004.1	bed	CDS	31827	33235	.	-	ID=cds_orboli11_KAF3111314.1;Description=;parent=rna_orboli11_KAF3111314.1
+orboli11_WIQW01000004.1	bed	CDS	33238	30954	.	+	ID=cds_orboli11_KAF3111315.1;Description=;parent=rna_orboli11_KAF3111315.1
+orboli11_WIQW01000004.1	bed	CDS	34675	29799	.	-	ID=cds_orboli11_KAF3111316.1;Description=;parent=rna_orboli11_KAF3111316.1
+orboli11_WIQW01000004.1	bed	CDS	35914	29062	.	-	ID=cds_orboli11_KAF3111317.1;Description=;parent=rna_orboli11_KAF3111317.1
+orboli11_WIQW01000004.1	bed	CDS	36923	27667	.	+	ID=cds_orboli11_KAF3111318.1;Description=;parent=rna_orboli11_KAF3111318.1
+orboli11_WIQW01000004.1	bed	CDS	38640	25141	.	+	ID=cds_orboli11_KAF3111319.1;Description=;parent=rna_orboli11_KAF3111319.1
+orboli11_WIQW01000004.1	bed	CDS	41764	22187	.	+	ID=cds_orboli11_KAF3111320.1;Description=;parent=rna_orboli11_KAF3111320.1
+orboli11_WIQW01000004.1	bed	CDS	43411	21011	.	-	ID=cds_orboli11_KAF3111321.1;Description=;parent=rna_orboli11_KAF3111321.1
+orboli11_WIQW01000004.1	bed	CDS	44787	19957	.	-	ID=cds_orboli11_KAF3111322.1;Description=;parent=rna_orboli11_KAF3111322.1
+orboli11_WIQW01000004.1	bed	CDS	46614	17565	.	+	ID=cds_orboli11_KAF3111323.1;Description=;parent=rna_orboli11_KAF3111323.1
+orboli11_WIQW01000004.1	bed	CDS	47952	17007	.	-	ID=cds_orboli11_KAF3111324.1;Description=;parent=rna_orboli11_KAF3111324.1
+orboli11_WIQW01000004.1	bed	CDS	48808	15855	.	+	ID=cds_orboli11_KAF3111325.1;Description=;parent=rna_orboli11_KAF3111325.1
+orboli11_WIQW01000004.1	bed	CDS	51165	12830	.	-	ID=cds_orboli11_KAF3111326.1;Description=;parent=rna_orboli11_KAF3111326.1
+orboli11_WIQW01000004.1	bed	CDS	55622	8606	.	-	ID=cds_orboli11_KAF3111327.1;Description=;parent=rna_orboli11_KAF3111327.1
+orboli11_WIQW01000004.1	bed	CDS	61642	2904	.	-	ID=cds_orboli11_KAF3111328.1;Description=;parent=rna_orboli11_KAF3111328.1
+orboli11_WIQW01000004.1	bed	CDS	62925	1620	.	-	ID=cds_orboli11_KAF3111329.1;Description=;parent=rna_orboli11_KAF3111329.1
+orboli11_WIQW01000004.1	bed	CDS	64017	324	.	+	ID=cds_orboli11_KAF3111330.1;Description=;parent=rna_orboli11_KAF3111330.1

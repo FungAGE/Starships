@@ -1,0 +1,57 @@
+parlut1_KN294001	bed	gene	1	33567	.	+	insert	ID=gene_parlut1_tyr8636|parbra2_KN275967.1|up;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	2514	29931	.	+	cap	ID=gene_parlut1_tyr8636;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	4541	27714	.	-	.	ID=gene_parlut1_4074;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	6726	26460	.	-	.	ID=gene_parlut1_4075;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	7497	24842	.	-	.	ID=gene_parlut1_4076;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	8836	21719	.	-	.	ID=gene_parlut1_4077;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	13022	19636	.	-	.	ID=gene_parlut1_4078;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	14324	18783	.	-	.	ID=gene_parlut1_4079;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	15607	17108	.	-	.	ID=gene_parlut1_4080;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	16978	14321	.	+	.	ID=gene_parlut1_4081;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	19287	13546	.	-	.	ID=gene_parlut1_4082;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	20706	10469	.	+	.	ID=gene_parlut1_4083;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	24793	8500	.	-	.	ID=gene_parlut1_4084;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	26156	6486	.	-	.	ID=gene_parlut1_4085;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	27114	5168	.	+	.	ID=gene_parlut1_4086;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	29465	3483	.	-	.	ID=gene_parlut1_4087;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	30556	1663	.	-	.	ID=gene_parlut1_4088;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	32716	517	.	+	.	ID=gene_parlut1_4089;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	gene	33568	0	.	+	insert	ID=gene_parlut1_tyr8636|parbra2_KN275967.1|down;Description=parlut1_s08246;parent=parlut1_KN294001
+parlut1_KN294001	bed	RNA	1	33567	.	+	ID=rna_parlut1_tyr8636|parbra2_KN275967.1|up;Description=;parent=gene_parlut1_tyr8636|parbra2_KN275967.1|up
+parlut1_KN294001	bed	RNA	2514	29931	.	+	ID=rna_parlut1_tyr8636;Description=;parent=gene_parlut1_tyr8636
+parlut1_KN294001	bed	RNA	4541	27714	.	-	ID=rna_parlut1_4074;Description=;parent=gene_parlut1_4074
+parlut1_KN294001	bed	RNA	6726	26460	.	-	ID=rna_parlut1_4075;Description=;parent=gene_parlut1_4075
+parlut1_KN294001	bed	RNA	7497	24842	.	-	ID=rna_parlut1_4076;Description=;parent=gene_parlut1_4076
+parlut1_KN294001	bed	RNA	8836	21719	.	-	ID=rna_parlut1_4077;Description=;parent=gene_parlut1_4077
+parlut1_KN294001	bed	RNA	13022	19636	.	-	ID=rna_parlut1_4078;Description=;parent=gene_parlut1_4078
+parlut1_KN294001	bed	RNA	14324	18783	.	-	ID=rna_parlut1_4079;Description=;parent=gene_parlut1_4079
+parlut1_KN294001	bed	RNA	15607	17108	.	-	ID=rna_parlut1_4080;Description=;parent=gene_parlut1_4080
+parlut1_KN294001	bed	RNA	16978	14321	.	+	ID=rna_parlut1_4081;Description=;parent=gene_parlut1_4081
+parlut1_KN294001	bed	RNA	19287	13546	.	-	ID=rna_parlut1_4082;Description=;parent=gene_parlut1_4082
+parlut1_KN294001	bed	RNA	20706	10469	.	+	ID=rna_parlut1_4083;Description=;parent=gene_parlut1_4083
+parlut1_KN294001	bed	RNA	24793	8500	.	-	ID=rna_parlut1_4084;Description=;parent=gene_parlut1_4084
+parlut1_KN294001	bed	RNA	26156	6486	.	-	ID=rna_parlut1_4085;Description=;parent=gene_parlut1_4085
+parlut1_KN294001	bed	RNA	27114	5168	.	+	ID=rna_parlut1_4086;Description=;parent=gene_parlut1_4086
+parlut1_KN294001	bed	RNA	29465	3483	.	-	ID=rna_parlut1_4087;Description=;parent=gene_parlut1_4087
+parlut1_KN294001	bed	RNA	30556	1663	.	-	ID=rna_parlut1_4088;Description=;parent=gene_parlut1_4088
+parlut1_KN294001	bed	RNA	32716	517	.	+	ID=rna_parlut1_4089;Description=;parent=gene_parlut1_4089
+parlut1_KN294001	bed	RNA	33568	0	.	+	ID=rna_parlut1_tyr8636|parbra2_KN275967.1|down;Description=;parent=gene_parlut1_tyr8636|parbra2_KN275967.1|down
+parlut1_KN294001	bed	CDS	1	33567	.	+	ID=cds_parlut1_tyr8636|parbra2_KN275967.1|up;Description=;parent=rna_parlut1_tyr8636|parbra2_KN275967.1|up
+parlut1_KN294001	bed	CDS	2514	29931	.	+	ID=cds_parlut1_tyr8636;Description=;parent=rna_parlut1_tyr8636
+parlut1_KN294001	bed	CDS	4541	27714	.	-	ID=cds_parlut1_4074;Description=;parent=rna_parlut1_4074
+parlut1_KN294001	bed	CDS	6726	26460	.	-	ID=cds_parlut1_4075;Description=;parent=rna_parlut1_4075
+parlut1_KN294001	bed	CDS	7497	24842	.	-	ID=cds_parlut1_4076;Description=;parent=rna_parlut1_4076
+parlut1_KN294001	bed	CDS	8836	21719	.	-	ID=cds_parlut1_4077;Description=;parent=rna_parlut1_4077
+parlut1_KN294001	bed	CDS	13022	19636	.	-	ID=cds_parlut1_4078;Description=;parent=rna_parlut1_4078
+parlut1_KN294001	bed	CDS	14324	18783	.	-	ID=cds_parlut1_4079;Description=;parent=rna_parlut1_4079
+parlut1_KN294001	bed	CDS	15607	17108	.	-	ID=cds_parlut1_4080;Description=;parent=rna_parlut1_4080
+parlut1_KN294001	bed	CDS	16978	14321	.	+	ID=cds_parlut1_4081;Description=;parent=rna_parlut1_4081
+parlut1_KN294001	bed	CDS	19287	13546	.	-	ID=cds_parlut1_4082;Description=;parent=rna_parlut1_4082
+parlut1_KN294001	bed	CDS	20706	10469	.	+	ID=cds_parlut1_4083;Description=;parent=rna_parlut1_4083
+parlut1_KN294001	bed	CDS	24793	8500	.	-	ID=cds_parlut1_4084;Description=;parent=rna_parlut1_4084
+parlut1_KN294001	bed	CDS	26156	6486	.	-	ID=cds_parlut1_4085;Description=;parent=rna_parlut1_4085
+parlut1_KN294001	bed	CDS	27114	5168	.	+	ID=cds_parlut1_4086;Description=;parent=rna_parlut1_4086
+parlut1_KN294001	bed	CDS	29465	3483	.	-	ID=cds_parlut1_4087;Description=;parent=rna_parlut1_4087
+parlut1_KN294001	bed	CDS	30556	1663	.	-	ID=cds_parlut1_4088;Description=;parent=rna_parlut1_4088
+parlut1_KN294001	bed	CDS	32716	517	.	+	ID=cds_parlut1_4089;Description=;parent=rna_parlut1_4089
+parlut1_KN294001	bed	CDS	33568	0	.	+	ID=cds_parlut1_tyr8636|parbra2_KN275967.1|down;Description=;parent=rna_parlut1_tyr8636|parbra2_KN275967.1|down

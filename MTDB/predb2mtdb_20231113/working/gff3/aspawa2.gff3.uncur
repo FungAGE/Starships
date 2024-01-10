@@ -1,0 +1,43 @@
+aspawa2_BCGT01000003.1	bed	region	1	51869	.	+	flank	ID=gene_aspawa2_tyr662|DR|up;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	region	47	51814	.	+	flank	ID=gene_aspawa2_tyr662|TIR|up;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	530	48522	.	+	cap	ID=gene_aspawa2_tyr662;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	6440	42278	.	-	d37	ID=gene_aspawa2_d37506;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	9869	40850	.	+	.	ID=gene_aspawa2_eg26103;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	11548	39196	.	-	.	ID=gene_aspawa2_eg25791;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	14164	35914	.	-	fre	ID=gene_aspawa2_fre1437;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	20654	30727	.	-	.	ID=gene_aspawa2_eg26179;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	25390	25636	.	-	.	ID=gene_aspawa2_eg26161;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	35989	15661	.	+	.	ID=gene_aspawa2_eg25799;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	36829	12859	.	-	.	ID=gene_aspawa2_eg25940;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	39944	11595	.	-	.	ID=gene_aspawa2_eg26128;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	41774	8999	.	+	.	ID=gene_aspawa2_eg26070;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	42869	8775	.	-	.	ID=gene_aspawa2_eg26122;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	gene	45908	4748	.	+	.	ID=gene_aspawa2_eg26022;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	region	51833	28	.	+	flank	ID=gene_aspawa2_tyr662|TIR|down;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	region	51870	0	.	+	flank	ID=gene_aspawa2_tyr662|DR|down;Description=aspawa2_s00612;parent=aspawa2_BCGT01000003.1
+aspawa2_BCGT01000003.1	bed	RNA	530	48522	.	+	ID=rna_aspawa2_tyr662;Description=;parent=gene_aspawa2_tyr662
+aspawa2_BCGT01000003.1	bed	RNA	6440	42278	.	-	ID=rna_aspawa2_d37506;Description=;parent=gene_aspawa2_d37506
+aspawa2_BCGT01000003.1	bed	RNA	9869	40850	.	+	ID=rna_aspawa2_eg26103;Description=;parent=gene_aspawa2_eg26103
+aspawa2_BCGT01000003.1	bed	RNA	11548	39196	.	-	ID=rna_aspawa2_eg25791;Description=;parent=gene_aspawa2_eg25791
+aspawa2_BCGT01000003.1	bed	RNA	14164	35914	.	-	ID=rna_aspawa2_fre1437;Description=;parent=gene_aspawa2_fre1437
+aspawa2_BCGT01000003.1	bed	RNA	20654	30727	.	-	ID=rna_aspawa2_eg26179;Description=;parent=gene_aspawa2_eg26179
+aspawa2_BCGT01000003.1	bed	RNA	25390	25636	.	-	ID=rna_aspawa2_eg26161;Description=;parent=gene_aspawa2_eg26161
+aspawa2_BCGT01000003.1	bed	RNA	35989	15661	.	+	ID=rna_aspawa2_eg25799;Description=;parent=gene_aspawa2_eg25799
+aspawa2_BCGT01000003.1	bed	RNA	36829	12859	.	-	ID=rna_aspawa2_eg25940;Description=;parent=gene_aspawa2_eg25940
+aspawa2_BCGT01000003.1	bed	RNA	39944	11595	.	-	ID=rna_aspawa2_eg26128;Description=;parent=gene_aspawa2_eg26128
+aspawa2_BCGT01000003.1	bed	RNA	41774	8999	.	+	ID=rna_aspawa2_eg26070;Description=;parent=gene_aspawa2_eg26070
+aspawa2_BCGT01000003.1	bed	RNA	42869	8775	.	-	ID=rna_aspawa2_eg26122;Description=;parent=gene_aspawa2_eg26122
+aspawa2_BCGT01000003.1	bed	RNA	45908	4748	.	+	ID=rna_aspawa2_eg26022;Description=;parent=gene_aspawa2_eg26022
+aspawa2_BCGT01000003.1	bed	CDS	530	48522	.	+	ID=cds_aspawa2_tyr662;Description=;parent=rna_aspawa2_tyr662
+aspawa2_BCGT01000003.1	bed	CDS	6440	42278	.	-	ID=cds_aspawa2_d37506;Description=;parent=rna_aspawa2_d37506
+aspawa2_BCGT01000003.1	bed	CDS	9869	40850	.	+	ID=cds_aspawa2_eg26103;Description=;parent=rna_aspawa2_eg26103
+aspawa2_BCGT01000003.1	bed	CDS	11548	39196	.	-	ID=cds_aspawa2_eg25791;Description=;parent=rna_aspawa2_eg25791
+aspawa2_BCGT01000003.1	bed	CDS	14164	35914	.	-	ID=cds_aspawa2_fre1437;Description=;parent=rna_aspawa2_fre1437
+aspawa2_BCGT01000003.1	bed	CDS	20654	30727	.	-	ID=cds_aspawa2_eg26179;Description=;parent=rna_aspawa2_eg26179
+aspawa2_BCGT01000003.1	bed	CDS	25390	25636	.	-	ID=cds_aspawa2_eg26161;Description=;parent=rna_aspawa2_eg26161
+aspawa2_BCGT01000003.1	bed	CDS	35989	15661	.	+	ID=cds_aspawa2_eg25799;Description=;parent=rna_aspawa2_eg25799
+aspawa2_BCGT01000003.1	bed	CDS	36829	12859	.	-	ID=cds_aspawa2_eg25940;Description=;parent=rna_aspawa2_eg25940
+aspawa2_BCGT01000003.1	bed	CDS	39944	11595	.	-	ID=cds_aspawa2_eg26128;Description=;parent=rna_aspawa2_eg26128
+aspawa2_BCGT01000003.1	bed	CDS	41774	8999	.	+	ID=cds_aspawa2_eg26070;Description=;parent=rna_aspawa2_eg26070
+aspawa2_BCGT01000003.1	bed	CDS	42869	8775	.	-	ID=cds_aspawa2_eg26122;Description=;parent=rna_aspawa2_eg26122
+aspawa2_BCGT01000003.1	bed	CDS	45908	4748	.	+	ID=cds_aspawa2_eg26022;Description=;parent=rna_aspawa2_eg26022

@@ -1,0 +1,79 @@
+colfru1_SSNE01000014.1	bed	region	1	73385	.	+	flank	ID=gene_colfru1_KAE9577683.1|DR|up;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	region	7	73367	.	+	flank	ID=gene_colfru1_KAE9577683.1|TIR|up;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	468	70824	.	+	cap	ID=gene_colfru1_KAE9577683.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	4481	67519	.	+	.	ID=gene_colfru1_KAE9577678.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	10157	62945	.	-	.	ID=gene_colfru1_KAE9577679.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	12077	59153	.	+	.	ID=gene_colfru1_KAE9577833.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	12224	60923	.	-	.	ID=gene_colfru1_KAE9577832.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	14934	57697	.	+	.	ID=gene_colfru1_KAE9577831.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	18420	54431	.	-	.	ID=gene_colfru1_KAE9577830.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	20622	51670	.	+	.	ID=gene_colfru1_KAE9577838.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	24960	48084	.	+	.	ID=gene_colfru1_KAE9577837.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	26064	46927	.	-	.	ID=gene_colfru1_KAE9577836.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	28268	44858	.	+	.	ID=gene_colfru1_KAE9577835.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	29476	43176	.	-	.	ID=gene_colfru1_eg190377;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	32025	38703	.	-	.	ID=gene_colfru1_KAE9577840.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	35644	36246	.	-	.	ID=gene_colfru1_KAE9577839.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	38026	34610	.	+	.	ID=gene_colfru1_KAE9577691.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	41689	31551	.	+	.	ID=gene_colfru1_KAE9577693.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	43715	29108	.	+	.	ID=gene_colfru1_KAE9577689.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	48283	24561	.	+	nlr	ID=gene_colfru1_KAE9577690.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	50268	21370	.	-	.	ID=gene_colfru1_KAE9577696.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	52866	19210	.	+	.	ID=gene_colfru1_KAE9577697.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	55511	16210	.	-	.	ID=gene_colfru1_KAE9577694.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	58566	11905	.	-	.	ID=gene_colfru1_KAE9577695.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	63280	9180	.	+	.	ID=gene_colfru1_KAE9577687.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	65745	5230	.	-	.	ID=gene_colfru1_KAE9577688.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	gene	69823	2298	.	-	.	ID=gene_colfru1_KAE9577844.1;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	region	73368	6	.	+	flank	ID=gene_colfru1_KAE9577683.1|TIR|down;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	region	73386	0	.	+	flank	ID=gene_colfru1_KAE9577683.1|DR|down;Description=colfru1_s04050;parent=colfru1_SSNE01000014.1
+colfru1_SSNE01000014.1	bed	RNA	468	70824	.	+	ID=rna_colfru1_KAE9577683.1;Description=;parent=gene_colfru1_KAE9577683.1
+colfru1_SSNE01000014.1	bed	RNA	4481	67519	.	+	ID=rna_colfru1_KAE9577678.1;Description=;parent=gene_colfru1_KAE9577678.1
+colfru1_SSNE01000014.1	bed	RNA	10157	62945	.	-	ID=rna_colfru1_KAE9577679.1;Description=;parent=gene_colfru1_KAE9577679.1
+colfru1_SSNE01000014.1	bed	RNA	12077	59153	.	+	ID=rna_colfru1_KAE9577833.1;Description=;parent=gene_colfru1_KAE9577833.1
+colfru1_SSNE01000014.1	bed	RNA	12224	60923	.	-	ID=rna_colfru1_KAE9577832.1;Description=;parent=gene_colfru1_KAE9577832.1
+colfru1_SSNE01000014.1	bed	RNA	14934	57697	.	+	ID=rna_colfru1_KAE9577831.1;Description=;parent=gene_colfru1_KAE9577831.1
+colfru1_SSNE01000014.1	bed	RNA	18420	54431	.	-	ID=rna_colfru1_KAE9577830.1;Description=;parent=gene_colfru1_KAE9577830.1
+colfru1_SSNE01000014.1	bed	RNA	20622	51670	.	+	ID=rna_colfru1_KAE9577838.1;Description=;parent=gene_colfru1_KAE9577838.1
+colfru1_SSNE01000014.1	bed	RNA	24960	48084	.	+	ID=rna_colfru1_KAE9577837.1;Description=;parent=gene_colfru1_KAE9577837.1
+colfru1_SSNE01000014.1	bed	RNA	26064	46927	.	-	ID=rna_colfru1_KAE9577836.1;Description=;parent=gene_colfru1_KAE9577836.1
+colfru1_SSNE01000014.1	bed	RNA	28268	44858	.	+	ID=rna_colfru1_KAE9577835.1;Description=;parent=gene_colfru1_KAE9577835.1
+colfru1_SSNE01000014.1	bed	RNA	29476	43176	.	-	ID=rna_colfru1_eg190377;Description=;parent=gene_colfru1_eg190377
+colfru1_SSNE01000014.1	bed	RNA	32025	38703	.	-	ID=rna_colfru1_KAE9577840.1;Description=;parent=gene_colfru1_KAE9577840.1
+colfru1_SSNE01000014.1	bed	RNA	35644	36246	.	-	ID=rna_colfru1_KAE9577839.1;Description=;parent=gene_colfru1_KAE9577839.1
+colfru1_SSNE01000014.1	bed	RNA	38026	34610	.	+	ID=rna_colfru1_KAE9577691.1;Description=;parent=gene_colfru1_KAE9577691.1
+colfru1_SSNE01000014.1	bed	RNA	41689	31551	.	+	ID=rna_colfru1_KAE9577693.1;Description=;parent=gene_colfru1_KAE9577693.1
+colfru1_SSNE01000014.1	bed	RNA	43715	29108	.	+	ID=rna_colfru1_KAE9577689.1;Description=;parent=gene_colfru1_KAE9577689.1
+colfru1_SSNE01000014.1	bed	RNA	48283	24561	.	+	ID=rna_colfru1_KAE9577690.1;Description=;parent=gene_colfru1_KAE9577690.1
+colfru1_SSNE01000014.1	bed	RNA	50268	21370	.	-	ID=rna_colfru1_KAE9577696.1;Description=;parent=gene_colfru1_KAE9577696.1
+colfru1_SSNE01000014.1	bed	RNA	52866	19210	.	+	ID=rna_colfru1_KAE9577697.1;Description=;parent=gene_colfru1_KAE9577697.1
+colfru1_SSNE01000014.1	bed	RNA	55511	16210	.	-	ID=rna_colfru1_KAE9577694.1;Description=;parent=gene_colfru1_KAE9577694.1
+colfru1_SSNE01000014.1	bed	RNA	58566	11905	.	-	ID=rna_colfru1_KAE9577695.1;Description=;parent=gene_colfru1_KAE9577695.1
+colfru1_SSNE01000014.1	bed	RNA	63280	9180	.	+	ID=rna_colfru1_KAE9577687.1;Description=;parent=gene_colfru1_KAE9577687.1
+colfru1_SSNE01000014.1	bed	RNA	65745	5230	.	-	ID=rna_colfru1_KAE9577688.1;Description=;parent=gene_colfru1_KAE9577688.1
+colfru1_SSNE01000014.1	bed	RNA	69823	2298	.	-	ID=rna_colfru1_KAE9577844.1;Description=;parent=gene_colfru1_KAE9577844.1
+colfru1_SSNE01000014.1	bed	CDS	468	70824	.	+	ID=cds_colfru1_KAE9577683.1;Description=;parent=rna_colfru1_KAE9577683.1
+colfru1_SSNE01000014.1	bed	CDS	4481	67519	.	+	ID=cds_colfru1_KAE9577678.1;Description=;parent=rna_colfru1_KAE9577678.1
+colfru1_SSNE01000014.1	bed	CDS	10157	62945	.	-	ID=cds_colfru1_KAE9577679.1;Description=;parent=rna_colfru1_KAE9577679.1
+colfru1_SSNE01000014.1	bed	CDS	12077	59153	.	+	ID=cds_colfru1_KAE9577833.1;Description=;parent=rna_colfru1_KAE9577833.1
+colfru1_SSNE01000014.1	bed	CDS	12224	60923	.	-	ID=cds_colfru1_KAE9577832.1;Description=;parent=rna_colfru1_KAE9577832.1
+colfru1_SSNE01000014.1	bed	CDS	14934	57697	.	+	ID=cds_colfru1_KAE9577831.1;Description=;parent=rna_colfru1_KAE9577831.1
+colfru1_SSNE01000014.1	bed	CDS	18420	54431	.	-	ID=cds_colfru1_KAE9577830.1;Description=;parent=rna_colfru1_KAE9577830.1
+colfru1_SSNE01000014.1	bed	CDS	20622	51670	.	+	ID=cds_colfru1_KAE9577838.1;Description=;parent=rna_colfru1_KAE9577838.1
+colfru1_SSNE01000014.1	bed	CDS	24960	48084	.	+	ID=cds_colfru1_KAE9577837.1;Description=;parent=rna_colfru1_KAE9577837.1
+colfru1_SSNE01000014.1	bed	CDS	26064	46927	.	-	ID=cds_colfru1_KAE9577836.1;Description=;parent=rna_colfru1_KAE9577836.1
+colfru1_SSNE01000014.1	bed	CDS	28268	44858	.	+	ID=cds_colfru1_KAE9577835.1;Description=;parent=rna_colfru1_KAE9577835.1
+colfru1_SSNE01000014.1	bed	CDS	29476	43176	.	-	ID=cds_colfru1_eg190377;Description=;parent=rna_colfru1_eg190377
+colfru1_SSNE01000014.1	bed	CDS	32025	38703	.	-	ID=cds_colfru1_KAE9577840.1;Description=;parent=rna_colfru1_KAE9577840.1
+colfru1_SSNE01000014.1	bed	CDS	35644	36246	.	-	ID=cds_colfru1_KAE9577839.1;Description=;parent=rna_colfru1_KAE9577839.1
+colfru1_SSNE01000014.1	bed	CDS	38026	34610	.	+	ID=cds_colfru1_KAE9577691.1;Description=;parent=rna_colfru1_KAE9577691.1
+colfru1_SSNE01000014.1	bed	CDS	41689	31551	.	+	ID=cds_colfru1_KAE9577693.1;Description=;parent=rna_colfru1_KAE9577693.1
+colfru1_SSNE01000014.1	bed	CDS	43715	29108	.	+	ID=cds_colfru1_KAE9577689.1;Description=;parent=rna_colfru1_KAE9577689.1
+colfru1_SSNE01000014.1	bed	CDS	48283	24561	.	+	ID=cds_colfru1_KAE9577690.1;Description=;parent=rna_colfru1_KAE9577690.1
+colfru1_SSNE01000014.1	bed	CDS	50268	21370	.	-	ID=cds_colfru1_KAE9577696.1;Description=;parent=rna_colfru1_KAE9577696.1
+colfru1_SSNE01000014.1	bed	CDS	52866	19210	.	+	ID=cds_colfru1_KAE9577697.1;Description=;parent=rna_colfru1_KAE9577697.1
+colfru1_SSNE01000014.1	bed	CDS	55511	16210	.	-	ID=cds_colfru1_KAE9577694.1;Description=;parent=rna_colfru1_KAE9577694.1
+colfru1_SSNE01000014.1	bed	CDS	58566	11905	.	-	ID=cds_colfru1_KAE9577695.1;Description=;parent=rna_colfru1_KAE9577695.1
+colfru1_SSNE01000014.1	bed	CDS	63280	9180	.	+	ID=cds_colfru1_KAE9577687.1;Description=;parent=rna_colfru1_KAE9577687.1
+colfru1_SSNE01000014.1	bed	CDS	65745	5230	.	-	ID=cds_colfru1_KAE9577688.1;Description=;parent=rna_colfru1_KAE9577688.1
+colfru1_SSNE01000014.1	bed	CDS	69823	2298	.	-	ID=cds_colfru1_KAE9577844.1;Description=;parent=rna_colfru1_KAE9577844.1

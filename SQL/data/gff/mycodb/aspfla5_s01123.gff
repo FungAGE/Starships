@@ -1,0 +1,63 @@
+aspfla5_Aflavus1041045517014	bed	gene	1	63843	.	-	insert	ID=gene_aspfla5_30361|aspfla12_CP059864.1|down;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	2940	59516	.	+	.	ID=gene_aspfla5_30344;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	4830	56764	.	-	.	ID=gene_aspfla5_30345;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	7808	54914	.	+	.	ID=gene_aspfla5_eg61176;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	9927	53487	.	+	.	ID=gene_aspfla5_30346;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	11479	50419	.	+	.	ID=gene_aspfla5_30347;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	14296	49048	.	+	.	ID=gene_aspfla5_30348;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	15595	46057	.	+	.	ID=gene_aspfla5_30349;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	19621	43489	.	+	.	ID=gene_aspfla5_30350;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	29046	33065	.	+	fre	ID=gene_aspfla5_30351;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	31704	29918	.	+	.	ID=gene_aspfla5_30352;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	37974	23806	.	+	.	ID=gene_aspfla5_30353;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	40352	22447	.	-	.	ID=gene_aspfla5_30354;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	41658	19086	.	+	d37	ID=gene_aspfla5_30355;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	45773	14302	.	-	.	ID=gene_aspfla5_30356;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	50062	11841	.	-	.	ID=gene_aspfla5_30357;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	52714	10096	.	+	.	ID=gene_aspfla5_30358;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	54369	8477	.	+	.	ID=gene_aspfla5_30359;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	56024	6298	.	+	.	ID=gene_aspfla5_30360;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	57891	3239	.	-	cap	ID=gene_aspfla5_30361;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	gene	63844	0	.	-	insert	ID=gene_aspfla5_30361|aspfla12_CP059864.1|up;Description=aspfla5_s01123;parent=aspfla5_Aflavus1041045517014
+aspfla5_Aflavus1041045517014	bed	RNA	1	63843	.	-	ID=rna_aspfla5_30361|aspfla12_CP059864.1|down;Description=;parent=gene_aspfla5_30361|aspfla12_CP059864.1|down
+aspfla5_Aflavus1041045517014	bed	RNA	2940	59516	.	+	ID=rna_aspfla5_30344;Description=;parent=gene_aspfla5_30344
+aspfla5_Aflavus1041045517014	bed	RNA	4830	56764	.	-	ID=rna_aspfla5_30345;Description=;parent=gene_aspfla5_30345
+aspfla5_Aflavus1041045517014	bed	RNA	7808	54914	.	+	ID=rna_aspfla5_eg61176;Description=;parent=gene_aspfla5_eg61176
+aspfla5_Aflavus1041045517014	bed	RNA	9927	53487	.	+	ID=rna_aspfla5_30346;Description=;parent=gene_aspfla5_30346
+aspfla5_Aflavus1041045517014	bed	RNA	11479	50419	.	+	ID=rna_aspfla5_30347;Description=;parent=gene_aspfla5_30347
+aspfla5_Aflavus1041045517014	bed	RNA	14296	49048	.	+	ID=rna_aspfla5_30348;Description=;parent=gene_aspfla5_30348
+aspfla5_Aflavus1041045517014	bed	RNA	15595	46057	.	+	ID=rna_aspfla5_30349;Description=;parent=gene_aspfla5_30349
+aspfla5_Aflavus1041045517014	bed	RNA	19621	43489	.	+	ID=rna_aspfla5_30350;Description=;parent=gene_aspfla5_30350
+aspfla5_Aflavus1041045517014	bed	RNA	29046	33065	.	+	ID=rna_aspfla5_30351;Description=;parent=gene_aspfla5_30351
+aspfla5_Aflavus1041045517014	bed	RNA	31704	29918	.	+	ID=rna_aspfla5_30352;Description=;parent=gene_aspfla5_30352
+aspfla5_Aflavus1041045517014	bed	RNA	37974	23806	.	+	ID=rna_aspfla5_30353;Description=;parent=gene_aspfla5_30353
+aspfla5_Aflavus1041045517014	bed	RNA	40352	22447	.	-	ID=rna_aspfla5_30354;Description=;parent=gene_aspfla5_30354
+aspfla5_Aflavus1041045517014	bed	RNA	41658	19086	.	+	ID=rna_aspfla5_30355;Description=;parent=gene_aspfla5_30355
+aspfla5_Aflavus1041045517014	bed	RNA	45773	14302	.	-	ID=rna_aspfla5_30356;Description=;parent=gene_aspfla5_30356
+aspfla5_Aflavus1041045517014	bed	RNA	50062	11841	.	-	ID=rna_aspfla5_30357;Description=;parent=gene_aspfla5_30357
+aspfla5_Aflavus1041045517014	bed	RNA	52714	10096	.	+	ID=rna_aspfla5_30358;Description=;parent=gene_aspfla5_30358
+aspfla5_Aflavus1041045517014	bed	RNA	54369	8477	.	+	ID=rna_aspfla5_30359;Description=;parent=gene_aspfla5_30359
+aspfla5_Aflavus1041045517014	bed	RNA	56024	6298	.	+	ID=rna_aspfla5_30360;Description=;parent=gene_aspfla5_30360
+aspfla5_Aflavus1041045517014	bed	RNA	57891	3239	.	-	ID=rna_aspfla5_30361;Description=;parent=gene_aspfla5_30361
+aspfla5_Aflavus1041045517014	bed	RNA	63844	0	.	-	ID=rna_aspfla5_30361|aspfla12_CP059864.1|up;Description=;parent=gene_aspfla5_30361|aspfla12_CP059864.1|up
+aspfla5_Aflavus1041045517014	bed	CDS	1	63843	.	-	ID=cds_aspfla5_30361|aspfla12_CP059864.1|down;Description=;parent=rna_aspfla5_30361|aspfla12_CP059864.1|down
+aspfla5_Aflavus1041045517014	bed	CDS	2940	59516	.	+	ID=cds_aspfla5_30344;Description=;parent=rna_aspfla5_30344
+aspfla5_Aflavus1041045517014	bed	CDS	4830	56764	.	-	ID=cds_aspfla5_30345;Description=;parent=rna_aspfla5_30345
+aspfla5_Aflavus1041045517014	bed	CDS	7808	54914	.	+	ID=cds_aspfla5_eg61176;Description=;parent=rna_aspfla5_eg61176
+aspfla5_Aflavus1041045517014	bed	CDS	9927	53487	.	+	ID=cds_aspfla5_30346;Description=;parent=rna_aspfla5_30346
+aspfla5_Aflavus1041045517014	bed	CDS	11479	50419	.	+	ID=cds_aspfla5_30347;Description=;parent=rna_aspfla5_30347
+aspfla5_Aflavus1041045517014	bed	CDS	14296	49048	.	+	ID=cds_aspfla5_30348;Description=;parent=rna_aspfla5_30348
+aspfla5_Aflavus1041045517014	bed	CDS	15595	46057	.	+	ID=cds_aspfla5_30349;Description=;parent=rna_aspfla5_30349
+aspfla5_Aflavus1041045517014	bed	CDS	19621	43489	.	+	ID=cds_aspfla5_30350;Description=;parent=rna_aspfla5_30350
+aspfla5_Aflavus1041045517014	bed	CDS	29046	33065	.	+	ID=cds_aspfla5_30351;Description=;parent=rna_aspfla5_30351
+aspfla5_Aflavus1041045517014	bed	CDS	31704	29918	.	+	ID=cds_aspfla5_30352;Description=;parent=rna_aspfla5_30352
+aspfla5_Aflavus1041045517014	bed	CDS	37974	23806	.	+	ID=cds_aspfla5_30353;Description=;parent=rna_aspfla5_30353
+aspfla5_Aflavus1041045517014	bed	CDS	40352	22447	.	-	ID=cds_aspfla5_30354;Description=;parent=rna_aspfla5_30354
+aspfla5_Aflavus1041045517014	bed	CDS	41658	19086	.	+	ID=cds_aspfla5_30355;Description=;parent=rna_aspfla5_30355
+aspfla5_Aflavus1041045517014	bed	CDS	45773	14302	.	-	ID=cds_aspfla5_30356;Description=;parent=rna_aspfla5_30356
+aspfla5_Aflavus1041045517014	bed	CDS	50062	11841	.	-	ID=cds_aspfla5_30357;Description=;parent=rna_aspfla5_30357
+aspfla5_Aflavus1041045517014	bed	CDS	52714	10096	.	+	ID=cds_aspfla5_30358;Description=;parent=rna_aspfla5_30358
+aspfla5_Aflavus1041045517014	bed	CDS	54369	8477	.	+	ID=cds_aspfla5_30359;Description=;parent=rna_aspfla5_30359
+aspfla5_Aflavus1041045517014	bed	CDS	56024	6298	.	+	ID=cds_aspfla5_30360;Description=;parent=rna_aspfla5_30360
+aspfla5_Aflavus1041045517014	bed	CDS	57891	3239	.	-	ID=cds_aspfla5_30361;Description=;parent=rna_aspfla5_30361
+aspfla5_Aflavus1041045517014	bed	CDS	63844	0	.	-	ID=cds_aspfla5_30361|aspfla12_CP059864.1|up;Description=;parent=rna_aspfla5_30361|aspfla12_CP059864.1|up

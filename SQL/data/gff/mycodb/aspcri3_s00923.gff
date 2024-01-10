@@ -1,0 +1,41 @@
+aspcri3_JXNT01000003.1	bed	region	1	85890	.	-	flank	ID=gene_aspcri3_tyr980|DR|down;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	14745	69702	.	-	.	ID=gene_aspcri3_eg43685;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	16348	68963	.	+	.	ID=gene_aspcri3_eg43794;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	19708	65318	.	+	.	ID=gene_aspcri3_eg43578;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	30443	54688	.	-	.	ID=gene_aspcri3_eg43557;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	32153	53371	.	-	.	ID=gene_aspcri3_eg43563;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	33307	51929	.	+	.	ID=gene_aspcri3_eg43555;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	35543	50023	.	-	.	ID=gene_aspcri3_eg43517;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	37876	47876	.	+	.	ID=gene_aspcri3_eg43523;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	40935	43506	.	-	.	ID=gene_aspcri3_eg43702;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	55168	30503	.	+	.	ID=gene_aspcri3_eg43777;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	55765	28316	.	+	.	ID=gene_aspcri3_eg43566;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	73113	12558	.	-	.	ID=gene_aspcri3_eg43773;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	gene	81861	795	.	-	cap	ID=gene_aspcri3_tyr980;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	region	85890	0	.	-	flank	ID=gene_aspcri3_tyr980|DR|up;Description=aspcri3_s00923;parent=aspcri3_JXNT01000003.1
+aspcri3_JXNT01000003.1	bed	RNA	14745	69702	.	-	ID=rna_aspcri3_eg43685;Description=;parent=gene_aspcri3_eg43685
+aspcri3_JXNT01000003.1	bed	RNA	16348	68963	.	+	ID=rna_aspcri3_eg43794;Description=;parent=gene_aspcri3_eg43794
+aspcri3_JXNT01000003.1	bed	RNA	19708	65318	.	+	ID=rna_aspcri3_eg43578;Description=;parent=gene_aspcri3_eg43578
+aspcri3_JXNT01000003.1	bed	RNA	30443	54688	.	-	ID=rna_aspcri3_eg43557;Description=;parent=gene_aspcri3_eg43557
+aspcri3_JXNT01000003.1	bed	RNA	32153	53371	.	-	ID=rna_aspcri3_eg43563;Description=;parent=gene_aspcri3_eg43563
+aspcri3_JXNT01000003.1	bed	RNA	33307	51929	.	+	ID=rna_aspcri3_eg43555;Description=;parent=gene_aspcri3_eg43555
+aspcri3_JXNT01000003.1	bed	RNA	35543	50023	.	-	ID=rna_aspcri3_eg43517;Description=;parent=gene_aspcri3_eg43517
+aspcri3_JXNT01000003.1	bed	RNA	37876	47876	.	+	ID=rna_aspcri3_eg43523;Description=;parent=gene_aspcri3_eg43523
+aspcri3_JXNT01000003.1	bed	RNA	40935	43506	.	-	ID=rna_aspcri3_eg43702;Description=;parent=gene_aspcri3_eg43702
+aspcri3_JXNT01000003.1	bed	RNA	55168	30503	.	+	ID=rna_aspcri3_eg43777;Description=;parent=gene_aspcri3_eg43777
+aspcri3_JXNT01000003.1	bed	RNA	55765	28316	.	+	ID=rna_aspcri3_eg43566;Description=;parent=gene_aspcri3_eg43566
+aspcri3_JXNT01000003.1	bed	RNA	73113	12558	.	-	ID=rna_aspcri3_eg43773;Description=;parent=gene_aspcri3_eg43773
+aspcri3_JXNT01000003.1	bed	RNA	81861	795	.	-	ID=rna_aspcri3_tyr980;Description=;parent=gene_aspcri3_tyr980
+aspcri3_JXNT01000003.1	bed	CDS	14745	69702	.	-	ID=cds_aspcri3_eg43685;Description=;parent=rna_aspcri3_eg43685
+aspcri3_JXNT01000003.1	bed	CDS	16348	68963	.	+	ID=cds_aspcri3_eg43794;Description=;parent=rna_aspcri3_eg43794
+aspcri3_JXNT01000003.1	bed	CDS	19708	65318	.	+	ID=cds_aspcri3_eg43578;Description=;parent=rna_aspcri3_eg43578
+aspcri3_JXNT01000003.1	bed	CDS	30443	54688	.	-	ID=cds_aspcri3_eg43557;Description=;parent=rna_aspcri3_eg43557
+aspcri3_JXNT01000003.1	bed	CDS	32153	53371	.	-	ID=cds_aspcri3_eg43563;Description=;parent=rna_aspcri3_eg43563
+aspcri3_JXNT01000003.1	bed	CDS	33307	51929	.	+	ID=cds_aspcri3_eg43555;Description=;parent=rna_aspcri3_eg43555
+aspcri3_JXNT01000003.1	bed	CDS	35543	50023	.	-	ID=cds_aspcri3_eg43517;Description=;parent=rna_aspcri3_eg43517
+aspcri3_JXNT01000003.1	bed	CDS	37876	47876	.	+	ID=cds_aspcri3_eg43523;Description=;parent=rna_aspcri3_eg43523
+aspcri3_JXNT01000003.1	bed	CDS	40935	43506	.	-	ID=cds_aspcri3_eg43702;Description=;parent=rna_aspcri3_eg43702
+aspcri3_JXNT01000003.1	bed	CDS	55168	30503	.	+	ID=cds_aspcri3_eg43777;Description=;parent=rna_aspcri3_eg43777
+aspcri3_JXNT01000003.1	bed	CDS	55765	28316	.	+	ID=cds_aspcri3_eg43566;Description=;parent=rna_aspcri3_eg43566
+aspcri3_JXNT01000003.1	bed	CDS	73113	12558	.	-	ID=cds_aspcri3_eg43773;Description=;parent=rna_aspcri3_eg43773
+aspcri3_JXNT01000003.1	bed	CDS	81861	795	.	-	ID=cds_aspcri3_tyr980;Description=;parent=rna_aspcri3_tyr980

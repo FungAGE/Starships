@@ -1,0 +1,76 @@
+penchr2_scaffold2	bed	region	1	62239	.	-	flank	ID=gene_penchr2_71351|DR|down;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	region	6	62221	.	-	flank	ID=gene_penchr2_71351|TIR|down;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	82	61041	.	-	.	ID=gene_penchr2_23017;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	1715	60345	.	+	.	ID=gene_penchr2_eg348588;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	5282	55632	.	-	.	ID=gene_penchr2_70646;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	7003	54348	.	+	.	ID=gene_penchr2_74892;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	9963	51086	.	+	.	ID=gene_penchr2_71839;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	11417	50459	.	+	.	ID=gene_penchr2_23021;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	21915	39635	.	-	.	ID=gene_penchr2_3147;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	23225	38409	.	+	.	ID=gene_penchr2_74746;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	24342	36332	.	-	.	ID=gene_penchr2_70671;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	26122	35455	.	+	.	ID=gene_penchr2_23024;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	27180	34591	.	-	.	ID=gene_penchr2_23025;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	28055	33237	.	+	.	ID=gene_penchr2_eg348350;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	29751	32186	.	-	.	ID=gene_penchr2_72809;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	31251	29961	.	+	.	ID=gene_penchr2_71683;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	33990	23869	.	-	.	ID=gene_penchr2_3153;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	44146	17680	.	-	.	ID=gene_penchr2_3154;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	44827	16996	.	+	.	ID=gene_penchr2_74050;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	45751	15345	.	-	.	ID=gene_penchr2_71110;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	48464	13185	.	-	.	ID=gene_penchr2_32950;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	49644	11075	.	+	.	ID=gene_penchr2_73023;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	51802	9197	.	-	.	ID=gene_penchr2_32952;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	53830	6793	.	+	.	ID=gene_penchr2_32953;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	57526	2114	.	-	cap	ID=gene_penchr2_71351;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	gene	61012	454	.	-	.	ID=gene_penchr2_32955;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	region	62215	13	.	-	flank	ID=gene_penchr2_71351|TIR|up;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	region	62241	0	.	-	flank	ID=gene_penchr2_71351|DR|up;Description=penchr2_s08358;parent=penchr2_scaffold2
+penchr2_scaffold2	bed	RNA	82	61041	.	-	ID=rna_penchr2_23017;Description=;parent=gene_penchr2_23017
+penchr2_scaffold2	bed	RNA	1715	60345	.	+	ID=rna_penchr2_eg348588;Description=;parent=gene_penchr2_eg348588
+penchr2_scaffold2	bed	RNA	5282	55632	.	-	ID=rna_penchr2_70646;Description=;parent=gene_penchr2_70646
+penchr2_scaffold2	bed	RNA	7003	54348	.	+	ID=rna_penchr2_74892;Description=;parent=gene_penchr2_74892
+penchr2_scaffold2	bed	RNA	9963	51086	.	+	ID=rna_penchr2_71839;Description=;parent=gene_penchr2_71839
+penchr2_scaffold2	bed	RNA	11417	50459	.	+	ID=rna_penchr2_23021;Description=;parent=gene_penchr2_23021
+penchr2_scaffold2	bed	RNA	21915	39635	.	-	ID=rna_penchr2_3147;Description=;parent=gene_penchr2_3147
+penchr2_scaffold2	bed	RNA	23225	38409	.	+	ID=rna_penchr2_74746;Description=;parent=gene_penchr2_74746
+penchr2_scaffold2	bed	RNA	24342	36332	.	-	ID=rna_penchr2_70671;Description=;parent=gene_penchr2_70671
+penchr2_scaffold2	bed	RNA	26122	35455	.	+	ID=rna_penchr2_23024;Description=;parent=gene_penchr2_23024
+penchr2_scaffold2	bed	RNA	27180	34591	.	-	ID=rna_penchr2_23025;Description=;parent=gene_penchr2_23025
+penchr2_scaffold2	bed	RNA	28055	33237	.	+	ID=rna_penchr2_eg348350;Description=;parent=gene_penchr2_eg348350
+penchr2_scaffold2	bed	RNA	29751	32186	.	-	ID=rna_penchr2_72809;Description=;parent=gene_penchr2_72809
+penchr2_scaffold2	bed	RNA	31251	29961	.	+	ID=rna_penchr2_71683;Description=;parent=gene_penchr2_71683
+penchr2_scaffold2	bed	RNA	33990	23869	.	-	ID=rna_penchr2_3153;Description=;parent=gene_penchr2_3153
+penchr2_scaffold2	bed	RNA	44146	17680	.	-	ID=rna_penchr2_3154;Description=;parent=gene_penchr2_3154
+penchr2_scaffold2	bed	RNA	44827	16996	.	+	ID=rna_penchr2_74050;Description=;parent=gene_penchr2_74050
+penchr2_scaffold2	bed	RNA	45751	15345	.	-	ID=rna_penchr2_71110;Description=;parent=gene_penchr2_71110
+penchr2_scaffold2	bed	RNA	48464	13185	.	-	ID=rna_penchr2_32950;Description=;parent=gene_penchr2_32950
+penchr2_scaffold2	bed	RNA	49644	11075	.	+	ID=rna_penchr2_73023;Description=;parent=gene_penchr2_73023
+penchr2_scaffold2	bed	RNA	51802	9197	.	-	ID=rna_penchr2_32952;Description=;parent=gene_penchr2_32952
+penchr2_scaffold2	bed	RNA	53830	6793	.	+	ID=rna_penchr2_32953;Description=;parent=gene_penchr2_32953
+penchr2_scaffold2	bed	RNA	57526	2114	.	-	ID=rna_penchr2_71351;Description=;parent=gene_penchr2_71351
+penchr2_scaffold2	bed	RNA	61012	454	.	-	ID=rna_penchr2_32955;Description=;parent=gene_penchr2_32955
+penchr2_scaffold2	bed	CDS	82	61041	.	-	ID=cds_penchr2_23017;Description=;parent=rna_penchr2_23017
+penchr2_scaffold2	bed	CDS	1715	60345	.	+	ID=cds_penchr2_eg348588;Description=;parent=rna_penchr2_eg348588
+penchr2_scaffold2	bed	CDS	5282	55632	.	-	ID=cds_penchr2_70646;Description=;parent=rna_penchr2_70646
+penchr2_scaffold2	bed	CDS	7003	54348	.	+	ID=cds_penchr2_74892;Description=;parent=rna_penchr2_74892
+penchr2_scaffold2	bed	CDS	9963	51086	.	+	ID=cds_penchr2_71839;Description=;parent=rna_penchr2_71839
+penchr2_scaffold2	bed	CDS	11417	50459	.	+	ID=cds_penchr2_23021;Description=;parent=rna_penchr2_23021
+penchr2_scaffold2	bed	CDS	21915	39635	.	-	ID=cds_penchr2_3147;Description=;parent=rna_penchr2_3147
+penchr2_scaffold2	bed	CDS	23225	38409	.	+	ID=cds_penchr2_74746;Description=;parent=rna_penchr2_74746
+penchr2_scaffold2	bed	CDS	24342	36332	.	-	ID=cds_penchr2_70671;Description=;parent=rna_penchr2_70671
+penchr2_scaffold2	bed	CDS	26122	35455	.	+	ID=cds_penchr2_23024;Description=;parent=rna_penchr2_23024
+penchr2_scaffold2	bed	CDS	27180	34591	.	-	ID=cds_penchr2_23025;Description=;parent=rna_penchr2_23025
+penchr2_scaffold2	bed	CDS	28055	33237	.	+	ID=cds_penchr2_eg348350;Description=;parent=rna_penchr2_eg348350
+penchr2_scaffold2	bed	CDS	29751	32186	.	-	ID=cds_penchr2_72809;Description=;parent=rna_penchr2_72809
+penchr2_scaffold2	bed	CDS	31251	29961	.	+	ID=cds_penchr2_71683;Description=;parent=rna_penchr2_71683
+penchr2_scaffold2	bed	CDS	33990	23869	.	-	ID=cds_penchr2_3153;Description=;parent=rna_penchr2_3153
+penchr2_scaffold2	bed	CDS	44146	17680	.	-	ID=cds_penchr2_3154;Description=;parent=rna_penchr2_3154
+penchr2_scaffold2	bed	CDS	44827	16996	.	+	ID=cds_penchr2_74050;Description=;parent=rna_penchr2_74050
+penchr2_scaffold2	bed	CDS	45751	15345	.	-	ID=cds_penchr2_71110;Description=;parent=rna_penchr2_71110
+penchr2_scaffold2	bed	CDS	48464	13185	.	-	ID=cds_penchr2_32950;Description=;parent=rna_penchr2_32950
+penchr2_scaffold2	bed	CDS	49644	11075	.	+	ID=cds_penchr2_73023;Description=;parent=rna_penchr2_73023
+penchr2_scaffold2	bed	CDS	51802	9197	.	-	ID=cds_penchr2_32952;Description=;parent=rna_penchr2_32952
+penchr2_scaffold2	bed	CDS	53830	6793	.	+	ID=cds_penchr2_32953;Description=;parent=rna_penchr2_32953
+penchr2_scaffold2	bed	CDS	57526	2114	.	-	ID=cds_penchr2_71351;Description=;parent=rna_penchr2_71351
+penchr2_scaffold2	bed	CDS	61012	454	.	-	ID=cds_penchr2_32955;Description=;parent=rna_penchr2_32955

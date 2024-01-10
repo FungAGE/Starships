@@ -1,0 +1,14 @@
+aspory10_CM030955.1	bed	region	1	58954	.	-	flank	ID=gene_aspory10_tyr2264|DR|down;Description=aspory10_s02188;parent=aspory10_CM030955.1
+aspory10_CM030955.1	bed	gene	11335	47219	.	-	.	ID=gene_aspory10_eg120753;Description=aspory10_s02188;parent=aspory10_CM030955.1
+aspory10_CM030955.1	bed	gene	39693	19065	.	+	.	ID=gene_aspory10_eg121064;Description=aspory10_s02188;parent=aspory10_CM030955.1
+aspory10_CM030955.1	bed	gene	42605	15992	.	+	.	ID=gene_aspory10_eg121023;Description=aspory10_s02188;parent=aspory10_CM030955.1
+aspory10_CM030955.1	bed	gene	45228	11124	.	-	cap	ID=gene_aspory10_tyr2264;Description=aspory10_s02188;parent=aspory10_CM030955.1
+aspory10_CM030955.1	bed	region	58955	0	.	-	flank	ID=gene_aspory10_tyr2264|DR|up;Description=aspory10_s02188;parent=aspory10_CM030955.1
+aspory10_CM030955.1	bed	RNA	11335	47219	.	-	ID=rna_aspory10_eg120753;Description=;parent=gene_aspory10_eg120753
+aspory10_CM030955.1	bed	RNA	39693	19065	.	+	ID=rna_aspory10_eg121064;Description=;parent=gene_aspory10_eg121064
+aspory10_CM030955.1	bed	RNA	42605	15992	.	+	ID=rna_aspory10_eg121023;Description=;parent=gene_aspory10_eg121023
+aspory10_CM030955.1	bed	RNA	45228	11124	.	-	ID=rna_aspory10_tyr2264;Description=;parent=gene_aspory10_tyr2264
+aspory10_CM030955.1	bed	CDS	11335	47219	.	-	ID=cds_aspory10_eg120753;Description=;parent=rna_aspory10_eg120753
+aspory10_CM030955.1	bed	CDS	39693	19065	.	+	ID=cds_aspory10_eg121064;Description=;parent=rna_aspory10_eg121064
+aspory10_CM030955.1	bed	CDS	42605	15992	.	+	ID=cds_aspory10_eg121023;Description=;parent=rna_aspory10_eg121023
+aspory10_CM030955.1	bed	CDS	45228	11124	.	-	ID=cds_aspory10_tyr2264;Description=;parent=rna_aspory10_tyr2264

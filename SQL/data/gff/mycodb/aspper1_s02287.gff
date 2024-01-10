@@ -1,0 +1,22 @@
+aspper1_NGZO01000008.1	bed	region	1	43407	.	+	flank	ID=gene_aspper1_tyr2423|DR|up;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	region	17	43381	.	+	flank	ID=gene_aspper1_tyr2423|TIR|up;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	gene	453	40313	.	+	cap	ID=gene_aspper1_tyr2423;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	gene	4788	38426	.	-	.	ID=gene_aspper1_eg146236;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	gene	11735	29901	.	+	.	ID=gene_aspper1_eg146402;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	gene	14729	26787	.	-	.	ID=gene_aspper1_eg146335;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	gene	20652	20507	.	+	.	ID=gene_aspper1_eg146327;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	gene	23776	19420	.	+	.	ID=gene_aspper1_eg146235;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	region	43391	7	.	+	flank	ID=gene_aspper1_tyr2423|TIR|down;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	region	43409	0	.	+	flank	ID=gene_aspper1_tyr2423|DR|down;Description=aspper1_s02287;parent=aspper1_NGZO01000008.1
+aspper1_NGZO01000008.1	bed	RNA	453	40313	.	+	ID=rna_aspper1_tyr2423;Description=;parent=gene_aspper1_tyr2423
+aspper1_NGZO01000008.1	bed	RNA	4788	38426	.	-	ID=rna_aspper1_eg146236;Description=;parent=gene_aspper1_eg146236
+aspper1_NGZO01000008.1	bed	RNA	11735	29901	.	+	ID=rna_aspper1_eg146402;Description=;parent=gene_aspper1_eg146402
+aspper1_NGZO01000008.1	bed	RNA	14729	26787	.	-	ID=rna_aspper1_eg146335;Description=;parent=gene_aspper1_eg146335
+aspper1_NGZO01000008.1	bed	RNA	20652	20507	.	+	ID=rna_aspper1_eg146327;Description=;parent=gene_aspper1_eg146327
+aspper1_NGZO01000008.1	bed	RNA	23776	19420	.	+	ID=rna_aspper1_eg146235;Description=;parent=gene_aspper1_eg146235
+aspper1_NGZO01000008.1	bed	CDS	453	40313	.	+	ID=cds_aspper1_tyr2423;Description=;parent=rna_aspper1_tyr2423
+aspper1_NGZO01000008.1	bed	CDS	4788	38426	.	-	ID=cds_aspper1_eg146236;Description=;parent=rna_aspper1_eg146236
+aspper1_NGZO01000008.1	bed	CDS	11735	29901	.	+	ID=cds_aspper1_eg146402;Description=;parent=rna_aspper1_eg146402
+aspper1_NGZO01000008.1	bed	CDS	14729	26787	.	-	ID=cds_aspper1_eg146335;Description=;parent=rna_aspper1_eg146335
+aspper1_NGZO01000008.1	bed	CDS	20652	20507	.	+	ID=cds_aspper1_eg146327;Description=;parent=rna_aspper1_eg146327
+aspper1_NGZO01000008.1	bed	CDS	23776	19420	.	+	ID=cds_aspper1_eg146235;Description=;parent=rna_aspper1_eg146235

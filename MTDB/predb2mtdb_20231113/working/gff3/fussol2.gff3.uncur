@@ -1,0 +1,63 @@
+fussol2_NGZQ01000004.1	bed	gene	1	172389	.	-	insert	ID=gene_fussol2_tyr6622|fusfus11_WETJ01000659.1|down;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	83849	86276	.	+	.	ID=gene_fussol2_eg290128;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	86559	80862	.	-	nlr	ID=gene_fussol2_nlr159673;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	96589	75205	.	-	.	ID=gene_fussol2_eg290858;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	99697	68650	.	-	nlr	ID=gene_fussol2_nlr159676;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	118805	51690	.	+	.	ID=gene_fussol2_eg290795;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	122046	49703	.	-	.	ID=gene_fussol2_eg290293;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	122802	48665	.	-	.	ID=gene_fussol2_eg290872;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	123783	48305	.	-	.	ID=gene_fussol2_eg290944;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	123880	48205	.	+	.	ID=gene_fussol2_eg290096;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	124188	47993	.	-	.	ID=gene_fussol2_eg290924;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	125879	44421	.	-	.	ID=gene_fussol2_eg290300;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	128607	41501	.	+	.	ID=gene_fussol2_eg290633;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	135967	35530	.	+	.	ID=gene_fussol2_eg290306;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	141209	27768	.	+	.	ID=gene_fussol2_eg290172;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	150900	20585	.	-	.	ID=gene_fussol2_eg290894;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	152881	18706	.	-	.	ID=gene_fussol2_eg290848;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	159859	12109	.	+	.	ID=gene_fussol2_eg291021;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	162396	9698	.	+	.	ID=gene_fussol2_eg290904;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	164123	3372	.	-	cap	ID=gene_fussol2_tyr6622;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	gene	172390	0	.	-	insert	ID=gene_fussol2_tyr6622|fusfus11_WETJ01000659.1|up;Description=fussol2_s06321;parent=fussol2_NGZQ01000004.1
+fussol2_NGZQ01000004.1	bed	RNA	1	172389	.	-	ID=rna_fussol2_tyr6622|fusfus11_WETJ01000659.1|down;Description=;parent=gene_fussol2_tyr6622|fusfus11_WETJ01000659.1|down
+fussol2_NGZQ01000004.1	bed	RNA	83849	86276	.	+	ID=rna_fussol2_eg290128;Description=;parent=gene_fussol2_eg290128
+fussol2_NGZQ01000004.1	bed	RNA	86559	80862	.	-	ID=rna_fussol2_nlr159673;Description=;parent=gene_fussol2_nlr159673
+fussol2_NGZQ01000004.1	bed	RNA	96589	75205	.	-	ID=rna_fussol2_eg290858;Description=;parent=gene_fussol2_eg290858
+fussol2_NGZQ01000004.1	bed	RNA	99697	68650	.	-	ID=rna_fussol2_nlr159676;Description=;parent=gene_fussol2_nlr159676
+fussol2_NGZQ01000004.1	bed	RNA	118805	51690	.	+	ID=rna_fussol2_eg290795;Description=;parent=gene_fussol2_eg290795
+fussol2_NGZQ01000004.1	bed	RNA	122046	49703	.	-	ID=rna_fussol2_eg290293;Description=;parent=gene_fussol2_eg290293
+fussol2_NGZQ01000004.1	bed	RNA	122802	48665	.	-	ID=rna_fussol2_eg290872;Description=;parent=gene_fussol2_eg290872
+fussol2_NGZQ01000004.1	bed	RNA	123783	48305	.	-	ID=rna_fussol2_eg290944;Description=;parent=gene_fussol2_eg290944
+fussol2_NGZQ01000004.1	bed	RNA	123880	48205	.	+	ID=rna_fussol2_eg290096;Description=;parent=gene_fussol2_eg290096
+fussol2_NGZQ01000004.1	bed	RNA	124188	47993	.	-	ID=rna_fussol2_eg290924;Description=;parent=gene_fussol2_eg290924
+fussol2_NGZQ01000004.1	bed	RNA	125879	44421	.	-	ID=rna_fussol2_eg290300;Description=;parent=gene_fussol2_eg290300
+fussol2_NGZQ01000004.1	bed	RNA	128607	41501	.	+	ID=rna_fussol2_eg290633;Description=;parent=gene_fussol2_eg290633
+fussol2_NGZQ01000004.1	bed	RNA	135967	35530	.	+	ID=rna_fussol2_eg290306;Description=;parent=gene_fussol2_eg290306
+fussol2_NGZQ01000004.1	bed	RNA	141209	27768	.	+	ID=rna_fussol2_eg290172;Description=;parent=gene_fussol2_eg290172
+fussol2_NGZQ01000004.1	bed	RNA	150900	20585	.	-	ID=rna_fussol2_eg290894;Description=;parent=gene_fussol2_eg290894
+fussol2_NGZQ01000004.1	bed	RNA	152881	18706	.	-	ID=rna_fussol2_eg290848;Description=;parent=gene_fussol2_eg290848
+fussol2_NGZQ01000004.1	bed	RNA	159859	12109	.	+	ID=rna_fussol2_eg291021;Description=;parent=gene_fussol2_eg291021
+fussol2_NGZQ01000004.1	bed	RNA	162396	9698	.	+	ID=rna_fussol2_eg290904;Description=;parent=gene_fussol2_eg290904
+fussol2_NGZQ01000004.1	bed	RNA	164123	3372	.	-	ID=rna_fussol2_tyr6622;Description=;parent=gene_fussol2_tyr6622
+fussol2_NGZQ01000004.1	bed	RNA	172390	0	.	-	ID=rna_fussol2_tyr6622|fusfus11_WETJ01000659.1|up;Description=;parent=gene_fussol2_tyr6622|fusfus11_WETJ01000659.1|up
+fussol2_NGZQ01000004.1	bed	CDS	1	172389	.	-	ID=cds_fussol2_tyr6622|fusfus11_WETJ01000659.1|down;Description=;parent=rna_fussol2_tyr6622|fusfus11_WETJ01000659.1|down
+fussol2_NGZQ01000004.1	bed	CDS	83849	86276	.	+	ID=cds_fussol2_eg290128;Description=;parent=rna_fussol2_eg290128
+fussol2_NGZQ01000004.1	bed	CDS	86559	80862	.	-	ID=cds_fussol2_nlr159673;Description=;parent=rna_fussol2_nlr159673
+fussol2_NGZQ01000004.1	bed	CDS	96589	75205	.	-	ID=cds_fussol2_eg290858;Description=;parent=rna_fussol2_eg290858
+fussol2_NGZQ01000004.1	bed	CDS	99697	68650	.	-	ID=cds_fussol2_nlr159676;Description=;parent=rna_fussol2_nlr159676
+fussol2_NGZQ01000004.1	bed	CDS	118805	51690	.	+	ID=cds_fussol2_eg290795;Description=;parent=rna_fussol2_eg290795
+fussol2_NGZQ01000004.1	bed	CDS	122046	49703	.	-	ID=cds_fussol2_eg290293;Description=;parent=rna_fussol2_eg290293
+fussol2_NGZQ01000004.1	bed	CDS	122802	48665	.	-	ID=cds_fussol2_eg290872;Description=;parent=rna_fussol2_eg290872
+fussol2_NGZQ01000004.1	bed	CDS	123783	48305	.	-	ID=cds_fussol2_eg290944;Description=;parent=rna_fussol2_eg290944
+fussol2_NGZQ01000004.1	bed	CDS	123880	48205	.	+	ID=cds_fussol2_eg290096;Description=;parent=rna_fussol2_eg290096
+fussol2_NGZQ01000004.1	bed	CDS	124188	47993	.	-	ID=cds_fussol2_eg290924;Description=;parent=rna_fussol2_eg290924
+fussol2_NGZQ01000004.1	bed	CDS	125879	44421	.	-	ID=cds_fussol2_eg290300;Description=;parent=rna_fussol2_eg290300
+fussol2_NGZQ01000004.1	bed	CDS	128607	41501	.	+	ID=cds_fussol2_eg290633;Description=;parent=rna_fussol2_eg290633
+fussol2_NGZQ01000004.1	bed	CDS	135967	35530	.	+	ID=cds_fussol2_eg290306;Description=;parent=rna_fussol2_eg290306
+fussol2_NGZQ01000004.1	bed	CDS	141209	27768	.	+	ID=cds_fussol2_eg290172;Description=;parent=rna_fussol2_eg290172
+fussol2_NGZQ01000004.1	bed	CDS	150900	20585	.	-	ID=cds_fussol2_eg290894;Description=;parent=rna_fussol2_eg290894
+fussol2_NGZQ01000004.1	bed	CDS	152881	18706	.	-	ID=cds_fussol2_eg290848;Description=;parent=rna_fussol2_eg290848
+fussol2_NGZQ01000004.1	bed	CDS	159859	12109	.	+	ID=cds_fussol2_eg291021;Description=;parent=rna_fussol2_eg291021
+fussol2_NGZQ01000004.1	bed	CDS	162396	9698	.	+	ID=cds_fussol2_eg290904;Description=;parent=rna_fussol2_eg290904
+fussol2_NGZQ01000004.1	bed	CDS	164123	3372	.	-	ID=cds_fussol2_tyr6622;Description=;parent=rna_fussol2_tyr6622
+fussol2_NGZQ01000004.1	bed	CDS	172390	0	.	-	ID=cds_fussol2_tyr6622|fusfus11_WETJ01000659.1|up;Description=;parent=rna_fussol2_tyr6622|fusfus11_WETJ01000659.1|up

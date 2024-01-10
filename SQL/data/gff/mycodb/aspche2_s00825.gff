@@ -1,0 +1,15 @@
+aspche2_AP024419.1	bed	gene	1	17599	.	-	insert	ID=gene_aspche2_tyr874|aspcri4_JAIWPN010000013.1|down;Description=aspche2_s00825;parent=aspche2_AP024419.1
+aspche2_AP024419.1	bed	gene	2525	14446	.	+	.	ID=gene_aspche2_eg35151;Description=aspche2_s00825;parent=aspche2_AP024419.1
+aspche2_AP024419.1	bed	gene	4370	13057	.	-	.	ID=gene_aspche2_eg35131;Description=aspche2_s00825;parent=aspche2_AP024419.1
+aspche2_AP024419.1	bed	gene	16931	285	.	-	cap	ID=gene_aspche2_tyr874;Description=aspche2_s00825;parent=aspche2_AP024419.1
+aspche2_AP024419.1	bed	gene	17600	0	.	-	insert	ID=gene_aspche2_tyr874|aspcri4_JAIWPN010000013.1|up;Description=aspche2_s00825;parent=aspche2_AP024419.1
+aspche2_AP024419.1	bed	RNA	1	17599	.	-	ID=rna_aspche2_tyr874|aspcri4_JAIWPN010000013.1|down;Description=;parent=gene_aspche2_tyr874|aspcri4_JAIWPN010000013.1|down
+aspche2_AP024419.1	bed	RNA	2525	14446	.	+	ID=rna_aspche2_eg35151;Description=;parent=gene_aspche2_eg35151
+aspche2_AP024419.1	bed	RNA	4370	13057	.	-	ID=rna_aspche2_eg35131;Description=;parent=gene_aspche2_eg35131
+aspche2_AP024419.1	bed	RNA	16931	285	.	-	ID=rna_aspche2_tyr874;Description=;parent=gene_aspche2_tyr874
+aspche2_AP024419.1	bed	RNA	17600	0	.	-	ID=rna_aspche2_tyr874|aspcri4_JAIWPN010000013.1|up;Description=;parent=gene_aspche2_tyr874|aspcri4_JAIWPN010000013.1|up
+aspche2_AP024419.1	bed	CDS	1	17599	.	-	ID=cds_aspche2_tyr874|aspcri4_JAIWPN010000013.1|down;Description=;parent=rna_aspche2_tyr874|aspcri4_JAIWPN010000013.1|down
+aspche2_AP024419.1	bed	CDS	2525	14446	.	+	ID=cds_aspche2_eg35151;Description=;parent=rna_aspche2_eg35151
+aspche2_AP024419.1	bed	CDS	4370	13057	.	-	ID=cds_aspche2_eg35131;Description=;parent=rna_aspche2_eg35131
+aspche2_AP024419.1	bed	CDS	16931	285	.	-	ID=cds_aspche2_tyr874;Description=;parent=rna_aspche2_tyr874
+aspche2_AP024419.1	bed	CDS	17600	0	.	-	ID=cds_aspche2_tyr874|aspcri4_JAIWPN010000013.1|up;Description=;parent=rna_aspche2_tyr874|aspcri4_JAIWPN010000013.1|up

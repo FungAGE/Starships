@@ -1,0 +1,30 @@
+colsid1_QAPF01000068.1	bed	gene	1	15626	.	-	insert	ID=gene_colsid1_tyr4377|colorb2_AMCV02000009.1|down;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	552	14599	.	-	.	ID=gene_colsid1_eg194279;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	3598	11661	.	-	.	ID=gene_colsid1_eg194282;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	5293	9405	.	+	.	ID=gene_colsid1_TEA18304.1;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	7920	7282	.	-	.	ID=gene_colsid1_eg194272;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	9325	5378	.	+	.	ID=gene_colsid1_eg194276;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	12471	2425	.	-	.	ID=gene_colsid1_eg194275;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	13776	593	.	-	cap	ID=gene_colsid1_tyr4377;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	15587	2254	.	-	.	ID=gene_colsid1_TEA18305.1;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	gene	15627	0	.	-	insert	ID=gene_colsid1_tyr4377|colorb2_AMCV02000009.1|up;Description=colsid1_s04136;parent=colsid1_QAPF01000068.1
+colsid1_QAPF01000068.1	bed	RNA	1	15626	.	-	ID=rna_colsid1_tyr4377|colorb2_AMCV02000009.1|down;Description=;parent=gene_colsid1_tyr4377|colorb2_AMCV02000009.1|down
+colsid1_QAPF01000068.1	bed	RNA	552	14599	.	-	ID=rna_colsid1_eg194279;Description=;parent=gene_colsid1_eg194279
+colsid1_QAPF01000068.1	bed	RNA	3598	11661	.	-	ID=rna_colsid1_eg194282;Description=;parent=gene_colsid1_eg194282
+colsid1_QAPF01000068.1	bed	RNA	5293	9405	.	+	ID=rna_colsid1_TEA18304.1;Description=;parent=gene_colsid1_TEA18304.1
+colsid1_QAPF01000068.1	bed	RNA	7920	7282	.	-	ID=rna_colsid1_eg194272;Description=;parent=gene_colsid1_eg194272
+colsid1_QAPF01000068.1	bed	RNA	9325	5378	.	+	ID=rna_colsid1_eg194276;Description=;parent=gene_colsid1_eg194276
+colsid1_QAPF01000068.1	bed	RNA	12471	2425	.	-	ID=rna_colsid1_eg194275;Description=;parent=gene_colsid1_eg194275
+colsid1_QAPF01000068.1	bed	RNA	13776	593	.	-	ID=rna_colsid1_tyr4377;Description=;parent=gene_colsid1_tyr4377
+colsid1_QAPF01000068.1	bed	RNA	15587	2254	.	-	ID=rna_colsid1_TEA18305.1;Description=;parent=gene_colsid1_TEA18305.1
+colsid1_QAPF01000068.1	bed	RNA	15627	0	.	-	ID=rna_colsid1_tyr4377|colorb2_AMCV02000009.1|up;Description=;parent=gene_colsid1_tyr4377|colorb2_AMCV02000009.1|up
+colsid1_QAPF01000068.1	bed	CDS	1	15626	.	-	ID=cds_colsid1_tyr4377|colorb2_AMCV02000009.1|down;Description=;parent=rna_colsid1_tyr4377|colorb2_AMCV02000009.1|down
+colsid1_QAPF01000068.1	bed	CDS	552	14599	.	-	ID=cds_colsid1_eg194279;Description=;parent=rna_colsid1_eg194279
+colsid1_QAPF01000068.1	bed	CDS	3598	11661	.	-	ID=cds_colsid1_eg194282;Description=;parent=rna_colsid1_eg194282
+colsid1_QAPF01000068.1	bed	CDS	5293	9405	.	+	ID=cds_colsid1_TEA18304.1;Description=;parent=rna_colsid1_TEA18304.1
+colsid1_QAPF01000068.1	bed	CDS	7920	7282	.	-	ID=cds_colsid1_eg194272;Description=;parent=rna_colsid1_eg194272
+colsid1_QAPF01000068.1	bed	CDS	9325	5378	.	+	ID=cds_colsid1_eg194276;Description=;parent=rna_colsid1_eg194276
+colsid1_QAPF01000068.1	bed	CDS	12471	2425	.	-	ID=cds_colsid1_eg194275;Description=;parent=rna_colsid1_eg194275
+colsid1_QAPF01000068.1	bed	CDS	13776	593	.	-	ID=cds_colsid1_tyr4377;Description=;parent=rna_colsid1_tyr4377
+colsid1_QAPF01000068.1	bed	CDS	15587	2254	.	-	ID=cds_colsid1_TEA18305.1;Description=;parent=rna_colsid1_TEA18305.1
+colsid1_QAPF01000068.1	bed	CDS	15627	0	.	-	ID=cds_colsid1_tyr4377|colorb2_AMCV02000009.1|up;Description=;parent=rna_colsid1_tyr4377|colorb2_AMCV02000009.1|up

@@ -1,0 +1,138 @@
+fusoxy21_supercont11	bed	gene	1	85288	.	+	insert	ID=gene_fusoxy21_47|fusoxy44_JAELUQ010000002.1|up;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	1760	82192	.	+	cap	ID=gene_fusoxy21_47;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	5331	79211	.	+	.	ID=gene_fusoxy21_48;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	7376	76664	.	+	.	ID=gene_fusoxy21_49;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	8566	76227	.	-	.	ID=gene_fusoxy21_50;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	11026	73392	.	+	.	ID=gene_fusoxy21_51;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	11956	72494	.	+	.	ID=gene_fusoxy21_52;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	12766	72173	.	-	.	ID=gene_fusoxy21_53;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	13589	70339	.	+	.	ID=gene_fusoxy21_54;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	14937	69298	.	-	.	ID=gene_fusoxy21_55;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	16757	67552	.	-	.	ID=gene_fusoxy21_56;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	18023	66288	.	-	.	ID=gene_fusoxy21_57;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	19013	65213	.	+	.	ID=gene_fusoxy21_58;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	20333	64517	.	+	.	ID=gene_fusoxy21_59;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	21350	63351	.	+	.	ID=gene_fusoxy21_60;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	21350	63000	.	+	.	ID=gene_fusoxy21_61;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	22340	62281	.	+	.	ID=gene_fusoxy21_62;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	23164	59579	.	-	d37	ID=gene_fusoxy21_63;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	25975	56889	.	+	.	ID=gene_fusoxy21_64;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	30965	53780	.	-	.	ID=gene_fusoxy21_65;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	31920	51274	.	+	.	ID=gene_fusoxy21_66;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	35014	48930	.	+	.	ID=gene_fusoxy21_67;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	36817	47096	.	-	.	ID=gene_fusoxy21_68;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	38596	43656	.	-	.	ID=gene_fusoxy21_69;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	43668	41070	.	-	.	ID=gene_fusoxy21_70;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	44851	39473	.	+	.	ID=gene_fusoxy21_71;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	46334	38515	.	-	.	ID=gene_fusoxy21_72;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	49389	34668	.	+	.	ID=gene_fusoxy21_73;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	52189	32684	.	+	.	ID=gene_fusoxy21_74;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	53049	30983	.	-	.	ID=gene_fusoxy21_75;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	55829	28975	.	+	.	ID=gene_fusoxy21_76;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	57079	27981	.	+	.	ID=gene_fusoxy21_77;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	57455	26609	.	-	.	ID=gene_fusoxy21_78;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	59498	24494	.	+	.	ID=gene_fusoxy21_79;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	61671	21595	.	-	.	ID=gene_fusoxy21_80;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	64634	19915	.	-	.	ID=gene_fusoxy21_81;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	67069	17528	.	+	.	ID=gene_fusoxy21_82;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	68558	15781	.	+	.	ID=gene_fusoxy21_83;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	69560	14876	.	+	.	ID=gene_fusoxy21_84;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	70654	12959	.	-	.	ID=gene_fusoxy21_85;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	72557	10189	.	+	.	ID=gene_fusoxy21_86;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	75392	8747	.	+	.	ID=gene_fusoxy21_87;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	76454	7758	.	-	.	ID=gene_fusoxy21_88;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	78869	5992	.	-	.	ID=gene_fusoxy21_eg240116;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	80702	1869	.	-	nlr	ID=gene_fusoxy21_89:90;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	gene	85289	0	.	+	insert	ID=gene_fusoxy21_47|fusoxy44_JAELUQ010000002.1|down;Description=fusoxy21_s05919;parent=fusoxy21_supercont11
+fusoxy21_supercont11	bed	RNA	1	85288	.	+	ID=rna_fusoxy21_47|fusoxy44_JAELUQ010000002.1|up;Description=;parent=gene_fusoxy21_47|fusoxy44_JAELUQ010000002.1|up
+fusoxy21_supercont11	bed	RNA	1760	82192	.	+	ID=rna_fusoxy21_47;Description=;parent=gene_fusoxy21_47
+fusoxy21_supercont11	bed	RNA	5331	79211	.	+	ID=rna_fusoxy21_48;Description=;parent=gene_fusoxy21_48
+fusoxy21_supercont11	bed	RNA	7376	76664	.	+	ID=rna_fusoxy21_49;Description=;parent=gene_fusoxy21_49
+fusoxy21_supercont11	bed	RNA	8566	76227	.	-	ID=rna_fusoxy21_50;Description=;parent=gene_fusoxy21_50
+fusoxy21_supercont11	bed	RNA	11026	73392	.	+	ID=rna_fusoxy21_51;Description=;parent=gene_fusoxy21_51
+fusoxy21_supercont11	bed	RNA	11956	72494	.	+	ID=rna_fusoxy21_52;Description=;parent=gene_fusoxy21_52
+fusoxy21_supercont11	bed	RNA	12766	72173	.	-	ID=rna_fusoxy21_53;Description=;parent=gene_fusoxy21_53
+fusoxy21_supercont11	bed	RNA	13589	70339	.	+	ID=rna_fusoxy21_54;Description=;parent=gene_fusoxy21_54
+fusoxy21_supercont11	bed	RNA	14937	69298	.	-	ID=rna_fusoxy21_55;Description=;parent=gene_fusoxy21_55
+fusoxy21_supercont11	bed	RNA	16757	67552	.	-	ID=rna_fusoxy21_56;Description=;parent=gene_fusoxy21_56
+fusoxy21_supercont11	bed	RNA	18023	66288	.	-	ID=rna_fusoxy21_57;Description=;parent=gene_fusoxy21_57
+fusoxy21_supercont11	bed	RNA	19013	65213	.	+	ID=rna_fusoxy21_58;Description=;parent=gene_fusoxy21_58
+fusoxy21_supercont11	bed	RNA	20333	64517	.	+	ID=rna_fusoxy21_59;Description=;parent=gene_fusoxy21_59
+fusoxy21_supercont11	bed	RNA	21350	63351	.	+	ID=rna_fusoxy21_60;Description=;parent=gene_fusoxy21_60
+fusoxy21_supercont11	bed	RNA	21350	63000	.	+	ID=rna_fusoxy21_61;Description=;parent=gene_fusoxy21_61
+fusoxy21_supercont11	bed	RNA	22340	62281	.	+	ID=rna_fusoxy21_62;Description=;parent=gene_fusoxy21_62
+fusoxy21_supercont11	bed	RNA	23164	59579	.	-	ID=rna_fusoxy21_63;Description=;parent=gene_fusoxy21_63
+fusoxy21_supercont11	bed	RNA	25975	56889	.	+	ID=rna_fusoxy21_64;Description=;parent=gene_fusoxy21_64
+fusoxy21_supercont11	bed	RNA	30965	53780	.	-	ID=rna_fusoxy21_65;Description=;parent=gene_fusoxy21_65
+fusoxy21_supercont11	bed	RNA	31920	51274	.	+	ID=rna_fusoxy21_66;Description=;parent=gene_fusoxy21_66
+fusoxy21_supercont11	bed	RNA	35014	48930	.	+	ID=rna_fusoxy21_67;Description=;parent=gene_fusoxy21_67
+fusoxy21_supercont11	bed	RNA	36817	47096	.	-	ID=rna_fusoxy21_68;Description=;parent=gene_fusoxy21_68
+fusoxy21_supercont11	bed	RNA	38596	43656	.	-	ID=rna_fusoxy21_69;Description=;parent=gene_fusoxy21_69
+fusoxy21_supercont11	bed	RNA	43668	41070	.	-	ID=rna_fusoxy21_70;Description=;parent=gene_fusoxy21_70
+fusoxy21_supercont11	bed	RNA	44851	39473	.	+	ID=rna_fusoxy21_71;Description=;parent=gene_fusoxy21_71
+fusoxy21_supercont11	bed	RNA	46334	38515	.	-	ID=rna_fusoxy21_72;Description=;parent=gene_fusoxy21_72
+fusoxy21_supercont11	bed	RNA	49389	34668	.	+	ID=rna_fusoxy21_73;Description=;parent=gene_fusoxy21_73
+fusoxy21_supercont11	bed	RNA	52189	32684	.	+	ID=rna_fusoxy21_74;Description=;parent=gene_fusoxy21_74
+fusoxy21_supercont11	bed	RNA	53049	30983	.	-	ID=rna_fusoxy21_75;Description=;parent=gene_fusoxy21_75
+fusoxy21_supercont11	bed	RNA	55829	28975	.	+	ID=rna_fusoxy21_76;Description=;parent=gene_fusoxy21_76
+fusoxy21_supercont11	bed	RNA	57079	27981	.	+	ID=rna_fusoxy21_77;Description=;parent=gene_fusoxy21_77
+fusoxy21_supercont11	bed	RNA	57455	26609	.	-	ID=rna_fusoxy21_78;Description=;parent=gene_fusoxy21_78
+fusoxy21_supercont11	bed	RNA	59498	24494	.	+	ID=rna_fusoxy21_79;Description=;parent=gene_fusoxy21_79
+fusoxy21_supercont11	bed	RNA	61671	21595	.	-	ID=rna_fusoxy21_80;Description=;parent=gene_fusoxy21_80
+fusoxy21_supercont11	bed	RNA	64634	19915	.	-	ID=rna_fusoxy21_81;Description=;parent=gene_fusoxy21_81
+fusoxy21_supercont11	bed	RNA	67069	17528	.	+	ID=rna_fusoxy21_82;Description=;parent=gene_fusoxy21_82
+fusoxy21_supercont11	bed	RNA	68558	15781	.	+	ID=rna_fusoxy21_83;Description=;parent=gene_fusoxy21_83
+fusoxy21_supercont11	bed	RNA	69560	14876	.	+	ID=rna_fusoxy21_84;Description=;parent=gene_fusoxy21_84
+fusoxy21_supercont11	bed	RNA	70654	12959	.	-	ID=rna_fusoxy21_85;Description=;parent=gene_fusoxy21_85
+fusoxy21_supercont11	bed	RNA	72557	10189	.	+	ID=rna_fusoxy21_86;Description=;parent=gene_fusoxy21_86
+fusoxy21_supercont11	bed	RNA	75392	8747	.	+	ID=rna_fusoxy21_87;Description=;parent=gene_fusoxy21_87
+fusoxy21_supercont11	bed	RNA	76454	7758	.	-	ID=rna_fusoxy21_88;Description=;parent=gene_fusoxy21_88
+fusoxy21_supercont11	bed	RNA	78869	5992	.	-	ID=rna_fusoxy21_eg240116;Description=;parent=gene_fusoxy21_eg240116
+fusoxy21_supercont11	bed	RNA	80702	1869	.	-	ID=rna_fusoxy21_89:90;Description=;parent=gene_fusoxy21_89:90
+fusoxy21_supercont11	bed	RNA	85289	0	.	+	ID=rna_fusoxy21_47|fusoxy44_JAELUQ010000002.1|down;Description=;parent=gene_fusoxy21_47|fusoxy44_JAELUQ010000002.1|down
+fusoxy21_supercont11	bed	CDS	1	85288	.	+	ID=cds_fusoxy21_47|fusoxy44_JAELUQ010000002.1|up;Description=;parent=rna_fusoxy21_47|fusoxy44_JAELUQ010000002.1|up
+fusoxy21_supercont11	bed	CDS	1760	82192	.	+	ID=cds_fusoxy21_47;Description=;parent=rna_fusoxy21_47
+fusoxy21_supercont11	bed	CDS	5331	79211	.	+	ID=cds_fusoxy21_48;Description=;parent=rna_fusoxy21_48
+fusoxy21_supercont11	bed	CDS	7376	76664	.	+	ID=cds_fusoxy21_49;Description=;parent=rna_fusoxy21_49
+fusoxy21_supercont11	bed	CDS	8566	76227	.	-	ID=cds_fusoxy21_50;Description=;parent=rna_fusoxy21_50
+fusoxy21_supercont11	bed	CDS	11026	73392	.	+	ID=cds_fusoxy21_51;Description=;parent=rna_fusoxy21_51
+fusoxy21_supercont11	bed	CDS	11956	72494	.	+	ID=cds_fusoxy21_52;Description=;parent=rna_fusoxy21_52
+fusoxy21_supercont11	bed	CDS	12766	72173	.	-	ID=cds_fusoxy21_53;Description=;parent=rna_fusoxy21_53
+fusoxy21_supercont11	bed	CDS	13589	70339	.	+	ID=cds_fusoxy21_54;Description=;parent=rna_fusoxy21_54
+fusoxy21_supercont11	bed	CDS	14937	69298	.	-	ID=cds_fusoxy21_55;Description=;parent=rna_fusoxy21_55
+fusoxy21_supercont11	bed	CDS	16757	67552	.	-	ID=cds_fusoxy21_56;Description=;parent=rna_fusoxy21_56
+fusoxy21_supercont11	bed	CDS	18023	66288	.	-	ID=cds_fusoxy21_57;Description=;parent=rna_fusoxy21_57
+fusoxy21_supercont11	bed	CDS	19013	65213	.	+	ID=cds_fusoxy21_58;Description=;parent=rna_fusoxy21_58
+fusoxy21_supercont11	bed	CDS	20333	64517	.	+	ID=cds_fusoxy21_59;Description=;parent=rna_fusoxy21_59
+fusoxy21_supercont11	bed	CDS	21350	63351	.	+	ID=cds_fusoxy21_60;Description=;parent=rna_fusoxy21_60
+fusoxy21_supercont11	bed	CDS	21350	63000	.	+	ID=cds_fusoxy21_61;Description=;parent=rna_fusoxy21_61
+fusoxy21_supercont11	bed	CDS	22340	62281	.	+	ID=cds_fusoxy21_62;Description=;parent=rna_fusoxy21_62
+fusoxy21_supercont11	bed	CDS	23164	59579	.	-	ID=cds_fusoxy21_63;Description=;parent=rna_fusoxy21_63
+fusoxy21_supercont11	bed	CDS	25975	56889	.	+	ID=cds_fusoxy21_64;Description=;parent=rna_fusoxy21_64
+fusoxy21_supercont11	bed	CDS	30965	53780	.	-	ID=cds_fusoxy21_65;Description=;parent=rna_fusoxy21_65
+fusoxy21_supercont11	bed	CDS	31920	51274	.	+	ID=cds_fusoxy21_66;Description=;parent=rna_fusoxy21_66
+fusoxy21_supercont11	bed	CDS	35014	48930	.	+	ID=cds_fusoxy21_67;Description=;parent=rna_fusoxy21_67
+fusoxy21_supercont11	bed	CDS	36817	47096	.	-	ID=cds_fusoxy21_68;Description=;parent=rna_fusoxy21_68
+fusoxy21_supercont11	bed	CDS	38596	43656	.	-	ID=cds_fusoxy21_69;Description=;parent=rna_fusoxy21_69
+fusoxy21_supercont11	bed	CDS	43668	41070	.	-	ID=cds_fusoxy21_70;Description=;parent=rna_fusoxy21_70
+fusoxy21_supercont11	bed	CDS	44851	39473	.	+	ID=cds_fusoxy21_71;Description=;parent=rna_fusoxy21_71
+fusoxy21_supercont11	bed	CDS	46334	38515	.	-	ID=cds_fusoxy21_72;Description=;parent=rna_fusoxy21_72
+fusoxy21_supercont11	bed	CDS	49389	34668	.	+	ID=cds_fusoxy21_73;Description=;parent=rna_fusoxy21_73
+fusoxy21_supercont11	bed	CDS	52189	32684	.	+	ID=cds_fusoxy21_74;Description=;parent=rna_fusoxy21_74
+fusoxy21_supercont11	bed	CDS	53049	30983	.	-	ID=cds_fusoxy21_75;Description=;parent=rna_fusoxy21_75
+fusoxy21_supercont11	bed	CDS	55829	28975	.	+	ID=cds_fusoxy21_76;Description=;parent=rna_fusoxy21_76
+fusoxy21_supercont11	bed	CDS	57079	27981	.	+	ID=cds_fusoxy21_77;Description=;parent=rna_fusoxy21_77
+fusoxy21_supercont11	bed	CDS	57455	26609	.	-	ID=cds_fusoxy21_78;Description=;parent=rna_fusoxy21_78
+fusoxy21_supercont11	bed	CDS	59498	24494	.	+	ID=cds_fusoxy21_79;Description=;parent=rna_fusoxy21_79
+fusoxy21_supercont11	bed	CDS	61671	21595	.	-	ID=cds_fusoxy21_80;Description=;parent=rna_fusoxy21_80
+fusoxy21_supercont11	bed	CDS	64634	19915	.	-	ID=cds_fusoxy21_81;Description=;parent=rna_fusoxy21_81
+fusoxy21_supercont11	bed	CDS	67069	17528	.	+	ID=cds_fusoxy21_82;Description=;parent=rna_fusoxy21_82
+fusoxy21_supercont11	bed	CDS	68558	15781	.	+	ID=cds_fusoxy21_83;Description=;parent=rna_fusoxy21_83
+fusoxy21_supercont11	bed	CDS	69560	14876	.	+	ID=cds_fusoxy21_84;Description=;parent=rna_fusoxy21_84
+fusoxy21_supercont11	bed	CDS	70654	12959	.	-	ID=cds_fusoxy21_85;Description=;parent=rna_fusoxy21_85
+fusoxy21_supercont11	bed	CDS	72557	10189	.	+	ID=cds_fusoxy21_86;Description=;parent=rna_fusoxy21_86
+fusoxy21_supercont11	bed	CDS	75392	8747	.	+	ID=cds_fusoxy21_87;Description=;parent=rna_fusoxy21_87
+fusoxy21_supercont11	bed	CDS	76454	7758	.	-	ID=cds_fusoxy21_88;Description=;parent=rna_fusoxy21_88
+fusoxy21_supercont11	bed	CDS	78869	5992	.	-	ID=cds_fusoxy21_eg240116;Description=;parent=rna_fusoxy21_eg240116
+fusoxy21_supercont11	bed	CDS	80702	1869	.	-	ID=cds_fusoxy21_89:90;Description=;parent=rna_fusoxy21_89:90
+fusoxy21_supercont11	bed	CDS	85289	0	.	+	ID=cds_fusoxy21_47|fusoxy44_JAELUQ010000002.1|down;Description=;parent=rna_fusoxy21_47|fusoxy44_JAELUQ010000002.1|down

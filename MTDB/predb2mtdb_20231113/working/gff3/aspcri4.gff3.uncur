@@ -1,0 +1,12 @@
+aspcri4_JAIWPN010000089.1	bed	gene	1	16292	.	+	insert	ID=gene_aspcri4_tyr1019|aspche1_BCIE01000015.1|up;Description=aspcri4_s00943;parent=aspcri4_JAIWPN010000089.1
+aspcri4_JAIWPN010000089.1	bed	gene	7357	6366	.	+	cap	ID=gene_aspcri4_tyr1019;Description=aspcri4_s00943;parent=aspcri4_JAIWPN010000089.1
+aspcri4_JAIWPN010000089.1	bed	gene	10273	3868	.	-	.	ID=gene_aspcri4_eg44670;Description=aspcri4_s00943;parent=aspcri4_JAIWPN010000089.1
+aspcri4_JAIWPN010000089.1	bed	gene	16293	0	.	+	insert	ID=gene_aspcri4_tyr1019|aspche1_BCIE01000015.1|down;Description=aspcri4_s00943;parent=aspcri4_JAIWPN010000089.1
+aspcri4_JAIWPN010000089.1	bed	RNA	1	16292	.	+	ID=rna_aspcri4_tyr1019|aspche1_BCIE01000015.1|up;Description=;parent=gene_aspcri4_tyr1019|aspche1_BCIE01000015.1|up
+aspcri4_JAIWPN010000089.1	bed	RNA	7357	6366	.	+	ID=rna_aspcri4_tyr1019;Description=;parent=gene_aspcri4_tyr1019
+aspcri4_JAIWPN010000089.1	bed	RNA	10273	3868	.	-	ID=rna_aspcri4_eg44670;Description=;parent=gene_aspcri4_eg44670
+aspcri4_JAIWPN010000089.1	bed	RNA	16293	0	.	+	ID=rna_aspcri4_tyr1019|aspche1_BCIE01000015.1|down;Description=;parent=gene_aspcri4_tyr1019|aspche1_BCIE01000015.1|down
+aspcri4_JAIWPN010000089.1	bed	CDS	1	16292	.	+	ID=cds_aspcri4_tyr1019|aspche1_BCIE01000015.1|up;Description=;parent=rna_aspcri4_tyr1019|aspche1_BCIE01000015.1|up
+aspcri4_JAIWPN010000089.1	bed	CDS	7357	6366	.	+	ID=cds_aspcri4_tyr1019;Description=;parent=rna_aspcri4_tyr1019
+aspcri4_JAIWPN010000089.1	bed	CDS	10273	3868	.	-	ID=cds_aspcri4_eg44670;Description=;parent=rna_aspcri4_eg44670
+aspcri4_JAIWPN010000089.1	bed	CDS	16293	0	.	+	ID=cds_aspcri4_tyr1019|aspche1_BCIE01000015.1|down;Description=;parent=rna_aspcri4_tyr1019|aspche1_BCIE01000015.1|down

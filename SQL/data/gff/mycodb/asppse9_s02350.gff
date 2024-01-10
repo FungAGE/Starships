@@ -1,0 +1,53 @@
+asppse9_ML736877.1	bed	region	1	43386	.	-	flank	ID=gene_asppse9_KAE8397824.1|DR|down;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	530	40782	.	+	.	ID=gene_asppse9_KAE8397808.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	4736	37851	.	+	.	ID=gene_asppse9_KAE8397809.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	5582	36805	.	-	.	ID=gene_asppse9_KAE8397810.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	6587	35533	.	+	.	ID=gene_asppse9_KAE8397811.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	8791	33880	.	+	.	ID=gene_asppse9_KAE8397812.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	9482	32282	.	-	.	ID=gene_asppse9_KAE8397813.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	13201	28717	.	+	.	ID=gene_asppse9_KAE8397814.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	16681	26007	.	+	.	ID=gene_asppse9_KAE8397815.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	18745	23927	.	+	.	ID=gene_asppse9_KAE8397816.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	19671	21055	.	+	.	ID=gene_asppse9_KAE8397817.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	22093	20360	.	-	.	ID=gene_asppse9_KAE8397818.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	26105	16705	.	-	.	ID=gene_asppse9_KAE8397819.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	28801	14178	.	+	.	ID=gene_asppse9_KAE8397820.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	30149	12909	.	+	.	ID=gene_asppse9_KAE8397821.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	33596	8269	.	-	.	ID=gene_asppse9_KAE8397822.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	38434	3883	.	+	.	ID=gene_asppse9_KAE8397823.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	gene	40269	637	.	-	cap	ID=gene_asppse9_KAE8397824.1;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	region	43387	0	.	-	flank	ID=gene_asppse9_KAE8397824.1|DR|up;Description=asppse9_s02350;parent=asppse9_ML736877.1
+asppse9_ML736877.1	bed	RNA	530	40782	.	+	ID=rna_asppse9_KAE8397808.1;Description=;parent=gene_asppse9_KAE8397808.1
+asppse9_ML736877.1	bed	RNA	4736	37851	.	+	ID=rna_asppse9_KAE8397809.1;Description=;parent=gene_asppse9_KAE8397809.1
+asppse9_ML736877.1	bed	RNA	5582	36805	.	-	ID=rna_asppse9_KAE8397810.1;Description=;parent=gene_asppse9_KAE8397810.1
+asppse9_ML736877.1	bed	RNA	6587	35533	.	+	ID=rna_asppse9_KAE8397811.1;Description=;parent=gene_asppse9_KAE8397811.1
+asppse9_ML736877.1	bed	RNA	8791	33880	.	+	ID=rna_asppse9_KAE8397812.1;Description=;parent=gene_asppse9_KAE8397812.1
+asppse9_ML736877.1	bed	RNA	9482	32282	.	-	ID=rna_asppse9_KAE8397813.1;Description=;parent=gene_asppse9_KAE8397813.1
+asppse9_ML736877.1	bed	RNA	13201	28717	.	+	ID=rna_asppse9_KAE8397814.1;Description=;parent=gene_asppse9_KAE8397814.1
+asppse9_ML736877.1	bed	RNA	16681	26007	.	+	ID=rna_asppse9_KAE8397815.1;Description=;parent=gene_asppse9_KAE8397815.1
+asppse9_ML736877.1	bed	RNA	18745	23927	.	+	ID=rna_asppse9_KAE8397816.1;Description=;parent=gene_asppse9_KAE8397816.1
+asppse9_ML736877.1	bed	RNA	19671	21055	.	+	ID=rna_asppse9_KAE8397817.1;Description=;parent=gene_asppse9_KAE8397817.1
+asppse9_ML736877.1	bed	RNA	22093	20360	.	-	ID=rna_asppse9_KAE8397818.1;Description=;parent=gene_asppse9_KAE8397818.1
+asppse9_ML736877.1	bed	RNA	26105	16705	.	-	ID=rna_asppse9_KAE8397819.1;Description=;parent=gene_asppse9_KAE8397819.1
+asppse9_ML736877.1	bed	RNA	28801	14178	.	+	ID=rna_asppse9_KAE8397820.1;Description=;parent=gene_asppse9_KAE8397820.1
+asppse9_ML736877.1	bed	RNA	30149	12909	.	+	ID=rna_asppse9_KAE8397821.1;Description=;parent=gene_asppse9_KAE8397821.1
+asppse9_ML736877.1	bed	RNA	33596	8269	.	-	ID=rna_asppse9_KAE8397822.1;Description=;parent=gene_asppse9_KAE8397822.1
+asppse9_ML736877.1	bed	RNA	38434	3883	.	+	ID=rna_asppse9_KAE8397823.1;Description=;parent=gene_asppse9_KAE8397823.1
+asppse9_ML736877.1	bed	RNA	40269	637	.	-	ID=rna_asppse9_KAE8397824.1;Description=;parent=gene_asppse9_KAE8397824.1
+asppse9_ML736877.1	bed	CDS	530	40782	.	+	ID=cds_asppse9_KAE8397808.1;Description=;parent=rna_asppse9_KAE8397808.1
+asppse9_ML736877.1	bed	CDS	4736	37851	.	+	ID=cds_asppse9_KAE8397809.1;Description=;parent=rna_asppse9_KAE8397809.1
+asppse9_ML736877.1	bed	CDS	5582	36805	.	-	ID=cds_asppse9_KAE8397810.1;Description=;parent=rna_asppse9_KAE8397810.1
+asppse9_ML736877.1	bed	CDS	6587	35533	.	+	ID=cds_asppse9_KAE8397811.1;Description=;parent=rna_asppse9_KAE8397811.1
+asppse9_ML736877.1	bed	CDS	8791	33880	.	+	ID=cds_asppse9_KAE8397812.1;Description=;parent=rna_asppse9_KAE8397812.1
+asppse9_ML736877.1	bed	CDS	9482	32282	.	-	ID=cds_asppse9_KAE8397813.1;Description=;parent=rna_asppse9_KAE8397813.1
+asppse9_ML736877.1	bed	CDS	13201	28717	.	+	ID=cds_asppse9_KAE8397814.1;Description=;parent=rna_asppse9_KAE8397814.1
+asppse9_ML736877.1	bed	CDS	16681	26007	.	+	ID=cds_asppse9_KAE8397815.1;Description=;parent=rna_asppse9_KAE8397815.1
+asppse9_ML736877.1	bed	CDS	18745	23927	.	+	ID=cds_asppse9_KAE8397816.1;Description=;parent=rna_asppse9_KAE8397816.1
+asppse9_ML736877.1	bed	CDS	19671	21055	.	+	ID=cds_asppse9_KAE8397817.1;Description=;parent=rna_asppse9_KAE8397817.1
+asppse9_ML736877.1	bed	CDS	22093	20360	.	-	ID=cds_asppse9_KAE8397818.1;Description=;parent=rna_asppse9_KAE8397818.1
+asppse9_ML736877.1	bed	CDS	26105	16705	.	-	ID=cds_asppse9_KAE8397819.1;Description=;parent=rna_asppse9_KAE8397819.1
+asppse9_ML736877.1	bed	CDS	28801	14178	.	+	ID=cds_asppse9_KAE8397820.1;Description=;parent=rna_asppse9_KAE8397820.1
+asppse9_ML736877.1	bed	CDS	30149	12909	.	+	ID=cds_asppse9_KAE8397821.1;Description=;parent=rna_asppse9_KAE8397821.1
+asppse9_ML736877.1	bed	CDS	33596	8269	.	-	ID=cds_asppse9_KAE8397822.1;Description=;parent=rna_asppse9_KAE8397822.1
+asppse9_ML736877.1	bed	CDS	38434	3883	.	+	ID=cds_asppse9_KAE8397823.1;Description=;parent=rna_asppse9_KAE8397823.1
+asppse9_ML736877.1	bed	CDS	40269	637	.	-	ID=cds_asppse9_KAE8397824.1;Description=;parent=rna_asppse9_KAE8397824.1

@@ -1,0 +1,266 @@
+fusoxy45_JAELUR010000008.1	bed	gene	697	252035	.	-	.	ID=gene_fusoxy45_KAG7428277.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	region	1	256665	.	-	flank	ID=gene_fusoxy45_KAG7427984.1|DR|down;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	6621	248954	.	+	.	ID=gene_fusoxy45_KAG7428278.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	12705	243580	.	+	.	ID=gene_fusoxy45_KAG7428338.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	16659	239604	.	-	.	ID=gene_fusoxy45_KAG7427811.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	19885	235484	.	+	.	ID=gene_fusoxy45_eg258980;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	23636	232720	.	+	.	ID=gene_fusoxy45_KAG7427813.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	26625	229185	.	-	nlr	ID=gene_fusoxy45_KAG7427812.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	29379	226468	.	-	.	ID=gene_fusoxy45_KAG7427815.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	33156	221847	.	+	.	ID=gene_fusoxy45_KAG7427814.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	35824	219764	.	+	.	ID=gene_fusoxy45_KAG7428351.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	37612	216596	.	+	.	ID=gene_fusoxy45_KAG7427816.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	42314	210982	.	-	.	ID=gene_fusoxy45_KAG7427810.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	46369	209225	.	-	.	ID=gene_fusoxy45_KAG7427809.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	49000	206237	.	+	.	ID=gene_fusoxy45_KAG7428460.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	51600	202882	.	+	.	ID=gene_fusoxy45_KAG7428487.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	54285	201792	.	+	.	ID=gene_fusoxy45_KAG7428458.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	55719	199464	.	-	.	ID=gene_fusoxy45_KAG7428459.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	57636	197761	.	-	.	ID=gene_fusoxy45_KAG7428495.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	60186	195418	.	+	.	ID=gene_fusoxy45_KAG7428497.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	62465	193684	.	-	.	ID=gene_fusoxy45_KAG7428492.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	63639	191748	.	-	.	ID=gene_fusoxy45_KAG7428461.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	65629	189090	.	+	.	ID=gene_fusoxy45_KAG7428301.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	67692	188028	.	-	.	ID=gene_fusoxy45_KAG7428302.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	70089	186339	.	+	.	ID=gene_fusoxy45_eg259314;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	72520	183725	.	+	.	ID=gene_fusoxy45_eg258824;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	74451	180576	.	-	.	ID=gene_fusoxy45_KAG7427897.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	76596	179073	.	-	.	ID=gene_fusoxy45_KAG7427898.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	78403	177362	.	-	.	ID=gene_fusoxy45_KAG7427907.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	81732	174633	.	-	.	ID=gene_fusoxy45_KAG7427899.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	83168	171775	.	+	.	ID=gene_fusoxy45_KAG7427900.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	85717	170291	.	-	.	ID=gene_fusoxy45_KAG7427901.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	88456	167323	.	+	.	ID=gene_fusoxy45_KAG7427902.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	90016	165242	.	-	.	ID=gene_fusoxy45_KAG7427903.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	92762	163252	.	-	.	ID=gene_fusoxy45_KAG7427894.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	94870	160961	.	-	.	ID=gene_fusoxy45_eg259221;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	96506	159157	.	+	.	ID=gene_fusoxy45_KAG7427895.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	97877	158314	.	+	.	ID=gene_fusoxy45_KAG7428361.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	98935	157382	.	-	.	ID=gene_fusoxy45_KAG7428360.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	101018	154937	.	-	.	ID=gene_fusoxy45_KAG7428359.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	102447	153189	.	-	.	ID=gene_fusoxy45_KAG7428358.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	104798	150208	.	+	.	ID=gene_fusoxy45_KAG7428357.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	107122	148071	.	-	.	ID=gene_fusoxy45_KAG7428356.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	108852	143936	.	-	.	ID=gene_fusoxy45_KAG7428355.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	115057	141464	.	+	.	ID=gene_fusoxy45_eg259260;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	115380	138426	.	+	.	ID=gene_fusoxy45_KAG7428354.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	119440	135927	.	-	.	ID=gene_fusoxy45_KAG7428363.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	123563	131821	.	+	.	ID=gene_fusoxy45_KAG7428362.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	127093	128134	.	+	.	ID=gene_fusoxy45_KAG7428228.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	129413	127084	.	-	.	ID=gene_fusoxy45_eg258845;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	129462	127065	.	+	.	ID=gene_fusoxy45_eg258879;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	130642	125404	.	+	.	ID=gene_fusoxy45_KAG7427704.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	132599	120370	.	-	.	ID=gene_fusoxy45_KAG7427702.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	138902	117199	.	+	.	ID=gene_fusoxy45_KAG7427703.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	140181	115312	.	-	.	ID=gene_fusoxy45_KAG7427707.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	145321	110403	.	+	.	ID=gene_fusoxy45_KAG7428229.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	147072	108978	.	+	.	ID=gene_fusoxy45_eg258858;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	148652	105888	.	+	.	ID=gene_fusoxy45_KAG7427705.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	152693	102235	.	+	.	ID=gene_fusoxy45_KAG7427706.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	155018	101098	.	-	.	ID=gene_fusoxy45_eg258888;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	156231	99702	.	-	.	ID=gene_fusoxy45_KAG7427872.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	158754	94161	.	+	nlr	ID=gene_fusoxy45_KAG7427873.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	168028	88108	.	+	.	ID=gene_fusoxy45_eg258970;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	175379	79165	.	-	.	ID=gene_fusoxy45_KAG7428326.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	179224	73065	.	+	.	ID=gene_fusoxy45_KAG7428325.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	183913	72465	.	-	.	ID=gene_fusoxy45_KAG7428328.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	188456	67139	.	-	.	ID=gene_fusoxy45_KAG7428327.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	191074	65453	.	+	.	ID=gene_fusoxy45_eg259330;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	192935	62670	.	+	.	ID=gene_fusoxy45_KAG7428330.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	196241	59488	.	-	.	ID=gene_fusoxy45_eg259084;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	198682	57211	.	+	.	ID=gene_fusoxy45_eg258895;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	200102	53677	.	+	.	ID=gene_fusoxy45_KAG7428329.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	204118	51536	.	+	.	ID=gene_fusoxy45_KAG7428332.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	205926	49026	.	-	.	ID=gene_fusoxy45_KAG7428331.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	208039	46760	.	-	.	ID=gene_fusoxy45_KAG7428334.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	214208	42049	.	-	.	ID=gene_fusoxy45_eg259317;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	216828	37386	.	+	d37	ID=gene_fusoxy45_KAG7428333.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	220603	32137	.	+	nlr	ID=gene_fusoxy45_KAG7428037.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	227111	28496	.	-	.	ID=gene_fusoxy45_KAG7428218.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	228412	27710	.	+	.	ID=gene_fusoxy45_KAG7428306.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	229517	26470	.	+	.	ID=gene_fusoxy45_KAG7428309.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	232238	23071	.	-	.	ID=gene_fusoxy45_KAG7428034.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	234072	22248	.	+	.	ID=gene_fusoxy45_KAG7428579.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	238156	18076	.	+	.	ID=gene_fusoxy45_KAG7428203.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	238925	16799	.	-	.	ID=gene_fusoxy45_KAG7428304.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	244107	11226	.	-	cap	ID=gene_fusoxy45_KAG7427984.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	250518	5649	.	-	.	ID=gene_fusoxy45_KAG7427985.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	252859	3287	.	+	.	ID=gene_fusoxy45_KAG7428437.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	gene	255199	167	.	+	.	ID=gene_fusoxy45_KAG7428436.1;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	region	256666	0	.	-	flank	ID=gene_fusoxy45_KAG7427984.1|DR|up;Description=fusoxy45_s06060;parent=fusoxy45_JAELUR010000008.1
+fusoxy45_JAELUR010000008.1	bed	RNA	697	252035	.	-	ID=rna_fusoxy45_KAG7428277.1;Description=;parent=gene_fusoxy45_KAG7428277.1
+fusoxy45_JAELUR010000008.1	bed	RNA	6621	248954	.	+	ID=rna_fusoxy45_KAG7428278.1;Description=;parent=gene_fusoxy45_KAG7428278.1
+fusoxy45_JAELUR010000008.1	bed	RNA	12705	243580	.	+	ID=rna_fusoxy45_KAG7428338.1;Description=;parent=gene_fusoxy45_KAG7428338.1
+fusoxy45_JAELUR010000008.1	bed	RNA	16659	239604	.	-	ID=rna_fusoxy45_KAG7427811.1;Description=;parent=gene_fusoxy45_KAG7427811.1
+fusoxy45_JAELUR010000008.1	bed	RNA	19885	235484	.	+	ID=rna_fusoxy45_eg258980;Description=;parent=gene_fusoxy45_eg258980
+fusoxy45_JAELUR010000008.1	bed	RNA	23636	232720	.	+	ID=rna_fusoxy45_KAG7427813.1;Description=;parent=gene_fusoxy45_KAG7427813.1
+fusoxy45_JAELUR010000008.1	bed	RNA	26625	229185	.	-	ID=rna_fusoxy45_KAG7427812.1;Description=;parent=gene_fusoxy45_KAG7427812.1
+fusoxy45_JAELUR010000008.1	bed	RNA	29379	226468	.	-	ID=rna_fusoxy45_KAG7427815.1;Description=;parent=gene_fusoxy45_KAG7427815.1
+fusoxy45_JAELUR010000008.1	bed	RNA	33156	221847	.	+	ID=rna_fusoxy45_KAG7427814.1;Description=;parent=gene_fusoxy45_KAG7427814.1
+fusoxy45_JAELUR010000008.1	bed	RNA	35824	219764	.	+	ID=rna_fusoxy45_KAG7428351.1;Description=;parent=gene_fusoxy45_KAG7428351.1
+fusoxy45_JAELUR010000008.1	bed	RNA	37612	216596	.	+	ID=rna_fusoxy45_KAG7427816.1;Description=;parent=gene_fusoxy45_KAG7427816.1
+fusoxy45_JAELUR010000008.1	bed	RNA	42314	210982	.	-	ID=rna_fusoxy45_KAG7427810.1;Description=;parent=gene_fusoxy45_KAG7427810.1
+fusoxy45_JAELUR010000008.1	bed	RNA	46369	209225	.	-	ID=rna_fusoxy45_KAG7427809.1;Description=;parent=gene_fusoxy45_KAG7427809.1
+fusoxy45_JAELUR010000008.1	bed	RNA	49000	206237	.	+	ID=rna_fusoxy45_KAG7428460.1;Description=;parent=gene_fusoxy45_KAG7428460.1
+fusoxy45_JAELUR010000008.1	bed	RNA	51600	202882	.	+	ID=rna_fusoxy45_KAG7428487.1;Description=;parent=gene_fusoxy45_KAG7428487.1
+fusoxy45_JAELUR010000008.1	bed	RNA	54285	201792	.	+	ID=rna_fusoxy45_KAG7428458.1;Description=;parent=gene_fusoxy45_KAG7428458.1
+fusoxy45_JAELUR010000008.1	bed	RNA	55719	199464	.	-	ID=rna_fusoxy45_KAG7428459.1;Description=;parent=gene_fusoxy45_KAG7428459.1
+fusoxy45_JAELUR010000008.1	bed	RNA	57636	197761	.	-	ID=rna_fusoxy45_KAG7428495.1;Description=;parent=gene_fusoxy45_KAG7428495.1
+fusoxy45_JAELUR010000008.1	bed	RNA	60186	195418	.	+	ID=rna_fusoxy45_KAG7428497.1;Description=;parent=gene_fusoxy45_KAG7428497.1
+fusoxy45_JAELUR010000008.1	bed	RNA	62465	193684	.	-	ID=rna_fusoxy45_KAG7428492.1;Description=;parent=gene_fusoxy45_KAG7428492.1
+fusoxy45_JAELUR010000008.1	bed	RNA	63639	191748	.	-	ID=rna_fusoxy45_KAG7428461.1;Description=;parent=gene_fusoxy45_KAG7428461.1
+fusoxy45_JAELUR010000008.1	bed	RNA	65629	189090	.	+	ID=rna_fusoxy45_KAG7428301.1;Description=;parent=gene_fusoxy45_KAG7428301.1
+fusoxy45_JAELUR010000008.1	bed	RNA	67692	188028	.	-	ID=rna_fusoxy45_KAG7428302.1;Description=;parent=gene_fusoxy45_KAG7428302.1
+fusoxy45_JAELUR010000008.1	bed	RNA	70089	186339	.	+	ID=rna_fusoxy45_eg259314;Description=;parent=gene_fusoxy45_eg259314
+fusoxy45_JAELUR010000008.1	bed	RNA	72520	183725	.	+	ID=rna_fusoxy45_eg258824;Description=;parent=gene_fusoxy45_eg258824
+fusoxy45_JAELUR010000008.1	bed	RNA	74451	180576	.	-	ID=rna_fusoxy45_KAG7427897.1;Description=;parent=gene_fusoxy45_KAG7427897.1
+fusoxy45_JAELUR010000008.1	bed	RNA	76596	179073	.	-	ID=rna_fusoxy45_KAG7427898.1;Description=;parent=gene_fusoxy45_KAG7427898.1
+fusoxy45_JAELUR010000008.1	bed	RNA	78403	177362	.	-	ID=rna_fusoxy45_KAG7427907.1;Description=;parent=gene_fusoxy45_KAG7427907.1
+fusoxy45_JAELUR010000008.1	bed	RNA	81732	174633	.	-	ID=rna_fusoxy45_KAG7427899.1;Description=;parent=gene_fusoxy45_KAG7427899.1
+fusoxy45_JAELUR010000008.1	bed	RNA	83168	171775	.	+	ID=rna_fusoxy45_KAG7427900.1;Description=;parent=gene_fusoxy45_KAG7427900.1
+fusoxy45_JAELUR010000008.1	bed	RNA	85717	170291	.	-	ID=rna_fusoxy45_KAG7427901.1;Description=;parent=gene_fusoxy45_KAG7427901.1
+fusoxy45_JAELUR010000008.1	bed	RNA	88456	167323	.	+	ID=rna_fusoxy45_KAG7427902.1;Description=;parent=gene_fusoxy45_KAG7427902.1
+fusoxy45_JAELUR010000008.1	bed	RNA	90016	165242	.	-	ID=rna_fusoxy45_KAG7427903.1;Description=;parent=gene_fusoxy45_KAG7427903.1
+fusoxy45_JAELUR010000008.1	bed	RNA	92762	163252	.	-	ID=rna_fusoxy45_KAG7427894.1;Description=;parent=gene_fusoxy45_KAG7427894.1
+fusoxy45_JAELUR010000008.1	bed	RNA	94870	160961	.	-	ID=rna_fusoxy45_eg259221;Description=;parent=gene_fusoxy45_eg259221
+fusoxy45_JAELUR010000008.1	bed	RNA	96506	159157	.	+	ID=rna_fusoxy45_KAG7427895.1;Description=;parent=gene_fusoxy45_KAG7427895.1
+fusoxy45_JAELUR010000008.1	bed	RNA	97877	158314	.	+	ID=rna_fusoxy45_KAG7428361.1;Description=;parent=gene_fusoxy45_KAG7428361.1
+fusoxy45_JAELUR010000008.1	bed	RNA	98935	157382	.	-	ID=rna_fusoxy45_KAG7428360.1;Description=;parent=gene_fusoxy45_KAG7428360.1
+fusoxy45_JAELUR010000008.1	bed	RNA	101018	154937	.	-	ID=rna_fusoxy45_KAG7428359.1;Description=;parent=gene_fusoxy45_KAG7428359.1
+fusoxy45_JAELUR010000008.1	bed	RNA	102447	153189	.	-	ID=rna_fusoxy45_KAG7428358.1;Description=;parent=gene_fusoxy45_KAG7428358.1
+fusoxy45_JAELUR010000008.1	bed	RNA	104798	150208	.	+	ID=rna_fusoxy45_KAG7428357.1;Description=;parent=gene_fusoxy45_KAG7428357.1
+fusoxy45_JAELUR010000008.1	bed	RNA	107122	148071	.	-	ID=rna_fusoxy45_KAG7428356.1;Description=;parent=gene_fusoxy45_KAG7428356.1
+fusoxy45_JAELUR010000008.1	bed	RNA	108852	143936	.	-	ID=rna_fusoxy45_KAG7428355.1;Description=;parent=gene_fusoxy45_KAG7428355.1
+fusoxy45_JAELUR010000008.1	bed	RNA	115057	141464	.	+	ID=rna_fusoxy45_eg259260;Description=;parent=gene_fusoxy45_eg259260
+fusoxy45_JAELUR010000008.1	bed	RNA	115380	138426	.	+	ID=rna_fusoxy45_KAG7428354.1;Description=;parent=gene_fusoxy45_KAG7428354.1
+fusoxy45_JAELUR010000008.1	bed	RNA	119440	135927	.	-	ID=rna_fusoxy45_KAG7428363.1;Description=;parent=gene_fusoxy45_KAG7428363.1
+fusoxy45_JAELUR010000008.1	bed	RNA	123563	131821	.	+	ID=rna_fusoxy45_KAG7428362.1;Description=;parent=gene_fusoxy45_KAG7428362.1
+fusoxy45_JAELUR010000008.1	bed	RNA	127093	128134	.	+	ID=rna_fusoxy45_KAG7428228.1;Description=;parent=gene_fusoxy45_KAG7428228.1
+fusoxy45_JAELUR010000008.1	bed	RNA	129413	127084	.	-	ID=rna_fusoxy45_eg258845;Description=;parent=gene_fusoxy45_eg258845
+fusoxy45_JAELUR010000008.1	bed	RNA	129462	127065	.	+	ID=rna_fusoxy45_eg258879;Description=;parent=gene_fusoxy45_eg258879
+fusoxy45_JAELUR010000008.1	bed	RNA	130642	125404	.	+	ID=rna_fusoxy45_KAG7427704.1;Description=;parent=gene_fusoxy45_KAG7427704.1
+fusoxy45_JAELUR010000008.1	bed	RNA	132599	120370	.	-	ID=rna_fusoxy45_KAG7427702.1;Description=;parent=gene_fusoxy45_KAG7427702.1
+fusoxy45_JAELUR010000008.1	bed	RNA	138902	117199	.	+	ID=rna_fusoxy45_KAG7427703.1;Description=;parent=gene_fusoxy45_KAG7427703.1
+fusoxy45_JAELUR010000008.1	bed	RNA	140181	115312	.	-	ID=rna_fusoxy45_KAG7427707.1;Description=;parent=gene_fusoxy45_KAG7427707.1
+fusoxy45_JAELUR010000008.1	bed	RNA	145321	110403	.	+	ID=rna_fusoxy45_KAG7428229.1;Description=;parent=gene_fusoxy45_KAG7428229.1
+fusoxy45_JAELUR010000008.1	bed	RNA	147072	108978	.	+	ID=rna_fusoxy45_eg258858;Description=;parent=gene_fusoxy45_eg258858
+fusoxy45_JAELUR010000008.1	bed	RNA	148652	105888	.	+	ID=rna_fusoxy45_KAG7427705.1;Description=;parent=gene_fusoxy45_KAG7427705.1
+fusoxy45_JAELUR010000008.1	bed	RNA	152693	102235	.	+	ID=rna_fusoxy45_KAG7427706.1;Description=;parent=gene_fusoxy45_KAG7427706.1
+fusoxy45_JAELUR010000008.1	bed	RNA	155018	101098	.	-	ID=rna_fusoxy45_eg258888;Description=;parent=gene_fusoxy45_eg258888
+fusoxy45_JAELUR010000008.1	bed	RNA	156231	99702	.	-	ID=rna_fusoxy45_KAG7427872.1;Description=;parent=gene_fusoxy45_KAG7427872.1
+fusoxy45_JAELUR010000008.1	bed	RNA	158754	94161	.	+	ID=rna_fusoxy45_KAG7427873.1;Description=;parent=gene_fusoxy45_KAG7427873.1
+fusoxy45_JAELUR010000008.1	bed	RNA	168028	88108	.	+	ID=rna_fusoxy45_eg258970;Description=;parent=gene_fusoxy45_eg258970
+fusoxy45_JAELUR010000008.1	bed	RNA	175379	79165	.	-	ID=rna_fusoxy45_KAG7428326.1;Description=;parent=gene_fusoxy45_KAG7428326.1
+fusoxy45_JAELUR010000008.1	bed	RNA	179224	73065	.	+	ID=rna_fusoxy45_KAG7428325.1;Description=;parent=gene_fusoxy45_KAG7428325.1
+fusoxy45_JAELUR010000008.1	bed	RNA	183913	72465	.	-	ID=rna_fusoxy45_KAG7428328.1;Description=;parent=gene_fusoxy45_KAG7428328.1
+fusoxy45_JAELUR010000008.1	bed	RNA	188456	67139	.	-	ID=rna_fusoxy45_KAG7428327.1;Description=;parent=gene_fusoxy45_KAG7428327.1
+fusoxy45_JAELUR010000008.1	bed	RNA	191074	65453	.	+	ID=rna_fusoxy45_eg259330;Description=;parent=gene_fusoxy45_eg259330
+fusoxy45_JAELUR010000008.1	bed	RNA	192935	62670	.	+	ID=rna_fusoxy45_KAG7428330.1;Description=;parent=gene_fusoxy45_KAG7428330.1
+fusoxy45_JAELUR010000008.1	bed	RNA	196241	59488	.	-	ID=rna_fusoxy45_eg259084;Description=;parent=gene_fusoxy45_eg259084
+fusoxy45_JAELUR010000008.1	bed	RNA	198682	57211	.	+	ID=rna_fusoxy45_eg258895;Description=;parent=gene_fusoxy45_eg258895
+fusoxy45_JAELUR010000008.1	bed	RNA	200102	53677	.	+	ID=rna_fusoxy45_KAG7428329.1;Description=;parent=gene_fusoxy45_KAG7428329.1
+fusoxy45_JAELUR010000008.1	bed	RNA	204118	51536	.	+	ID=rna_fusoxy45_KAG7428332.1;Description=;parent=gene_fusoxy45_KAG7428332.1
+fusoxy45_JAELUR010000008.1	bed	RNA	205926	49026	.	-	ID=rna_fusoxy45_KAG7428331.1;Description=;parent=gene_fusoxy45_KAG7428331.1
+fusoxy45_JAELUR010000008.1	bed	RNA	208039	46760	.	-	ID=rna_fusoxy45_KAG7428334.1;Description=;parent=gene_fusoxy45_KAG7428334.1
+fusoxy45_JAELUR010000008.1	bed	RNA	214208	42049	.	-	ID=rna_fusoxy45_eg259317;Description=;parent=gene_fusoxy45_eg259317
+fusoxy45_JAELUR010000008.1	bed	RNA	216828	37386	.	+	ID=rna_fusoxy45_KAG7428333.1;Description=;parent=gene_fusoxy45_KAG7428333.1
+fusoxy45_JAELUR010000008.1	bed	RNA	220603	32137	.	+	ID=rna_fusoxy45_KAG7428037.1;Description=;parent=gene_fusoxy45_KAG7428037.1
+fusoxy45_JAELUR010000008.1	bed	RNA	227111	28496	.	-	ID=rna_fusoxy45_KAG7428218.1;Description=;parent=gene_fusoxy45_KAG7428218.1
+fusoxy45_JAELUR010000008.1	bed	RNA	228412	27710	.	+	ID=rna_fusoxy45_KAG7428306.1;Description=;parent=gene_fusoxy45_KAG7428306.1
+fusoxy45_JAELUR010000008.1	bed	RNA	229517	26470	.	+	ID=rna_fusoxy45_KAG7428309.1;Description=;parent=gene_fusoxy45_KAG7428309.1
+fusoxy45_JAELUR010000008.1	bed	RNA	232238	23071	.	-	ID=rna_fusoxy45_KAG7428034.1;Description=;parent=gene_fusoxy45_KAG7428034.1
+fusoxy45_JAELUR010000008.1	bed	RNA	234072	22248	.	+	ID=rna_fusoxy45_KAG7428579.1;Description=;parent=gene_fusoxy45_KAG7428579.1
+fusoxy45_JAELUR010000008.1	bed	RNA	238156	18076	.	+	ID=rna_fusoxy45_KAG7428203.1;Description=;parent=gene_fusoxy45_KAG7428203.1
+fusoxy45_JAELUR010000008.1	bed	RNA	238925	16799	.	-	ID=rna_fusoxy45_KAG7428304.1;Description=;parent=gene_fusoxy45_KAG7428304.1
+fusoxy45_JAELUR010000008.1	bed	RNA	244107	11226	.	-	ID=rna_fusoxy45_KAG7427984.1;Description=;parent=gene_fusoxy45_KAG7427984.1
+fusoxy45_JAELUR010000008.1	bed	RNA	250518	5649	.	-	ID=rna_fusoxy45_KAG7427985.1;Description=;parent=gene_fusoxy45_KAG7427985.1
+fusoxy45_JAELUR010000008.1	bed	RNA	252859	3287	.	+	ID=rna_fusoxy45_KAG7428437.1;Description=;parent=gene_fusoxy45_KAG7428437.1
+fusoxy45_JAELUR010000008.1	bed	RNA	255199	167	.	+	ID=rna_fusoxy45_KAG7428436.1;Description=;parent=gene_fusoxy45_KAG7428436.1
+fusoxy45_JAELUR010000008.1	bed	CDS	697	252035	.	-	ID=cds_fusoxy45_KAG7428277.1;Description=;parent=rna_fusoxy45_KAG7428277.1
+fusoxy45_JAELUR010000008.1	bed	CDS	6621	248954	.	+	ID=cds_fusoxy45_KAG7428278.1;Description=;parent=rna_fusoxy45_KAG7428278.1
+fusoxy45_JAELUR010000008.1	bed	CDS	12705	243580	.	+	ID=cds_fusoxy45_KAG7428338.1;Description=;parent=rna_fusoxy45_KAG7428338.1
+fusoxy45_JAELUR010000008.1	bed	CDS	16659	239604	.	-	ID=cds_fusoxy45_KAG7427811.1;Description=;parent=rna_fusoxy45_KAG7427811.1
+fusoxy45_JAELUR010000008.1	bed	CDS	19885	235484	.	+	ID=cds_fusoxy45_eg258980;Description=;parent=rna_fusoxy45_eg258980
+fusoxy45_JAELUR010000008.1	bed	CDS	23636	232720	.	+	ID=cds_fusoxy45_KAG7427813.1;Description=;parent=rna_fusoxy45_KAG7427813.1
+fusoxy45_JAELUR010000008.1	bed	CDS	26625	229185	.	-	ID=cds_fusoxy45_KAG7427812.1;Description=;parent=rna_fusoxy45_KAG7427812.1
+fusoxy45_JAELUR010000008.1	bed	CDS	29379	226468	.	-	ID=cds_fusoxy45_KAG7427815.1;Description=;parent=rna_fusoxy45_KAG7427815.1
+fusoxy45_JAELUR010000008.1	bed	CDS	33156	221847	.	+	ID=cds_fusoxy45_KAG7427814.1;Description=;parent=rna_fusoxy45_KAG7427814.1
+fusoxy45_JAELUR010000008.1	bed	CDS	35824	219764	.	+	ID=cds_fusoxy45_KAG7428351.1;Description=;parent=rna_fusoxy45_KAG7428351.1
+fusoxy45_JAELUR010000008.1	bed	CDS	37612	216596	.	+	ID=cds_fusoxy45_KAG7427816.1;Description=;parent=rna_fusoxy45_KAG7427816.1
+fusoxy45_JAELUR010000008.1	bed	CDS	42314	210982	.	-	ID=cds_fusoxy45_KAG7427810.1;Description=;parent=rna_fusoxy45_KAG7427810.1
+fusoxy45_JAELUR010000008.1	bed	CDS	46369	209225	.	-	ID=cds_fusoxy45_KAG7427809.1;Description=;parent=rna_fusoxy45_KAG7427809.1
+fusoxy45_JAELUR010000008.1	bed	CDS	49000	206237	.	+	ID=cds_fusoxy45_KAG7428460.1;Description=;parent=rna_fusoxy45_KAG7428460.1
+fusoxy45_JAELUR010000008.1	bed	CDS	51600	202882	.	+	ID=cds_fusoxy45_KAG7428487.1;Description=;parent=rna_fusoxy45_KAG7428487.1
+fusoxy45_JAELUR010000008.1	bed	CDS	54285	201792	.	+	ID=cds_fusoxy45_KAG7428458.1;Description=;parent=rna_fusoxy45_KAG7428458.1
+fusoxy45_JAELUR010000008.1	bed	CDS	55719	199464	.	-	ID=cds_fusoxy45_KAG7428459.1;Description=;parent=rna_fusoxy45_KAG7428459.1
+fusoxy45_JAELUR010000008.1	bed	CDS	57636	197761	.	-	ID=cds_fusoxy45_KAG7428495.1;Description=;parent=rna_fusoxy45_KAG7428495.1
+fusoxy45_JAELUR010000008.1	bed	CDS	60186	195418	.	+	ID=cds_fusoxy45_KAG7428497.1;Description=;parent=rna_fusoxy45_KAG7428497.1
+fusoxy45_JAELUR010000008.1	bed	CDS	62465	193684	.	-	ID=cds_fusoxy45_KAG7428492.1;Description=;parent=rna_fusoxy45_KAG7428492.1
+fusoxy45_JAELUR010000008.1	bed	CDS	63639	191748	.	-	ID=cds_fusoxy45_KAG7428461.1;Description=;parent=rna_fusoxy45_KAG7428461.1
+fusoxy45_JAELUR010000008.1	bed	CDS	65629	189090	.	+	ID=cds_fusoxy45_KAG7428301.1;Description=;parent=rna_fusoxy45_KAG7428301.1
+fusoxy45_JAELUR010000008.1	bed	CDS	67692	188028	.	-	ID=cds_fusoxy45_KAG7428302.1;Description=;parent=rna_fusoxy45_KAG7428302.1
+fusoxy45_JAELUR010000008.1	bed	CDS	70089	186339	.	+	ID=cds_fusoxy45_eg259314;Description=;parent=rna_fusoxy45_eg259314
+fusoxy45_JAELUR010000008.1	bed	CDS	72520	183725	.	+	ID=cds_fusoxy45_eg258824;Description=;parent=rna_fusoxy45_eg258824
+fusoxy45_JAELUR010000008.1	bed	CDS	74451	180576	.	-	ID=cds_fusoxy45_KAG7427897.1;Description=;parent=rna_fusoxy45_KAG7427897.1
+fusoxy45_JAELUR010000008.1	bed	CDS	76596	179073	.	-	ID=cds_fusoxy45_KAG7427898.1;Description=;parent=rna_fusoxy45_KAG7427898.1
+fusoxy45_JAELUR010000008.1	bed	CDS	78403	177362	.	-	ID=cds_fusoxy45_KAG7427907.1;Description=;parent=rna_fusoxy45_KAG7427907.1
+fusoxy45_JAELUR010000008.1	bed	CDS	81732	174633	.	-	ID=cds_fusoxy45_KAG7427899.1;Description=;parent=rna_fusoxy45_KAG7427899.1
+fusoxy45_JAELUR010000008.1	bed	CDS	83168	171775	.	+	ID=cds_fusoxy45_KAG7427900.1;Description=;parent=rna_fusoxy45_KAG7427900.1
+fusoxy45_JAELUR010000008.1	bed	CDS	85717	170291	.	-	ID=cds_fusoxy45_KAG7427901.1;Description=;parent=rna_fusoxy45_KAG7427901.1
+fusoxy45_JAELUR010000008.1	bed	CDS	88456	167323	.	+	ID=cds_fusoxy45_KAG7427902.1;Description=;parent=rna_fusoxy45_KAG7427902.1
+fusoxy45_JAELUR010000008.1	bed	CDS	90016	165242	.	-	ID=cds_fusoxy45_KAG7427903.1;Description=;parent=rna_fusoxy45_KAG7427903.1
+fusoxy45_JAELUR010000008.1	bed	CDS	92762	163252	.	-	ID=cds_fusoxy45_KAG7427894.1;Description=;parent=rna_fusoxy45_KAG7427894.1
+fusoxy45_JAELUR010000008.1	bed	CDS	94870	160961	.	-	ID=cds_fusoxy45_eg259221;Description=;parent=rna_fusoxy45_eg259221
+fusoxy45_JAELUR010000008.1	bed	CDS	96506	159157	.	+	ID=cds_fusoxy45_KAG7427895.1;Description=;parent=rna_fusoxy45_KAG7427895.1
+fusoxy45_JAELUR010000008.1	bed	CDS	97877	158314	.	+	ID=cds_fusoxy45_KAG7428361.1;Description=;parent=rna_fusoxy45_KAG7428361.1
+fusoxy45_JAELUR010000008.1	bed	CDS	98935	157382	.	-	ID=cds_fusoxy45_KAG7428360.1;Description=;parent=rna_fusoxy45_KAG7428360.1
+fusoxy45_JAELUR010000008.1	bed	CDS	101018	154937	.	-	ID=cds_fusoxy45_KAG7428359.1;Description=;parent=rna_fusoxy45_KAG7428359.1
+fusoxy45_JAELUR010000008.1	bed	CDS	102447	153189	.	-	ID=cds_fusoxy45_KAG7428358.1;Description=;parent=rna_fusoxy45_KAG7428358.1
+fusoxy45_JAELUR010000008.1	bed	CDS	104798	150208	.	+	ID=cds_fusoxy45_KAG7428357.1;Description=;parent=rna_fusoxy45_KAG7428357.1
+fusoxy45_JAELUR010000008.1	bed	CDS	107122	148071	.	-	ID=cds_fusoxy45_KAG7428356.1;Description=;parent=rna_fusoxy45_KAG7428356.1
+fusoxy45_JAELUR010000008.1	bed	CDS	108852	143936	.	-	ID=cds_fusoxy45_KAG7428355.1;Description=;parent=rna_fusoxy45_KAG7428355.1
+fusoxy45_JAELUR010000008.1	bed	CDS	115057	141464	.	+	ID=cds_fusoxy45_eg259260;Description=;parent=rna_fusoxy45_eg259260
+fusoxy45_JAELUR010000008.1	bed	CDS	115380	138426	.	+	ID=cds_fusoxy45_KAG7428354.1;Description=;parent=rna_fusoxy45_KAG7428354.1
+fusoxy45_JAELUR010000008.1	bed	CDS	119440	135927	.	-	ID=cds_fusoxy45_KAG7428363.1;Description=;parent=rna_fusoxy45_KAG7428363.1
+fusoxy45_JAELUR010000008.1	bed	CDS	123563	131821	.	+	ID=cds_fusoxy45_KAG7428362.1;Description=;parent=rna_fusoxy45_KAG7428362.1
+fusoxy45_JAELUR010000008.1	bed	CDS	127093	128134	.	+	ID=cds_fusoxy45_KAG7428228.1;Description=;parent=rna_fusoxy45_KAG7428228.1
+fusoxy45_JAELUR010000008.1	bed	CDS	129413	127084	.	-	ID=cds_fusoxy45_eg258845;Description=;parent=rna_fusoxy45_eg258845
+fusoxy45_JAELUR010000008.1	bed	CDS	129462	127065	.	+	ID=cds_fusoxy45_eg258879;Description=;parent=rna_fusoxy45_eg258879
+fusoxy45_JAELUR010000008.1	bed	CDS	130642	125404	.	+	ID=cds_fusoxy45_KAG7427704.1;Description=;parent=rna_fusoxy45_KAG7427704.1
+fusoxy45_JAELUR010000008.1	bed	CDS	132599	120370	.	-	ID=cds_fusoxy45_KAG7427702.1;Description=;parent=rna_fusoxy45_KAG7427702.1
+fusoxy45_JAELUR010000008.1	bed	CDS	138902	117199	.	+	ID=cds_fusoxy45_KAG7427703.1;Description=;parent=rna_fusoxy45_KAG7427703.1
+fusoxy45_JAELUR010000008.1	bed	CDS	140181	115312	.	-	ID=cds_fusoxy45_KAG7427707.1;Description=;parent=rna_fusoxy45_KAG7427707.1
+fusoxy45_JAELUR010000008.1	bed	CDS	145321	110403	.	+	ID=cds_fusoxy45_KAG7428229.1;Description=;parent=rna_fusoxy45_KAG7428229.1
+fusoxy45_JAELUR010000008.1	bed	CDS	147072	108978	.	+	ID=cds_fusoxy45_eg258858;Description=;parent=rna_fusoxy45_eg258858
+fusoxy45_JAELUR010000008.1	bed	CDS	148652	105888	.	+	ID=cds_fusoxy45_KAG7427705.1;Description=;parent=rna_fusoxy45_KAG7427705.1
+fusoxy45_JAELUR010000008.1	bed	CDS	152693	102235	.	+	ID=cds_fusoxy45_KAG7427706.1;Description=;parent=rna_fusoxy45_KAG7427706.1
+fusoxy45_JAELUR010000008.1	bed	CDS	155018	101098	.	-	ID=cds_fusoxy45_eg258888;Description=;parent=rna_fusoxy45_eg258888
+fusoxy45_JAELUR010000008.1	bed	CDS	156231	99702	.	-	ID=cds_fusoxy45_KAG7427872.1;Description=;parent=rna_fusoxy45_KAG7427872.1
+fusoxy45_JAELUR010000008.1	bed	CDS	158754	94161	.	+	ID=cds_fusoxy45_KAG7427873.1;Description=;parent=rna_fusoxy45_KAG7427873.1
+fusoxy45_JAELUR010000008.1	bed	CDS	168028	88108	.	+	ID=cds_fusoxy45_eg258970;Description=;parent=rna_fusoxy45_eg258970
+fusoxy45_JAELUR010000008.1	bed	CDS	175379	79165	.	-	ID=cds_fusoxy45_KAG7428326.1;Description=;parent=rna_fusoxy45_KAG7428326.1
+fusoxy45_JAELUR010000008.1	bed	CDS	179224	73065	.	+	ID=cds_fusoxy45_KAG7428325.1;Description=;parent=rna_fusoxy45_KAG7428325.1
+fusoxy45_JAELUR010000008.1	bed	CDS	183913	72465	.	-	ID=cds_fusoxy45_KAG7428328.1;Description=;parent=rna_fusoxy45_KAG7428328.1
+fusoxy45_JAELUR010000008.1	bed	CDS	188456	67139	.	-	ID=cds_fusoxy45_KAG7428327.1;Description=;parent=rna_fusoxy45_KAG7428327.1
+fusoxy45_JAELUR010000008.1	bed	CDS	191074	65453	.	+	ID=cds_fusoxy45_eg259330;Description=;parent=rna_fusoxy45_eg259330
+fusoxy45_JAELUR010000008.1	bed	CDS	192935	62670	.	+	ID=cds_fusoxy45_KAG7428330.1;Description=;parent=rna_fusoxy45_KAG7428330.1
+fusoxy45_JAELUR010000008.1	bed	CDS	196241	59488	.	-	ID=cds_fusoxy45_eg259084;Description=;parent=rna_fusoxy45_eg259084
+fusoxy45_JAELUR010000008.1	bed	CDS	198682	57211	.	+	ID=cds_fusoxy45_eg258895;Description=;parent=rna_fusoxy45_eg258895
+fusoxy45_JAELUR010000008.1	bed	CDS	200102	53677	.	+	ID=cds_fusoxy45_KAG7428329.1;Description=;parent=rna_fusoxy45_KAG7428329.1
+fusoxy45_JAELUR010000008.1	bed	CDS	204118	51536	.	+	ID=cds_fusoxy45_KAG7428332.1;Description=;parent=rna_fusoxy45_KAG7428332.1
+fusoxy45_JAELUR010000008.1	bed	CDS	205926	49026	.	-	ID=cds_fusoxy45_KAG7428331.1;Description=;parent=rna_fusoxy45_KAG7428331.1
+fusoxy45_JAELUR010000008.1	bed	CDS	208039	46760	.	-	ID=cds_fusoxy45_KAG7428334.1;Description=;parent=rna_fusoxy45_KAG7428334.1
+fusoxy45_JAELUR010000008.1	bed	CDS	214208	42049	.	-	ID=cds_fusoxy45_eg259317;Description=;parent=rna_fusoxy45_eg259317
+fusoxy45_JAELUR010000008.1	bed	CDS	216828	37386	.	+	ID=cds_fusoxy45_KAG7428333.1;Description=;parent=rna_fusoxy45_KAG7428333.1
+fusoxy45_JAELUR010000008.1	bed	CDS	220603	32137	.	+	ID=cds_fusoxy45_KAG7428037.1;Description=;parent=rna_fusoxy45_KAG7428037.1
+fusoxy45_JAELUR010000008.1	bed	CDS	227111	28496	.	-	ID=cds_fusoxy45_KAG7428218.1;Description=;parent=rna_fusoxy45_KAG7428218.1
+fusoxy45_JAELUR010000008.1	bed	CDS	228412	27710	.	+	ID=cds_fusoxy45_KAG7428306.1;Description=;parent=rna_fusoxy45_KAG7428306.1
+fusoxy45_JAELUR010000008.1	bed	CDS	229517	26470	.	+	ID=cds_fusoxy45_KAG7428309.1;Description=;parent=rna_fusoxy45_KAG7428309.1
+fusoxy45_JAELUR010000008.1	bed	CDS	232238	23071	.	-	ID=cds_fusoxy45_KAG7428034.1;Description=;parent=rna_fusoxy45_KAG7428034.1
+fusoxy45_JAELUR010000008.1	bed	CDS	234072	22248	.	+	ID=cds_fusoxy45_KAG7428579.1;Description=;parent=rna_fusoxy45_KAG7428579.1
+fusoxy45_JAELUR010000008.1	bed	CDS	238156	18076	.	+	ID=cds_fusoxy45_KAG7428203.1;Description=;parent=rna_fusoxy45_KAG7428203.1
+fusoxy45_JAELUR010000008.1	bed	CDS	238925	16799	.	-	ID=cds_fusoxy45_KAG7428304.1;Description=;parent=rna_fusoxy45_KAG7428304.1
+fusoxy45_JAELUR010000008.1	bed	CDS	244107	11226	.	-	ID=cds_fusoxy45_KAG7427984.1;Description=;parent=rna_fusoxy45_KAG7427984.1
+fusoxy45_JAELUR010000008.1	bed	CDS	250518	5649	.	-	ID=cds_fusoxy45_KAG7427985.1;Description=;parent=rna_fusoxy45_KAG7427985.1
+fusoxy45_JAELUR010000008.1	bed	CDS	252859	3287	.	+	ID=cds_fusoxy45_KAG7428437.1;Description=;parent=rna_fusoxy45_KAG7428437.1
+fusoxy45_JAELUR010000008.1	bed	CDS	255199	167	.	+	ID=cds_fusoxy45_KAG7428436.1;Description=;parent=rna_fusoxy45_KAG7428436.1

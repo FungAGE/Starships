@@ -1,0 +1,22 @@
+aspluc2_scaffold5	bed	region	1	47539	.	-	flank	ID=gene_aspluc2_tyr1871|DR|down;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	region	5	47527	.	-	flank	ID=gene_aspluc2_tyr1871|TIR|down;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	gene	31030	14699	.	-	.	ID=gene_aspluc2_160947;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	gene	33687	12953	.	+	.	ID=gene_aspluc2_45571;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	gene	35647	10700	.	+	.	ID=gene_aspluc2_60189;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	gene	37637	9147	.	+	.	ID=gene_aspluc2_715837;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	gene	40338	5396	.	-	.	ID=gene_aspluc2_60190;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	gene	44403	2336	.	-	cap	ID=gene_aspluc2_tyr1871;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	region	47489	43	.	-	flank	ID=gene_aspluc2_tyr1871|TIR|up;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	region	47539	0	.	-	flank	ID=gene_aspluc2_tyr1871|DR|up;Description=aspluc2_s01743;parent=aspluc2_scaffold5
+aspluc2_scaffold5	bed	RNA	31030	14699	.	-	ID=rna_aspluc2_160947;Description=;parent=gene_aspluc2_160947
+aspluc2_scaffold5	bed	RNA	33687	12953	.	+	ID=rna_aspluc2_45571;Description=;parent=gene_aspluc2_45571
+aspluc2_scaffold5	bed	RNA	35647	10700	.	+	ID=rna_aspluc2_60189;Description=;parent=gene_aspluc2_60189
+aspluc2_scaffold5	bed	RNA	37637	9147	.	+	ID=rna_aspluc2_715837;Description=;parent=gene_aspluc2_715837
+aspluc2_scaffold5	bed	RNA	40338	5396	.	-	ID=rna_aspluc2_60190;Description=;parent=gene_aspluc2_60190
+aspluc2_scaffold5	bed	RNA	44403	2336	.	-	ID=rna_aspluc2_tyr1871;Description=;parent=gene_aspluc2_tyr1871
+aspluc2_scaffold5	bed	CDS	31030	14699	.	-	ID=cds_aspluc2_160947;Description=;parent=rna_aspluc2_160947
+aspluc2_scaffold5	bed	CDS	33687	12953	.	+	ID=cds_aspluc2_45571;Description=;parent=rna_aspluc2_45571
+aspluc2_scaffold5	bed	CDS	35647	10700	.	+	ID=cds_aspluc2_60189;Description=;parent=rna_aspluc2_60189
+aspluc2_scaffold5	bed	CDS	37637	9147	.	+	ID=cds_aspluc2_715837;Description=;parent=rna_aspluc2_715837
+aspluc2_scaffold5	bed	CDS	40338	5396	.	-	ID=cds_aspluc2_60190;Description=;parent=rna_aspluc2_60190
+aspluc2_scaffold5	bed	CDS	44403	2336	.	-	ID=cds_aspluc2_tyr1871;Description=;parent=rna_aspluc2_tyr1871

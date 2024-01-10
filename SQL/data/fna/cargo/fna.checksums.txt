@@ -1,0 +1,5 @@
+seqkit.v0.1_LS_k0_56fc8fa222734a7d4b9ddedcca604bbf	SQL/data/fna/cargo/duf3723/fna.checksums.txt
+seqkit.v0.1_LS_k0_56fc8fa222734a7d4b9ddedcca604bbf	SQL/data/fna/cargo/fre/fna.checksums.txt
+seqkit.v0.1_LS_k0_56fc8fa222734a7d4b9ddedcca604bbf	SQL/data/fna/cargo/nlr/fna.checksums.txt
+seqkit.v0.1_LS_k0_56fc8fa222734a7d4b9ddedcca604bbf	SQL/data/fna/cargo/plp/fna.checksums.txt
+seqkit.v0.1_LS_k0_56fc8fa222734a7d4b9ddedcca604bbf	SQL/data/fna/cargo/tyr/fna.checksums.txt

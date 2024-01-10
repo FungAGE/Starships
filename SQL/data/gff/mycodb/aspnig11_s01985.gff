@@ -1,0 +1,31 @@
+aspnig11_LKBF01000010.1	bed	region	1	38456	.	+	flank	ID=gene_aspnig11_tyr2043|DR|up;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	region	38	38421	.	+	flank	ID=gene_aspnig11_tyr2043|TIR|up;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	561	35074	.	+	cap	ID=gene_aspnig11_tyr2043;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	5915	32222	.	+	.	ID=gene_aspnig11_eg105121;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	8529	29704	.	-	.	ID=gene_aspnig11_eg104728;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	13421	24824	.	+	.	ID=gene_aspnig11_eg104727;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	14136	23671	.	+	.	ID=gene_aspnig11_eg105088;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	18303	17908	.	+	.	ID=gene_aspnig11_eg104878;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	31549	6576	.	+	.	ID=gene_aspnig11_eg104681;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	32411	4287	.	+	.	ID=gene_aspnig11_eg104612;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	gene	34940	3317	.	-	.	ID=gene_aspnig11_eg104682;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	region	38431	26	.	+	flank	ID=gene_aspnig11_tyr2043|TIR|down;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	region	38457	0	.	+	flank	ID=gene_aspnig11_tyr2043|DR|down;Description=aspnig11_s01985;parent=aspnig11_LKBF01000010.1
+aspnig11_LKBF01000010.1	bed	RNA	561	35074	.	+	ID=rna_aspnig11_tyr2043;Description=;parent=gene_aspnig11_tyr2043
+aspnig11_LKBF01000010.1	bed	RNA	5915	32222	.	+	ID=rna_aspnig11_eg105121;Description=;parent=gene_aspnig11_eg105121
+aspnig11_LKBF01000010.1	bed	RNA	8529	29704	.	-	ID=rna_aspnig11_eg104728;Description=;parent=gene_aspnig11_eg104728
+aspnig11_LKBF01000010.1	bed	RNA	13421	24824	.	+	ID=rna_aspnig11_eg104727;Description=;parent=gene_aspnig11_eg104727
+aspnig11_LKBF01000010.1	bed	RNA	14136	23671	.	+	ID=rna_aspnig11_eg105088;Description=;parent=gene_aspnig11_eg105088
+aspnig11_LKBF01000010.1	bed	RNA	18303	17908	.	+	ID=rna_aspnig11_eg104878;Description=;parent=gene_aspnig11_eg104878
+aspnig11_LKBF01000010.1	bed	RNA	31549	6576	.	+	ID=rna_aspnig11_eg104681;Description=;parent=gene_aspnig11_eg104681
+aspnig11_LKBF01000010.1	bed	RNA	32411	4287	.	+	ID=rna_aspnig11_eg104612;Description=;parent=gene_aspnig11_eg104612
+aspnig11_LKBF01000010.1	bed	RNA	34940	3317	.	-	ID=rna_aspnig11_eg104682;Description=;parent=gene_aspnig11_eg104682
+aspnig11_LKBF01000010.1	bed	CDS	561	35074	.	+	ID=cds_aspnig11_tyr2043;Description=;parent=rna_aspnig11_tyr2043
+aspnig11_LKBF01000010.1	bed	CDS	5915	32222	.	+	ID=cds_aspnig11_eg105121;Description=;parent=rna_aspnig11_eg105121
+aspnig11_LKBF01000010.1	bed	CDS	8529	29704	.	-	ID=cds_aspnig11_eg104728;Description=;parent=rna_aspnig11_eg104728
+aspnig11_LKBF01000010.1	bed	CDS	13421	24824	.	+	ID=cds_aspnig11_eg104727;Description=;parent=rna_aspnig11_eg104727
+aspnig11_LKBF01000010.1	bed	CDS	14136	23671	.	+	ID=cds_aspnig11_eg105088;Description=;parent=rna_aspnig11_eg105088
+aspnig11_LKBF01000010.1	bed	CDS	18303	17908	.	+	ID=cds_aspnig11_eg104878;Description=;parent=rna_aspnig11_eg104878
+aspnig11_LKBF01000010.1	bed	CDS	31549	6576	.	+	ID=cds_aspnig11_eg104681;Description=;parent=rna_aspnig11_eg104681
+aspnig11_LKBF01000010.1	bed	CDS	32411	4287	.	+	ID=cds_aspnig11_eg104612;Description=;parent=rna_aspnig11_eg104612
+aspnig11_LKBF01000010.1	bed	CDS	34940	3317	.	-	ID=cds_aspnig11_eg104682;Description=;parent=rna_aspnig11_eg104682

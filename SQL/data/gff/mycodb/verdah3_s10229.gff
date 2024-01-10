@@ -1,0 +1,42 @@
+verdah3_scaffold4	bed	gene	1	22867	.	+	insert	ID=gene_verdah3_490365|verdah5_MU009680.1|up;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	513	21844	.	+	.	ID=gene_verdah3_439835;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	1076	20501	.	+	.	ID=gene_verdah3_175881;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	2357	18685	.	+	.	ID=gene_verdah3_457878;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	5143	16847	.	-	.	ID=gene_verdah3_175709;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	7566	13636	.	+	.	ID=gene_verdah3_516664;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	9118	12355	.	-	.	ID=gene_verdah3_357723;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	11851	9138	.	+	d37	ID=gene_verdah3_457881;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	15600	4638	.	+	cap	ID=gene_verdah3_490365;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	18414	3756	.	+	.	ID=gene_verdah3_516668;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	19244	2842	.	+	.	ID=gene_verdah3_398164;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	20568	1410	.	-	.	ID=gene_verdah3_176216;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	21802	2701	.	+	.	ID=gene_verdah3_457884;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	gene	22868	0	.	+	insert	ID=gene_verdah3_490365|verdah5_MU009680.1|down;Description=verdah3_s10229;parent=verdah3_scaffold4
+verdah3_scaffold4	bed	RNA	1	22867	.	+	ID=rna_verdah3_490365|verdah5_MU009680.1|up;Description=;parent=gene_verdah3_490365|verdah5_MU009680.1|up
+verdah3_scaffold4	bed	RNA	513	21844	.	+	ID=rna_verdah3_439835;Description=;parent=gene_verdah3_439835
+verdah3_scaffold4	bed	RNA	1076	20501	.	+	ID=rna_verdah3_175881;Description=;parent=gene_verdah3_175881
+verdah3_scaffold4	bed	RNA	2357	18685	.	+	ID=rna_verdah3_457878;Description=;parent=gene_verdah3_457878
+verdah3_scaffold4	bed	RNA	5143	16847	.	-	ID=rna_verdah3_175709;Description=;parent=gene_verdah3_175709
+verdah3_scaffold4	bed	RNA	7566	13636	.	+	ID=rna_verdah3_516664;Description=;parent=gene_verdah3_516664
+verdah3_scaffold4	bed	RNA	9118	12355	.	-	ID=rna_verdah3_357723;Description=;parent=gene_verdah3_357723
+verdah3_scaffold4	bed	RNA	11851	9138	.	+	ID=rna_verdah3_457881;Description=;parent=gene_verdah3_457881
+verdah3_scaffold4	bed	RNA	15600	4638	.	+	ID=rna_verdah3_490365;Description=;parent=gene_verdah3_490365
+verdah3_scaffold4	bed	RNA	18414	3756	.	+	ID=rna_verdah3_516668;Description=;parent=gene_verdah3_516668
+verdah3_scaffold4	bed	RNA	19244	2842	.	+	ID=rna_verdah3_398164;Description=;parent=gene_verdah3_398164
+verdah3_scaffold4	bed	RNA	20568	1410	.	-	ID=rna_verdah3_176216;Description=;parent=gene_verdah3_176216
+verdah3_scaffold4	bed	RNA	21802	2701	.	+	ID=rna_verdah3_457884;Description=;parent=gene_verdah3_457884
+verdah3_scaffold4	bed	RNA	22868	0	.	+	ID=rna_verdah3_490365|verdah5_MU009680.1|down;Description=;parent=gene_verdah3_490365|verdah5_MU009680.1|down
+verdah3_scaffold4	bed	CDS	1	22867	.	+	ID=cds_verdah3_490365|verdah5_MU009680.1|up;Description=;parent=rna_verdah3_490365|verdah5_MU009680.1|up
+verdah3_scaffold4	bed	CDS	513	21844	.	+	ID=cds_verdah3_439835;Description=;parent=rna_verdah3_439835
+verdah3_scaffold4	bed	CDS	1076	20501	.	+	ID=cds_verdah3_175881;Description=;parent=rna_verdah3_175881
+verdah3_scaffold4	bed	CDS	2357	18685	.	+	ID=cds_verdah3_457878;Description=;parent=rna_verdah3_457878
+verdah3_scaffold4	bed	CDS	5143	16847	.	-	ID=cds_verdah3_175709;Description=;parent=rna_verdah3_175709
+verdah3_scaffold4	bed	CDS	7566	13636	.	+	ID=cds_verdah3_516664;Description=;parent=rna_verdah3_516664
+verdah3_scaffold4	bed	CDS	9118	12355	.	-	ID=cds_verdah3_357723;Description=;parent=rna_verdah3_357723
+verdah3_scaffold4	bed	CDS	11851	9138	.	+	ID=cds_verdah3_457881;Description=;parent=rna_verdah3_457881
+verdah3_scaffold4	bed	CDS	15600	4638	.	+	ID=cds_verdah3_490365;Description=;parent=rna_verdah3_490365
+verdah3_scaffold4	bed	CDS	18414	3756	.	+	ID=cds_verdah3_516668;Description=;parent=rna_verdah3_516668
+verdah3_scaffold4	bed	CDS	19244	2842	.	+	ID=cds_verdah3_398164;Description=;parent=rna_verdah3_398164
+verdah3_scaffold4	bed	CDS	20568	1410	.	-	ID=cds_verdah3_176216;Description=;parent=rna_verdah3_176216
+verdah3_scaffold4	bed	CDS	21802	2701	.	+	ID=cds_verdah3_457884;Description=;parent=rna_verdah3_457884
+verdah3_scaffold4	bed	CDS	22868	0	.	+	ID=cds_verdah3_490365|verdah5_MU009680.1|down;Description=;parent=rna_verdah3_490365|verdah5_MU009680.1|down

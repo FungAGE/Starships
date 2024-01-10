@@ -1,0 +1,28 @@
+aspwes1_LKBE01000001.1	bed	region	1	53555	.	+	flank	ID=gene_aspwes1_tyr3208|DR|up;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	region	56	53513	.	+	flank	ID=gene_aspwes1_tyr3208|TIR|up;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	gene	293	51661	.	+	cap	ID=gene_aspwes1_tyr3208;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	gene	9279	43794	.	+	.	ID=gene_aspwes1_eg172940;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	gene	14056	36447	.	-	plp	ID=gene_aspwes1_plp2758;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	gene	23109	27924	.	+	d37	ID=gene_aspwes1_d372021;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	gene	26005	26184	.	+	fre	ID=gene_aspwes1_fre4685;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	gene	34493	15664	.	-	.	ID=gene_aspwes1_eg172855;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	gene	48309	4807	.	+	.	ID=gene_aspwes1_eg172742;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	gene	49921	2891	.	-	.	ID=gene_aspwes1_eg172922;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	region	53504	66	.	+	flank	ID=gene_aspwes1_tyr3208|TIR|down;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	region	53554	0	.	+	flank	ID=gene_aspwes1_tyr3208|DR|down;Description=aspwes1_s03031;parent=aspwes1_LKBE01000001.1
+aspwes1_LKBE01000001.1	bed	RNA	293	51661	.	+	ID=rna_aspwes1_tyr3208;Description=;parent=gene_aspwes1_tyr3208
+aspwes1_LKBE01000001.1	bed	RNA	9279	43794	.	+	ID=rna_aspwes1_eg172940;Description=;parent=gene_aspwes1_eg172940
+aspwes1_LKBE01000001.1	bed	RNA	14056	36447	.	-	ID=rna_aspwes1_plp2758;Description=;parent=gene_aspwes1_plp2758
+aspwes1_LKBE01000001.1	bed	RNA	23109	27924	.	+	ID=rna_aspwes1_d372021;Description=;parent=gene_aspwes1_d372021
+aspwes1_LKBE01000001.1	bed	RNA	26005	26184	.	+	ID=rna_aspwes1_fre4685;Description=;parent=gene_aspwes1_fre4685
+aspwes1_LKBE01000001.1	bed	RNA	34493	15664	.	-	ID=rna_aspwes1_eg172855;Description=;parent=gene_aspwes1_eg172855
+aspwes1_LKBE01000001.1	bed	RNA	48309	4807	.	+	ID=rna_aspwes1_eg172742;Description=;parent=gene_aspwes1_eg172742
+aspwes1_LKBE01000001.1	bed	RNA	49921	2891	.	-	ID=rna_aspwes1_eg172922;Description=;parent=gene_aspwes1_eg172922
+aspwes1_LKBE01000001.1	bed	CDS	293	51661	.	+	ID=cds_aspwes1_tyr3208;Description=;parent=rna_aspwes1_tyr3208
+aspwes1_LKBE01000001.1	bed	CDS	9279	43794	.	+	ID=cds_aspwes1_eg172940;Description=;parent=rna_aspwes1_eg172940
+aspwes1_LKBE01000001.1	bed	CDS	14056	36447	.	-	ID=cds_aspwes1_plp2758;Description=;parent=rna_aspwes1_plp2758
+aspwes1_LKBE01000001.1	bed	CDS	23109	27924	.	+	ID=cds_aspwes1_d372021;Description=;parent=rna_aspwes1_d372021
+aspwes1_LKBE01000001.1	bed	CDS	26005	26184	.	+	ID=cds_aspwes1_fre4685;Description=;parent=rna_aspwes1_fre4685
+aspwes1_LKBE01000001.1	bed	CDS	34493	15664	.	-	ID=cds_aspwes1_eg172855;Description=;parent=rna_aspwes1_eg172855
+aspwes1_LKBE01000001.1	bed	CDS	48309	4807	.	+	ID=cds_aspwes1_eg172742;Description=;parent=rna_aspwes1_eg172742
+aspwes1_LKBE01000001.1	bed	CDS	49921	2891	.	-	ID=cds_aspwes1_eg172922;Description=;parent=rna_aspwes1_eg172922

@@ -1,0 +1,247 @@
+kredeu2_scaffold46	bed	region	1	197356	.	+	flank	ID=gene_kredeu2_504220|DR|up;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	region	48	197306	.	+	flank	ID=gene_kredeu2_504220|TIR|up;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	602	194666	.	+	cap	ID=gene_kredeu2_504220;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	4395	190657	.	+	.	ID=gene_kredeu2_475931;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	7636	186779	.	+	.	ID=gene_kredeu2_eg337058;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	10725	186413	.	+	.	ID=gene_kredeu2_eg337082;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	11069	186102	.	-	.	ID=gene_kredeu2_eg337036;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	11319	184277	.	+	.	ID=gene_kredeu2_eg337048;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	14148	182069	.	+	.	ID=gene_kredeu2_504224;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	17676	177386	.	+	.	ID=gene_kredeu2_491662;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	22450	174550	.	-	.	ID=gene_kredeu2_eg337081;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	23778	172086	.	+	.	ID=gene_kredeu2_297797;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	25236	171445	.	-	.	ID=gene_kredeu2_504229;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	28445	168018	.	+	.	ID=gene_kredeu2_504230;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	31104	165565	.	+	.	ID=gene_kredeu2_491663;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	32393	164219	.	+	.	ID=gene_kredeu2_514572;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	33877	163155	.	+	.	ID=gene_kredeu2_504233;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	34824	162218	.	-	.	ID=gene_kredeu2_504234;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	39065	157800	.	+	nlr	ID=gene_kredeu2_514579;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	41769	154933	.	+	.	ID=gene_kredeu2_475964;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	43356	152413	.	-	.	ID=gene_kredeu2_297945;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	45062	150981	.	+	.	ID=gene_kredeu2_475966;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	45850	151129	.	+	.	ID=gene_kredeu2_504239;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	46971	149594	.	+	.	ID=gene_kredeu2_504240;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	50489	146065	.	+	.	ID=gene_kredeu2_475974;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	52675	143300	.	-	.	ID=gene_kredeu2_475976;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	54230	139631	.	+	.	ID=gene_kredeu2_475983;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	59165	135999	.	-	.	ID=gene_kredeu2_475987;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	63382	133161	.	-	.	ID=gene_kredeu2_475992;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	64909	131843	.	+	.	ID=gene_kredeu2_475993;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	68169	126708	.	-	.	ID=gene_kredeu2_514585;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	71933	124979	.	-	.	ID=gene_kredeu2_504250;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	72531	123852	.	-	.	ID=gene_kredeu2_475997;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	74608	121159	.	+	.	ID=gene_kredeu2_476001;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	76204	119975	.	-	.	ID=gene_kredeu2_476004;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	80487	116066	.	+	.	ID=gene_kredeu2_476008;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	81341	114592	.	-	.	ID=gene_kredeu2_504256;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	83472	113176	.	+	.	ID=gene_kredeu2_504257;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	84838	110810	.	+	.	ID=gene_kredeu2_514592;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	89255	105385	.	+	.	ID=gene_kredeu2_514595;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	92023	105041	.	-	.	ID=gene_kredeu2_476071;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	93221	102937	.	-	.	ID=gene_kredeu2_476073;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	95240	99854	.	+	.	ID=gene_kredeu2_514601;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	99789	96061	.	+	.	ID=gene_kredeu2_514603;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	102216	94502	.	+	.	ID=gene_kredeu2_514605;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	102965	91590	.	-	.	ID=gene_kredeu2_298289;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	106664	90077	.	+	.	ID=gene_kredeu2_491678;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	108403	86843	.	+	.	ID=gene_kredeu2_491679;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	111644	84651	.	+	.	ID=gene_kredeu2_504269;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	113043	83576	.	-	.	ID=gene_kredeu2_504270;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	114211	82470	.	+	.	ID=gene_kredeu2_504271;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	115395	81567	.	+	.	ID=gene_kredeu2_504272;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	117604	78901	.	-	.	ID=gene_kredeu2_504273;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	119136	77939	.	-	.	ID=gene_kredeu2_504274;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	120611	75919	.	+	.	ID=gene_kredeu2_298298;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	121552	74621	.	+	.	ID=gene_kredeu2_476080;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	123920	70759	.	-	.	ID=gene_kredeu2_504278;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	127461	68792	.	+	d37	ID=gene_kredeu2_504279;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	129951	66389	.	+	.	ID=gene_kredeu2_514614;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	133262	62994	.	-	.	ID=gene_kredeu2_504282;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	136173	60357	.	+	.	ID=gene_kredeu2_504284;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	138295	58171	.	-	.	ID=gene_kredeu2_504285;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	141686	53335	.	-	.	ID=gene_kredeu2_476083;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	144610	51851	.	-	.	ID=gene_kredeu2_504288;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	147904	47905	.	+	.	ID=gene_kredeu2_504289;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	150746	43308	.	+	.	ID=gene_kredeu2_504290;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	155018	41283	.	-	.	ID=gene_kredeu2_eg337089;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	156976	39430	.	-	.	ID=gene_kredeu2_514622;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	160095	34192	.	-	.	ID=gene_kredeu2_298354;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	164979	31150	.	+	.	ID=gene_kredeu2_298478;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	166340	30111	.	-	.	ID=gene_kredeu2_504295;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	170349	26014	.	-	.	ID=gene_kredeu2_476098;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	172032	23548	.	+	.	ID=gene_kredeu2_476100;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	175249	20398	.	-	.	ID=gene_kredeu2_476101;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	177043	18944	.	+	.	ID=gene_kredeu2_476103;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	178277	17364	.	+	.	ID=gene_kredeu2_491687;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	180095	15894	.	-	.	ID=gene_kredeu2_298523;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	181481	14155	.	+	.	ID=gene_kredeu2_298533;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	184308	12142	.	-	.	ID=gene_kredeu2_504303;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	185844	10869	.	+	.	ID=gene_kredeu2_504304;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	187510	8086	.	-	.	ID=gene_kredeu2_eg337049;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	189649	7489	.	-	.	ID=gene_kredeu2_eg337083;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	gene	190015	4454	.	-	.	ID=gene_kredeu2_eg337059;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	region	197305	48	.	+	flank	ID=gene_kredeu2_504220|TIR|down;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	region	197357	0	.	+	flank	ID=gene_kredeu2_504220|DR|down;Description=kredeu2_s07384;parent=kredeu2_scaffold46
+kredeu2_scaffold46	bed	RNA	602	194666	.	+	ID=rna_kredeu2_504220;Description=;parent=gene_kredeu2_504220
+kredeu2_scaffold46	bed	RNA	4395	190657	.	+	ID=rna_kredeu2_475931;Description=;parent=gene_kredeu2_475931
+kredeu2_scaffold46	bed	RNA	7636	186779	.	+	ID=rna_kredeu2_eg337058;Description=;parent=gene_kredeu2_eg337058
+kredeu2_scaffold46	bed	RNA	10725	186413	.	+	ID=rna_kredeu2_eg337082;Description=;parent=gene_kredeu2_eg337082
+kredeu2_scaffold46	bed	RNA	11069	186102	.	-	ID=rna_kredeu2_eg337036;Description=;parent=gene_kredeu2_eg337036
+kredeu2_scaffold46	bed	RNA	11319	184277	.	+	ID=rna_kredeu2_eg337048;Description=;parent=gene_kredeu2_eg337048
+kredeu2_scaffold46	bed	RNA	14148	182069	.	+	ID=rna_kredeu2_504224;Description=;parent=gene_kredeu2_504224
+kredeu2_scaffold46	bed	RNA	17676	177386	.	+	ID=rna_kredeu2_491662;Description=;parent=gene_kredeu2_491662
+kredeu2_scaffold46	bed	RNA	22450	174550	.	-	ID=rna_kredeu2_eg337081;Description=;parent=gene_kredeu2_eg337081
+kredeu2_scaffold46	bed	RNA	23778	172086	.	+	ID=rna_kredeu2_297797;Description=;parent=gene_kredeu2_297797
+kredeu2_scaffold46	bed	RNA	25236	171445	.	-	ID=rna_kredeu2_504229;Description=;parent=gene_kredeu2_504229
+kredeu2_scaffold46	bed	RNA	28445	168018	.	+	ID=rna_kredeu2_504230;Description=;parent=gene_kredeu2_504230
+kredeu2_scaffold46	bed	RNA	31104	165565	.	+	ID=rna_kredeu2_491663;Description=;parent=gene_kredeu2_491663
+kredeu2_scaffold46	bed	RNA	32393	164219	.	+	ID=rna_kredeu2_514572;Description=;parent=gene_kredeu2_514572
+kredeu2_scaffold46	bed	RNA	33877	163155	.	+	ID=rna_kredeu2_504233;Description=;parent=gene_kredeu2_504233
+kredeu2_scaffold46	bed	RNA	34824	162218	.	-	ID=rna_kredeu2_504234;Description=;parent=gene_kredeu2_504234
+kredeu2_scaffold46	bed	RNA	39065	157800	.	+	ID=rna_kredeu2_514579;Description=;parent=gene_kredeu2_514579
+kredeu2_scaffold46	bed	RNA	41769	154933	.	+	ID=rna_kredeu2_475964;Description=;parent=gene_kredeu2_475964
+kredeu2_scaffold46	bed	RNA	43356	152413	.	-	ID=rna_kredeu2_297945;Description=;parent=gene_kredeu2_297945
+kredeu2_scaffold46	bed	RNA	45062	150981	.	+	ID=rna_kredeu2_475966;Description=;parent=gene_kredeu2_475966
+kredeu2_scaffold46	bed	RNA	45850	151129	.	+	ID=rna_kredeu2_504239;Description=;parent=gene_kredeu2_504239
+kredeu2_scaffold46	bed	RNA	46971	149594	.	+	ID=rna_kredeu2_504240;Description=;parent=gene_kredeu2_504240
+kredeu2_scaffold46	bed	RNA	50489	146065	.	+	ID=rna_kredeu2_475974;Description=;parent=gene_kredeu2_475974
+kredeu2_scaffold46	bed	RNA	52675	143300	.	-	ID=rna_kredeu2_475976;Description=;parent=gene_kredeu2_475976
+kredeu2_scaffold46	bed	RNA	54230	139631	.	+	ID=rna_kredeu2_475983;Description=;parent=gene_kredeu2_475983
+kredeu2_scaffold46	bed	RNA	59165	135999	.	-	ID=rna_kredeu2_475987;Description=;parent=gene_kredeu2_475987
+kredeu2_scaffold46	bed	RNA	63382	133161	.	-	ID=rna_kredeu2_475992;Description=;parent=gene_kredeu2_475992
+kredeu2_scaffold46	bed	RNA	64909	131843	.	+	ID=rna_kredeu2_475993;Description=;parent=gene_kredeu2_475993
+kredeu2_scaffold46	bed	RNA	68169	126708	.	-	ID=rna_kredeu2_514585;Description=;parent=gene_kredeu2_514585
+kredeu2_scaffold46	bed	RNA	71933	124979	.	-	ID=rna_kredeu2_504250;Description=;parent=gene_kredeu2_504250
+kredeu2_scaffold46	bed	RNA	72531	123852	.	-	ID=rna_kredeu2_475997;Description=;parent=gene_kredeu2_475997
+kredeu2_scaffold46	bed	RNA	74608	121159	.	+	ID=rna_kredeu2_476001;Description=;parent=gene_kredeu2_476001
+kredeu2_scaffold46	bed	RNA	76204	119975	.	-	ID=rna_kredeu2_476004;Description=;parent=gene_kredeu2_476004
+kredeu2_scaffold46	bed	RNA	80487	116066	.	+	ID=rna_kredeu2_476008;Description=;parent=gene_kredeu2_476008
+kredeu2_scaffold46	bed	RNA	81341	114592	.	-	ID=rna_kredeu2_504256;Description=;parent=gene_kredeu2_504256
+kredeu2_scaffold46	bed	RNA	83472	113176	.	+	ID=rna_kredeu2_504257;Description=;parent=gene_kredeu2_504257
+kredeu2_scaffold46	bed	RNA	84838	110810	.	+	ID=rna_kredeu2_514592;Description=;parent=gene_kredeu2_514592
+kredeu2_scaffold46	bed	RNA	89255	105385	.	+	ID=rna_kredeu2_514595;Description=;parent=gene_kredeu2_514595
+kredeu2_scaffold46	bed	RNA	92023	105041	.	-	ID=rna_kredeu2_476071;Description=;parent=gene_kredeu2_476071
+kredeu2_scaffold46	bed	RNA	93221	102937	.	-	ID=rna_kredeu2_476073;Description=;parent=gene_kredeu2_476073
+kredeu2_scaffold46	bed	RNA	95240	99854	.	+	ID=rna_kredeu2_514601;Description=;parent=gene_kredeu2_514601
+kredeu2_scaffold46	bed	RNA	99789	96061	.	+	ID=rna_kredeu2_514603;Description=;parent=gene_kredeu2_514603
+kredeu2_scaffold46	bed	RNA	102216	94502	.	+	ID=rna_kredeu2_514605;Description=;parent=gene_kredeu2_514605
+kredeu2_scaffold46	bed	RNA	102965	91590	.	-	ID=rna_kredeu2_298289;Description=;parent=gene_kredeu2_298289
+kredeu2_scaffold46	bed	RNA	106664	90077	.	+	ID=rna_kredeu2_491678;Description=;parent=gene_kredeu2_491678
+kredeu2_scaffold46	bed	RNA	108403	86843	.	+	ID=rna_kredeu2_491679;Description=;parent=gene_kredeu2_491679
+kredeu2_scaffold46	bed	RNA	111644	84651	.	+	ID=rna_kredeu2_504269;Description=;parent=gene_kredeu2_504269
+kredeu2_scaffold46	bed	RNA	113043	83576	.	-	ID=rna_kredeu2_504270;Description=;parent=gene_kredeu2_504270
+kredeu2_scaffold46	bed	RNA	114211	82470	.	+	ID=rna_kredeu2_504271;Description=;parent=gene_kredeu2_504271
+kredeu2_scaffold46	bed	RNA	115395	81567	.	+	ID=rna_kredeu2_504272;Description=;parent=gene_kredeu2_504272
+kredeu2_scaffold46	bed	RNA	117604	78901	.	-	ID=rna_kredeu2_504273;Description=;parent=gene_kredeu2_504273
+kredeu2_scaffold46	bed	RNA	119136	77939	.	-	ID=rna_kredeu2_504274;Description=;parent=gene_kredeu2_504274
+kredeu2_scaffold46	bed	RNA	120611	75919	.	+	ID=rna_kredeu2_298298;Description=;parent=gene_kredeu2_298298
+kredeu2_scaffold46	bed	RNA	121552	74621	.	+	ID=rna_kredeu2_476080;Description=;parent=gene_kredeu2_476080
+kredeu2_scaffold46	bed	RNA	123920	70759	.	-	ID=rna_kredeu2_504278;Description=;parent=gene_kredeu2_504278
+kredeu2_scaffold46	bed	RNA	127461	68792	.	+	ID=rna_kredeu2_504279;Description=;parent=gene_kredeu2_504279
+kredeu2_scaffold46	bed	RNA	129951	66389	.	+	ID=rna_kredeu2_514614;Description=;parent=gene_kredeu2_514614
+kredeu2_scaffold46	bed	RNA	133262	62994	.	-	ID=rna_kredeu2_504282;Description=;parent=gene_kredeu2_504282
+kredeu2_scaffold46	bed	RNA	136173	60357	.	+	ID=rna_kredeu2_504284;Description=;parent=gene_kredeu2_504284
+kredeu2_scaffold46	bed	RNA	138295	58171	.	-	ID=rna_kredeu2_504285;Description=;parent=gene_kredeu2_504285
+kredeu2_scaffold46	bed	RNA	141686	53335	.	-	ID=rna_kredeu2_476083;Description=;parent=gene_kredeu2_476083
+kredeu2_scaffold46	bed	RNA	144610	51851	.	-	ID=rna_kredeu2_504288;Description=;parent=gene_kredeu2_504288
+kredeu2_scaffold46	bed	RNA	147904	47905	.	+	ID=rna_kredeu2_504289;Description=;parent=gene_kredeu2_504289
+kredeu2_scaffold46	bed	RNA	150746	43308	.	+	ID=rna_kredeu2_504290;Description=;parent=gene_kredeu2_504290
+kredeu2_scaffold46	bed	RNA	155018	41283	.	-	ID=rna_kredeu2_eg337089;Description=;parent=gene_kredeu2_eg337089
+kredeu2_scaffold46	bed	RNA	156976	39430	.	-	ID=rna_kredeu2_514622;Description=;parent=gene_kredeu2_514622
+kredeu2_scaffold46	bed	RNA	160095	34192	.	-	ID=rna_kredeu2_298354;Description=;parent=gene_kredeu2_298354
+kredeu2_scaffold46	bed	RNA	164979	31150	.	+	ID=rna_kredeu2_298478;Description=;parent=gene_kredeu2_298478
+kredeu2_scaffold46	bed	RNA	166340	30111	.	-	ID=rna_kredeu2_504295;Description=;parent=gene_kredeu2_504295
+kredeu2_scaffold46	bed	RNA	170349	26014	.	-	ID=rna_kredeu2_476098;Description=;parent=gene_kredeu2_476098
+kredeu2_scaffold46	bed	RNA	172032	23548	.	+	ID=rna_kredeu2_476100;Description=;parent=gene_kredeu2_476100
+kredeu2_scaffold46	bed	RNA	175249	20398	.	-	ID=rna_kredeu2_476101;Description=;parent=gene_kredeu2_476101
+kredeu2_scaffold46	bed	RNA	177043	18944	.	+	ID=rna_kredeu2_476103;Description=;parent=gene_kredeu2_476103
+kredeu2_scaffold46	bed	RNA	178277	17364	.	+	ID=rna_kredeu2_491687;Description=;parent=gene_kredeu2_491687
+kredeu2_scaffold46	bed	RNA	180095	15894	.	-	ID=rna_kredeu2_298523;Description=;parent=gene_kredeu2_298523
+kredeu2_scaffold46	bed	RNA	181481	14155	.	+	ID=rna_kredeu2_298533;Description=;parent=gene_kredeu2_298533
+kredeu2_scaffold46	bed	RNA	184308	12142	.	-	ID=rna_kredeu2_504303;Description=;parent=gene_kredeu2_504303
+kredeu2_scaffold46	bed	RNA	185844	10869	.	+	ID=rna_kredeu2_504304;Description=;parent=gene_kredeu2_504304
+kredeu2_scaffold46	bed	RNA	187510	8086	.	-	ID=rna_kredeu2_eg337049;Description=;parent=gene_kredeu2_eg337049
+kredeu2_scaffold46	bed	RNA	189649	7489	.	-	ID=rna_kredeu2_eg337083;Description=;parent=gene_kredeu2_eg337083
+kredeu2_scaffold46	bed	RNA	190015	4454	.	-	ID=rna_kredeu2_eg337059;Description=;parent=gene_kredeu2_eg337059
+kredeu2_scaffold46	bed	CDS	602	194666	.	+	ID=cds_kredeu2_504220;Description=;parent=rna_kredeu2_504220
+kredeu2_scaffold46	bed	CDS	4395	190657	.	+	ID=cds_kredeu2_475931;Description=;parent=rna_kredeu2_475931
+kredeu2_scaffold46	bed	CDS	7636	186779	.	+	ID=cds_kredeu2_eg337058;Description=;parent=rna_kredeu2_eg337058
+kredeu2_scaffold46	bed	CDS	10725	186413	.	+	ID=cds_kredeu2_eg337082;Description=;parent=rna_kredeu2_eg337082
+kredeu2_scaffold46	bed	CDS	11069	186102	.	-	ID=cds_kredeu2_eg337036;Description=;parent=rna_kredeu2_eg337036
+kredeu2_scaffold46	bed	CDS	11319	184277	.	+	ID=cds_kredeu2_eg337048;Description=;parent=rna_kredeu2_eg337048
+kredeu2_scaffold46	bed	CDS	14148	182069	.	+	ID=cds_kredeu2_504224;Description=;parent=rna_kredeu2_504224
+kredeu2_scaffold46	bed	CDS	17676	177386	.	+	ID=cds_kredeu2_491662;Description=;parent=rna_kredeu2_491662
+kredeu2_scaffold46	bed	CDS	22450	174550	.	-	ID=cds_kredeu2_eg337081;Description=;parent=rna_kredeu2_eg337081
+kredeu2_scaffold46	bed	CDS	23778	172086	.	+	ID=cds_kredeu2_297797;Description=;parent=rna_kredeu2_297797
+kredeu2_scaffold46	bed	CDS	25236	171445	.	-	ID=cds_kredeu2_504229;Description=;parent=rna_kredeu2_504229
+kredeu2_scaffold46	bed	CDS	28445	168018	.	+	ID=cds_kredeu2_504230;Description=;parent=rna_kredeu2_504230
+kredeu2_scaffold46	bed	CDS	31104	165565	.	+	ID=cds_kredeu2_491663;Description=;parent=rna_kredeu2_491663
+kredeu2_scaffold46	bed	CDS	32393	164219	.	+	ID=cds_kredeu2_514572;Description=;parent=rna_kredeu2_514572
+kredeu2_scaffold46	bed	CDS	33877	163155	.	+	ID=cds_kredeu2_504233;Description=;parent=rna_kredeu2_504233
+kredeu2_scaffold46	bed	CDS	34824	162218	.	-	ID=cds_kredeu2_504234;Description=;parent=rna_kredeu2_504234
+kredeu2_scaffold46	bed	CDS	39065	157800	.	+	ID=cds_kredeu2_514579;Description=;parent=rna_kredeu2_514579
+kredeu2_scaffold46	bed	CDS	41769	154933	.	+	ID=cds_kredeu2_475964;Description=;parent=rna_kredeu2_475964
+kredeu2_scaffold46	bed	CDS	43356	152413	.	-	ID=cds_kredeu2_297945;Description=;parent=rna_kredeu2_297945
+kredeu2_scaffold46	bed	CDS	45062	150981	.	+	ID=cds_kredeu2_475966;Description=;parent=rna_kredeu2_475966
+kredeu2_scaffold46	bed	CDS	45850	151129	.	+	ID=cds_kredeu2_504239;Description=;parent=rna_kredeu2_504239
+kredeu2_scaffold46	bed	CDS	46971	149594	.	+	ID=cds_kredeu2_504240;Description=;parent=rna_kredeu2_504240
+kredeu2_scaffold46	bed	CDS	50489	146065	.	+	ID=cds_kredeu2_475974;Description=;parent=rna_kredeu2_475974
+kredeu2_scaffold46	bed	CDS	52675	143300	.	-	ID=cds_kredeu2_475976;Description=;parent=rna_kredeu2_475976
+kredeu2_scaffold46	bed	CDS	54230	139631	.	+	ID=cds_kredeu2_475983;Description=;parent=rna_kredeu2_475983
+kredeu2_scaffold46	bed	CDS	59165	135999	.	-	ID=cds_kredeu2_475987;Description=;parent=rna_kredeu2_475987
+kredeu2_scaffold46	bed	CDS	63382	133161	.	-	ID=cds_kredeu2_475992;Description=;parent=rna_kredeu2_475992
+kredeu2_scaffold46	bed	CDS	64909	131843	.	+	ID=cds_kredeu2_475993;Description=;parent=rna_kredeu2_475993
+kredeu2_scaffold46	bed	CDS	68169	126708	.	-	ID=cds_kredeu2_514585;Description=;parent=rna_kredeu2_514585
+kredeu2_scaffold46	bed	CDS	71933	124979	.	-	ID=cds_kredeu2_504250;Description=;parent=rna_kredeu2_504250
+kredeu2_scaffold46	bed	CDS	72531	123852	.	-	ID=cds_kredeu2_475997;Description=;parent=rna_kredeu2_475997
+kredeu2_scaffold46	bed	CDS	74608	121159	.	+	ID=cds_kredeu2_476001;Description=;parent=rna_kredeu2_476001
+kredeu2_scaffold46	bed	CDS	76204	119975	.	-	ID=cds_kredeu2_476004;Description=;parent=rna_kredeu2_476004
+kredeu2_scaffold46	bed	CDS	80487	116066	.	+	ID=cds_kredeu2_476008;Description=;parent=rna_kredeu2_476008
+kredeu2_scaffold46	bed	CDS	81341	114592	.	-	ID=cds_kredeu2_504256;Description=;parent=rna_kredeu2_504256
+kredeu2_scaffold46	bed	CDS	83472	113176	.	+	ID=cds_kredeu2_504257;Description=;parent=rna_kredeu2_504257
+kredeu2_scaffold46	bed	CDS	84838	110810	.	+	ID=cds_kredeu2_514592;Description=;parent=rna_kredeu2_514592
+kredeu2_scaffold46	bed	CDS	89255	105385	.	+	ID=cds_kredeu2_514595;Description=;parent=rna_kredeu2_514595
+kredeu2_scaffold46	bed	CDS	92023	105041	.	-	ID=cds_kredeu2_476071;Description=;parent=rna_kredeu2_476071
+kredeu2_scaffold46	bed	CDS	93221	102937	.	-	ID=cds_kredeu2_476073;Description=;parent=rna_kredeu2_476073
+kredeu2_scaffold46	bed	CDS	95240	99854	.	+	ID=cds_kredeu2_514601;Description=;parent=rna_kredeu2_514601
+kredeu2_scaffold46	bed	CDS	99789	96061	.	+	ID=cds_kredeu2_514603;Description=;parent=rna_kredeu2_514603
+kredeu2_scaffold46	bed	CDS	102216	94502	.	+	ID=cds_kredeu2_514605;Description=;parent=rna_kredeu2_514605
+kredeu2_scaffold46	bed	CDS	102965	91590	.	-	ID=cds_kredeu2_298289;Description=;parent=rna_kredeu2_298289
+kredeu2_scaffold46	bed	CDS	106664	90077	.	+	ID=cds_kredeu2_491678;Description=;parent=rna_kredeu2_491678
+kredeu2_scaffold46	bed	CDS	108403	86843	.	+	ID=cds_kredeu2_491679;Description=;parent=rna_kredeu2_491679
+kredeu2_scaffold46	bed	CDS	111644	84651	.	+	ID=cds_kredeu2_504269;Description=;parent=rna_kredeu2_504269
+kredeu2_scaffold46	bed	CDS	113043	83576	.	-	ID=cds_kredeu2_504270;Description=;parent=rna_kredeu2_504270
+kredeu2_scaffold46	bed	CDS	114211	82470	.	+	ID=cds_kredeu2_504271;Description=;parent=rna_kredeu2_504271
+kredeu2_scaffold46	bed	CDS	115395	81567	.	+	ID=cds_kredeu2_504272;Description=;parent=rna_kredeu2_504272
+kredeu2_scaffold46	bed	CDS	117604	78901	.	-	ID=cds_kredeu2_504273;Description=;parent=rna_kredeu2_504273
+kredeu2_scaffold46	bed	CDS	119136	77939	.	-	ID=cds_kredeu2_504274;Description=;parent=rna_kredeu2_504274
+kredeu2_scaffold46	bed	CDS	120611	75919	.	+	ID=cds_kredeu2_298298;Description=;parent=rna_kredeu2_298298
+kredeu2_scaffold46	bed	CDS	121552	74621	.	+	ID=cds_kredeu2_476080;Description=;parent=rna_kredeu2_476080
+kredeu2_scaffold46	bed	CDS	123920	70759	.	-	ID=cds_kredeu2_504278;Description=;parent=rna_kredeu2_504278
+kredeu2_scaffold46	bed	CDS	127461	68792	.	+	ID=cds_kredeu2_504279;Description=;parent=rna_kredeu2_504279
+kredeu2_scaffold46	bed	CDS	129951	66389	.	+	ID=cds_kredeu2_514614;Description=;parent=rna_kredeu2_514614
+kredeu2_scaffold46	bed	CDS	133262	62994	.	-	ID=cds_kredeu2_504282;Description=;parent=rna_kredeu2_504282
+kredeu2_scaffold46	bed	CDS	136173	60357	.	+	ID=cds_kredeu2_504284;Description=;parent=rna_kredeu2_504284
+kredeu2_scaffold46	bed	CDS	138295	58171	.	-	ID=cds_kredeu2_504285;Description=;parent=rna_kredeu2_504285
+kredeu2_scaffold46	bed	CDS	141686	53335	.	-	ID=cds_kredeu2_476083;Description=;parent=rna_kredeu2_476083
+kredeu2_scaffold46	bed	CDS	144610	51851	.	-	ID=cds_kredeu2_504288;Description=;parent=rna_kredeu2_504288
+kredeu2_scaffold46	bed	CDS	147904	47905	.	+	ID=cds_kredeu2_504289;Description=;parent=rna_kredeu2_504289
+kredeu2_scaffold46	bed	CDS	150746	43308	.	+	ID=cds_kredeu2_504290;Description=;parent=rna_kredeu2_504290
+kredeu2_scaffold46	bed	CDS	155018	41283	.	-	ID=cds_kredeu2_eg337089;Description=;parent=rna_kredeu2_eg337089
+kredeu2_scaffold46	bed	CDS	156976	39430	.	-	ID=cds_kredeu2_514622;Description=;parent=rna_kredeu2_514622
+kredeu2_scaffold46	bed	CDS	160095	34192	.	-	ID=cds_kredeu2_298354;Description=;parent=rna_kredeu2_298354
+kredeu2_scaffold46	bed	CDS	164979	31150	.	+	ID=cds_kredeu2_298478;Description=;parent=rna_kredeu2_298478
+kredeu2_scaffold46	bed	CDS	166340	30111	.	-	ID=cds_kredeu2_504295;Description=;parent=rna_kredeu2_504295
+kredeu2_scaffold46	bed	CDS	170349	26014	.	-	ID=cds_kredeu2_476098;Description=;parent=rna_kredeu2_476098
+kredeu2_scaffold46	bed	CDS	172032	23548	.	+	ID=cds_kredeu2_476100;Description=;parent=rna_kredeu2_476100
+kredeu2_scaffold46	bed	CDS	175249	20398	.	-	ID=cds_kredeu2_476101;Description=;parent=rna_kredeu2_476101
+kredeu2_scaffold46	bed	CDS	177043	18944	.	+	ID=cds_kredeu2_476103;Description=;parent=rna_kredeu2_476103
+kredeu2_scaffold46	bed	CDS	178277	17364	.	+	ID=cds_kredeu2_491687;Description=;parent=rna_kredeu2_491687
+kredeu2_scaffold46	bed	CDS	180095	15894	.	-	ID=cds_kredeu2_298523;Description=;parent=rna_kredeu2_298523
+kredeu2_scaffold46	bed	CDS	181481	14155	.	+	ID=cds_kredeu2_298533;Description=;parent=rna_kredeu2_298533
+kredeu2_scaffold46	bed	CDS	184308	12142	.	-	ID=cds_kredeu2_504303;Description=;parent=rna_kredeu2_504303
+kredeu2_scaffold46	bed	CDS	185844	10869	.	+	ID=cds_kredeu2_504304;Description=;parent=rna_kredeu2_504304
+kredeu2_scaffold46	bed	CDS	187510	8086	.	-	ID=cds_kredeu2_eg337049;Description=;parent=rna_kredeu2_eg337049
+kredeu2_scaffold46	bed	CDS	189649	7489	.	-	ID=cds_kredeu2_eg337083;Description=;parent=rna_kredeu2_eg337083
+kredeu2_scaffold46	bed	CDS	190015	4454	.	-	ID=cds_kredeu2_eg337059;Description=;parent=rna_kredeu2_eg337059

@@ -1,0 +1,25 @@
+aspfum15_JADLZR010000224.1	bed	region	1	49336	.	+	flank	ID=gene_aspfum15_tyr1309|DR|up;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	region	49	49283	.	+	flank	ID=gene_aspfum15_tyr1309|TIR|up;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	gene	309	46381	.	+	cap	ID=gene_aspfum15_tyr1309;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	gene	7817	40608	.	-	.	ID=gene_aspfum15_eg73652;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	gene	14819	33716	.	-	.	ID=gene_aspfum15_eg73702;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	gene	16065	32647	.	-	.	ID=gene_aspfum15_eg73663;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	gene	21773	26279	.	-	.	ID=gene_aspfum15_eg73680;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	gene	28426	20418	.	-	.	ID=gene_aspfum15_eg73597;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	gene	37042	12021	.	-	.	ID=gene_aspfum15_eg73697;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	region	49285	48	.	+	flank	ID=gene_aspfum15_tyr1309|TIR|down;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	region	49337	0	.	+	flank	ID=gene_aspfum15_tyr1309|DR|down;Description=aspfum15_s01316;parent=aspfum15_JADLZR010000224.1
+aspfum15_JADLZR010000224.1	bed	RNA	309	46381	.	+	ID=rna_aspfum15_tyr1309;Description=;parent=gene_aspfum15_tyr1309
+aspfum15_JADLZR010000224.1	bed	RNA	7817	40608	.	-	ID=rna_aspfum15_eg73652;Description=;parent=gene_aspfum15_eg73652
+aspfum15_JADLZR010000224.1	bed	RNA	14819	33716	.	-	ID=rna_aspfum15_eg73702;Description=;parent=gene_aspfum15_eg73702
+aspfum15_JADLZR010000224.1	bed	RNA	16065	32647	.	-	ID=rna_aspfum15_eg73663;Description=;parent=gene_aspfum15_eg73663
+aspfum15_JADLZR010000224.1	bed	RNA	21773	26279	.	-	ID=rna_aspfum15_eg73680;Description=;parent=gene_aspfum15_eg73680
+aspfum15_JADLZR010000224.1	bed	RNA	28426	20418	.	-	ID=rna_aspfum15_eg73597;Description=;parent=gene_aspfum15_eg73597
+aspfum15_JADLZR010000224.1	bed	RNA	37042	12021	.	-	ID=rna_aspfum15_eg73697;Description=;parent=gene_aspfum15_eg73697
+aspfum15_JADLZR010000224.1	bed	CDS	309	46381	.	+	ID=cds_aspfum15_tyr1309;Description=;parent=rna_aspfum15_tyr1309
+aspfum15_JADLZR010000224.1	bed	CDS	7817	40608	.	-	ID=cds_aspfum15_eg73652;Description=;parent=rna_aspfum15_eg73652
+aspfum15_JADLZR010000224.1	bed	CDS	14819	33716	.	-	ID=cds_aspfum15_eg73702;Description=;parent=rna_aspfum15_eg73702
+aspfum15_JADLZR010000224.1	bed	CDS	16065	32647	.	-	ID=cds_aspfum15_eg73663;Description=;parent=rna_aspfum15_eg73663
+aspfum15_JADLZR010000224.1	bed	CDS	21773	26279	.	-	ID=cds_aspfum15_eg73680;Description=;parent=rna_aspfum15_eg73680
+aspfum15_JADLZR010000224.1	bed	CDS	28426	20418	.	-	ID=cds_aspfum15_eg73597;Description=;parent=rna_aspfum15_eg73597
+aspfum15_JADLZR010000224.1	bed	CDS	37042	12021	.	-	ID=cds_aspfum15_eg73697;Description=;parent=rna_aspfum15_eg73697

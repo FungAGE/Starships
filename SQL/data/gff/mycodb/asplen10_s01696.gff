@@ -1,0 +1,15 @@
+asplen10_JAAAPR010000128.1	bed	gene	1	19665	.	-	insert	ID=gene_asplen10_tyr1733|asplen9_JAAAPP010000015.1|down;Description=asplen10_s01696;parent=asplen10_JAAAPR010000128.1
+asplen10_JAAAPR010000128.1	bed	gene	3245	16190	.	+	d37	ID=gene_asplen10_d371002;Description=asplen10_s01696;parent=asplen10_JAAAPR010000128.1
+asplen10_JAAAPR010000128.1	bed	gene	3838	15339	.	+	d37	ID=gene_asplen10_d371001;Description=asplen10_s01696;parent=asplen10_JAAAPR010000128.1
+asplen10_JAAAPR010000128.1	bed	gene	17019	980	.	-	cap	ID=gene_asplen10_tyr1733;Description=asplen10_s01696;parent=asplen10_JAAAPR010000128.1
+asplen10_JAAAPR010000128.1	bed	gene	19666	0	.	-	insert	ID=gene_asplen10_tyr1733|asplen9_JAAAPP010000015.1|up;Description=asplen10_s01696;parent=asplen10_JAAAPR010000128.1
+asplen10_JAAAPR010000128.1	bed	RNA	1	19665	.	-	ID=rna_asplen10_tyr1733|asplen9_JAAAPP010000015.1|down;Description=;parent=gene_asplen10_tyr1733|asplen9_JAAAPP010000015.1|down
+asplen10_JAAAPR010000128.1	bed	RNA	3245	16190	.	+	ID=rna_asplen10_d371002;Description=;parent=gene_asplen10_d371002
+asplen10_JAAAPR010000128.1	bed	RNA	3838	15339	.	+	ID=rna_asplen10_d371001;Description=;parent=gene_asplen10_d371001
+asplen10_JAAAPR010000128.1	bed	RNA	17019	980	.	-	ID=rna_asplen10_tyr1733;Description=;parent=gene_asplen10_tyr1733
+asplen10_JAAAPR010000128.1	bed	RNA	19666	0	.	-	ID=rna_asplen10_tyr1733|asplen9_JAAAPP010000015.1|up;Description=;parent=gene_asplen10_tyr1733|asplen9_JAAAPP010000015.1|up
+asplen10_JAAAPR010000128.1	bed	CDS	1	19665	.	-	ID=cds_asplen10_tyr1733|asplen9_JAAAPP010000015.1|down;Description=;parent=rna_asplen10_tyr1733|asplen9_JAAAPP010000015.1|down
+asplen10_JAAAPR010000128.1	bed	CDS	3245	16190	.	+	ID=cds_asplen10_d371002;Description=;parent=rna_asplen10_d371002
+asplen10_JAAAPR010000128.1	bed	CDS	3838	15339	.	+	ID=cds_asplen10_d371001;Description=;parent=rna_asplen10_d371001
+asplen10_JAAAPR010000128.1	bed	CDS	17019	980	.	-	ID=cds_asplen10_tyr1733;Description=;parent=rna_asplen10_tyr1733
+asplen10_JAAAPR010000128.1	bed	CDS	19666	0	.	-	ID=cds_asplen10_tyr1733|asplen9_JAAAPP010000015.1|up;Description=;parent=rna_asplen10_tyr1733|asplen9_JAAAPP010000015.1|up

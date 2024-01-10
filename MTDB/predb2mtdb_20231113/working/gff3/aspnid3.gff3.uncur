@@ -1,0 +1,65 @@
+aspnid3_JAAFYL010000042.1	bed	region	1	81705	.	+	flank	ID=gene_aspnid3_tyr2022|DR|up;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	463	78588	.	+	cap	ID=gene_aspnid3_tyr2022;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	5068	75603	.	-	.	ID=gene_aspnid3_eg101136;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	11165	69957	.	+	.	ID=gene_aspnid3_eg101471;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	14988	66152	.	-	.	ID=gene_aspnid3_eg101483;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	16772	63873	.	+	.	ID=gene_aspnid3_eg101409;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	23257	57290	.	-	.	ID=gene_aspnid3_eg101303;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	28232	52032	.	-	.	ID=gene_aspnid3_eg101305;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	35071	45913	.	-	.	ID=gene_aspnid3_eg101340;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	38196	42653	.	-	.	ID=gene_aspnid3_eg101520;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	40107	41399	.	-	.	ID=gene_aspnid3_eg101397;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	43555	35569	.	+	.	ID=gene_aspnid3_eg101229;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	46481	34041	.	-	.	ID=gene_aspnid3_eg101310;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	48415	32707	.	-	.	ID=gene_aspnid3_eg101559;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	54204	23417	.	-	d37	ID=gene_aspnid3_d371204;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	58600	21993	.	+	.	ID=gene_aspnid3_eg101523;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	59944	20582	.	-	.	ID=gene_aspnid3_eg101291;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	62406	17505	.	-	fre	ID=gene_aspnid3_fre2983;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	69655	11872	.	-	.	ID=gene_aspnid3_eg101440;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	71548	9847	.	-	.	ID=gene_aspnid3_eg101566;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	75970	3465	.	+	.	ID=gene_aspnid3_eg101228;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	gene	79371	1267	.	-	.	ID=gene_aspnid3_eg101285;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	region	81706	0	.	+	flank	ID=gene_aspnid3_tyr2022|DR|down;Description=aspnid3_s01918;parent=aspnid3_JAAFYL010000042.1
+aspnid3_JAAFYL010000042.1	bed	RNA	463	78588	.	+	ID=rna_aspnid3_tyr2022;Description=;parent=gene_aspnid3_tyr2022
+aspnid3_JAAFYL010000042.1	bed	RNA	5068	75603	.	-	ID=rna_aspnid3_eg101136;Description=;parent=gene_aspnid3_eg101136
+aspnid3_JAAFYL010000042.1	bed	RNA	11165	69957	.	+	ID=rna_aspnid3_eg101471;Description=;parent=gene_aspnid3_eg101471
+aspnid3_JAAFYL010000042.1	bed	RNA	14988	66152	.	-	ID=rna_aspnid3_eg101483;Description=;parent=gene_aspnid3_eg101483
+aspnid3_JAAFYL010000042.1	bed	RNA	16772	63873	.	+	ID=rna_aspnid3_eg101409;Description=;parent=gene_aspnid3_eg101409
+aspnid3_JAAFYL010000042.1	bed	RNA	23257	57290	.	-	ID=rna_aspnid3_eg101303;Description=;parent=gene_aspnid3_eg101303
+aspnid3_JAAFYL010000042.1	bed	RNA	28232	52032	.	-	ID=rna_aspnid3_eg101305;Description=;parent=gene_aspnid3_eg101305
+aspnid3_JAAFYL010000042.1	bed	RNA	35071	45913	.	-	ID=rna_aspnid3_eg101340;Description=;parent=gene_aspnid3_eg101340
+aspnid3_JAAFYL010000042.1	bed	RNA	38196	42653	.	-	ID=rna_aspnid3_eg101520;Description=;parent=gene_aspnid3_eg101520
+aspnid3_JAAFYL010000042.1	bed	RNA	40107	41399	.	-	ID=rna_aspnid3_eg101397;Description=;parent=gene_aspnid3_eg101397
+aspnid3_JAAFYL010000042.1	bed	RNA	43555	35569	.	+	ID=rna_aspnid3_eg101229;Description=;parent=gene_aspnid3_eg101229
+aspnid3_JAAFYL010000042.1	bed	RNA	46481	34041	.	-	ID=rna_aspnid3_eg101310;Description=;parent=gene_aspnid3_eg101310
+aspnid3_JAAFYL010000042.1	bed	RNA	48415	32707	.	-	ID=rna_aspnid3_eg101559;Description=;parent=gene_aspnid3_eg101559
+aspnid3_JAAFYL010000042.1	bed	RNA	54204	23417	.	-	ID=rna_aspnid3_d371204;Description=;parent=gene_aspnid3_d371204
+aspnid3_JAAFYL010000042.1	bed	RNA	58600	21993	.	+	ID=rna_aspnid3_eg101523;Description=;parent=gene_aspnid3_eg101523
+aspnid3_JAAFYL010000042.1	bed	RNA	59944	20582	.	-	ID=rna_aspnid3_eg101291;Description=;parent=gene_aspnid3_eg101291
+aspnid3_JAAFYL010000042.1	bed	RNA	62406	17505	.	-	ID=rna_aspnid3_fre2983;Description=;parent=gene_aspnid3_fre2983
+aspnid3_JAAFYL010000042.1	bed	RNA	69655	11872	.	-	ID=rna_aspnid3_eg101440;Description=;parent=gene_aspnid3_eg101440
+aspnid3_JAAFYL010000042.1	bed	RNA	71548	9847	.	-	ID=rna_aspnid3_eg101566;Description=;parent=gene_aspnid3_eg101566
+aspnid3_JAAFYL010000042.1	bed	RNA	75970	3465	.	+	ID=rna_aspnid3_eg101228;Description=;parent=gene_aspnid3_eg101228
+aspnid3_JAAFYL010000042.1	bed	RNA	79371	1267	.	-	ID=rna_aspnid3_eg101285;Description=;parent=gene_aspnid3_eg101285
+aspnid3_JAAFYL010000042.1	bed	CDS	463	78588	.	+	ID=cds_aspnid3_tyr2022;Description=;parent=rna_aspnid3_tyr2022
+aspnid3_JAAFYL010000042.1	bed	CDS	5068	75603	.	-	ID=cds_aspnid3_eg101136;Description=;parent=rna_aspnid3_eg101136
+aspnid3_JAAFYL010000042.1	bed	CDS	11165	69957	.	+	ID=cds_aspnid3_eg101471;Description=;parent=rna_aspnid3_eg101471
+aspnid3_JAAFYL010000042.1	bed	CDS	14988	66152	.	-	ID=cds_aspnid3_eg101483;Description=;parent=rna_aspnid3_eg101483
+aspnid3_JAAFYL010000042.1	bed	CDS	16772	63873	.	+	ID=cds_aspnid3_eg101409;Description=;parent=rna_aspnid3_eg101409
+aspnid3_JAAFYL010000042.1	bed	CDS	23257	57290	.	-	ID=cds_aspnid3_eg101303;Description=;parent=rna_aspnid3_eg101303
+aspnid3_JAAFYL010000042.1	bed	CDS	28232	52032	.	-	ID=cds_aspnid3_eg101305;Description=;parent=rna_aspnid3_eg101305
+aspnid3_JAAFYL010000042.1	bed	CDS	35071	45913	.	-	ID=cds_aspnid3_eg101340;Description=;parent=rna_aspnid3_eg101340
+aspnid3_JAAFYL010000042.1	bed	CDS	38196	42653	.	-	ID=cds_aspnid3_eg101520;Description=;parent=rna_aspnid3_eg101520
+aspnid3_JAAFYL010000042.1	bed	CDS	40107	41399	.	-	ID=cds_aspnid3_eg101397;Description=;parent=rna_aspnid3_eg101397
+aspnid3_JAAFYL010000042.1	bed	CDS	43555	35569	.	+	ID=cds_aspnid3_eg101229;Description=;parent=rna_aspnid3_eg101229
+aspnid3_JAAFYL010000042.1	bed	CDS	46481	34041	.	-	ID=cds_aspnid3_eg101310;Description=;parent=rna_aspnid3_eg101310
+aspnid3_JAAFYL010000042.1	bed	CDS	48415	32707	.	-	ID=cds_aspnid3_eg101559;Description=;parent=rna_aspnid3_eg101559
+aspnid3_JAAFYL010000042.1	bed	CDS	54204	23417	.	-	ID=cds_aspnid3_d371204;Description=;parent=rna_aspnid3_d371204
+aspnid3_JAAFYL010000042.1	bed	CDS	58600	21993	.	+	ID=cds_aspnid3_eg101523;Description=;parent=rna_aspnid3_eg101523
+aspnid3_JAAFYL010000042.1	bed	CDS	59944	20582	.	-	ID=cds_aspnid3_eg101291;Description=;parent=rna_aspnid3_eg101291
+aspnid3_JAAFYL010000042.1	bed	CDS	62406	17505	.	-	ID=cds_aspnid3_fre2983;Description=;parent=rna_aspnid3_fre2983
+aspnid3_JAAFYL010000042.1	bed	CDS	69655	11872	.	-	ID=cds_aspnid3_eg101440;Description=;parent=rna_aspnid3_eg101440
+aspnid3_JAAFYL010000042.1	bed	CDS	71548	9847	.	-	ID=cds_aspnid3_eg101566;Description=;parent=rna_aspnid3_eg101566
+aspnid3_JAAFYL010000042.1	bed	CDS	75970	3465	.	+	ID=cds_aspnid3_eg101228;Description=;parent=rna_aspnid3_eg101228
+aspnid3_JAAFYL010000042.1	bed	CDS	79371	1267	.	-	ID=cds_aspnid3_eg101285;Description=;parent=rna_aspnid3_eg101285

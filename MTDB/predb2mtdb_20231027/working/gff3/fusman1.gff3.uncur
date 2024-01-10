@@ -1,0 +1,150 @@
+fusman1_scaffold5	bed	gene	1	133830	.	-	insert	ID=gene_fusman1_11794|fusman2_JABSTF010000140.1|down;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	4771	128314	.	+	.	ID=gene_fusman1_11748;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	13149	120313	.	+	.	ID=gene_fusman1_11749;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	14488	116990	.	-	.	ID=gene_fusman1_11750;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	17315	115750	.	+	.	ID=gene_fusman1_11751;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	18661	113719	.	+	.	ID=gene_fusman1_11752;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	20599	112492	.	-	.	ID=gene_fusman1_11753;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	21969	109548	.	-	.	ID=gene_fusman1_11754;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	26653	106087	.	+	.	ID=gene_fusman1_11755;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	28123	105181	.	-	.	ID=gene_fusman1_11756;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	29980	102438	.	-	.	ID=gene_fusman1_11757;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	32002	101287	.	+	.	ID=gene_fusman1_11758;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	34030	97609	.	-	.	ID=gene_fusman1_11759;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	39252	92249	.	+	.	ID=gene_fusman1_11760;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	42083	91128	.	-	.	ID=gene_fusman1_11761;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	43038	90357	.	-	.	ID=gene_fusman1_11762;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	44847	88447	.	+	.	ID=gene_fusman1_11763;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	45679	85565	.	-	.	ID=gene_fusman1_11764;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	48567	84710	.	+	.	ID=gene_fusman1_11765;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	49212	82682	.	-	.	ID=gene_fusman1_11766;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	51732	81233	.	+	.	ID=gene_fusman1_11767;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	52627	79486	.	-	.	ID=gene_fusman1_11768;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	56294	76998	.	-	.	ID=gene_fusman1_11769;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	57454	75817	.	-	.	ID=gene_fusman1_11770;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	58280	74579	.	-	.	ID=gene_fusman1_11771;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	59522	73740	.	+	.	ID=gene_fusman1_11772;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	60302	73107	.	+	.	ID=gene_fusman1_11773;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	62441	68931	.	+	d37	ID=gene_fusman1_11774;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	65899	67090	.	-	.	ID=gene_fusman1_11775;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	69276	62813	.	+	.	ID=gene_fusman1_11776;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	77922	54911	.	-	.	ID=gene_fusman1_11777;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	81399	50340	.	+	.	ID=gene_fusman1_11778;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	83729	49314	.	+	.	ID=gene_fusman1_11779;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	87600	45214	.	+	.	ID=gene_fusman1_11780;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	89324	42842	.	-	.	ID=gene_fusman1_11781;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	93076	40046	.	-	.	ID=gene_fusman1_11782;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	97566	34865	.	-	.	ID=gene_fusman1_11783;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	99541	34009	.	+	.	ID=gene_fusman1_eg236256;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	99878	32645	.	-	.	ID=gene_fusman1_11784;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	102031	31219	.	-	.	ID=gene_fusman1_11785;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	104619	28481	.	+	.	ID=gene_fusman1_11786;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	105785	26714	.	+	.	ID=gene_fusman1_11787;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	108147	23499	.	+	.	ID=gene_fusman1_11788;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	113031	20105	.	-	.	ID=gene_fusman1_11789;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	117534	14442	.	-	tyr	ID=gene_fusman1_11790;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	120155	12840	.	-	.	ID=gene_fusman1_11791;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	121640	11436	.	+	.	ID=gene_fusman1_11792;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	125835	4362	.	-	nlr	ID=gene_fusman1_11793;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	130091	294	.	-	cap	ID=gene_fusman1_11794;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	gene	133831	0	.	-	insert	ID=gene_fusman1_11794|fusman2_JABSTF010000140.1|up;Description=fusman1_s05750;parent=fusman1_scaffold5
+fusman1_scaffold5	bed	RNA	1	133830	.	-	ID=rna_fusman1_11794|fusman2_JABSTF010000140.1|down;Description=;parent=gene_fusman1_11794|fusman2_JABSTF010000140.1|down
+fusman1_scaffold5	bed	RNA	4771	128314	.	+	ID=rna_fusman1_11748;Description=;parent=gene_fusman1_11748
+fusman1_scaffold5	bed	RNA	13149	120313	.	+	ID=rna_fusman1_11749;Description=;parent=gene_fusman1_11749
+fusman1_scaffold5	bed	RNA	14488	116990	.	-	ID=rna_fusman1_11750;Description=;parent=gene_fusman1_11750
+fusman1_scaffold5	bed	RNA	17315	115750	.	+	ID=rna_fusman1_11751;Description=;parent=gene_fusman1_11751
+fusman1_scaffold5	bed	RNA	18661	113719	.	+	ID=rna_fusman1_11752;Description=;parent=gene_fusman1_11752
+fusman1_scaffold5	bed	RNA	20599	112492	.	-	ID=rna_fusman1_11753;Description=;parent=gene_fusman1_11753
+fusman1_scaffold5	bed	RNA	21969	109548	.	-	ID=rna_fusman1_11754;Description=;parent=gene_fusman1_11754
+fusman1_scaffold5	bed	RNA	26653	106087	.	+	ID=rna_fusman1_11755;Description=;parent=gene_fusman1_11755
+fusman1_scaffold5	bed	RNA	28123	105181	.	-	ID=rna_fusman1_11756;Description=;parent=gene_fusman1_11756
+fusman1_scaffold5	bed	RNA	29980	102438	.	-	ID=rna_fusman1_11757;Description=;parent=gene_fusman1_11757
+fusman1_scaffold5	bed	RNA	32002	101287	.	+	ID=rna_fusman1_11758;Description=;parent=gene_fusman1_11758
+fusman1_scaffold5	bed	RNA	34030	97609	.	-	ID=rna_fusman1_11759;Description=;parent=gene_fusman1_11759
+fusman1_scaffold5	bed	RNA	39252	92249	.	+	ID=rna_fusman1_11760;Description=;parent=gene_fusman1_11760
+fusman1_scaffold5	bed	RNA	42083	91128	.	-	ID=rna_fusman1_11761;Description=;parent=gene_fusman1_11761
+fusman1_scaffold5	bed	RNA	43038	90357	.	-	ID=rna_fusman1_11762;Description=;parent=gene_fusman1_11762
+fusman1_scaffold5	bed	RNA	44847	88447	.	+	ID=rna_fusman1_11763;Description=;parent=gene_fusman1_11763
+fusman1_scaffold5	bed	RNA	45679	85565	.	-	ID=rna_fusman1_11764;Description=;parent=gene_fusman1_11764
+fusman1_scaffold5	bed	RNA	48567	84710	.	+	ID=rna_fusman1_11765;Description=;parent=gene_fusman1_11765
+fusman1_scaffold5	bed	RNA	49212	82682	.	-	ID=rna_fusman1_11766;Description=;parent=gene_fusman1_11766
+fusman1_scaffold5	bed	RNA	51732	81233	.	+	ID=rna_fusman1_11767;Description=;parent=gene_fusman1_11767
+fusman1_scaffold5	bed	RNA	52627	79486	.	-	ID=rna_fusman1_11768;Description=;parent=gene_fusman1_11768
+fusman1_scaffold5	bed	RNA	56294	76998	.	-	ID=rna_fusman1_11769;Description=;parent=gene_fusman1_11769
+fusman1_scaffold5	bed	RNA	57454	75817	.	-	ID=rna_fusman1_11770;Description=;parent=gene_fusman1_11770
+fusman1_scaffold5	bed	RNA	58280	74579	.	-	ID=rna_fusman1_11771;Description=;parent=gene_fusman1_11771
+fusman1_scaffold5	bed	RNA	59522	73740	.	+	ID=rna_fusman1_11772;Description=;parent=gene_fusman1_11772
+fusman1_scaffold5	bed	RNA	60302	73107	.	+	ID=rna_fusman1_11773;Description=;parent=gene_fusman1_11773
+fusman1_scaffold5	bed	RNA	62441	68931	.	+	ID=rna_fusman1_11774;Description=;parent=gene_fusman1_11774
+fusman1_scaffold5	bed	RNA	65899	67090	.	-	ID=rna_fusman1_11775;Description=;parent=gene_fusman1_11775
+fusman1_scaffold5	bed	RNA	69276	62813	.	+	ID=rna_fusman1_11776;Description=;parent=gene_fusman1_11776
+fusman1_scaffold5	bed	RNA	77922	54911	.	-	ID=rna_fusman1_11777;Description=;parent=gene_fusman1_11777
+fusman1_scaffold5	bed	RNA	81399	50340	.	+	ID=rna_fusman1_11778;Description=;parent=gene_fusman1_11778
+fusman1_scaffold5	bed	RNA	83729	49314	.	+	ID=rna_fusman1_11779;Description=;parent=gene_fusman1_11779
+fusman1_scaffold5	bed	RNA	87600	45214	.	+	ID=rna_fusman1_11780;Description=;parent=gene_fusman1_11780
+fusman1_scaffold5	bed	RNA	89324	42842	.	-	ID=rna_fusman1_11781;Description=;parent=gene_fusman1_11781
+fusman1_scaffold5	bed	RNA	93076	40046	.	-	ID=rna_fusman1_11782;Description=;parent=gene_fusman1_11782
+fusman1_scaffold5	bed	RNA	97566	34865	.	-	ID=rna_fusman1_11783;Description=;parent=gene_fusman1_11783
+fusman1_scaffold5	bed	RNA	99541	34009	.	+	ID=rna_fusman1_eg236256;Description=;parent=gene_fusman1_eg236256
+fusman1_scaffold5	bed	RNA	99878	32645	.	-	ID=rna_fusman1_11784;Description=;parent=gene_fusman1_11784
+fusman1_scaffold5	bed	RNA	102031	31219	.	-	ID=rna_fusman1_11785;Description=;parent=gene_fusman1_11785
+fusman1_scaffold5	bed	RNA	104619	28481	.	+	ID=rna_fusman1_11786;Description=;parent=gene_fusman1_11786
+fusman1_scaffold5	bed	RNA	105785	26714	.	+	ID=rna_fusman1_11787;Description=;parent=gene_fusman1_11787
+fusman1_scaffold5	bed	RNA	108147	23499	.	+	ID=rna_fusman1_11788;Description=;parent=gene_fusman1_11788
+fusman1_scaffold5	bed	RNA	113031	20105	.	-	ID=rna_fusman1_11789;Description=;parent=gene_fusman1_11789
+fusman1_scaffold5	bed	RNA	117534	14442	.	-	ID=rna_fusman1_11790;Description=;parent=gene_fusman1_11790
+fusman1_scaffold5	bed	RNA	120155	12840	.	-	ID=rna_fusman1_11791;Description=;parent=gene_fusman1_11791
+fusman1_scaffold5	bed	RNA	121640	11436	.	+	ID=rna_fusman1_11792;Description=;parent=gene_fusman1_11792
+fusman1_scaffold5	bed	RNA	125835	4362	.	-	ID=rna_fusman1_11793;Description=;parent=gene_fusman1_11793
+fusman1_scaffold5	bed	RNA	130091	294	.	-	ID=rna_fusman1_11794;Description=;parent=gene_fusman1_11794
+fusman1_scaffold5	bed	RNA	133831	0	.	-	ID=rna_fusman1_11794|fusman2_JABSTF010000140.1|up;Description=;parent=gene_fusman1_11794|fusman2_JABSTF010000140.1|up
+fusman1_scaffold5	bed	CDS	1	133830	.	-	ID=cds_fusman1_11794|fusman2_JABSTF010000140.1|down;Description=;parent=rna_fusman1_11794|fusman2_JABSTF010000140.1|down
+fusman1_scaffold5	bed	CDS	4771	128314	.	+	ID=cds_fusman1_11748;Description=;parent=rna_fusman1_11748
+fusman1_scaffold5	bed	CDS	13149	120313	.	+	ID=cds_fusman1_11749;Description=;parent=rna_fusman1_11749
+fusman1_scaffold5	bed	CDS	14488	116990	.	-	ID=cds_fusman1_11750;Description=;parent=rna_fusman1_11750
+fusman1_scaffold5	bed	CDS	17315	115750	.	+	ID=cds_fusman1_11751;Description=;parent=rna_fusman1_11751
+fusman1_scaffold5	bed	CDS	18661	113719	.	+	ID=cds_fusman1_11752;Description=;parent=rna_fusman1_11752
+fusman1_scaffold5	bed	CDS	20599	112492	.	-	ID=cds_fusman1_11753;Description=;parent=rna_fusman1_11753
+fusman1_scaffold5	bed	CDS	21969	109548	.	-	ID=cds_fusman1_11754;Description=;parent=rna_fusman1_11754
+fusman1_scaffold5	bed	CDS	26653	106087	.	+	ID=cds_fusman1_11755;Description=;parent=rna_fusman1_11755
+fusman1_scaffold5	bed	CDS	28123	105181	.	-	ID=cds_fusman1_11756;Description=;parent=rna_fusman1_11756
+fusman1_scaffold5	bed	CDS	29980	102438	.	-	ID=cds_fusman1_11757;Description=;parent=rna_fusman1_11757
+fusman1_scaffold5	bed	CDS	32002	101287	.	+	ID=cds_fusman1_11758;Description=;parent=rna_fusman1_11758
+fusman1_scaffold5	bed	CDS	34030	97609	.	-	ID=cds_fusman1_11759;Description=;parent=rna_fusman1_11759
+fusman1_scaffold5	bed	CDS	39252	92249	.	+	ID=cds_fusman1_11760;Description=;parent=rna_fusman1_11760
+fusman1_scaffold5	bed	CDS	42083	91128	.	-	ID=cds_fusman1_11761;Description=;parent=rna_fusman1_11761
+fusman1_scaffold5	bed	CDS	43038	90357	.	-	ID=cds_fusman1_11762;Description=;parent=rna_fusman1_11762
+fusman1_scaffold5	bed	CDS	44847	88447	.	+	ID=cds_fusman1_11763;Description=;parent=rna_fusman1_11763
+fusman1_scaffold5	bed	CDS	45679	85565	.	-	ID=cds_fusman1_11764;Description=;parent=rna_fusman1_11764
+fusman1_scaffold5	bed	CDS	48567	84710	.	+	ID=cds_fusman1_11765;Description=;parent=rna_fusman1_11765
+fusman1_scaffold5	bed	CDS	49212	82682	.	-	ID=cds_fusman1_11766;Description=;parent=rna_fusman1_11766
+fusman1_scaffold5	bed	CDS	51732	81233	.	+	ID=cds_fusman1_11767;Description=;parent=rna_fusman1_11767
+fusman1_scaffold5	bed	CDS	52627	79486	.	-	ID=cds_fusman1_11768;Description=;parent=rna_fusman1_11768
+fusman1_scaffold5	bed	CDS	56294	76998	.	-	ID=cds_fusman1_11769;Description=;parent=rna_fusman1_11769
+fusman1_scaffold5	bed	CDS	57454	75817	.	-	ID=cds_fusman1_11770;Description=;parent=rna_fusman1_11770
+fusman1_scaffold5	bed	CDS	58280	74579	.	-	ID=cds_fusman1_11771;Description=;parent=rna_fusman1_11771
+fusman1_scaffold5	bed	CDS	59522	73740	.	+	ID=cds_fusman1_11772;Description=;parent=rna_fusman1_11772
+fusman1_scaffold5	bed	CDS	60302	73107	.	+	ID=cds_fusman1_11773;Description=;parent=rna_fusman1_11773
+fusman1_scaffold5	bed	CDS	62441	68931	.	+	ID=cds_fusman1_11774;Description=;parent=rna_fusman1_11774
+fusman1_scaffold5	bed	CDS	65899	67090	.	-	ID=cds_fusman1_11775;Description=;parent=rna_fusman1_11775
+fusman1_scaffold5	bed	CDS	69276	62813	.	+	ID=cds_fusman1_11776;Description=;parent=rna_fusman1_11776
+fusman1_scaffold5	bed	CDS	77922	54911	.	-	ID=cds_fusman1_11777;Description=;parent=rna_fusman1_11777
+fusman1_scaffold5	bed	CDS	81399	50340	.	+	ID=cds_fusman1_11778;Description=;parent=rna_fusman1_11778
+fusman1_scaffold5	bed	CDS	83729	49314	.	+	ID=cds_fusman1_11779;Description=;parent=rna_fusman1_11779
+fusman1_scaffold5	bed	CDS	87600	45214	.	+	ID=cds_fusman1_11780;Description=;parent=rna_fusman1_11780
+fusman1_scaffold5	bed	CDS	89324	42842	.	-	ID=cds_fusman1_11781;Description=;parent=rna_fusman1_11781
+fusman1_scaffold5	bed	CDS	93076	40046	.	-	ID=cds_fusman1_11782;Description=;parent=rna_fusman1_11782
+fusman1_scaffold5	bed	CDS	97566	34865	.	-	ID=cds_fusman1_11783;Description=;parent=rna_fusman1_11783
+fusman1_scaffold5	bed	CDS	99541	34009	.	+	ID=cds_fusman1_eg236256;Description=;parent=rna_fusman1_eg236256
+fusman1_scaffold5	bed	CDS	99878	32645	.	-	ID=cds_fusman1_11784;Description=;parent=rna_fusman1_11784
+fusman1_scaffold5	bed	CDS	102031	31219	.	-	ID=cds_fusman1_11785;Description=;parent=rna_fusman1_11785
+fusman1_scaffold5	bed	CDS	104619	28481	.	+	ID=cds_fusman1_11786;Description=;parent=rna_fusman1_11786
+fusman1_scaffold5	bed	CDS	105785	26714	.	+	ID=cds_fusman1_11787;Description=;parent=rna_fusman1_11787
+fusman1_scaffold5	bed	CDS	108147	23499	.	+	ID=cds_fusman1_11788;Description=;parent=rna_fusman1_11788
+fusman1_scaffold5	bed	CDS	113031	20105	.	-	ID=cds_fusman1_11789;Description=;parent=rna_fusman1_11789
+fusman1_scaffold5	bed	CDS	117534	14442	.	-	ID=cds_fusman1_11790;Description=;parent=rna_fusman1_11790
+fusman1_scaffold5	bed	CDS	120155	12840	.	-	ID=cds_fusman1_11791;Description=;parent=rna_fusman1_11791
+fusman1_scaffold5	bed	CDS	121640	11436	.	+	ID=cds_fusman1_11792;Description=;parent=rna_fusman1_11792
+fusman1_scaffold5	bed	CDS	125835	4362	.	-	ID=cds_fusman1_11793;Description=;parent=rna_fusman1_11793
+fusman1_scaffold5	bed	CDS	130091	294	.	-	ID=cds_fusman1_11794;Description=;parent=rna_fusman1_11794
+fusman1_scaffold5	bed	CDS	133831	0	.	-	ID=cds_fusman1_11794|fusman2_JABSTF010000140.1|up;Description=;parent=rna_fusman1_11794|fusman2_JABSTF010000140.1|up

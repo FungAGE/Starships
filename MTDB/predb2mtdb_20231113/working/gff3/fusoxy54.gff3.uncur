@@ -1,0 +1,76 @@
+fusoxy54_CP052039.1	bed	region	1	119479	.	+	flank	ID=gene_fusoxy54_tyr6408|DR|up;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	region	40	119432	.	+	flank	ID=gene_fusoxy54_tyr6408|TIR|up;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	393	116649	.	+	cap	ID=gene_fusoxy54_tyr6408;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	3346	115260	.	-	.	ID=gene_fusoxy54_eg266815;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	4801	112760	.	+	.	ID=gene_fusoxy54_eg266451;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	7786	111302	.	-	.	ID=gene_fusoxy54_eg266531;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	9197	109126	.	-	.	ID=gene_fusoxy54_eg266883;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	12381	106566	.	+	.	ID=gene_fusoxy54_eg266443;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	13243	102877	.	-	nlr	ID=gene_fusoxy54_nlr148843;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	18263	99109	.	-	.	ID=gene_fusoxy54_eg266544;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	23971	93446	.	-	.	ID=gene_fusoxy54_eg266178;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	29865	87327	.	-	.	ID=gene_fusoxy54_eg266801;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	34041	84381	.	+	.	ID=gene_fusoxy54_eg266746;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	38958	80025	.	-	.	ID=gene_fusoxy54_eg266456;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	41272	76064	.	+	.	ID=gene_fusoxy54_eg266800;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	47662	71010	.	+	.	ID=gene_fusoxy54_eg266970;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	49350	69699	.	+	.	ID=gene_fusoxy54_eg267075;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	51607	67574	.	+	.	ID=gene_fusoxy54_eg266982;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	53481	65448	.	-	.	ID=gene_fusoxy54_eg266444;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	59336	59573	.	-	.	ID=gene_fusoxy54_eg266935;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	70063	48003	.	+	fre	ID=gene_fusoxy54_fre16084;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	72114	46887	.	-	.	ID=gene_fusoxy54_eg267042;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	74787	43164	.	+	d37	ID=gene_fusoxy54_d373919;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	84699	34164	.	+	.	ID=gene_fusoxy54_eg267023;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	85807	32705	.	+	.	ID=gene_fusoxy54_eg266503;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	gene	106438	12425	.	+	.	ID=gene_fusoxy54_eg266911;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	region	119463	11	.	+	flank	ID=gene_fusoxy54_tyr6408|TIR|down;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	region	119481	0	.	+	flank	ID=gene_fusoxy54_tyr6408|DR|down;Description=fusoxy54_s06111;parent=fusoxy54_CP052039.1
+fusoxy54_CP052039.1	bed	RNA	393	116649	.	+	ID=rna_fusoxy54_tyr6408;Description=;parent=gene_fusoxy54_tyr6408
+fusoxy54_CP052039.1	bed	RNA	3346	115260	.	-	ID=rna_fusoxy54_eg266815;Description=;parent=gene_fusoxy54_eg266815
+fusoxy54_CP052039.1	bed	RNA	4801	112760	.	+	ID=rna_fusoxy54_eg266451;Description=;parent=gene_fusoxy54_eg266451
+fusoxy54_CP052039.1	bed	RNA	7786	111302	.	-	ID=rna_fusoxy54_eg266531;Description=;parent=gene_fusoxy54_eg266531
+fusoxy54_CP052039.1	bed	RNA	9197	109126	.	-	ID=rna_fusoxy54_eg266883;Description=;parent=gene_fusoxy54_eg266883
+fusoxy54_CP052039.1	bed	RNA	12381	106566	.	+	ID=rna_fusoxy54_eg266443;Description=;parent=gene_fusoxy54_eg266443
+fusoxy54_CP052039.1	bed	RNA	13243	102877	.	-	ID=rna_fusoxy54_nlr148843;Description=;parent=gene_fusoxy54_nlr148843
+fusoxy54_CP052039.1	bed	RNA	18263	99109	.	-	ID=rna_fusoxy54_eg266544;Description=;parent=gene_fusoxy54_eg266544
+fusoxy54_CP052039.1	bed	RNA	23971	93446	.	-	ID=rna_fusoxy54_eg266178;Description=;parent=gene_fusoxy54_eg266178
+fusoxy54_CP052039.1	bed	RNA	29865	87327	.	-	ID=rna_fusoxy54_eg266801;Description=;parent=gene_fusoxy54_eg266801
+fusoxy54_CP052039.1	bed	RNA	34041	84381	.	+	ID=rna_fusoxy54_eg266746;Description=;parent=gene_fusoxy54_eg266746
+fusoxy54_CP052039.1	bed	RNA	38958	80025	.	-	ID=rna_fusoxy54_eg266456;Description=;parent=gene_fusoxy54_eg266456
+fusoxy54_CP052039.1	bed	RNA	41272	76064	.	+	ID=rna_fusoxy54_eg266800;Description=;parent=gene_fusoxy54_eg266800
+fusoxy54_CP052039.1	bed	RNA	47662	71010	.	+	ID=rna_fusoxy54_eg266970;Description=;parent=gene_fusoxy54_eg266970
+fusoxy54_CP052039.1	bed	RNA	49350	69699	.	+	ID=rna_fusoxy54_eg267075;Description=;parent=gene_fusoxy54_eg267075
+fusoxy54_CP052039.1	bed	RNA	51607	67574	.	+	ID=rna_fusoxy54_eg266982;Description=;parent=gene_fusoxy54_eg266982
+fusoxy54_CP052039.1	bed	RNA	53481	65448	.	-	ID=rna_fusoxy54_eg266444;Description=;parent=gene_fusoxy54_eg266444
+fusoxy54_CP052039.1	bed	RNA	59336	59573	.	-	ID=rna_fusoxy54_eg266935;Description=;parent=gene_fusoxy54_eg266935
+fusoxy54_CP052039.1	bed	RNA	70063	48003	.	+	ID=rna_fusoxy54_fre16084;Description=;parent=gene_fusoxy54_fre16084
+fusoxy54_CP052039.1	bed	RNA	72114	46887	.	-	ID=rna_fusoxy54_eg267042;Description=;parent=gene_fusoxy54_eg267042
+fusoxy54_CP052039.1	bed	RNA	74787	43164	.	+	ID=rna_fusoxy54_d373919;Description=;parent=gene_fusoxy54_d373919
+fusoxy54_CP052039.1	bed	RNA	84699	34164	.	+	ID=rna_fusoxy54_eg267023;Description=;parent=gene_fusoxy54_eg267023
+fusoxy54_CP052039.1	bed	RNA	85807	32705	.	+	ID=rna_fusoxy54_eg266503;Description=;parent=gene_fusoxy54_eg266503
+fusoxy54_CP052039.1	bed	RNA	106438	12425	.	+	ID=rna_fusoxy54_eg266911;Description=;parent=gene_fusoxy54_eg266911
+fusoxy54_CP052039.1	bed	CDS	393	116649	.	+	ID=cds_fusoxy54_tyr6408;Description=;parent=rna_fusoxy54_tyr6408
+fusoxy54_CP052039.1	bed	CDS	3346	115260	.	-	ID=cds_fusoxy54_eg266815;Description=;parent=rna_fusoxy54_eg266815
+fusoxy54_CP052039.1	bed	CDS	4801	112760	.	+	ID=cds_fusoxy54_eg266451;Description=;parent=rna_fusoxy54_eg266451
+fusoxy54_CP052039.1	bed	CDS	7786	111302	.	-	ID=cds_fusoxy54_eg266531;Description=;parent=rna_fusoxy54_eg266531
+fusoxy54_CP052039.1	bed	CDS	9197	109126	.	-	ID=cds_fusoxy54_eg266883;Description=;parent=rna_fusoxy54_eg266883
+fusoxy54_CP052039.1	bed	CDS	12381	106566	.	+	ID=cds_fusoxy54_eg266443;Description=;parent=rna_fusoxy54_eg266443
+fusoxy54_CP052039.1	bed	CDS	13243	102877	.	-	ID=cds_fusoxy54_nlr148843;Description=;parent=rna_fusoxy54_nlr148843
+fusoxy54_CP052039.1	bed	CDS	18263	99109	.	-	ID=cds_fusoxy54_eg266544;Description=;parent=rna_fusoxy54_eg266544
+fusoxy54_CP052039.1	bed	CDS	23971	93446	.	-	ID=cds_fusoxy54_eg266178;Description=;parent=rna_fusoxy54_eg266178
+fusoxy54_CP052039.1	bed	CDS	29865	87327	.	-	ID=cds_fusoxy54_eg266801;Description=;parent=rna_fusoxy54_eg266801
+fusoxy54_CP052039.1	bed	CDS	34041	84381	.	+	ID=cds_fusoxy54_eg266746;Description=;parent=rna_fusoxy54_eg266746
+fusoxy54_CP052039.1	bed	CDS	38958	80025	.	-	ID=cds_fusoxy54_eg266456;Description=;parent=rna_fusoxy54_eg266456
+fusoxy54_CP052039.1	bed	CDS	41272	76064	.	+	ID=cds_fusoxy54_eg266800;Description=;parent=rna_fusoxy54_eg266800
+fusoxy54_CP052039.1	bed	CDS	47662	71010	.	+	ID=cds_fusoxy54_eg266970;Description=;parent=rna_fusoxy54_eg266970
+fusoxy54_CP052039.1	bed	CDS	49350	69699	.	+	ID=cds_fusoxy54_eg267075;Description=;parent=rna_fusoxy54_eg267075
+fusoxy54_CP052039.1	bed	CDS	51607	67574	.	+	ID=cds_fusoxy54_eg266982;Description=;parent=rna_fusoxy54_eg266982
+fusoxy54_CP052039.1	bed	CDS	53481	65448	.	-	ID=cds_fusoxy54_eg266444;Description=;parent=rna_fusoxy54_eg266444
+fusoxy54_CP052039.1	bed	CDS	59336	59573	.	-	ID=cds_fusoxy54_eg266935;Description=;parent=rna_fusoxy54_eg266935
+fusoxy54_CP052039.1	bed	CDS	70063	48003	.	+	ID=cds_fusoxy54_fre16084;Description=;parent=rna_fusoxy54_fre16084
+fusoxy54_CP052039.1	bed	CDS	72114	46887	.	-	ID=cds_fusoxy54_eg267042;Description=;parent=rna_fusoxy54_eg267042
+fusoxy54_CP052039.1	bed	CDS	74787	43164	.	+	ID=cds_fusoxy54_d373919;Description=;parent=rna_fusoxy54_d373919
+fusoxy54_CP052039.1	bed	CDS	84699	34164	.	+	ID=cds_fusoxy54_eg267023;Description=;parent=rna_fusoxy54_eg267023
+fusoxy54_CP052039.1	bed	CDS	85807	32705	.	+	ID=cds_fusoxy54_eg266503;Description=;parent=rna_fusoxy54_eg266503
+fusoxy54_CP052039.1	bed	CDS	106438	12425	.	+	ID=cds_fusoxy54_eg266911;Description=;parent=rna_fusoxy54_eg266911

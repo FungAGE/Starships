@@ -1,0 +1,67 @@
+aspoch5_SSOS01000009.1	bed	region	1	279964	.	-	flank	ID=gene_aspoch5_tyr2230|DR|down;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	region	55	279900	.	-	flank	ID=gene_aspoch5_tyr2230|TIR|down;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	23895	252626	.	-	.	ID=gene_aspoch5_eg118634;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	28053	251343	.	+	.	ID=gene_aspoch5_eg118664;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	49922	229368	.	+	.	ID=gene_aspoch5_eg118500;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	54172	224713	.	-	.	ID=gene_aspoch5_eg118583;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	58912	219824	.	+	.	ID=gene_aspoch5_eg118532;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	66902	212328	.	+	.	ID=gene_aspoch5_eg118519;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	70083	209360	.	-	.	ID=gene_aspoch5_eg118435;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	86031	193328	.	+	.	ID=gene_aspoch5_eg118458;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	106224	169455	.	-	.	ID=gene_aspoch5_eg118647;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	139967	139824	.	+	.	ID=gene_aspoch5_eg118460;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	141784	137977	.	+	.	ID=gene_aspoch5_eg118601;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	143518	135814	.	+	.	ID=gene_aspoch5_eg118462;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	187205	92571	.	-	.	ID=gene_aspoch5_eg118463;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	207017	71585	.	-	.	ID=gene_aspoch5_eg118382;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	209718	69149	.	-	.	ID=gene_aspoch5_eg118376;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	212747	66384	.	-	.	ID=gene_aspoch5_eg118367;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	214327	64444	.	+	.	ID=gene_aspoch5_eg118491;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	235661	43303	.	+	.	ID=gene_aspoch5_eg118444;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	238483	40693	.	+	.	ID=gene_aspoch5_eg118574;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	248235	30467	.	-	.	ID=gene_aspoch5_eg118489;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	gene	276869	542	.	-	cap	ID=gene_aspoch5_tyr2230;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	region	279912	43	.	-	flank	ID=gene_aspoch5_tyr2230|TIR|up;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	region	279965	0	.	-	flank	ID=gene_aspoch5_tyr2230|DR|up;Description=aspoch5_s02109;parent=aspoch5_SSOS01000009.1
+aspoch5_SSOS01000009.1	bed	RNA	23895	252626	.	-	ID=rna_aspoch5_eg118634;Description=;parent=gene_aspoch5_eg118634
+aspoch5_SSOS01000009.1	bed	RNA	28053	251343	.	+	ID=rna_aspoch5_eg118664;Description=;parent=gene_aspoch5_eg118664
+aspoch5_SSOS01000009.1	bed	RNA	49922	229368	.	+	ID=rna_aspoch5_eg118500;Description=;parent=gene_aspoch5_eg118500
+aspoch5_SSOS01000009.1	bed	RNA	54172	224713	.	-	ID=rna_aspoch5_eg118583;Description=;parent=gene_aspoch5_eg118583
+aspoch5_SSOS01000009.1	bed	RNA	58912	219824	.	+	ID=rna_aspoch5_eg118532;Description=;parent=gene_aspoch5_eg118532
+aspoch5_SSOS01000009.1	bed	RNA	66902	212328	.	+	ID=rna_aspoch5_eg118519;Description=;parent=gene_aspoch5_eg118519
+aspoch5_SSOS01000009.1	bed	RNA	70083	209360	.	-	ID=rna_aspoch5_eg118435;Description=;parent=gene_aspoch5_eg118435
+aspoch5_SSOS01000009.1	bed	RNA	86031	193328	.	+	ID=rna_aspoch5_eg118458;Description=;parent=gene_aspoch5_eg118458
+aspoch5_SSOS01000009.1	bed	RNA	106224	169455	.	-	ID=rna_aspoch5_eg118647;Description=;parent=gene_aspoch5_eg118647
+aspoch5_SSOS01000009.1	bed	RNA	139967	139824	.	+	ID=rna_aspoch5_eg118460;Description=;parent=gene_aspoch5_eg118460
+aspoch5_SSOS01000009.1	bed	RNA	141784	137977	.	+	ID=rna_aspoch5_eg118601;Description=;parent=gene_aspoch5_eg118601
+aspoch5_SSOS01000009.1	bed	RNA	143518	135814	.	+	ID=rna_aspoch5_eg118462;Description=;parent=gene_aspoch5_eg118462
+aspoch5_SSOS01000009.1	bed	RNA	187205	92571	.	-	ID=rna_aspoch5_eg118463;Description=;parent=gene_aspoch5_eg118463
+aspoch5_SSOS01000009.1	bed	RNA	207017	71585	.	-	ID=rna_aspoch5_eg118382;Description=;parent=gene_aspoch5_eg118382
+aspoch5_SSOS01000009.1	bed	RNA	209718	69149	.	-	ID=rna_aspoch5_eg118376;Description=;parent=gene_aspoch5_eg118376
+aspoch5_SSOS01000009.1	bed	RNA	212747	66384	.	-	ID=rna_aspoch5_eg118367;Description=;parent=gene_aspoch5_eg118367
+aspoch5_SSOS01000009.1	bed	RNA	214327	64444	.	+	ID=rna_aspoch5_eg118491;Description=;parent=gene_aspoch5_eg118491
+aspoch5_SSOS01000009.1	bed	RNA	235661	43303	.	+	ID=rna_aspoch5_eg118444;Description=;parent=gene_aspoch5_eg118444
+aspoch5_SSOS01000009.1	bed	RNA	238483	40693	.	+	ID=rna_aspoch5_eg118574;Description=;parent=gene_aspoch5_eg118574
+aspoch5_SSOS01000009.1	bed	RNA	248235	30467	.	-	ID=rna_aspoch5_eg118489;Description=;parent=gene_aspoch5_eg118489
+aspoch5_SSOS01000009.1	bed	RNA	276869	542	.	-	ID=rna_aspoch5_tyr2230;Description=;parent=gene_aspoch5_tyr2230
+aspoch5_SSOS01000009.1	bed	CDS	23895	252626	.	-	ID=cds_aspoch5_eg118634;Description=;parent=rna_aspoch5_eg118634
+aspoch5_SSOS01000009.1	bed	CDS	28053	251343	.	+	ID=cds_aspoch5_eg118664;Description=;parent=rna_aspoch5_eg118664
+aspoch5_SSOS01000009.1	bed	CDS	49922	229368	.	+	ID=cds_aspoch5_eg118500;Description=;parent=rna_aspoch5_eg118500
+aspoch5_SSOS01000009.1	bed	CDS	54172	224713	.	-	ID=cds_aspoch5_eg118583;Description=;parent=rna_aspoch5_eg118583
+aspoch5_SSOS01000009.1	bed	CDS	58912	219824	.	+	ID=cds_aspoch5_eg118532;Description=;parent=rna_aspoch5_eg118532
+aspoch5_SSOS01000009.1	bed	CDS	66902	212328	.	+	ID=cds_aspoch5_eg118519;Description=;parent=rna_aspoch5_eg118519
+aspoch5_SSOS01000009.1	bed	CDS	70083	209360	.	-	ID=cds_aspoch5_eg118435;Description=;parent=rna_aspoch5_eg118435
+aspoch5_SSOS01000009.1	bed	CDS	86031	193328	.	+	ID=cds_aspoch5_eg118458;Description=;parent=rna_aspoch5_eg118458
+aspoch5_SSOS01000009.1	bed	CDS	106224	169455	.	-	ID=cds_aspoch5_eg118647;Description=;parent=rna_aspoch5_eg118647
+aspoch5_SSOS01000009.1	bed	CDS	139967	139824	.	+	ID=cds_aspoch5_eg118460;Description=;parent=rna_aspoch5_eg118460
+aspoch5_SSOS01000009.1	bed	CDS	141784	137977	.	+	ID=cds_aspoch5_eg118601;Description=;parent=rna_aspoch5_eg118601
+aspoch5_SSOS01000009.1	bed	CDS	143518	135814	.	+	ID=cds_aspoch5_eg118462;Description=;parent=rna_aspoch5_eg118462
+aspoch5_SSOS01000009.1	bed	CDS	187205	92571	.	-	ID=cds_aspoch5_eg118463;Description=;parent=rna_aspoch5_eg118463
+aspoch5_SSOS01000009.1	bed	CDS	207017	71585	.	-	ID=cds_aspoch5_eg118382;Description=;parent=rna_aspoch5_eg118382
+aspoch5_SSOS01000009.1	bed	CDS	209718	69149	.	-	ID=cds_aspoch5_eg118376;Description=;parent=rna_aspoch5_eg118376
+aspoch5_SSOS01000009.1	bed	CDS	212747	66384	.	-	ID=cds_aspoch5_eg118367;Description=;parent=rna_aspoch5_eg118367
+aspoch5_SSOS01000009.1	bed	CDS	214327	64444	.	+	ID=cds_aspoch5_eg118491;Description=;parent=rna_aspoch5_eg118491
+aspoch5_SSOS01000009.1	bed	CDS	235661	43303	.	+	ID=cds_aspoch5_eg118444;Description=;parent=rna_aspoch5_eg118444
+aspoch5_SSOS01000009.1	bed	CDS	238483	40693	.	+	ID=cds_aspoch5_eg118574;Description=;parent=rna_aspoch5_eg118574
+aspoch5_SSOS01000009.1	bed	CDS	248235	30467	.	-	ID=cds_aspoch5_eg118489;Description=;parent=rna_aspoch5_eg118489
+aspoch5_SSOS01000009.1	bed	CDS	276869	542	.	-	ID=cds_aspoch5_tyr2230;Description=;parent=rna_aspoch5_tyr2230

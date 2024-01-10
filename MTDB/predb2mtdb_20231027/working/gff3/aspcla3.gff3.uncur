@@ -1,0 +1,12 @@
+aspcla3_DS026990.1	bed	gene	1	17575	.	+	insert	ID=gene_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|up;Description=aspcla3_s00849;parent=aspcla3_DS026990.1
+aspcla3_DS026990.1	bed	gene	6495	8438	.	+	cap	ID=gene_aspcla3_EAW15091.1;Description=aspcla3_s00849;parent=aspcla3_DS026990.1
+aspcla3_DS026990.1	bed	gene	9540	7770	.	-	.	ID=gene_aspcla3_EAW15092.1;Description=aspcla3_s00849;parent=aspcla3_DS026990.1
+aspcla3_DS026990.1	bed	gene	17576	0	.	+	insert	ID=gene_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|down;Description=aspcla3_s00849;parent=aspcla3_DS026990.1
+aspcla3_DS026990.1	bed	RNA	1	17575	.	+	ID=rna_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|up;Description=;parent=gene_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|up
+aspcla3_DS026990.1	bed	RNA	6495	8438	.	+	ID=rna_aspcla3_EAW15091.1;Description=;parent=gene_aspcla3_EAW15091.1
+aspcla3_DS026990.1	bed	RNA	9540	7770	.	-	ID=rna_aspcla3_EAW15092.1;Description=;parent=gene_aspcla3_EAW15092.1
+aspcla3_DS026990.1	bed	RNA	17576	0	.	+	ID=rna_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|down;Description=;parent=gene_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|down
+aspcla3_DS026990.1	bed	CDS	1	17575	.	+	ID=cds_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|up;Description=;parent=rna_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|up
+aspcla3_DS026990.1	bed	CDS	6495	8438	.	+	ID=cds_aspcla3_EAW15091.1;Description=;parent=rna_aspcla3_EAW15091.1
+aspcla3_DS026990.1	bed	CDS	9540	7770	.	-	ID=cds_aspcla3_EAW15092.1;Description=;parent=rna_aspcla3_EAW15092.1
+aspcla3_DS026990.1	bed	CDS	17576	0	.	+	ID=cds_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|down;Description=;parent=rna_aspcla3_EAW15091.1|aspcla2_Aclavatus1099423829805|down

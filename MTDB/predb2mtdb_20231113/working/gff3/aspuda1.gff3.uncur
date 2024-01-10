@@ -1,0 +1,96 @@
+aspuda1_scaffold127	bed	gene	1	110859	.	+	insert	ID=gene_aspuda1_1336|aspuda5_BLKF01000046.1|up;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	753	108737	.	+	.	ID=gene_aspuda1_1335;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	3144	105582	.	+	cap	ID=gene_aspuda1_1336;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	6680	100020	.	+	nlr	ID=gene_aspuda1_1337;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	12201	96163	.	-	d37	ID=gene_aspuda1_1338;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	19006	91471	.	-	.	ID=gene_aspuda1_1339;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	19706	89062	.	-	.	ID=gene_aspuda1_1340;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	22728	86386	.	+	.	ID=gene_aspuda1_eg165056;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	27249	81251	.	+	fre	ID=gene_aspuda1_1341;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	30903	78305	.	+	.	ID=gene_aspuda1_1342;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	33493	76552	.	+	.	ID=gene_aspuda1_1343;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	38632	67018	.	+	.	ID=gene_aspuda1_1344;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	44819	65406	.	-	.	ID=gene_aspuda1_1345;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	46200	64490	.	+	.	ID=gene_aspuda1_eg165060;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	48139	61532	.	-	.	ID=gene_aspuda1_1346;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	49872	60364	.	+	.	ID=gene_aspuda1_eg165104;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	55746	54623	.	-	.	ID=gene_aspuda1_1347;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	56954	53227	.	-	.	ID=gene_aspuda1_1348;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	60241	49420	.	-	.	ID=gene_aspuda1_1349;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	71567	37439	.	+	.	ID=gene_aspuda1_1350;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	79355	29739	.	-	.	ID=gene_aspuda1_1351;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	81433	26940	.	+	.	ID=gene_aspuda1_1352;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	84344	24095	.	-	.	ID=gene_aspuda1_eg165072;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	89893	19922	.	+	.	ID=gene_aspuda1_1353;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	91910	14918	.	+	.	ID=gene_aspuda1_1354;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	98160	12038	.	-	.	ID=gene_aspuda1_1355;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	99367	10150	.	-	.	ID=gene_aspuda1_1356;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	101997	7779	.	+	.	ID=gene_aspuda1_1357;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	104509	5335	.	-	.	ID=gene_aspuda1_1358;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	106683	2489	.	-	.	ID=gene_aspuda1_1359;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	108970	505	.	+	.	ID=gene_aspuda1_1360;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	gene	110860	0	.	+	insert	ID=gene_aspuda1_1336|aspuda5_BLKF01000046.1|down;Description=aspuda1_s02833;parent=aspuda1_scaffold127
+aspuda1_scaffold127	bed	RNA	1	110859	.	+	ID=rna_aspuda1_1336|aspuda5_BLKF01000046.1|up;Description=;parent=gene_aspuda1_1336|aspuda5_BLKF01000046.1|up
+aspuda1_scaffold127	bed	RNA	753	108737	.	+	ID=rna_aspuda1_1335;Description=;parent=gene_aspuda1_1335
+aspuda1_scaffold127	bed	RNA	3144	105582	.	+	ID=rna_aspuda1_1336;Description=;parent=gene_aspuda1_1336
+aspuda1_scaffold127	bed	RNA	6680	100020	.	+	ID=rna_aspuda1_1337;Description=;parent=gene_aspuda1_1337
+aspuda1_scaffold127	bed	RNA	12201	96163	.	-	ID=rna_aspuda1_1338;Description=;parent=gene_aspuda1_1338
+aspuda1_scaffold127	bed	RNA	19006	91471	.	-	ID=rna_aspuda1_1339;Description=;parent=gene_aspuda1_1339
+aspuda1_scaffold127	bed	RNA	19706	89062	.	-	ID=rna_aspuda1_1340;Description=;parent=gene_aspuda1_1340
+aspuda1_scaffold127	bed	RNA	22728	86386	.	+	ID=rna_aspuda1_eg165056;Description=;parent=gene_aspuda1_eg165056
+aspuda1_scaffold127	bed	RNA	27249	81251	.	+	ID=rna_aspuda1_1341;Description=;parent=gene_aspuda1_1341
+aspuda1_scaffold127	bed	RNA	30903	78305	.	+	ID=rna_aspuda1_1342;Description=;parent=gene_aspuda1_1342
+aspuda1_scaffold127	bed	RNA	33493	76552	.	+	ID=rna_aspuda1_1343;Description=;parent=gene_aspuda1_1343
+aspuda1_scaffold127	bed	RNA	38632	67018	.	+	ID=rna_aspuda1_1344;Description=;parent=gene_aspuda1_1344
+aspuda1_scaffold127	bed	RNA	44819	65406	.	-	ID=rna_aspuda1_1345;Description=;parent=gene_aspuda1_1345
+aspuda1_scaffold127	bed	RNA	46200	64490	.	+	ID=rna_aspuda1_eg165060;Description=;parent=gene_aspuda1_eg165060
+aspuda1_scaffold127	bed	RNA	48139	61532	.	-	ID=rna_aspuda1_1346;Description=;parent=gene_aspuda1_1346
+aspuda1_scaffold127	bed	RNA	49872	60364	.	+	ID=rna_aspuda1_eg165104;Description=;parent=gene_aspuda1_eg165104
+aspuda1_scaffold127	bed	RNA	55746	54623	.	-	ID=rna_aspuda1_1347;Description=;parent=gene_aspuda1_1347
+aspuda1_scaffold127	bed	RNA	56954	53227	.	-	ID=rna_aspuda1_1348;Description=;parent=gene_aspuda1_1348
+aspuda1_scaffold127	bed	RNA	60241	49420	.	-	ID=rna_aspuda1_1349;Description=;parent=gene_aspuda1_1349
+aspuda1_scaffold127	bed	RNA	71567	37439	.	+	ID=rna_aspuda1_1350;Description=;parent=gene_aspuda1_1350
+aspuda1_scaffold127	bed	RNA	79355	29739	.	-	ID=rna_aspuda1_1351;Description=;parent=gene_aspuda1_1351
+aspuda1_scaffold127	bed	RNA	81433	26940	.	+	ID=rna_aspuda1_1352;Description=;parent=gene_aspuda1_1352
+aspuda1_scaffold127	bed	RNA	84344	24095	.	-	ID=rna_aspuda1_eg165072;Description=;parent=gene_aspuda1_eg165072
+aspuda1_scaffold127	bed	RNA	89893	19922	.	+	ID=rna_aspuda1_1353;Description=;parent=gene_aspuda1_1353
+aspuda1_scaffold127	bed	RNA	91910	14918	.	+	ID=rna_aspuda1_1354;Description=;parent=gene_aspuda1_1354
+aspuda1_scaffold127	bed	RNA	98160	12038	.	-	ID=rna_aspuda1_1355;Description=;parent=gene_aspuda1_1355
+aspuda1_scaffold127	bed	RNA	99367	10150	.	-	ID=rna_aspuda1_1356;Description=;parent=gene_aspuda1_1356
+aspuda1_scaffold127	bed	RNA	101997	7779	.	+	ID=rna_aspuda1_1357;Description=;parent=gene_aspuda1_1357
+aspuda1_scaffold127	bed	RNA	104509	5335	.	-	ID=rna_aspuda1_1358;Description=;parent=gene_aspuda1_1358
+aspuda1_scaffold127	bed	RNA	106683	2489	.	-	ID=rna_aspuda1_1359;Description=;parent=gene_aspuda1_1359
+aspuda1_scaffold127	bed	RNA	108970	505	.	+	ID=rna_aspuda1_1360;Description=;parent=gene_aspuda1_1360
+aspuda1_scaffold127	bed	RNA	110860	0	.	+	ID=rna_aspuda1_1336|aspuda5_BLKF01000046.1|down;Description=;parent=gene_aspuda1_1336|aspuda5_BLKF01000046.1|down
+aspuda1_scaffold127	bed	CDS	1	110859	.	+	ID=cds_aspuda1_1336|aspuda5_BLKF01000046.1|up;Description=;parent=rna_aspuda1_1336|aspuda5_BLKF01000046.1|up
+aspuda1_scaffold127	bed	CDS	753	108737	.	+	ID=cds_aspuda1_1335;Description=;parent=rna_aspuda1_1335
+aspuda1_scaffold127	bed	CDS	3144	105582	.	+	ID=cds_aspuda1_1336;Description=;parent=rna_aspuda1_1336
+aspuda1_scaffold127	bed	CDS	6680	100020	.	+	ID=cds_aspuda1_1337;Description=;parent=rna_aspuda1_1337
+aspuda1_scaffold127	bed	CDS	12201	96163	.	-	ID=cds_aspuda1_1338;Description=;parent=rna_aspuda1_1338
+aspuda1_scaffold127	bed	CDS	19006	91471	.	-	ID=cds_aspuda1_1339;Description=;parent=rna_aspuda1_1339
+aspuda1_scaffold127	bed	CDS	19706	89062	.	-	ID=cds_aspuda1_1340;Description=;parent=rna_aspuda1_1340
+aspuda1_scaffold127	bed	CDS	22728	86386	.	+	ID=cds_aspuda1_eg165056;Description=;parent=rna_aspuda1_eg165056
+aspuda1_scaffold127	bed	CDS	27249	81251	.	+	ID=cds_aspuda1_1341;Description=;parent=rna_aspuda1_1341
+aspuda1_scaffold127	bed	CDS	30903	78305	.	+	ID=cds_aspuda1_1342;Description=;parent=rna_aspuda1_1342
+aspuda1_scaffold127	bed	CDS	33493	76552	.	+	ID=cds_aspuda1_1343;Description=;parent=rna_aspuda1_1343
+aspuda1_scaffold127	bed	CDS	38632	67018	.	+	ID=cds_aspuda1_1344;Description=;parent=rna_aspuda1_1344
+aspuda1_scaffold127	bed	CDS	44819	65406	.	-	ID=cds_aspuda1_1345;Description=;parent=rna_aspuda1_1345
+aspuda1_scaffold127	bed	CDS	46200	64490	.	+	ID=cds_aspuda1_eg165060;Description=;parent=rna_aspuda1_eg165060
+aspuda1_scaffold127	bed	CDS	48139	61532	.	-	ID=cds_aspuda1_1346;Description=;parent=rna_aspuda1_1346
+aspuda1_scaffold127	bed	CDS	49872	60364	.	+	ID=cds_aspuda1_eg165104;Description=;parent=rna_aspuda1_eg165104
+aspuda1_scaffold127	bed	CDS	55746	54623	.	-	ID=cds_aspuda1_1347;Description=;parent=rna_aspuda1_1347
+aspuda1_scaffold127	bed	CDS	56954	53227	.	-	ID=cds_aspuda1_1348;Description=;parent=rna_aspuda1_1348
+aspuda1_scaffold127	bed	CDS	60241	49420	.	-	ID=cds_aspuda1_1349;Description=;parent=rna_aspuda1_1349
+aspuda1_scaffold127	bed	CDS	71567	37439	.	+	ID=cds_aspuda1_1350;Description=;parent=rna_aspuda1_1350
+aspuda1_scaffold127	bed	CDS	79355	29739	.	-	ID=cds_aspuda1_1351;Description=;parent=rna_aspuda1_1351
+aspuda1_scaffold127	bed	CDS	81433	26940	.	+	ID=cds_aspuda1_1352;Description=;parent=rna_aspuda1_1352
+aspuda1_scaffold127	bed	CDS	84344	24095	.	-	ID=cds_aspuda1_eg165072;Description=;parent=rna_aspuda1_eg165072
+aspuda1_scaffold127	bed	CDS	89893	19922	.	+	ID=cds_aspuda1_1353;Description=;parent=rna_aspuda1_1353
+aspuda1_scaffold127	bed	CDS	91910	14918	.	+	ID=cds_aspuda1_1354;Description=;parent=rna_aspuda1_1354
+aspuda1_scaffold127	bed	CDS	98160	12038	.	-	ID=cds_aspuda1_1355;Description=;parent=rna_aspuda1_1355
+aspuda1_scaffold127	bed	CDS	99367	10150	.	-	ID=cds_aspuda1_1356;Description=;parent=rna_aspuda1_1356
+aspuda1_scaffold127	bed	CDS	101997	7779	.	+	ID=cds_aspuda1_1357;Description=;parent=rna_aspuda1_1357
+aspuda1_scaffold127	bed	CDS	104509	5335	.	-	ID=cds_aspuda1_1358;Description=;parent=rna_aspuda1_1358
+aspuda1_scaffold127	bed	CDS	106683	2489	.	-	ID=cds_aspuda1_1359;Description=;parent=rna_aspuda1_1359
+aspuda1_scaffold127	bed	CDS	108970	505	.	+	ID=cds_aspuda1_1360;Description=;parent=rna_aspuda1_1360
+aspuda1_scaffold127	bed	CDS	110860	0	.	+	ID=cds_aspuda1_1336|aspuda5_BLKF01000046.1|down;Description=;parent=rna_aspuda1_1336|aspuda5_BLKF01000046.1|down

@@ -1,0 +1,91 @@
+fonnub1_scaffold51	bed	region	1	86182	.	-	flank	ID=gene_fonnub1_8242|DR|down;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	region	16	86154	.	-	flank	ID=gene_fonnub1_8242|TIR|down;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	1176	83746	.	+	.	ID=gene_fonnub1_8216;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	3387	81751	.	+	.	ID=gene_fonnub1_8217;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	6901	78519	.	+	.	ID=gene_fonnub1_8218;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	7733	76823	.	-	.	ID=gene_fonnub1_8219;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	9744	76012	.	+	.	ID=gene_fonnub1_8220;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	10439	75299	.	+	.	ID=gene_fonnub1_8221;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	12917	72014	.	+	.	ID=gene_fonnub1_8222;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	14544	70588	.	+	.	ID=gene_fonnub1_8223;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	16476	68985	.	+	.	ID=gene_fonnub1_8224;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	18383	67257	.	-	.	ID=gene_fonnub1_8225;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	21240	64340	.	+	.	ID=gene_fonnub1_8226;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	31108	51449	.	-	plp	ID=gene_fonnub1_8228:8227;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	42369	42234	.	-	.	ID=gene_fonnub1_eg195168;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	45835	38459	.	+	fre	ID=gene_fonnub1_8229;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	49323	36250	.	-	.	ID=gene_fonnub1_8230;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	50819	34976	.	+	.	ID=gene_fonnub1_8231;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	52891	30193	.	+	.	ID=gene_fonnub1_8232;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	56854	28797	.	-	.	ID=gene_fonnub1_8233;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	58193	27626	.	-	.	ID=gene_fonnub1_8234;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	59512	25800	.	-	.	ID=gene_fonnub1_8235;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	61989	21938	.	+	.	ID=gene_fonnub1_8236;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	64798	18710	.	-	d37	ID=gene_fonnub1_8237;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	67774	16406	.	+	.	ID=gene_fonnub1_8238;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	70012	15320	.	-	.	ID=gene_fonnub1_8239;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	72492	10853	.	+	.	ID=gene_fonnub1_8240;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	75723	9901	.	-	.	ID=gene_fonnub1_eg195179;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	77221	8056	.	+	.	ID=gene_fonnub1_eg195171;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	78621	6840	.	+	.	ID=gene_fonnub1_8241;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	gene	82081	541	.	-	cap	ID=gene_fonnub1_8242;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	region	86164	5	.	-	flank	ID=gene_fonnub1_8242|TIR|up;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	region	86183	0	.	-	flank	ID=gene_fonnub1_8242|DR|up;Description=fonnub1_s04880;parent=fonnub1_scaffold51
+fonnub1_scaffold51	bed	RNA	1176	83746	.	+	ID=rna_fonnub1_8216;Description=;parent=gene_fonnub1_8216
+fonnub1_scaffold51	bed	RNA	3387	81751	.	+	ID=rna_fonnub1_8217;Description=;parent=gene_fonnub1_8217
+fonnub1_scaffold51	bed	RNA	6901	78519	.	+	ID=rna_fonnub1_8218;Description=;parent=gene_fonnub1_8218
+fonnub1_scaffold51	bed	RNA	7733	76823	.	-	ID=rna_fonnub1_8219;Description=;parent=gene_fonnub1_8219
+fonnub1_scaffold51	bed	RNA	9744	76012	.	+	ID=rna_fonnub1_8220;Description=;parent=gene_fonnub1_8220
+fonnub1_scaffold51	bed	RNA	10439	75299	.	+	ID=rna_fonnub1_8221;Description=;parent=gene_fonnub1_8221
+fonnub1_scaffold51	bed	RNA	12917	72014	.	+	ID=rna_fonnub1_8222;Description=;parent=gene_fonnub1_8222
+fonnub1_scaffold51	bed	RNA	14544	70588	.	+	ID=rna_fonnub1_8223;Description=;parent=gene_fonnub1_8223
+fonnub1_scaffold51	bed	RNA	16476	68985	.	+	ID=rna_fonnub1_8224;Description=;parent=gene_fonnub1_8224
+fonnub1_scaffold51	bed	RNA	18383	67257	.	-	ID=rna_fonnub1_8225;Description=;parent=gene_fonnub1_8225
+fonnub1_scaffold51	bed	RNA	21240	64340	.	+	ID=rna_fonnub1_8226;Description=;parent=gene_fonnub1_8226
+fonnub1_scaffold51	bed	RNA	31108	51449	.	-	ID=rna_fonnub1_8228:8227;Description=;parent=gene_fonnub1_8228:8227
+fonnub1_scaffold51	bed	RNA	42369	42234	.	-	ID=rna_fonnub1_eg195168;Description=;parent=gene_fonnub1_eg195168
+fonnub1_scaffold51	bed	RNA	45835	38459	.	+	ID=rna_fonnub1_8229;Description=;parent=gene_fonnub1_8229
+fonnub1_scaffold51	bed	RNA	49323	36250	.	-	ID=rna_fonnub1_8230;Description=;parent=gene_fonnub1_8230
+fonnub1_scaffold51	bed	RNA	50819	34976	.	+	ID=rna_fonnub1_8231;Description=;parent=gene_fonnub1_8231
+fonnub1_scaffold51	bed	RNA	52891	30193	.	+	ID=rna_fonnub1_8232;Description=;parent=gene_fonnub1_8232
+fonnub1_scaffold51	bed	RNA	56854	28797	.	-	ID=rna_fonnub1_8233;Description=;parent=gene_fonnub1_8233
+fonnub1_scaffold51	bed	RNA	58193	27626	.	-	ID=rna_fonnub1_8234;Description=;parent=gene_fonnub1_8234
+fonnub1_scaffold51	bed	RNA	59512	25800	.	-	ID=rna_fonnub1_8235;Description=;parent=gene_fonnub1_8235
+fonnub1_scaffold51	bed	RNA	61989	21938	.	+	ID=rna_fonnub1_8236;Description=;parent=gene_fonnub1_8236
+fonnub1_scaffold51	bed	RNA	64798	18710	.	-	ID=rna_fonnub1_8237;Description=;parent=gene_fonnub1_8237
+fonnub1_scaffold51	bed	RNA	67774	16406	.	+	ID=rna_fonnub1_8238;Description=;parent=gene_fonnub1_8238
+fonnub1_scaffold51	bed	RNA	70012	15320	.	-	ID=rna_fonnub1_8239;Description=;parent=gene_fonnub1_8239
+fonnub1_scaffold51	bed	RNA	72492	10853	.	+	ID=rna_fonnub1_8240;Description=;parent=gene_fonnub1_8240
+fonnub1_scaffold51	bed	RNA	75723	9901	.	-	ID=rna_fonnub1_eg195179;Description=;parent=gene_fonnub1_eg195179
+fonnub1_scaffold51	bed	RNA	77221	8056	.	+	ID=rna_fonnub1_eg195171;Description=;parent=gene_fonnub1_eg195171
+fonnub1_scaffold51	bed	RNA	78621	6840	.	+	ID=rna_fonnub1_8241;Description=;parent=gene_fonnub1_8241
+fonnub1_scaffold51	bed	RNA	82081	541	.	-	ID=rna_fonnub1_8242;Description=;parent=gene_fonnub1_8242
+fonnub1_scaffold51	bed	CDS	1176	83746	.	+	ID=cds_fonnub1_8216;Description=;parent=rna_fonnub1_8216
+fonnub1_scaffold51	bed	CDS	3387	81751	.	+	ID=cds_fonnub1_8217;Description=;parent=rna_fonnub1_8217
+fonnub1_scaffold51	bed	CDS	6901	78519	.	+	ID=cds_fonnub1_8218;Description=;parent=rna_fonnub1_8218
+fonnub1_scaffold51	bed	CDS	7733	76823	.	-	ID=cds_fonnub1_8219;Description=;parent=rna_fonnub1_8219
+fonnub1_scaffold51	bed	CDS	9744	76012	.	+	ID=cds_fonnub1_8220;Description=;parent=rna_fonnub1_8220
+fonnub1_scaffold51	bed	CDS	10439	75299	.	+	ID=cds_fonnub1_8221;Description=;parent=rna_fonnub1_8221
+fonnub1_scaffold51	bed	CDS	12917	72014	.	+	ID=cds_fonnub1_8222;Description=;parent=rna_fonnub1_8222
+fonnub1_scaffold51	bed	CDS	14544	70588	.	+	ID=cds_fonnub1_8223;Description=;parent=rna_fonnub1_8223
+fonnub1_scaffold51	bed	CDS	16476	68985	.	+	ID=cds_fonnub1_8224;Description=;parent=rna_fonnub1_8224
+fonnub1_scaffold51	bed	CDS	18383	67257	.	-	ID=cds_fonnub1_8225;Description=;parent=rna_fonnub1_8225
+fonnub1_scaffold51	bed	CDS	21240	64340	.	+	ID=cds_fonnub1_8226;Description=;parent=rna_fonnub1_8226
+fonnub1_scaffold51	bed	CDS	31108	51449	.	-	ID=cds_fonnub1_8228:8227;Description=;parent=rna_fonnub1_8228:8227
+fonnub1_scaffold51	bed	CDS	42369	42234	.	-	ID=cds_fonnub1_eg195168;Description=;parent=rna_fonnub1_eg195168
+fonnub1_scaffold51	bed	CDS	45835	38459	.	+	ID=cds_fonnub1_8229;Description=;parent=rna_fonnub1_8229
+fonnub1_scaffold51	bed	CDS	49323	36250	.	-	ID=cds_fonnub1_8230;Description=;parent=rna_fonnub1_8230
+fonnub1_scaffold51	bed	CDS	50819	34976	.	+	ID=cds_fonnub1_8231;Description=;parent=rna_fonnub1_8231
+fonnub1_scaffold51	bed	CDS	52891	30193	.	+	ID=cds_fonnub1_8232;Description=;parent=rna_fonnub1_8232
+fonnub1_scaffold51	bed	CDS	56854	28797	.	-	ID=cds_fonnub1_8233;Description=;parent=rna_fonnub1_8233
+fonnub1_scaffold51	bed	CDS	58193	27626	.	-	ID=cds_fonnub1_8234;Description=;parent=rna_fonnub1_8234
+fonnub1_scaffold51	bed	CDS	59512	25800	.	-	ID=cds_fonnub1_8235;Description=;parent=rna_fonnub1_8235
+fonnub1_scaffold51	bed	CDS	61989	21938	.	+	ID=cds_fonnub1_8236;Description=;parent=rna_fonnub1_8236
+fonnub1_scaffold51	bed	CDS	64798	18710	.	-	ID=cds_fonnub1_8237;Description=;parent=rna_fonnub1_8237
+fonnub1_scaffold51	bed	CDS	67774	16406	.	+	ID=cds_fonnub1_8238;Description=;parent=rna_fonnub1_8238
+fonnub1_scaffold51	bed	CDS	70012	15320	.	-	ID=cds_fonnub1_8239;Description=;parent=rna_fonnub1_8239
+fonnub1_scaffold51	bed	CDS	72492	10853	.	+	ID=cds_fonnub1_8240;Description=;parent=rna_fonnub1_8240
+fonnub1_scaffold51	bed	CDS	75723	9901	.	-	ID=cds_fonnub1_eg195179;Description=;parent=rna_fonnub1_eg195179
+fonnub1_scaffold51	bed	CDS	77221	8056	.	+	ID=cds_fonnub1_eg195171;Description=;parent=rna_fonnub1_eg195171
+fonnub1_scaffold51	bed	CDS	78621	6840	.	+	ID=cds_fonnub1_8241;Description=;parent=rna_fonnub1_8241
+fonnub1_scaffold51	bed	CDS	82081	541	.	-	ID=cds_fonnub1_8242;Description=;parent=rna_fonnub1_8242

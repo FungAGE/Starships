@@ -1,0 +1,84 @@
+colfru3_QPMX01000006.1	bed	gene	1	105169	.	+	insert	ID=gene_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|up;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	6086	97909	.	+	.	ID=gene_colfru3_KAF5493265.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	7396	94160	.	+	.	ID=gene_colfru3_KAF5493879.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	14495	88259	.	+	cap	ID=gene_colfru3_KAF5493187.1:KAF5493872.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	21133	83462	.	+	.	ID=gene_colfru3_KAF5493871.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	23220	81429	.	-	.	ID=gene_colfru3_eg192391;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	25760	79111	.	+	.	ID=gene_colfru3_eg191910;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	25921	78755	.	-	.	ID=gene_colfru3_eg192503;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	28855	74781	.	-	nlr	ID=gene_colfru3_KAF5493186.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	34075	68425	.	-	.	ID=gene_colfru3_KAF5493869.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	37467	66366	.	+	.	ID=gene_colfru3_KAF5493870.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	38866	65111	.	-	.	ID=gene_colfru3_KAF5493511.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	42015	62573	.	+	.	ID=gene_colfru3_KAF5493512.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	43499	59678	.	-	.	ID=gene_colfru3_KAF5493985.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	46378	58039	.	+	.	ID=gene_colfru3_KAF5493987.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	49184	54537	.	-	.	ID=gene_colfru3_KAF5493182.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	51168	50811	.	+	nlr	ID=gene_colfru3_KAF5493183.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	57893	47002	.	+	.	ID=gene_colfru3_eg192396;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	63996	38818	.	-	.	ID=gene_colfru3_KAF5493180.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	68469	35759	.	+	.	ID=gene_colfru3_KAF5493181.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	69505	34160	.	+	.	ID=gene_colfru3_KAF5493178.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	72275	27486	.	+	nlr	ID=gene_colfru3_KAF5493179.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	80907	23009	.	-	.	ID=gene_colfru3_KAF5493990.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	83988	20733	.	-	.	ID=gene_colfru3_KAF5492929.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	87029	17944	.	-	.	ID=gene_colfru3_eg191973;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	95189	9446	.	+	.	ID=gene_colfru3_KAF5493830.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	99493	4493	.	-	nlr	ID=gene_colfru3_KAF5493829.1;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	gene	105170	0	.	+	insert	ID=gene_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|down;Description=colfru3_s04066;parent=colfru3_QPMX01000006.1
+colfru3_QPMX01000006.1	bed	RNA	1	105169	.	+	ID=rna_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|up;Description=;parent=gene_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|up
+colfru3_QPMX01000006.1	bed	RNA	6086	97909	.	+	ID=rna_colfru3_KAF5493265.1;Description=;parent=gene_colfru3_KAF5493265.1
+colfru3_QPMX01000006.1	bed	RNA	7396	94160	.	+	ID=rna_colfru3_KAF5493879.1;Description=;parent=gene_colfru3_KAF5493879.1
+colfru3_QPMX01000006.1	bed	RNA	14495	88259	.	+	ID=rna_colfru3_KAF5493187.1:KAF5493872.1;Description=;parent=gene_colfru3_KAF5493187.1:KAF5493872.1
+colfru3_QPMX01000006.1	bed	RNA	21133	83462	.	+	ID=rna_colfru3_KAF5493871.1;Description=;parent=gene_colfru3_KAF5493871.1
+colfru3_QPMX01000006.1	bed	RNA	23220	81429	.	-	ID=rna_colfru3_eg192391;Description=;parent=gene_colfru3_eg192391
+colfru3_QPMX01000006.1	bed	RNA	25760	79111	.	+	ID=rna_colfru3_eg191910;Description=;parent=gene_colfru3_eg191910
+colfru3_QPMX01000006.1	bed	RNA	25921	78755	.	-	ID=rna_colfru3_eg192503;Description=;parent=gene_colfru3_eg192503
+colfru3_QPMX01000006.1	bed	RNA	28855	74781	.	-	ID=rna_colfru3_KAF5493186.1;Description=;parent=gene_colfru3_KAF5493186.1
+colfru3_QPMX01000006.1	bed	RNA	34075	68425	.	-	ID=rna_colfru3_KAF5493869.1;Description=;parent=gene_colfru3_KAF5493869.1
+colfru3_QPMX01000006.1	bed	RNA	37467	66366	.	+	ID=rna_colfru3_KAF5493870.1;Description=;parent=gene_colfru3_KAF5493870.1
+colfru3_QPMX01000006.1	bed	RNA	38866	65111	.	-	ID=rna_colfru3_KAF5493511.1;Description=;parent=gene_colfru3_KAF5493511.1
+colfru3_QPMX01000006.1	bed	RNA	42015	62573	.	+	ID=rna_colfru3_KAF5493512.1;Description=;parent=gene_colfru3_KAF5493512.1
+colfru3_QPMX01000006.1	bed	RNA	43499	59678	.	-	ID=rna_colfru3_KAF5493985.1;Description=;parent=gene_colfru3_KAF5493985.1
+colfru3_QPMX01000006.1	bed	RNA	46378	58039	.	+	ID=rna_colfru3_KAF5493987.1;Description=;parent=gene_colfru3_KAF5493987.1
+colfru3_QPMX01000006.1	bed	RNA	49184	54537	.	-	ID=rna_colfru3_KAF5493182.1;Description=;parent=gene_colfru3_KAF5493182.1
+colfru3_QPMX01000006.1	bed	RNA	51168	50811	.	+	ID=rna_colfru3_KAF5493183.1;Description=;parent=gene_colfru3_KAF5493183.1
+colfru3_QPMX01000006.1	bed	RNA	57893	47002	.	+	ID=rna_colfru3_eg192396;Description=;parent=gene_colfru3_eg192396
+colfru3_QPMX01000006.1	bed	RNA	63996	38818	.	-	ID=rna_colfru3_KAF5493180.1;Description=;parent=gene_colfru3_KAF5493180.1
+colfru3_QPMX01000006.1	bed	RNA	68469	35759	.	+	ID=rna_colfru3_KAF5493181.1;Description=;parent=gene_colfru3_KAF5493181.1
+colfru3_QPMX01000006.1	bed	RNA	69505	34160	.	+	ID=rna_colfru3_KAF5493178.1;Description=;parent=gene_colfru3_KAF5493178.1
+colfru3_QPMX01000006.1	bed	RNA	72275	27486	.	+	ID=rna_colfru3_KAF5493179.1;Description=;parent=gene_colfru3_KAF5493179.1
+colfru3_QPMX01000006.1	bed	RNA	80907	23009	.	-	ID=rna_colfru3_KAF5493990.1;Description=;parent=gene_colfru3_KAF5493990.1
+colfru3_QPMX01000006.1	bed	RNA	83988	20733	.	-	ID=rna_colfru3_KAF5492929.1;Description=;parent=gene_colfru3_KAF5492929.1
+colfru3_QPMX01000006.1	bed	RNA	87029	17944	.	-	ID=rna_colfru3_eg191973;Description=;parent=gene_colfru3_eg191973
+colfru3_QPMX01000006.1	bed	RNA	95189	9446	.	+	ID=rna_colfru3_KAF5493830.1;Description=;parent=gene_colfru3_KAF5493830.1
+colfru3_QPMX01000006.1	bed	RNA	99493	4493	.	-	ID=rna_colfru3_KAF5493829.1;Description=;parent=gene_colfru3_KAF5493829.1
+colfru3_QPMX01000006.1	bed	RNA	105170	0	.	+	ID=rna_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|down;Description=;parent=gene_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|down
+colfru3_QPMX01000006.1	bed	CDS	1	105169	.	+	ID=cds_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|up;Description=;parent=rna_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|up
+colfru3_QPMX01000006.1	bed	CDS	6086	97909	.	+	ID=cds_colfru3_KAF5493265.1;Description=;parent=rna_colfru3_KAF5493265.1
+colfru3_QPMX01000006.1	bed	CDS	7396	94160	.	+	ID=cds_colfru3_KAF5493879.1;Description=;parent=rna_colfru3_KAF5493879.1
+colfru3_QPMX01000006.1	bed	CDS	14495	88259	.	+	ID=cds_colfru3_KAF5493187.1:KAF5493872.1;Description=;parent=rna_colfru3_KAF5493187.1:KAF5493872.1
+colfru3_QPMX01000006.1	bed	CDS	21133	83462	.	+	ID=cds_colfru3_KAF5493871.1;Description=;parent=rna_colfru3_KAF5493871.1
+colfru3_QPMX01000006.1	bed	CDS	23220	81429	.	-	ID=cds_colfru3_eg192391;Description=;parent=rna_colfru3_eg192391
+colfru3_QPMX01000006.1	bed	CDS	25760	79111	.	+	ID=cds_colfru3_eg191910;Description=;parent=rna_colfru3_eg191910
+colfru3_QPMX01000006.1	bed	CDS	25921	78755	.	-	ID=cds_colfru3_eg192503;Description=;parent=rna_colfru3_eg192503
+colfru3_QPMX01000006.1	bed	CDS	28855	74781	.	-	ID=cds_colfru3_KAF5493186.1;Description=;parent=rna_colfru3_KAF5493186.1
+colfru3_QPMX01000006.1	bed	CDS	34075	68425	.	-	ID=cds_colfru3_KAF5493869.1;Description=;parent=rna_colfru3_KAF5493869.1
+colfru3_QPMX01000006.1	bed	CDS	37467	66366	.	+	ID=cds_colfru3_KAF5493870.1;Description=;parent=rna_colfru3_KAF5493870.1
+colfru3_QPMX01000006.1	bed	CDS	38866	65111	.	-	ID=cds_colfru3_KAF5493511.1;Description=;parent=rna_colfru3_KAF5493511.1
+colfru3_QPMX01000006.1	bed	CDS	42015	62573	.	+	ID=cds_colfru3_KAF5493512.1;Description=;parent=rna_colfru3_KAF5493512.1
+colfru3_QPMX01000006.1	bed	CDS	43499	59678	.	-	ID=cds_colfru3_KAF5493985.1;Description=;parent=rna_colfru3_KAF5493985.1
+colfru3_QPMX01000006.1	bed	CDS	46378	58039	.	+	ID=cds_colfru3_KAF5493987.1;Description=;parent=rna_colfru3_KAF5493987.1
+colfru3_QPMX01000006.1	bed	CDS	49184	54537	.	-	ID=cds_colfru3_KAF5493182.1;Description=;parent=rna_colfru3_KAF5493182.1
+colfru3_QPMX01000006.1	bed	CDS	51168	50811	.	+	ID=cds_colfru3_KAF5493183.1;Description=;parent=rna_colfru3_KAF5493183.1
+colfru3_QPMX01000006.1	bed	CDS	57893	47002	.	+	ID=cds_colfru3_eg192396;Description=;parent=rna_colfru3_eg192396
+colfru3_QPMX01000006.1	bed	CDS	63996	38818	.	-	ID=cds_colfru3_KAF5493180.1;Description=;parent=rna_colfru3_KAF5493180.1
+colfru3_QPMX01000006.1	bed	CDS	68469	35759	.	+	ID=cds_colfru3_KAF5493181.1;Description=;parent=rna_colfru3_KAF5493181.1
+colfru3_QPMX01000006.1	bed	CDS	69505	34160	.	+	ID=cds_colfru3_KAF5493178.1;Description=;parent=rna_colfru3_KAF5493178.1
+colfru3_QPMX01000006.1	bed	CDS	72275	27486	.	+	ID=cds_colfru3_KAF5493179.1;Description=;parent=rna_colfru3_KAF5493179.1
+colfru3_QPMX01000006.1	bed	CDS	80907	23009	.	-	ID=cds_colfru3_KAF5493990.1;Description=;parent=rna_colfru3_KAF5493990.1
+colfru3_QPMX01000006.1	bed	CDS	83988	20733	.	-	ID=cds_colfru3_KAF5492929.1;Description=;parent=rna_colfru3_KAF5492929.1
+colfru3_QPMX01000006.1	bed	CDS	87029	17944	.	-	ID=cds_colfru3_eg191973;Description=;parent=rna_colfru3_eg191973
+colfru3_QPMX01000006.1	bed	CDS	95189	9446	.	+	ID=cds_colfru3_KAF5493830.1;Description=;parent=rna_colfru3_KAF5493830.1
+colfru3_QPMX01000006.1	bed	CDS	99493	4493	.	-	ID=cds_colfru3_KAF5493829.1;Description=;parent=rna_colfru3_KAF5493829.1
+colfru3_QPMX01000006.1	bed	CDS	105170	0	.	+	ID=cds_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|down;Description=;parent=rna_colfru3_KAF5493187.1:KAF5493872.1|colaen1_QPNB01000007.1|down

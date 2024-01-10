@@ -1,0 +1,21 @@
+aspfis5_JAAKEP010000044.1	bed	gene	1	17676	.	+	insert	ID=gene_aspfis5_tyr1167|aspfis3_VWYA01000037.1|up;Description=aspfis5_s01110;parent=aspfis5_JAAKEP010000044.1
+aspfis5_JAAKEP010000044.1	bed	gene	373	14586	.	+	cap	ID=gene_aspfis5_tyr1167;Description=aspfis5_s01110;parent=aspfis5_JAAKEP010000044.1
+aspfis5_JAAKEP010000044.1	bed	gene	4397	11583	.	+	d37	ID=gene_aspfis5_d37699;Description=aspfis5_s01110;parent=aspfis5_JAAKEP010000044.1
+aspfis5_JAAKEP010000044.1	bed	gene	6326	7616	.	+	nlr	ID=gene_aspfis5_nlr20797;Description=aspfis5_s01110;parent=aspfis5_JAAKEP010000044.1
+aspfis5_JAAKEP010000044.1	bed	gene	11361	5864	.	-	.	ID=gene_aspfis5_eg50546;Description=aspfis5_s01110;parent=aspfis5_JAAKEP010000044.1
+aspfis5_JAAKEP010000044.1	bed	gene	16353	272	.	-	.	ID=gene_aspfis5_eg50530;Description=aspfis5_s01110;parent=aspfis5_JAAKEP010000044.1
+aspfis5_JAAKEP010000044.1	bed	gene	17677	0	.	+	insert	ID=gene_aspfis5_tyr1167|aspfis3_VWYA01000037.1|down;Description=aspfis5_s01110;parent=aspfis5_JAAKEP010000044.1
+aspfis5_JAAKEP010000044.1	bed	RNA	1	17676	.	+	ID=rna_aspfis5_tyr1167|aspfis3_VWYA01000037.1|up;Description=;parent=gene_aspfis5_tyr1167|aspfis3_VWYA01000037.1|up
+aspfis5_JAAKEP010000044.1	bed	RNA	373	14586	.	+	ID=rna_aspfis5_tyr1167;Description=;parent=gene_aspfis5_tyr1167
+aspfis5_JAAKEP010000044.1	bed	RNA	4397	11583	.	+	ID=rna_aspfis5_d37699;Description=;parent=gene_aspfis5_d37699
+aspfis5_JAAKEP010000044.1	bed	RNA	6326	7616	.	+	ID=rna_aspfis5_nlr20797;Description=;parent=gene_aspfis5_nlr20797
+aspfis5_JAAKEP010000044.1	bed	RNA	11361	5864	.	-	ID=rna_aspfis5_eg50546;Description=;parent=gene_aspfis5_eg50546
+aspfis5_JAAKEP010000044.1	bed	RNA	16353	272	.	-	ID=rna_aspfis5_eg50530;Description=;parent=gene_aspfis5_eg50530
+aspfis5_JAAKEP010000044.1	bed	RNA	17677	0	.	+	ID=rna_aspfis5_tyr1167|aspfis3_VWYA01000037.1|down;Description=;parent=gene_aspfis5_tyr1167|aspfis3_VWYA01000037.1|down
+aspfis5_JAAKEP010000044.1	bed	CDS	1	17676	.	+	ID=cds_aspfis5_tyr1167|aspfis3_VWYA01000037.1|up;Description=;parent=rna_aspfis5_tyr1167|aspfis3_VWYA01000037.1|up
+aspfis5_JAAKEP010000044.1	bed	CDS	373	14586	.	+	ID=cds_aspfis5_tyr1167;Description=;parent=rna_aspfis5_tyr1167
+aspfis5_JAAKEP010000044.1	bed	CDS	4397	11583	.	+	ID=cds_aspfis5_d37699;Description=;parent=rna_aspfis5_d37699
+aspfis5_JAAKEP010000044.1	bed	CDS	6326	7616	.	+	ID=cds_aspfis5_nlr20797;Description=;parent=rna_aspfis5_nlr20797
+aspfis5_JAAKEP010000044.1	bed	CDS	11361	5864	.	-	ID=cds_aspfis5_eg50546;Description=;parent=rna_aspfis5_eg50546
+aspfis5_JAAKEP010000044.1	bed	CDS	16353	272	.	-	ID=cds_aspfis5_eg50530;Description=;parent=rna_aspfis5_eg50530
+aspfis5_JAAKEP010000044.1	bed	CDS	17677	0	.	+	ID=cds_aspfis5_tyr1167|aspfis3_VWYA01000037.1|down;Description=;parent=rna_aspfis5_tyr1167|aspfis3_VWYA01000037.1|down

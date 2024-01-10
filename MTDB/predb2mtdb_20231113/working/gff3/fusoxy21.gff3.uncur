@@ -1,0 +1,21 @@
+fusoxy21_supercont179	bed	gene	1	36562	.	-	insert	ID=gene_fusoxy21_tyr6192|fusoxy23_supercont121|down;Description=fusoxy21_s05920;parent=fusoxy21_supercont179
+fusoxy21_supercont179	bed	gene	4214	32116	.	-	.	ID=gene_fusoxy21_eg240196;Description=fusoxy21_s05920;parent=fusoxy21_supercont179
+fusoxy21_supercont179	bed	gene	21821	13482	.	+	.	ID=gene_fusoxy21_23005;Description=fusoxy21_s05920;parent=fusoxy21_supercont179
+fusoxy21_supercont179	bed	gene	23286	12419	.	-	.	ID=gene_fusoxy21_23006;Description=fusoxy21_s05920;parent=fusoxy21_supercont179
+fusoxy21_supercont179	bed	gene	24856	10656	.	+	.	ID=gene_fusoxy21_eg240208;Description=fusoxy21_s05920;parent=fusoxy21_supercont179
+fusoxy21_supercont179	bed	gene	28503	5638	.	-	cap	ID=gene_fusoxy21_tyr6192;Description=fusoxy21_s05920;parent=fusoxy21_supercont179
+fusoxy21_supercont179	bed	gene	36563	0	.	-	insert	ID=gene_fusoxy21_tyr6192|fusoxy23_supercont121|up;Description=fusoxy21_s05920;parent=fusoxy21_supercont179
+fusoxy21_supercont179	bed	RNA	1	36562	.	-	ID=rna_fusoxy21_tyr6192|fusoxy23_supercont121|down;Description=;parent=gene_fusoxy21_tyr6192|fusoxy23_supercont121|down
+fusoxy21_supercont179	bed	RNA	4214	32116	.	-	ID=rna_fusoxy21_eg240196;Description=;parent=gene_fusoxy21_eg240196
+fusoxy21_supercont179	bed	RNA	21821	13482	.	+	ID=rna_fusoxy21_23005;Description=;parent=gene_fusoxy21_23005
+fusoxy21_supercont179	bed	RNA	23286	12419	.	-	ID=rna_fusoxy21_23006;Description=;parent=gene_fusoxy21_23006
+fusoxy21_supercont179	bed	RNA	24856	10656	.	+	ID=rna_fusoxy21_eg240208;Description=;parent=gene_fusoxy21_eg240208
+fusoxy21_supercont179	bed	RNA	28503	5638	.	-	ID=rna_fusoxy21_tyr6192;Description=;parent=gene_fusoxy21_tyr6192
+fusoxy21_supercont179	bed	RNA	36563	0	.	-	ID=rna_fusoxy21_tyr6192|fusoxy23_supercont121|up;Description=;parent=gene_fusoxy21_tyr6192|fusoxy23_supercont121|up
+fusoxy21_supercont179	bed	CDS	1	36562	.	-	ID=cds_fusoxy21_tyr6192|fusoxy23_supercont121|down;Description=;parent=rna_fusoxy21_tyr6192|fusoxy23_supercont121|down
+fusoxy21_supercont179	bed	CDS	4214	32116	.	-	ID=cds_fusoxy21_eg240196;Description=;parent=rna_fusoxy21_eg240196
+fusoxy21_supercont179	bed	CDS	21821	13482	.	+	ID=cds_fusoxy21_23005;Description=;parent=rna_fusoxy21_23005
+fusoxy21_supercont179	bed	CDS	23286	12419	.	-	ID=cds_fusoxy21_23006;Description=;parent=rna_fusoxy21_23006
+fusoxy21_supercont179	bed	CDS	24856	10656	.	+	ID=cds_fusoxy21_eg240208;Description=;parent=rna_fusoxy21_eg240208
+fusoxy21_supercont179	bed	CDS	28503	5638	.	-	ID=cds_fusoxy21_tyr6192;Description=;parent=rna_fusoxy21_tyr6192
+fusoxy21_supercont179	bed	CDS	36563	0	.	-	ID=cds_fusoxy21_tyr6192|fusoxy23_supercont121|up;Description=;parent=rna_fusoxy21_tyr6192|fusoxy23_supercont121|up

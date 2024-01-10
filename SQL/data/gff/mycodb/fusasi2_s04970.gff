@@ -1,0 +1,27 @@
+fusasi2_LHTY01000081.1	bed	gene	1	27816	.	+	insert	ID=gene_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|up;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	gene	1118	25827	.	+	cap	ID=gene_fusasi2_tyr5239;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	gene	7112	19554	.	+	.	ID=gene_fusasi2_eg196116;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	gene	9160	16696	.	-	.	ID=gene_fusasi2_eg196109;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	gene	13224	12250	.	+	.	ID=gene_fusasi2_eg196107;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	gene	16609	10300	.	+	.	ID=gene_fusasi2_eg196098;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	gene	24719	2718	.	-	.	ID=gene_fusasi2_eg196121;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	gene	27130	592	.	-	.	ID=gene_fusasi2_eg196102;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	gene	27817	0	.	+	insert	ID=gene_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|down;Description=fusasi2_s04970;parent=fusasi2_LHTY01000081.1
+fusasi2_LHTY01000081.1	bed	RNA	1	27816	.	+	ID=rna_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|up;Description=;parent=gene_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|up
+fusasi2_LHTY01000081.1	bed	RNA	1118	25827	.	+	ID=rna_fusasi2_tyr5239;Description=;parent=gene_fusasi2_tyr5239
+fusasi2_LHTY01000081.1	bed	RNA	7112	19554	.	+	ID=rna_fusasi2_eg196116;Description=;parent=gene_fusasi2_eg196116
+fusasi2_LHTY01000081.1	bed	RNA	9160	16696	.	-	ID=rna_fusasi2_eg196109;Description=;parent=gene_fusasi2_eg196109
+fusasi2_LHTY01000081.1	bed	RNA	13224	12250	.	+	ID=rna_fusasi2_eg196107;Description=;parent=gene_fusasi2_eg196107
+fusasi2_LHTY01000081.1	bed	RNA	16609	10300	.	+	ID=rna_fusasi2_eg196098;Description=;parent=gene_fusasi2_eg196098
+fusasi2_LHTY01000081.1	bed	RNA	24719	2718	.	-	ID=rna_fusasi2_eg196121;Description=;parent=gene_fusasi2_eg196121
+fusasi2_LHTY01000081.1	bed	RNA	27130	592	.	-	ID=rna_fusasi2_eg196102;Description=;parent=gene_fusasi2_eg196102
+fusasi2_LHTY01000081.1	bed	RNA	27817	0	.	+	ID=rna_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|down;Description=;parent=gene_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|down
+fusasi2_LHTY01000081.1	bed	CDS	1	27816	.	+	ID=cds_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|up;Description=;parent=rna_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|up
+fusasi2_LHTY01000081.1	bed	CDS	1118	25827	.	+	ID=cds_fusasi2_tyr5239;Description=;parent=rna_fusasi2_tyr5239
+fusasi2_LHTY01000081.1	bed	CDS	7112	19554	.	+	ID=cds_fusasi2_eg196116;Description=;parent=rna_fusasi2_eg196116
+fusasi2_LHTY01000081.1	bed	CDS	9160	16696	.	-	ID=cds_fusasi2_eg196109;Description=;parent=rna_fusasi2_eg196109
+fusasi2_LHTY01000081.1	bed	CDS	13224	12250	.	+	ID=cds_fusasi2_eg196107;Description=;parent=rna_fusasi2_eg196107
+fusasi2_LHTY01000081.1	bed	CDS	16609	10300	.	+	ID=cds_fusasi2_eg196098;Description=;parent=rna_fusasi2_eg196098
+fusasi2_LHTY01000081.1	bed	CDS	24719	2718	.	-	ID=cds_fusasi2_eg196121;Description=;parent=rna_fusasi2_eg196121
+fusasi2_LHTY01000081.1	bed	CDS	27130	592	.	-	ID=cds_fusasi2_eg196102;Description=;parent=rna_fusasi2_eg196102
+fusasi2_LHTY01000081.1	bed	CDS	27817	0	.	+	ID=cds_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|down;Description=;parent=rna_fusasi2_tyr5239|fusgra6_JADPNJ010000009.1|down

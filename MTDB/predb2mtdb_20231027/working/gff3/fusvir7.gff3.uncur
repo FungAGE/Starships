@@ -1,0 +1,19 @@
+fusvir7_JAJHJC010000024.1	bed	region	1	24974	.	-	flank	ID=gene_fusvir7_tyr6939|DR|down;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	region	17	24951	.	-	flank	ID=gene_fusvir7_tyr6939|TIR|down;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	gene	2865	21095	.	-	.	ID=gene_fusvir7_eg322706;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	gene	7558	17019	.	-	.	ID=gene_fusvir7_eg322707;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	gene	11199	13468	.	-	.	ID=gene_fusvir7_eg322719;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	gene	16428	7223	.	+	.	ID=gene_fusvir7_eg322712;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	gene	21083	630	.	-	cap	ID=gene_fusvir7_tyr6939;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	region	24954	15	.	-	flank	ID=gene_fusvir7_tyr6939|TIR|up;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	region	24975	0	.	-	flank	ID=gene_fusvir7_tyr6939|DR|up;Description=fusvir7_s06642;parent=fusvir7_JAJHJC010000024.1
+fusvir7_JAJHJC010000024.1	bed	RNA	2865	21095	.	-	ID=rna_fusvir7_eg322706;Description=;parent=gene_fusvir7_eg322706
+fusvir7_JAJHJC010000024.1	bed	RNA	7558	17019	.	-	ID=rna_fusvir7_eg322707;Description=;parent=gene_fusvir7_eg322707
+fusvir7_JAJHJC010000024.1	bed	RNA	11199	13468	.	-	ID=rna_fusvir7_eg322719;Description=;parent=gene_fusvir7_eg322719
+fusvir7_JAJHJC010000024.1	bed	RNA	16428	7223	.	+	ID=rna_fusvir7_eg322712;Description=;parent=gene_fusvir7_eg322712
+fusvir7_JAJHJC010000024.1	bed	RNA	21083	630	.	-	ID=rna_fusvir7_tyr6939;Description=;parent=gene_fusvir7_tyr6939
+fusvir7_JAJHJC010000024.1	bed	CDS	2865	21095	.	-	ID=cds_fusvir7_eg322706;Description=;parent=rna_fusvir7_eg322706
+fusvir7_JAJHJC010000024.1	bed	CDS	7558	17019	.	-	ID=cds_fusvir7_eg322707;Description=;parent=rna_fusvir7_eg322707
+fusvir7_JAJHJC010000024.1	bed	CDS	11199	13468	.	-	ID=cds_fusvir7_eg322719;Description=;parent=rna_fusvir7_eg322719
+fusvir7_JAJHJC010000024.1	bed	CDS	16428	7223	.	+	ID=cds_fusvir7_eg322712;Description=;parent=rna_fusvir7_eg322712
+fusvir7_JAJHJC010000024.1	bed	CDS	21083	630	.	-	ID=cds_fusvir7_tyr6939;Description=;parent=rna_fusvir7_tyr6939

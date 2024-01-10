@@ -1,0 +1,26 @@
+asppro1_JAJAEC010000021.1	bed	region	1	52156	.	+	flank	ID=gene_asppro1_tyr2437|DR|up;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	gene	555	48706	.	+	cap	ID=gene_asppro1_tyr2437;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	gene	11656	40023	.	-	.	ID=gene_asppro1_eg146959;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	gene	15801	35323	.	-	.	ID=gene_asppro1_eg147012;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	gene	26733	25207	.	-	.	ID=gene_asppro1_eg147023;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	gene	29033	22889	.	+	.	ID=gene_asppro1_eg147015;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	gene	31119	19807	.	+	.	ID=gene_asppro1_eg147040;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	gene	40314	9607	.	+	.	ID=gene_asppro1_eg147026;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	gene	49151	1785	.	+	.	ID=gene_asppro1_eg147034;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	region	52158	0	.	+	flank	ID=gene_asppro1_tyr2437|DR|down;Description=asppro1_s02300;parent=asppro1_JAJAEC010000021.1
+asppro1_JAJAEC010000021.1	bed	RNA	555	48706	.	+	ID=rna_asppro1_tyr2437;Description=;parent=gene_asppro1_tyr2437
+asppro1_JAJAEC010000021.1	bed	RNA	11656	40023	.	-	ID=rna_asppro1_eg146959;Description=;parent=gene_asppro1_eg146959
+asppro1_JAJAEC010000021.1	bed	RNA	15801	35323	.	-	ID=rna_asppro1_eg147012;Description=;parent=gene_asppro1_eg147012
+asppro1_JAJAEC010000021.1	bed	RNA	26733	25207	.	-	ID=rna_asppro1_eg147023;Description=;parent=gene_asppro1_eg147023
+asppro1_JAJAEC010000021.1	bed	RNA	29033	22889	.	+	ID=rna_asppro1_eg147015;Description=;parent=gene_asppro1_eg147015
+asppro1_JAJAEC010000021.1	bed	RNA	31119	19807	.	+	ID=rna_asppro1_eg147040;Description=;parent=gene_asppro1_eg147040
+asppro1_JAJAEC010000021.1	bed	RNA	40314	9607	.	+	ID=rna_asppro1_eg147026;Description=;parent=gene_asppro1_eg147026
+asppro1_JAJAEC010000021.1	bed	RNA	49151	1785	.	+	ID=rna_asppro1_eg147034;Description=;parent=gene_asppro1_eg147034
+asppro1_JAJAEC010000021.1	bed	CDS	555	48706	.	+	ID=cds_asppro1_tyr2437;Description=;parent=rna_asppro1_tyr2437
+asppro1_JAJAEC010000021.1	bed	CDS	11656	40023	.	-	ID=cds_asppro1_eg146959;Description=;parent=rna_asppro1_eg146959
+asppro1_JAJAEC010000021.1	bed	CDS	15801	35323	.	-	ID=cds_asppro1_eg147012;Description=;parent=rna_asppro1_eg147012
+asppro1_JAJAEC010000021.1	bed	CDS	26733	25207	.	-	ID=cds_asppro1_eg147023;Description=;parent=rna_asppro1_eg147023
+asppro1_JAJAEC010000021.1	bed	CDS	29033	22889	.	+	ID=cds_asppro1_eg147015;Description=;parent=rna_asppro1_eg147015
+asppro1_JAJAEC010000021.1	bed	CDS	31119	19807	.	+	ID=cds_asppro1_eg147040;Description=;parent=rna_asppro1_eg147040
+asppro1_JAJAEC010000021.1	bed	CDS	40314	9607	.	+	ID=cds_asppro1_eg147026;Description=;parent=rna_asppro1_eg147026
+asppro1_JAJAEC010000021.1	bed	CDS	49151	1785	.	+	ID=cds_asppro1_eg147034;Description=;parent=rna_asppro1_eg147034

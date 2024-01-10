@@ -1,0 +1,85 @@
+altatr1_CAJRGZ010000015.1	bed	region	1	109785	.	+	flank	ID=gene_altatr1_tyr118|DR|up;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	region	28	109748	.	+	flank	ID=gene_altatr1_tyr118|TIR|up;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	258	106747	.	+	cap	ID=gene_altatr1_tyr118;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	4377	102425	.	+	nlr	ID=gene_altatr1_nlr6525;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	8495	100233	.	-	.	ID=gene_altatr1_eg6974;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	9648	99560	.	-	.	ID=gene_altatr1_eg7078;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	10349	98760	.	+	.	ID=gene_altatr1_CAG5148241.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	12561	95813	.	-	.	ID=gene_altatr1_CAG5148248.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	16889	91614	.	+	.	ID=gene_altatr1_CAG5148255.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	21110	86955	.	+	.	ID=gene_altatr1_CAG5148262.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	22963	86548	.	+	.	ID=gene_altatr1_eg7106;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	23740	85918	.	+	.	ID=gene_altatr1_eg6388;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	24744	83245	.	-	d37	ID=gene_altatr1_CAG5148268.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	29056	80266	.	+	.	ID=gene_altatr1_eg6424;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	34604	73363	.	-	d37	ID=gene_altatr1_CAG5148274.1:CAG5148281.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	36610	72985	.	-	d37	ID=gene_altatr1_d37104;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	37540	68915	.	+	plp	ID=gene_altatr1_CAG5148288.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	41181	67535	.	-	.	ID=gene_altatr1_CAG5148296.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	45607	57750	.	+	.	ID=gene_altatr1_CAG5148304.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	53595	54095	.	-	.	ID=gene_altatr1_CAG5148309.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	61021	48247	.	+	.	ID=gene_altatr1_eg6751;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	65093	42146	.	+	.	ID=gene_altatr1_CAG5148317.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	68748	38723	.	+	nlr	ID=gene_altatr1_nlr6505;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	73816	34948	.	+	.	ID=gene_altatr1_CAG5148324.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	86792	21267	.	+	.	ID=gene_altatr1_CAG5148331.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	91845	16985	.	-	.	ID=gene_altatr1_CAG5148338.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	94097	15321	.	+	.	ID=gene_altatr1_CAG5148346.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	96114	4759	.	-	.	ID=gene_altatr1_CAG5148353.1;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	gene	105395	3843	.	+	.	ID=gene_altatr1_eg7075;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	region	109746	29	.	+	flank	ID=gene_altatr1_tyr118|TIR|down;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	region	109786	0	.	+	flank	ID=gene_altatr1_tyr118|DR|down;Description=altatr1_s00107;parent=altatr1_CAJRGZ010000015.1
+altatr1_CAJRGZ010000015.1	bed	RNA	258	106747	.	+	ID=rna_altatr1_tyr118;Description=;parent=gene_altatr1_tyr118
+altatr1_CAJRGZ010000015.1	bed	RNA	4377	102425	.	+	ID=rna_altatr1_nlr6525;Description=;parent=gene_altatr1_nlr6525
+altatr1_CAJRGZ010000015.1	bed	RNA	8495	100233	.	-	ID=rna_altatr1_eg6974;Description=;parent=gene_altatr1_eg6974
+altatr1_CAJRGZ010000015.1	bed	RNA	9648	99560	.	-	ID=rna_altatr1_eg7078;Description=;parent=gene_altatr1_eg7078
+altatr1_CAJRGZ010000015.1	bed	RNA	10349	98760	.	+	ID=rna_altatr1_CAG5148241.1;Description=;parent=gene_altatr1_CAG5148241.1
+altatr1_CAJRGZ010000015.1	bed	RNA	12561	95813	.	-	ID=rna_altatr1_CAG5148248.1;Description=;parent=gene_altatr1_CAG5148248.1
+altatr1_CAJRGZ010000015.1	bed	RNA	16889	91614	.	+	ID=rna_altatr1_CAG5148255.1;Description=;parent=gene_altatr1_CAG5148255.1
+altatr1_CAJRGZ010000015.1	bed	RNA	21110	86955	.	+	ID=rna_altatr1_CAG5148262.1;Description=;parent=gene_altatr1_CAG5148262.1
+altatr1_CAJRGZ010000015.1	bed	RNA	22963	86548	.	+	ID=rna_altatr1_eg7106;Description=;parent=gene_altatr1_eg7106
+altatr1_CAJRGZ010000015.1	bed	RNA	23740	85918	.	+	ID=rna_altatr1_eg6388;Description=;parent=gene_altatr1_eg6388
+altatr1_CAJRGZ010000015.1	bed	RNA	24744	83245	.	-	ID=rna_altatr1_CAG5148268.1;Description=;parent=gene_altatr1_CAG5148268.1
+altatr1_CAJRGZ010000015.1	bed	RNA	29056	80266	.	+	ID=rna_altatr1_eg6424;Description=;parent=gene_altatr1_eg6424
+altatr1_CAJRGZ010000015.1	bed	RNA	34604	73363	.	-	ID=rna_altatr1_CAG5148274.1:CAG5148281.1;Description=;parent=gene_altatr1_CAG5148274.1:CAG5148281.1
+altatr1_CAJRGZ010000015.1	bed	RNA	36610	72985	.	-	ID=rna_altatr1_d37104;Description=;parent=gene_altatr1_d37104
+altatr1_CAJRGZ010000015.1	bed	RNA	37540	68915	.	+	ID=rna_altatr1_CAG5148288.1;Description=;parent=gene_altatr1_CAG5148288.1
+altatr1_CAJRGZ010000015.1	bed	RNA	41181	67535	.	-	ID=rna_altatr1_CAG5148296.1;Description=;parent=gene_altatr1_CAG5148296.1
+altatr1_CAJRGZ010000015.1	bed	RNA	45607	57750	.	+	ID=rna_altatr1_CAG5148304.1;Description=;parent=gene_altatr1_CAG5148304.1
+altatr1_CAJRGZ010000015.1	bed	RNA	53595	54095	.	-	ID=rna_altatr1_CAG5148309.1;Description=;parent=gene_altatr1_CAG5148309.1
+altatr1_CAJRGZ010000015.1	bed	RNA	61021	48247	.	+	ID=rna_altatr1_eg6751;Description=;parent=gene_altatr1_eg6751
+altatr1_CAJRGZ010000015.1	bed	RNA	65093	42146	.	+	ID=rna_altatr1_CAG5148317.1;Description=;parent=gene_altatr1_CAG5148317.1
+altatr1_CAJRGZ010000015.1	bed	RNA	68748	38723	.	+	ID=rna_altatr1_nlr6505;Description=;parent=gene_altatr1_nlr6505
+altatr1_CAJRGZ010000015.1	bed	RNA	73816	34948	.	+	ID=rna_altatr1_CAG5148324.1;Description=;parent=gene_altatr1_CAG5148324.1
+altatr1_CAJRGZ010000015.1	bed	RNA	86792	21267	.	+	ID=rna_altatr1_CAG5148331.1;Description=;parent=gene_altatr1_CAG5148331.1
+altatr1_CAJRGZ010000015.1	bed	RNA	91845	16985	.	-	ID=rna_altatr1_CAG5148338.1;Description=;parent=gene_altatr1_CAG5148338.1
+altatr1_CAJRGZ010000015.1	bed	RNA	94097	15321	.	+	ID=rna_altatr1_CAG5148346.1;Description=;parent=gene_altatr1_CAG5148346.1
+altatr1_CAJRGZ010000015.1	bed	RNA	96114	4759	.	-	ID=rna_altatr1_CAG5148353.1;Description=;parent=gene_altatr1_CAG5148353.1
+altatr1_CAJRGZ010000015.1	bed	RNA	105395	3843	.	+	ID=rna_altatr1_eg7075;Description=;parent=gene_altatr1_eg7075
+altatr1_CAJRGZ010000015.1	bed	CDS	258	106747	.	+	ID=cds_altatr1_tyr118;Description=;parent=rna_altatr1_tyr118
+altatr1_CAJRGZ010000015.1	bed	CDS	4377	102425	.	+	ID=cds_altatr1_nlr6525;Description=;parent=rna_altatr1_nlr6525
+altatr1_CAJRGZ010000015.1	bed	CDS	8495	100233	.	-	ID=cds_altatr1_eg6974;Description=;parent=rna_altatr1_eg6974
+altatr1_CAJRGZ010000015.1	bed	CDS	9648	99560	.	-	ID=cds_altatr1_eg7078;Description=;parent=rna_altatr1_eg7078
+altatr1_CAJRGZ010000015.1	bed	CDS	10349	98760	.	+	ID=cds_altatr1_CAG5148241.1;Description=;parent=rna_altatr1_CAG5148241.1
+altatr1_CAJRGZ010000015.1	bed	CDS	12561	95813	.	-	ID=cds_altatr1_CAG5148248.1;Description=;parent=rna_altatr1_CAG5148248.1
+altatr1_CAJRGZ010000015.1	bed	CDS	16889	91614	.	+	ID=cds_altatr1_CAG5148255.1;Description=;parent=rna_altatr1_CAG5148255.1
+altatr1_CAJRGZ010000015.1	bed	CDS	21110	86955	.	+	ID=cds_altatr1_CAG5148262.1;Description=;parent=rna_altatr1_CAG5148262.1
+altatr1_CAJRGZ010000015.1	bed	CDS	22963	86548	.	+	ID=cds_altatr1_eg7106;Description=;parent=rna_altatr1_eg7106
+altatr1_CAJRGZ010000015.1	bed	CDS	23740	85918	.	+	ID=cds_altatr1_eg6388;Description=;parent=rna_altatr1_eg6388
+altatr1_CAJRGZ010000015.1	bed	CDS	24744	83245	.	-	ID=cds_altatr1_CAG5148268.1;Description=;parent=rna_altatr1_CAG5148268.1
+altatr1_CAJRGZ010000015.1	bed	CDS	29056	80266	.	+	ID=cds_altatr1_eg6424;Description=;parent=rna_altatr1_eg6424
+altatr1_CAJRGZ010000015.1	bed	CDS	34604	73363	.	-	ID=cds_altatr1_CAG5148274.1:CAG5148281.1;Description=;parent=rna_altatr1_CAG5148274.1:CAG5148281.1
+altatr1_CAJRGZ010000015.1	bed	CDS	36610	72985	.	-	ID=cds_altatr1_d37104;Description=;parent=rna_altatr1_d37104
+altatr1_CAJRGZ010000015.1	bed	CDS	37540	68915	.	+	ID=cds_altatr1_CAG5148288.1;Description=;parent=rna_altatr1_CAG5148288.1
+altatr1_CAJRGZ010000015.1	bed	CDS	41181	67535	.	-	ID=cds_altatr1_CAG5148296.1;Description=;parent=rna_altatr1_CAG5148296.1
+altatr1_CAJRGZ010000015.1	bed	CDS	45607	57750	.	+	ID=cds_altatr1_CAG5148304.1;Description=;parent=rna_altatr1_CAG5148304.1
+altatr1_CAJRGZ010000015.1	bed	CDS	53595	54095	.	-	ID=cds_altatr1_CAG5148309.1;Description=;parent=rna_altatr1_CAG5148309.1
+altatr1_CAJRGZ010000015.1	bed	CDS	61021	48247	.	+	ID=cds_altatr1_eg6751;Description=;parent=rna_altatr1_eg6751
+altatr1_CAJRGZ010000015.1	bed	CDS	65093	42146	.	+	ID=cds_altatr1_CAG5148317.1;Description=;parent=rna_altatr1_CAG5148317.1
+altatr1_CAJRGZ010000015.1	bed	CDS	68748	38723	.	+	ID=cds_altatr1_nlr6505;Description=;parent=rna_altatr1_nlr6505
+altatr1_CAJRGZ010000015.1	bed	CDS	73816	34948	.	+	ID=cds_altatr1_CAG5148324.1;Description=;parent=rna_altatr1_CAG5148324.1
+altatr1_CAJRGZ010000015.1	bed	CDS	86792	21267	.	+	ID=cds_altatr1_CAG5148331.1;Description=;parent=rna_altatr1_CAG5148331.1
+altatr1_CAJRGZ010000015.1	bed	CDS	91845	16985	.	-	ID=cds_altatr1_CAG5148338.1;Description=;parent=rna_altatr1_CAG5148338.1
+altatr1_CAJRGZ010000015.1	bed	CDS	94097	15321	.	+	ID=cds_altatr1_CAG5148346.1;Description=;parent=rna_altatr1_CAG5148346.1
+altatr1_CAJRGZ010000015.1	bed	CDS	96114	4759	.	-	ID=cds_altatr1_CAG5148353.1;Description=;parent=rna_altatr1_CAG5148353.1
+altatr1_CAJRGZ010000015.1	bed	CDS	105395	3843	.	+	ID=cds_altatr1_eg7075;Description=;parent=rna_altatr1_eg7075

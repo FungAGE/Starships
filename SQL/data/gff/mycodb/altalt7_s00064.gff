@@ -1,0 +1,46 @@
+altalt7_VZUP01000002.1	bed	region	1	94363	.	+	flank	ID=gene_altalt7_tyr81|DR|up;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	region	12	94344	.	+	flank	ID=gene_altalt7_tyr81|TIR|up;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	350	91264	.	+	cap	ID=gene_altalt7_tyr81;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	11159	81578	.	-	.	ID=gene_altalt7_eg2612;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	34756	58084	.	-	fre	ID=gene_altalt7_fre292;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	38037	54352	.	-	d37	ID=gene_altalt7_d3771;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	40469	53482	.	-	d37	ID=gene_altalt7_d3770;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	41118	50153	.	+	plp	ID=gene_altalt7_plp242;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	58967	31665	.	-	nlr	ID=gene_altalt7_nlr4108;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	64077	29169	.	-	.	ID=gene_altalt7_eg2683;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	71823	20467	.	-	nlr	ID=gene_altalt7_nlr4093;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	74726	16954	.	+	.	ID=gene_altalt7_eg2659;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	78742	14978	.	-	.	ID=gene_altalt7_eg2526;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	80003	10857	.	+	nlr	ID=gene_altalt7_nlr4080;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	84887	8902	.	+	.	ID=gene_altalt7_eg2124;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	87542	4087	.	+	nlr	ID=gene_altalt7_nlr4097;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	region	94309	47	.	+	flank	ID=gene_altalt7_tyr81|TIR|down;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	region	94364	0	.	+	flank	ID=gene_altalt7_tyr81|DR|down;Description=altalt7_s00064;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	RNA	350	91264	.	+	ID=rna_altalt7_tyr81;Description=;parent=gene_altalt7_tyr81
+altalt7_VZUP01000002.1	bed	RNA	11159	81578	.	-	ID=rna_altalt7_eg2612;Description=;parent=gene_altalt7_eg2612
+altalt7_VZUP01000002.1	bed	RNA	34756	58084	.	-	ID=rna_altalt7_fre292;Description=;parent=gene_altalt7_fre292
+altalt7_VZUP01000002.1	bed	RNA	38037	54352	.	-	ID=rna_altalt7_d3771;Description=;parent=gene_altalt7_d3771
+altalt7_VZUP01000002.1	bed	RNA	40469	53482	.	-	ID=rna_altalt7_d3770;Description=;parent=gene_altalt7_d3770
+altalt7_VZUP01000002.1	bed	RNA	41118	50153	.	+	ID=rna_altalt7_plp242;Description=;parent=gene_altalt7_plp242
+altalt7_VZUP01000002.1	bed	RNA	58967	31665	.	-	ID=rna_altalt7_nlr4108;Description=;parent=gene_altalt7_nlr4108
+altalt7_VZUP01000002.1	bed	RNA	64077	29169	.	-	ID=rna_altalt7_eg2683;Description=;parent=gene_altalt7_eg2683
+altalt7_VZUP01000002.1	bed	RNA	71823	20467	.	-	ID=rna_altalt7_nlr4093;Description=;parent=gene_altalt7_nlr4093
+altalt7_VZUP01000002.1	bed	RNA	74726	16954	.	+	ID=rna_altalt7_eg2659;Description=;parent=gene_altalt7_eg2659
+altalt7_VZUP01000002.1	bed	RNA	78742	14978	.	-	ID=rna_altalt7_eg2526;Description=;parent=gene_altalt7_eg2526
+altalt7_VZUP01000002.1	bed	RNA	80003	10857	.	+	ID=rna_altalt7_nlr4080;Description=;parent=gene_altalt7_nlr4080
+altalt7_VZUP01000002.1	bed	RNA	84887	8902	.	+	ID=rna_altalt7_eg2124;Description=;parent=gene_altalt7_eg2124
+altalt7_VZUP01000002.1	bed	RNA	87542	4087	.	+	ID=rna_altalt7_nlr4097;Description=;parent=gene_altalt7_nlr4097
+altalt7_VZUP01000002.1	bed	CDS	350	91264	.	+	ID=cds_altalt7_tyr81;Description=;parent=rna_altalt7_tyr81
+altalt7_VZUP01000002.1	bed	CDS	11159	81578	.	-	ID=cds_altalt7_eg2612;Description=;parent=rna_altalt7_eg2612
+altalt7_VZUP01000002.1	bed	CDS	34756	58084	.	-	ID=cds_altalt7_fre292;Description=;parent=rna_altalt7_fre292
+altalt7_VZUP01000002.1	bed	CDS	38037	54352	.	-	ID=cds_altalt7_d3771;Description=;parent=rna_altalt7_d3771
+altalt7_VZUP01000002.1	bed	CDS	40469	53482	.	-	ID=cds_altalt7_d3770;Description=;parent=rna_altalt7_d3770
+altalt7_VZUP01000002.1	bed	CDS	41118	50153	.	+	ID=cds_altalt7_plp242;Description=;parent=rna_altalt7_plp242
+altalt7_VZUP01000002.1	bed	CDS	58967	31665	.	-	ID=cds_altalt7_nlr4108;Description=;parent=rna_altalt7_nlr4108
+altalt7_VZUP01000002.1	bed	CDS	64077	29169	.	-	ID=cds_altalt7_eg2683;Description=;parent=rna_altalt7_eg2683
+altalt7_VZUP01000002.1	bed	CDS	71823	20467	.	-	ID=cds_altalt7_nlr4093;Description=;parent=rna_altalt7_nlr4093
+altalt7_VZUP01000002.1	bed	CDS	74726	16954	.	+	ID=cds_altalt7_eg2659;Description=;parent=rna_altalt7_eg2659
+altalt7_VZUP01000002.1	bed	CDS	78742	14978	.	-	ID=cds_altalt7_eg2526;Description=;parent=rna_altalt7_eg2526
+altalt7_VZUP01000002.1	bed	CDS	80003	10857	.	+	ID=cds_altalt7_nlr4080;Description=;parent=rna_altalt7_nlr4080
+altalt7_VZUP01000002.1	bed	CDS	84887	8902	.	+	ID=cds_altalt7_eg2124;Description=;parent=rna_altalt7_eg2124
+altalt7_VZUP01000002.1	bed	CDS	87542	4087	.	+	ID=cds_altalt7_nlr4097;Description=;parent=rna_altalt7_nlr4097

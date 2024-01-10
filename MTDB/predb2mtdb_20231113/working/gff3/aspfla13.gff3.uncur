@@ -1,0 +1,34 @@
+aspfla13_CP061811.2	bed	region	1	57876	.	+	flank	ID=gene_aspfla13_tyr1195|DR|up;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	region	34	57831	.	+	flank	ID=gene_aspfla13_tyr1195|TIR|up;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	468	54736	.	+	cap	ID=gene_aspfla13_tyr1195;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	3818	53841	.	-	.	ID=gene_aspfla13_eg58318;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	11255	46308	.	+	.	ID=gene_aspfla13_eg58596;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	12510	45083	.	+	.	ID=gene_aspfla13_eg58709;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	15124	40218	.	+	d37	ID=gene_aspfla13_d37711;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	28945	25834	.	-	plp	ID=gene_aspfla13_plp1372;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	37435	18191	.	-	.	ID=gene_aspfla13_eg58685;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	48698	8820	.	+	.	ID=gene_aspfla13_eg58671;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	49369	7441	.	+	.	ID=gene_aspfla13_eg58695;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	gene	51476	4678	.	+	.	ID=gene_aspfla13_eg58475;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	region	57837	27	.	+	flank	ID=gene_aspfla13_tyr1195|TIR|down;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	region	57877	0	.	+	flank	ID=gene_aspfla13_tyr1195|DR|down;Description=aspfla13_s01158;parent=aspfla13_CP061811.2
+aspfla13_CP061811.2	bed	RNA	468	54736	.	+	ID=rna_aspfla13_tyr1195;Description=;parent=gene_aspfla13_tyr1195
+aspfla13_CP061811.2	bed	RNA	3818	53841	.	-	ID=rna_aspfla13_eg58318;Description=;parent=gene_aspfla13_eg58318
+aspfla13_CP061811.2	bed	RNA	11255	46308	.	+	ID=rna_aspfla13_eg58596;Description=;parent=gene_aspfla13_eg58596
+aspfla13_CP061811.2	bed	RNA	12510	45083	.	+	ID=rna_aspfla13_eg58709;Description=;parent=gene_aspfla13_eg58709
+aspfla13_CP061811.2	bed	RNA	15124	40218	.	+	ID=rna_aspfla13_d37711;Description=;parent=gene_aspfla13_d37711
+aspfla13_CP061811.2	bed	RNA	28945	25834	.	-	ID=rna_aspfla13_plp1372;Description=;parent=gene_aspfla13_plp1372
+aspfla13_CP061811.2	bed	RNA	37435	18191	.	-	ID=rna_aspfla13_eg58685;Description=;parent=gene_aspfla13_eg58685
+aspfla13_CP061811.2	bed	RNA	48698	8820	.	+	ID=rna_aspfla13_eg58671;Description=;parent=gene_aspfla13_eg58671
+aspfla13_CP061811.2	bed	RNA	49369	7441	.	+	ID=rna_aspfla13_eg58695;Description=;parent=gene_aspfla13_eg58695
+aspfla13_CP061811.2	bed	RNA	51476	4678	.	+	ID=rna_aspfla13_eg58475;Description=;parent=gene_aspfla13_eg58475
+aspfla13_CP061811.2	bed	CDS	468	54736	.	+	ID=cds_aspfla13_tyr1195;Description=;parent=rna_aspfla13_tyr1195
+aspfla13_CP061811.2	bed	CDS	3818	53841	.	-	ID=cds_aspfla13_eg58318;Description=;parent=rna_aspfla13_eg58318
+aspfla13_CP061811.2	bed	CDS	11255	46308	.	+	ID=cds_aspfla13_eg58596;Description=;parent=rna_aspfla13_eg58596
+aspfla13_CP061811.2	bed	CDS	12510	45083	.	+	ID=cds_aspfla13_eg58709;Description=;parent=rna_aspfla13_eg58709
+aspfla13_CP061811.2	bed	CDS	15124	40218	.	+	ID=cds_aspfla13_d37711;Description=;parent=rna_aspfla13_d37711
+aspfla13_CP061811.2	bed	CDS	28945	25834	.	-	ID=cds_aspfla13_plp1372;Description=;parent=rna_aspfla13_plp1372
+aspfla13_CP061811.2	bed	CDS	37435	18191	.	-	ID=cds_aspfla13_eg58685;Description=;parent=rna_aspfla13_eg58685
+aspfla13_CP061811.2	bed	CDS	48698	8820	.	+	ID=cds_aspfla13_eg58671;Description=;parent=rna_aspfla13_eg58671
+aspfla13_CP061811.2	bed	CDS	49369	7441	.	+	ID=cds_aspfla13_eg58695;Description=;parent=rna_aspfla13_eg58695
+aspfla13_CP061811.2	bed	CDS	51476	4678	.	+	ID=cds_aspfla13_eg58475;Description=;parent=rna_aspfla13_eg58475

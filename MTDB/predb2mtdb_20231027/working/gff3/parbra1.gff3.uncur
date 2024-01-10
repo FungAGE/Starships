@@ -1,0 +1,70 @@
+parbra1_supercont5	bed	region	1	48802	.	-	flank	ID=gene_parbra1_6028|DR|down;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	region	37	48757	.	-	flank	ID=gene_parbra1_6028|TIR|down;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	1854	45646	.	+	.	ID=gene_parbra1_6012;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	4777	43740	.	-	.	ID=gene_parbra1_6013;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	5849	41343	.	-	.	ID=gene_parbra1_6014;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	8346	38789	.	-	.	ID=gene_parbra1_6015;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	10463	36937	.	+	.	ID=gene_parbra1_6016;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	12005	35700	.	-	.	ID=gene_parbra1_6017;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	13366	34241	.	+	.	ID=gene_parbra1_6018;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	15254	32768	.	+	.	ID=gene_parbra1_6019;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	16677	31741	.	-	.	ID=gene_parbra1_6020;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	17623	29990	.	-	.	ID=gene_parbra1_6021;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	21287	25801	.	-	.	ID=gene_parbra1_6022;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	28348	17471	.	-	.	ID=gene_parbra1_6023;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	31999	15485	.	+	.	ID=gene_parbra1_6024;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	34104	14247	.	-	.	ID=gene_parbra1_6025;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	35075	11929	.	-	.	ID=gene_parbra1_eg343129;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	37256	11326	.	-	.	ID=gene_parbra1_eg343217;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	37619	8295	.	-	.	ID=gene_parbra1_eg343174;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	40791	7773	.	+	.	ID=gene_parbra1_eg343247;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	42086	5328	.	-	.	ID=gene_parbra1_6026;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	44415	3813	.	+	.	ID=gene_parbra1_6027;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	45332	752	.	-	cap	ID=gene_parbra1_6028;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	gene	48702	2047	.	-	.	ID=gene_parbra1_6029;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	region	48792	3	.	-	flank	ID=gene_parbra1_6028|TIR|up;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	region	48803	0	.	-	flank	ID=gene_parbra1_6028|DR|up;Description=parbra1_s08212;parent=parbra1_supercont5
+parbra1_supercont5	bed	RNA	1854	45646	.	+	ID=rna_parbra1_6012;Description=;parent=gene_parbra1_6012
+parbra1_supercont5	bed	RNA	4777	43740	.	-	ID=rna_parbra1_6013;Description=;parent=gene_parbra1_6013
+parbra1_supercont5	bed	RNA	5849	41343	.	-	ID=rna_parbra1_6014;Description=;parent=gene_parbra1_6014
+parbra1_supercont5	bed	RNA	8346	38789	.	-	ID=rna_parbra1_6015;Description=;parent=gene_parbra1_6015
+parbra1_supercont5	bed	RNA	10463	36937	.	+	ID=rna_parbra1_6016;Description=;parent=gene_parbra1_6016
+parbra1_supercont5	bed	RNA	12005	35700	.	-	ID=rna_parbra1_6017;Description=;parent=gene_parbra1_6017
+parbra1_supercont5	bed	RNA	13366	34241	.	+	ID=rna_parbra1_6018;Description=;parent=gene_parbra1_6018
+parbra1_supercont5	bed	RNA	15254	32768	.	+	ID=rna_parbra1_6019;Description=;parent=gene_parbra1_6019
+parbra1_supercont5	bed	RNA	16677	31741	.	-	ID=rna_parbra1_6020;Description=;parent=gene_parbra1_6020
+parbra1_supercont5	bed	RNA	17623	29990	.	-	ID=rna_parbra1_6021;Description=;parent=gene_parbra1_6021
+parbra1_supercont5	bed	RNA	21287	25801	.	-	ID=rna_parbra1_6022;Description=;parent=gene_parbra1_6022
+parbra1_supercont5	bed	RNA	28348	17471	.	-	ID=rna_parbra1_6023;Description=;parent=gene_parbra1_6023
+parbra1_supercont5	bed	RNA	31999	15485	.	+	ID=rna_parbra1_6024;Description=;parent=gene_parbra1_6024
+parbra1_supercont5	bed	RNA	34104	14247	.	-	ID=rna_parbra1_6025;Description=;parent=gene_parbra1_6025
+parbra1_supercont5	bed	RNA	35075	11929	.	-	ID=rna_parbra1_eg343129;Description=;parent=gene_parbra1_eg343129
+parbra1_supercont5	bed	RNA	37256	11326	.	-	ID=rna_parbra1_eg343217;Description=;parent=gene_parbra1_eg343217
+parbra1_supercont5	bed	RNA	37619	8295	.	-	ID=rna_parbra1_eg343174;Description=;parent=gene_parbra1_eg343174
+parbra1_supercont5	bed	RNA	40791	7773	.	+	ID=rna_parbra1_eg343247;Description=;parent=gene_parbra1_eg343247
+parbra1_supercont5	bed	RNA	42086	5328	.	-	ID=rna_parbra1_6026;Description=;parent=gene_parbra1_6026
+parbra1_supercont5	bed	RNA	44415	3813	.	+	ID=rna_parbra1_6027;Description=;parent=gene_parbra1_6027
+parbra1_supercont5	bed	RNA	45332	752	.	-	ID=rna_parbra1_6028;Description=;parent=gene_parbra1_6028
+parbra1_supercont5	bed	RNA	48702	2047	.	-	ID=rna_parbra1_6029;Description=;parent=gene_parbra1_6029
+parbra1_supercont5	bed	CDS	1854	45646	.	+	ID=cds_parbra1_6012;Description=;parent=rna_parbra1_6012
+parbra1_supercont5	bed	CDS	4777	43740	.	-	ID=cds_parbra1_6013;Description=;parent=rna_parbra1_6013
+parbra1_supercont5	bed	CDS	5849	41343	.	-	ID=cds_parbra1_6014;Description=;parent=rna_parbra1_6014
+parbra1_supercont5	bed	CDS	8346	38789	.	-	ID=cds_parbra1_6015;Description=;parent=rna_parbra1_6015
+parbra1_supercont5	bed	CDS	10463	36937	.	+	ID=cds_parbra1_6016;Description=;parent=rna_parbra1_6016
+parbra1_supercont5	bed	CDS	12005	35700	.	-	ID=cds_parbra1_6017;Description=;parent=rna_parbra1_6017
+parbra1_supercont5	bed	CDS	13366	34241	.	+	ID=cds_parbra1_6018;Description=;parent=rna_parbra1_6018
+parbra1_supercont5	bed	CDS	15254	32768	.	+	ID=cds_parbra1_6019;Description=;parent=rna_parbra1_6019
+parbra1_supercont5	bed	CDS	16677	31741	.	-	ID=cds_parbra1_6020;Description=;parent=rna_parbra1_6020
+parbra1_supercont5	bed	CDS	17623	29990	.	-	ID=cds_parbra1_6021;Description=;parent=rna_parbra1_6021
+parbra1_supercont5	bed	CDS	21287	25801	.	-	ID=cds_parbra1_6022;Description=;parent=rna_parbra1_6022
+parbra1_supercont5	bed	CDS	28348	17471	.	-	ID=cds_parbra1_6023;Description=;parent=rna_parbra1_6023
+parbra1_supercont5	bed	CDS	31999	15485	.	+	ID=cds_parbra1_6024;Description=;parent=rna_parbra1_6024
+parbra1_supercont5	bed	CDS	34104	14247	.	-	ID=cds_parbra1_6025;Description=;parent=rna_parbra1_6025
+parbra1_supercont5	bed	CDS	35075	11929	.	-	ID=cds_parbra1_eg343129;Description=;parent=rna_parbra1_eg343129
+parbra1_supercont5	bed	CDS	37256	11326	.	-	ID=cds_parbra1_eg343217;Description=;parent=rna_parbra1_eg343217
+parbra1_supercont5	bed	CDS	37619	8295	.	-	ID=cds_parbra1_eg343174;Description=;parent=rna_parbra1_eg343174
+parbra1_supercont5	bed	CDS	40791	7773	.	+	ID=cds_parbra1_eg343247;Description=;parent=rna_parbra1_eg343247
+parbra1_supercont5	bed	CDS	42086	5328	.	-	ID=cds_parbra1_6026;Description=;parent=rna_parbra1_6026
+parbra1_supercont5	bed	CDS	44415	3813	.	+	ID=cds_parbra1_6027;Description=;parent=rna_parbra1_6027
+parbra1_supercont5	bed	CDS	45332	752	.	-	ID=cds_parbra1_6028;Description=;parent=rna_parbra1_6028
+parbra1_supercont5	bed	CDS	48702	2047	.	-	ID=cds_parbra1_6029;Description=;parent=rna_parbra1_6029

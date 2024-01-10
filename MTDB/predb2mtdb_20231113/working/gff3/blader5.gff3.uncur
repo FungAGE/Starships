@@ -1,0 +1,49 @@
+blader5_GL538476.1	bed	region	1	70650	.	-	flank	ID=gene_blader5_EQL29695.1:EQL29696.1:EQL29697.1|DR|down;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	region	11	70620	.	-	flank	ID=gene_blader5_EQL29695.1:EQL29696.1:EQL29697.1|TIR|down;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	3564	66751	.	+	.	ID=gene_blader5_EQL29681.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	31350	38816	.	+	.	ID=gene_blader5_EQL29682.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	35718	34448	.	-	.	ID=gene_blader5_EQL29683.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	36213	32973	.	-	.	ID=gene_blader5_EQL29684.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	37956	32123	.	+	.	ID=gene_blader5_EQL29685.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	38633	30559	.	-	.	ID=gene_blader5_EQL29686.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	41723	28355	.	+	.	ID=gene_blader5_EQL29687.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	42539	27599	.	+	.	ID=gene_blader5_EQL29688.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	44561	25413	.	+	.	ID=gene_blader5_EQL29689.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	48001	19241	.	-	.	ID=gene_blader5_EQL29690.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	52207	15771	.	-	.	ID=gene_blader5_EQL29691.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	55955	13136	.	+	.	ID=gene_blader5_EQL29692.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	58051	10082	.	-	.	ID=gene_blader5_EQL29693.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	61224	9020	.	-	.	ID=gene_blader5_eg174190;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	gene	67495	509	.	-	cap	ID=gene_blader5_EQL29695.1:EQL29696.1:EQL29697.1;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	region	70592	40	.	-	flank	ID=gene_blader5_EQL29695.1:EQL29696.1:EQL29697.1|TIR|up;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	region	70652	0	.	-	flank	ID=gene_blader5_EQL29695.1:EQL29696.1:EQL29697.1|DR|up;Description=blader5_s03279;parent=blader5_GL538476.1
+blader5_GL538476.1	bed	RNA	3564	66751	.	+	ID=rna_blader5_EQL29681.1;Description=;parent=gene_blader5_EQL29681.1
+blader5_GL538476.1	bed	RNA	31350	38816	.	+	ID=rna_blader5_EQL29682.1;Description=;parent=gene_blader5_EQL29682.1
+blader5_GL538476.1	bed	RNA	35718	34448	.	-	ID=rna_blader5_EQL29683.1;Description=;parent=gene_blader5_EQL29683.1
+blader5_GL538476.1	bed	RNA	36213	32973	.	-	ID=rna_blader5_EQL29684.1;Description=;parent=gene_blader5_EQL29684.1
+blader5_GL538476.1	bed	RNA	37956	32123	.	+	ID=rna_blader5_EQL29685.1;Description=;parent=gene_blader5_EQL29685.1
+blader5_GL538476.1	bed	RNA	38633	30559	.	-	ID=rna_blader5_EQL29686.1;Description=;parent=gene_blader5_EQL29686.1
+blader5_GL538476.1	bed	RNA	41723	28355	.	+	ID=rna_blader5_EQL29687.1;Description=;parent=gene_blader5_EQL29687.1
+blader5_GL538476.1	bed	RNA	42539	27599	.	+	ID=rna_blader5_EQL29688.1;Description=;parent=gene_blader5_EQL29688.1
+blader5_GL538476.1	bed	RNA	44561	25413	.	+	ID=rna_blader5_EQL29689.1;Description=;parent=gene_blader5_EQL29689.1
+blader5_GL538476.1	bed	RNA	48001	19241	.	-	ID=rna_blader5_EQL29690.1;Description=;parent=gene_blader5_EQL29690.1
+blader5_GL538476.1	bed	RNA	52207	15771	.	-	ID=rna_blader5_EQL29691.1;Description=;parent=gene_blader5_EQL29691.1
+blader5_GL538476.1	bed	RNA	55955	13136	.	+	ID=rna_blader5_EQL29692.1;Description=;parent=gene_blader5_EQL29692.1
+blader5_GL538476.1	bed	RNA	58051	10082	.	-	ID=rna_blader5_EQL29693.1;Description=;parent=gene_blader5_EQL29693.1
+blader5_GL538476.1	bed	RNA	61224	9020	.	-	ID=rna_blader5_eg174190;Description=;parent=gene_blader5_eg174190
+blader5_GL538476.1	bed	RNA	67495	509	.	-	ID=rna_blader5_EQL29695.1:EQL29696.1:EQL29697.1;Description=;parent=gene_blader5_EQL29695.1:EQL29696.1:EQL29697.1
+blader5_GL538476.1	bed	CDS	3564	66751	.	+	ID=cds_blader5_EQL29681.1;Description=;parent=rna_blader5_EQL29681.1
+blader5_GL538476.1	bed	CDS	31350	38816	.	+	ID=cds_blader5_EQL29682.1;Description=;parent=rna_blader5_EQL29682.1
+blader5_GL538476.1	bed	CDS	35718	34448	.	-	ID=cds_blader5_EQL29683.1;Description=;parent=rna_blader5_EQL29683.1
+blader5_GL538476.1	bed	CDS	36213	32973	.	-	ID=cds_blader5_EQL29684.1;Description=;parent=rna_blader5_EQL29684.1
+blader5_GL538476.1	bed	CDS	37956	32123	.	+	ID=cds_blader5_EQL29685.1;Description=;parent=rna_blader5_EQL29685.1
+blader5_GL538476.1	bed	CDS	38633	30559	.	-	ID=cds_blader5_EQL29686.1;Description=;parent=rna_blader5_EQL29686.1
+blader5_GL538476.1	bed	CDS	41723	28355	.	+	ID=cds_blader5_EQL29687.1;Description=;parent=rna_blader5_EQL29687.1
+blader5_GL538476.1	bed	CDS	42539	27599	.	+	ID=cds_blader5_EQL29688.1;Description=;parent=rna_blader5_EQL29688.1
+blader5_GL538476.1	bed	CDS	44561	25413	.	+	ID=cds_blader5_EQL29689.1;Description=;parent=rna_blader5_EQL29689.1
+blader5_GL538476.1	bed	CDS	48001	19241	.	-	ID=cds_blader5_EQL29690.1;Description=;parent=rna_blader5_EQL29690.1
+blader5_GL538476.1	bed	CDS	52207	15771	.	-	ID=cds_blader5_EQL29691.1;Description=;parent=rna_blader5_EQL29691.1
+blader5_GL538476.1	bed	CDS	55955	13136	.	+	ID=cds_blader5_EQL29692.1;Description=;parent=rna_blader5_EQL29692.1
+blader5_GL538476.1	bed	CDS	58051	10082	.	-	ID=cds_blader5_EQL29693.1;Description=;parent=rna_blader5_EQL29693.1
+blader5_GL538476.1	bed	CDS	61224	9020	.	-	ID=cds_blader5_eg174190;Description=;parent=rna_blader5_eg174190
+blader5_GL538476.1	bed	CDS	67495	509	.	-	ID=cds_blader5_EQL29695.1:EQL29696.1:EQL29697.1;Description=;parent=rna_blader5_EQL29695.1:EQL29696.1:EQL29697.1

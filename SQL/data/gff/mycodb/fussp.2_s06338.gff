@@ -1,0 +1,93 @@
+fussp.2_scaffold4	bed	gene	602	88411	.	-	.	ID=gene_fussp.2_415374;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	1	88430	.	+	insert	ID=gene_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|up;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	1781	85102	.	+	.	ID=gene_fussp.2_320863;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	4365	83319	.	+	.	ID=gene_fussp.2_385153;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	6865	81225	.	-	.	ID=gene_fussp.2_268440;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	7447	79414	.	+	cap	ID=gene_fussp.2_320866:385155;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	11914	74968	.	+	.	ID=gene_fussp.2_356170;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	17152	69116	.	+	.	ID=gene_fussp.2_415376;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	19349	66637	.	-	.	ID=gene_fussp.2_343221;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	24018	63221	.	+	.	ID=gene_fussp.2_343225;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	27515	59494	.	+	tyr	ID=gene_fussp.2_146505:343227;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	30688	56972	.	-	.	ID=gene_fussp.2_146508;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	32836	54422	.	+	.	ID=gene_fussp.2_343231;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	34367	52883	.	-	.	ID=gene_fussp.2_356172;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	38101	47766	.	-	.	ID=gene_fussp.2_343252;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	42694	45042	.	-	.	ID=gene_fussp.2_356174;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	45863	41903	.	+	.	ID=gene_fussp.2_266494;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	47679	39619	.	+	.	ID=gene_fussp.2_400002;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	51498	35602	.	-	.	ID=gene_fussp.2_400005;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	53583	33847	.	+	.	ID=gene_fussp.2_415381;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	55272	32013	.	+	.	ID=gene_fussp.2_343260;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	58136	27663	.	+	.	ID=gene_fussp.2_305776;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	62917	23640	.	-	.	ID=gene_fussp.2_343268;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	65731	21968	.	+	.	ID=gene_fussp.2_343272;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	67135	20648	.	-	.	ID=gene_fussp.2_343274;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	69314	16124	.	+	.	ID=gene_fussp.2_146664;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	75712	11568	.	-	.	ID=gene_fussp.2_343277;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	77587	10516	.	-	.	ID=gene_fussp.2_400016;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	81077	6718	.	+	.	ID=gene_fussp.2_363154;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	83913	2819	.	+	.	ID=gene_fussp.2_288059;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	gene	88431	0	.	+	insert	ID=gene_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|down;Description=fussp.2_s06338;parent=fussp.2_scaffold4
+fussp.2_scaffold4	bed	RNA	602	88411	.	-	ID=rna_fussp.2_415374;Description=;parent=gene_fussp.2_415374
+fussp.2_scaffold4	bed	RNA	1	88430	.	+	ID=rna_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|up;Description=;parent=gene_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|up
+fussp.2_scaffold4	bed	RNA	1781	85102	.	+	ID=rna_fussp.2_320863;Description=;parent=gene_fussp.2_320863
+fussp.2_scaffold4	bed	RNA	4365	83319	.	+	ID=rna_fussp.2_385153;Description=;parent=gene_fussp.2_385153
+fussp.2_scaffold4	bed	RNA	6865	81225	.	-	ID=rna_fussp.2_268440;Description=;parent=gene_fussp.2_268440
+fussp.2_scaffold4	bed	RNA	7447	79414	.	+	ID=rna_fussp.2_320866:385155;Description=;parent=gene_fussp.2_320866:385155
+fussp.2_scaffold4	bed	RNA	11914	74968	.	+	ID=rna_fussp.2_356170;Description=;parent=gene_fussp.2_356170
+fussp.2_scaffold4	bed	RNA	17152	69116	.	+	ID=rna_fussp.2_415376;Description=;parent=gene_fussp.2_415376
+fussp.2_scaffold4	bed	RNA	19349	66637	.	-	ID=rna_fussp.2_343221;Description=;parent=gene_fussp.2_343221
+fussp.2_scaffold4	bed	RNA	24018	63221	.	+	ID=rna_fussp.2_343225;Description=;parent=gene_fussp.2_343225
+fussp.2_scaffold4	bed	RNA	27515	59494	.	+	ID=rna_fussp.2_146505:343227;Description=;parent=gene_fussp.2_146505:343227
+fussp.2_scaffold4	bed	RNA	30688	56972	.	-	ID=rna_fussp.2_146508;Description=;parent=gene_fussp.2_146508
+fussp.2_scaffold4	bed	RNA	32836	54422	.	+	ID=rna_fussp.2_343231;Description=;parent=gene_fussp.2_343231
+fussp.2_scaffold4	bed	RNA	34367	52883	.	-	ID=rna_fussp.2_356172;Description=;parent=gene_fussp.2_356172
+fussp.2_scaffold4	bed	RNA	38101	47766	.	-	ID=rna_fussp.2_343252;Description=;parent=gene_fussp.2_343252
+fussp.2_scaffold4	bed	RNA	42694	45042	.	-	ID=rna_fussp.2_356174;Description=;parent=gene_fussp.2_356174
+fussp.2_scaffold4	bed	RNA	45863	41903	.	+	ID=rna_fussp.2_266494;Description=;parent=gene_fussp.2_266494
+fussp.2_scaffold4	bed	RNA	47679	39619	.	+	ID=rna_fussp.2_400002;Description=;parent=gene_fussp.2_400002
+fussp.2_scaffold4	bed	RNA	51498	35602	.	-	ID=rna_fussp.2_400005;Description=;parent=gene_fussp.2_400005
+fussp.2_scaffold4	bed	RNA	53583	33847	.	+	ID=rna_fussp.2_415381;Description=;parent=gene_fussp.2_415381
+fussp.2_scaffold4	bed	RNA	55272	32013	.	+	ID=rna_fussp.2_343260;Description=;parent=gene_fussp.2_343260
+fussp.2_scaffold4	bed	RNA	58136	27663	.	+	ID=rna_fussp.2_305776;Description=;parent=gene_fussp.2_305776
+fussp.2_scaffold4	bed	RNA	62917	23640	.	-	ID=rna_fussp.2_343268;Description=;parent=gene_fussp.2_343268
+fussp.2_scaffold4	bed	RNA	65731	21968	.	+	ID=rna_fussp.2_343272;Description=;parent=gene_fussp.2_343272
+fussp.2_scaffold4	bed	RNA	67135	20648	.	-	ID=rna_fussp.2_343274;Description=;parent=gene_fussp.2_343274
+fussp.2_scaffold4	bed	RNA	69314	16124	.	+	ID=rna_fussp.2_146664;Description=;parent=gene_fussp.2_146664
+fussp.2_scaffold4	bed	RNA	75712	11568	.	-	ID=rna_fussp.2_343277;Description=;parent=gene_fussp.2_343277
+fussp.2_scaffold4	bed	RNA	77587	10516	.	-	ID=rna_fussp.2_400016;Description=;parent=gene_fussp.2_400016
+fussp.2_scaffold4	bed	RNA	81077	6718	.	+	ID=rna_fussp.2_363154;Description=;parent=gene_fussp.2_363154
+fussp.2_scaffold4	bed	RNA	83913	2819	.	+	ID=rna_fussp.2_288059;Description=;parent=gene_fussp.2_288059
+fussp.2_scaffold4	bed	RNA	88431	0	.	+	ID=rna_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|down;Description=;parent=gene_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|down
+fussp.2_scaffold4	bed	CDS	602	88411	.	-	ID=cds_fussp.2_415374;Description=;parent=rna_fussp.2_415374
+fussp.2_scaffold4	bed	CDS	1	88430	.	+	ID=cds_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|up;Description=;parent=rna_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|up
+fussp.2_scaffold4	bed	CDS	1781	85102	.	+	ID=cds_fussp.2_320863;Description=;parent=rna_fussp.2_320863
+fussp.2_scaffold4	bed	CDS	4365	83319	.	+	ID=cds_fussp.2_385153;Description=;parent=rna_fussp.2_385153
+fussp.2_scaffold4	bed	CDS	6865	81225	.	-	ID=cds_fussp.2_268440;Description=;parent=rna_fussp.2_268440
+fussp.2_scaffold4	bed	CDS	7447	79414	.	+	ID=cds_fussp.2_320866:385155;Description=;parent=rna_fussp.2_320866:385155
+fussp.2_scaffold4	bed	CDS	11914	74968	.	+	ID=cds_fussp.2_356170;Description=;parent=rna_fussp.2_356170
+fussp.2_scaffold4	bed	CDS	17152	69116	.	+	ID=cds_fussp.2_415376;Description=;parent=rna_fussp.2_415376
+fussp.2_scaffold4	bed	CDS	19349	66637	.	-	ID=cds_fussp.2_343221;Description=;parent=rna_fussp.2_343221
+fussp.2_scaffold4	bed	CDS	24018	63221	.	+	ID=cds_fussp.2_343225;Description=;parent=rna_fussp.2_343225
+fussp.2_scaffold4	bed	CDS	27515	59494	.	+	ID=cds_fussp.2_146505:343227;Description=;parent=rna_fussp.2_146505:343227
+fussp.2_scaffold4	bed	CDS	30688	56972	.	-	ID=cds_fussp.2_146508;Description=;parent=rna_fussp.2_146508
+fussp.2_scaffold4	bed	CDS	32836	54422	.	+	ID=cds_fussp.2_343231;Description=;parent=rna_fussp.2_343231
+fussp.2_scaffold4	bed	CDS	34367	52883	.	-	ID=cds_fussp.2_356172;Description=;parent=rna_fussp.2_356172
+fussp.2_scaffold4	bed	CDS	38101	47766	.	-	ID=cds_fussp.2_343252;Description=;parent=rna_fussp.2_343252
+fussp.2_scaffold4	bed	CDS	42694	45042	.	-	ID=cds_fussp.2_356174;Description=;parent=rna_fussp.2_356174
+fussp.2_scaffold4	bed	CDS	45863	41903	.	+	ID=cds_fussp.2_266494;Description=;parent=rna_fussp.2_266494
+fussp.2_scaffold4	bed	CDS	47679	39619	.	+	ID=cds_fussp.2_400002;Description=;parent=rna_fussp.2_400002
+fussp.2_scaffold4	bed	CDS	51498	35602	.	-	ID=cds_fussp.2_400005;Description=;parent=rna_fussp.2_400005
+fussp.2_scaffold4	bed	CDS	53583	33847	.	+	ID=cds_fussp.2_415381;Description=;parent=rna_fussp.2_415381
+fussp.2_scaffold4	bed	CDS	55272	32013	.	+	ID=cds_fussp.2_343260;Description=;parent=rna_fussp.2_343260
+fussp.2_scaffold4	bed	CDS	58136	27663	.	+	ID=cds_fussp.2_305776;Description=;parent=rna_fussp.2_305776
+fussp.2_scaffold4	bed	CDS	62917	23640	.	-	ID=cds_fussp.2_343268;Description=;parent=rna_fussp.2_343268
+fussp.2_scaffold4	bed	CDS	65731	21968	.	+	ID=cds_fussp.2_343272;Description=;parent=rna_fussp.2_343272
+fussp.2_scaffold4	bed	CDS	67135	20648	.	-	ID=cds_fussp.2_343274;Description=;parent=rna_fussp.2_343274
+fussp.2_scaffold4	bed	CDS	69314	16124	.	+	ID=cds_fussp.2_146664;Description=;parent=rna_fussp.2_146664
+fussp.2_scaffold4	bed	CDS	75712	11568	.	-	ID=cds_fussp.2_343277;Description=;parent=rna_fussp.2_343277
+fussp.2_scaffold4	bed	CDS	77587	10516	.	-	ID=cds_fussp.2_400016;Description=;parent=rna_fussp.2_400016
+fussp.2_scaffold4	bed	CDS	81077	6718	.	+	ID=cds_fussp.2_363154;Description=;parent=rna_fussp.2_363154
+fussp.2_scaffold4	bed	CDS	83913	2819	.	+	ID=cds_fussp.2_288059;Description=;parent=rna_fussp.2_288059
+fussp.2_scaffold4	bed	CDS	88431	0	.	+	ID=cds_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|down;Description=;parent=rna_fussp.2_320866:385155|fusfus56_JAHKOA010000001.1|down

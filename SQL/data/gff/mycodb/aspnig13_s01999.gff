@@ -1,0 +1,34 @@
+aspnig13_RIBO01000004.1	bed	region	1	98774	.	-	flank	ID=gene_aspnig13_tyr2057|DR|down;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	region	36	98728	.	-	flank	ID=gene_aspnig13_tyr2057|TIR|down;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	7911	89245	.	+	.	ID=gene_aspnig13_eg107217;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	28596	70045	.	+	.	ID=gene_aspnig13_eg107381;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	42507	55819	.	-	.	ID=gene_aspnig13_eg107054;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	45363	53269	.	+	.	ID=gene_aspnig13_eg106813;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	50937	47605	.	+	.	ID=gene_aspnig13_eg107052;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	65989	31046	.	+	.	ID=gene_aspnig13_eg107084;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	70584	26640	.	+	fre	ID=gene_aspnig13_fre3028;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	82601	15235	.	+	.	ID=gene_aspnig13_eg107360;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	90508	3602	.	+	d37	ID=gene_aspnig13_d371223;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	gene	95903	261	.	-	cap	ID=gene_aspnig13_tyr2057;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	region	98754	11	.	-	flank	ID=gene_aspnig13_tyr2057|TIR|up;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	region	98776	0	.	-	flank	ID=gene_aspnig13_tyr2057|DR|up;Description=aspnig13_s01999;parent=aspnig13_RIBO01000004.1
+aspnig13_RIBO01000004.1	bed	RNA	7911	89245	.	+	ID=rna_aspnig13_eg107217;Description=;parent=gene_aspnig13_eg107217
+aspnig13_RIBO01000004.1	bed	RNA	28596	70045	.	+	ID=rna_aspnig13_eg107381;Description=;parent=gene_aspnig13_eg107381
+aspnig13_RIBO01000004.1	bed	RNA	42507	55819	.	-	ID=rna_aspnig13_eg107054;Description=;parent=gene_aspnig13_eg107054
+aspnig13_RIBO01000004.1	bed	RNA	45363	53269	.	+	ID=rna_aspnig13_eg106813;Description=;parent=gene_aspnig13_eg106813
+aspnig13_RIBO01000004.1	bed	RNA	50937	47605	.	+	ID=rna_aspnig13_eg107052;Description=;parent=gene_aspnig13_eg107052
+aspnig13_RIBO01000004.1	bed	RNA	65989	31046	.	+	ID=rna_aspnig13_eg107084;Description=;parent=gene_aspnig13_eg107084
+aspnig13_RIBO01000004.1	bed	RNA	70584	26640	.	+	ID=rna_aspnig13_fre3028;Description=;parent=gene_aspnig13_fre3028
+aspnig13_RIBO01000004.1	bed	RNA	82601	15235	.	+	ID=rna_aspnig13_eg107360;Description=;parent=gene_aspnig13_eg107360
+aspnig13_RIBO01000004.1	bed	RNA	90508	3602	.	+	ID=rna_aspnig13_d371223;Description=;parent=gene_aspnig13_d371223
+aspnig13_RIBO01000004.1	bed	RNA	95903	261	.	-	ID=rna_aspnig13_tyr2057;Description=;parent=gene_aspnig13_tyr2057
+aspnig13_RIBO01000004.1	bed	CDS	7911	89245	.	+	ID=cds_aspnig13_eg107217;Description=;parent=rna_aspnig13_eg107217
+aspnig13_RIBO01000004.1	bed	CDS	28596	70045	.	+	ID=cds_aspnig13_eg107381;Description=;parent=rna_aspnig13_eg107381
+aspnig13_RIBO01000004.1	bed	CDS	42507	55819	.	-	ID=cds_aspnig13_eg107054;Description=;parent=rna_aspnig13_eg107054
+aspnig13_RIBO01000004.1	bed	CDS	45363	53269	.	+	ID=cds_aspnig13_eg106813;Description=;parent=rna_aspnig13_eg106813
+aspnig13_RIBO01000004.1	bed	CDS	50937	47605	.	+	ID=cds_aspnig13_eg107052;Description=;parent=rna_aspnig13_eg107052
+aspnig13_RIBO01000004.1	bed	CDS	65989	31046	.	+	ID=cds_aspnig13_eg107084;Description=;parent=rna_aspnig13_eg107084
+aspnig13_RIBO01000004.1	bed	CDS	70584	26640	.	+	ID=cds_aspnig13_fre3028;Description=;parent=rna_aspnig13_fre3028
+aspnig13_RIBO01000004.1	bed	CDS	82601	15235	.	+	ID=cds_aspnig13_eg107360;Description=;parent=rna_aspnig13_eg107360
+aspnig13_RIBO01000004.1	bed	CDS	90508	3602	.	+	ID=cds_aspnig13_d371223;Description=;parent=rna_aspnig13_d371223
+aspnig13_RIBO01000004.1	bed	CDS	95903	261	.	-	ID=cds_aspnig13_tyr2057;Description=;parent=rna_aspnig13_tyr2057

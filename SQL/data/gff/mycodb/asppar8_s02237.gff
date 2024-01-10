@@ -1,0 +1,45 @@
+asppar8_CP051033.1	bed	gene	1	62450	.	-	insert	ID=gene_asppar8_tyr2409|asppar11_SJFF01000055.1|down;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	2937	58126	.	+	.	ID=gene_asppar8_eg145418;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	4845	56245	.	-	.	ID=gene_asppar8_eg145676;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	7848	53481	.	+	.	ID=gene_asppar8_eg145690;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	10101	52057	.	+	.	ID=gene_asppar8_eg145429;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	11519	50648	.	+	.	ID=gene_asppar8_eg145699;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	12095	49895	.	+	.	ID=gene_asppar8_eg145700;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	29087	31631	.	+	fre	ID=gene_asppar8_fre3529;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	38079	22375	.	+	.	ID=gene_asppar8_eg145426;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	40396	21028	.	-	.	ID=gene_asppar8_eg145658;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	41699	17652	.	+	d37	ID=gene_asppar8_d371434;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	48372	12868	.	-	.	ID=gene_asppar8_eg145580;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	52836	8701	.	+	.	ID=gene_asppar8_eg145590;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	58123	1614	.	-	cap	ID=gene_asppar8_tyr2409;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	gene	62451	0	.	-	insert	ID=gene_asppar8_tyr2409|asppar11_SJFF01000055.1|up;Description=asppar8_s02237;parent=asppar8_CP051033.1
+asppar8_CP051033.1	bed	RNA	1	62450	.	-	ID=rna_asppar8_tyr2409|asppar11_SJFF01000055.1|down;Description=;parent=gene_asppar8_tyr2409|asppar11_SJFF01000055.1|down
+asppar8_CP051033.1	bed	RNA	2937	58126	.	+	ID=rna_asppar8_eg145418;Description=;parent=gene_asppar8_eg145418
+asppar8_CP051033.1	bed	RNA	4845	56245	.	-	ID=rna_asppar8_eg145676;Description=;parent=gene_asppar8_eg145676
+asppar8_CP051033.1	bed	RNA	7848	53481	.	+	ID=rna_asppar8_eg145690;Description=;parent=gene_asppar8_eg145690
+asppar8_CP051033.1	bed	RNA	10101	52057	.	+	ID=rna_asppar8_eg145429;Description=;parent=gene_asppar8_eg145429
+asppar8_CP051033.1	bed	RNA	11519	50648	.	+	ID=rna_asppar8_eg145699;Description=;parent=gene_asppar8_eg145699
+asppar8_CP051033.1	bed	RNA	12095	49895	.	+	ID=rna_asppar8_eg145700;Description=;parent=gene_asppar8_eg145700
+asppar8_CP051033.1	bed	RNA	29087	31631	.	+	ID=rna_asppar8_fre3529;Description=;parent=gene_asppar8_fre3529
+asppar8_CP051033.1	bed	RNA	38079	22375	.	+	ID=rna_asppar8_eg145426;Description=;parent=gene_asppar8_eg145426
+asppar8_CP051033.1	bed	RNA	40396	21028	.	-	ID=rna_asppar8_eg145658;Description=;parent=gene_asppar8_eg145658
+asppar8_CP051033.1	bed	RNA	41699	17652	.	+	ID=rna_asppar8_d371434;Description=;parent=gene_asppar8_d371434
+asppar8_CP051033.1	bed	RNA	48372	12868	.	-	ID=rna_asppar8_eg145580;Description=;parent=gene_asppar8_eg145580
+asppar8_CP051033.1	bed	RNA	52836	8701	.	+	ID=rna_asppar8_eg145590;Description=;parent=gene_asppar8_eg145590
+asppar8_CP051033.1	bed	RNA	58123	1614	.	-	ID=rna_asppar8_tyr2409;Description=;parent=gene_asppar8_tyr2409
+asppar8_CP051033.1	bed	RNA	62451	0	.	-	ID=rna_asppar8_tyr2409|asppar11_SJFF01000055.1|up;Description=;parent=gene_asppar8_tyr2409|asppar11_SJFF01000055.1|up
+asppar8_CP051033.1	bed	CDS	1	62450	.	-	ID=cds_asppar8_tyr2409|asppar11_SJFF01000055.1|down;Description=;parent=rna_asppar8_tyr2409|asppar11_SJFF01000055.1|down
+asppar8_CP051033.1	bed	CDS	2937	58126	.	+	ID=cds_asppar8_eg145418;Description=;parent=rna_asppar8_eg145418
+asppar8_CP051033.1	bed	CDS	4845	56245	.	-	ID=cds_asppar8_eg145676;Description=;parent=rna_asppar8_eg145676
+asppar8_CP051033.1	bed	CDS	7848	53481	.	+	ID=cds_asppar8_eg145690;Description=;parent=rna_asppar8_eg145690
+asppar8_CP051033.1	bed	CDS	10101	52057	.	+	ID=cds_asppar8_eg145429;Description=;parent=rna_asppar8_eg145429
+asppar8_CP051033.1	bed	CDS	11519	50648	.	+	ID=cds_asppar8_eg145699;Description=;parent=rna_asppar8_eg145699
+asppar8_CP051033.1	bed	CDS	12095	49895	.	+	ID=cds_asppar8_eg145700;Description=;parent=rna_asppar8_eg145700
+asppar8_CP051033.1	bed	CDS	29087	31631	.	+	ID=cds_asppar8_fre3529;Description=;parent=rna_asppar8_fre3529
+asppar8_CP051033.1	bed	CDS	38079	22375	.	+	ID=cds_asppar8_eg145426;Description=;parent=rna_asppar8_eg145426
+asppar8_CP051033.1	bed	CDS	40396	21028	.	-	ID=cds_asppar8_eg145658;Description=;parent=rna_asppar8_eg145658
+asppar8_CP051033.1	bed	CDS	41699	17652	.	+	ID=cds_asppar8_d371434;Description=;parent=rna_asppar8_d371434
+asppar8_CP051033.1	bed	CDS	48372	12868	.	-	ID=cds_asppar8_eg145580;Description=;parent=rna_asppar8_eg145580
+asppar8_CP051033.1	bed	CDS	52836	8701	.	+	ID=cds_asppar8_eg145590;Description=;parent=rna_asppar8_eg145590
+asppar8_CP051033.1	bed	CDS	58123	1614	.	-	ID=cds_asppar8_tyr2409;Description=;parent=rna_asppar8_tyr2409
+asppar8_CP051033.1	bed	CDS	62451	0	.	-	ID=cds_asppar8_tyr2409|asppar11_SJFF01000055.1|up;Description=;parent=rna_asppar8_tyr2409|asppar11_SJFF01000055.1|up

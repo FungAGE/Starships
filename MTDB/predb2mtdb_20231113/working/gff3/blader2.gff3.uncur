@@ -1,0 +1,36 @@
+blader2_Supercontig6	bed	gene	1	61616	.	-	insert	ID=gene_blader2_191591|blasil1_LDEV01002733.1|down;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	10374	50206	.	+	.	ID=gene_blader2_191584;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	11633	49268	.	-	.	ID=gene_blader2_191585;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	13617	46375	.	-	.	ID=gene_blader2_191586;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	18832	41703	.	+	.	ID=gene_blader2_191587;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	23549	37117	.	-	.	ID=gene_blader2_191588;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	24903	36220	.	-	.	ID=gene_blader2_191589;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	39587	21356	.	-	.	ID=gene_blader2_191590;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	46287	15181	.	+	.	ID=gene_blader2_eg173981;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	54425	6651	.	-	cap	ID=gene_blader2_191591;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	60080	956	.	-	.	ID=gene_blader2_191592;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	gene	61617	0	.	-	insert	ID=gene_blader2_191591|blasil1_LDEV01002733.1|up;Description=blader2_s03212;parent=blader2_Supercontig6
+blader2_Supercontig6	bed	RNA	1	61616	.	-	ID=rna_blader2_191591|blasil1_LDEV01002733.1|down;Description=;parent=gene_blader2_191591|blasil1_LDEV01002733.1|down
+blader2_Supercontig6	bed	RNA	10374	50206	.	+	ID=rna_blader2_191584;Description=;parent=gene_blader2_191584
+blader2_Supercontig6	bed	RNA	11633	49268	.	-	ID=rna_blader2_191585;Description=;parent=gene_blader2_191585
+blader2_Supercontig6	bed	RNA	13617	46375	.	-	ID=rna_blader2_191586;Description=;parent=gene_blader2_191586
+blader2_Supercontig6	bed	RNA	18832	41703	.	+	ID=rna_blader2_191587;Description=;parent=gene_blader2_191587
+blader2_Supercontig6	bed	RNA	23549	37117	.	-	ID=rna_blader2_191588;Description=;parent=gene_blader2_191588
+blader2_Supercontig6	bed	RNA	24903	36220	.	-	ID=rna_blader2_191589;Description=;parent=gene_blader2_191589
+blader2_Supercontig6	bed	RNA	39587	21356	.	-	ID=rna_blader2_191590;Description=;parent=gene_blader2_191590
+blader2_Supercontig6	bed	RNA	46287	15181	.	+	ID=rna_blader2_eg173981;Description=;parent=gene_blader2_eg173981
+blader2_Supercontig6	bed	RNA	54425	6651	.	-	ID=rna_blader2_191591;Description=;parent=gene_blader2_191591
+blader2_Supercontig6	bed	RNA	60080	956	.	-	ID=rna_blader2_191592;Description=;parent=gene_blader2_191592
+blader2_Supercontig6	bed	RNA	61617	0	.	-	ID=rna_blader2_191591|blasil1_LDEV01002733.1|up;Description=;parent=gene_blader2_191591|blasil1_LDEV01002733.1|up
+blader2_Supercontig6	bed	CDS	1	61616	.	-	ID=cds_blader2_191591|blasil1_LDEV01002733.1|down;Description=;parent=rna_blader2_191591|blasil1_LDEV01002733.1|down
+blader2_Supercontig6	bed	CDS	10374	50206	.	+	ID=cds_blader2_191584;Description=;parent=rna_blader2_191584
+blader2_Supercontig6	bed	CDS	11633	49268	.	-	ID=cds_blader2_191585;Description=;parent=rna_blader2_191585
+blader2_Supercontig6	bed	CDS	13617	46375	.	-	ID=cds_blader2_191586;Description=;parent=rna_blader2_191586
+blader2_Supercontig6	bed	CDS	18832	41703	.	+	ID=cds_blader2_191587;Description=;parent=rna_blader2_191587
+blader2_Supercontig6	bed	CDS	23549	37117	.	-	ID=cds_blader2_191588;Description=;parent=rna_blader2_191588
+blader2_Supercontig6	bed	CDS	24903	36220	.	-	ID=cds_blader2_191589;Description=;parent=rna_blader2_191589
+blader2_Supercontig6	bed	CDS	39587	21356	.	-	ID=cds_blader2_191590;Description=;parent=rna_blader2_191590
+blader2_Supercontig6	bed	CDS	46287	15181	.	+	ID=cds_blader2_eg173981;Description=;parent=rna_blader2_eg173981
+blader2_Supercontig6	bed	CDS	54425	6651	.	-	ID=cds_blader2_191591;Description=;parent=rna_blader2_191591
+blader2_Supercontig6	bed	CDS	60080	956	.	-	ID=cds_blader2_191592;Description=;parent=rna_blader2_191592
+blader2_Supercontig6	bed	CDS	61617	0	.	-	ID=cds_blader2_191591|blasil1_LDEV01002733.1|up;Description=;parent=rna_blader2_191591|blasil1_LDEV01002733.1|up

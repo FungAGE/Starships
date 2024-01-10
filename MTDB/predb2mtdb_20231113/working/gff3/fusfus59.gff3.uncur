@@ -1,0 +1,38 @@
+fusfus59_JAHREO010000009.1	bed	gene	274	64382	.	-	.	ID=gene_fusfus59_eg233981;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	region	1	65353	.	+	flank	ID=gene_fusfus59_tyr5866|DR|up;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	2077	62791	.	+	.	ID=gene_fusfus59_eg233567;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	5711	56974	.	+	cap	ID=gene_fusfus59_tyr5866;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	17007	47486	.	-	.	ID=gene_fusfus59_eg233807;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	22955	42135	.	-	.	ID=gene_fusfus59_eg233695;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	25280	37839	.	+	.	ID=gene_fusfus59_eg233968;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	31350	33239	.	+	.	ID=gene_fusfus59_eg233830;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	32519	32172	.	-	.	ID=gene_fusfus59_eg234156;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	33939	30336	.	+	.	ID=gene_fusfus59_eg233754;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	47582	15453	.	+	.	ID=gene_fusfus59_eg233868;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	57204	7397	.	+	.	ID=gene_fusfus59_eg233805;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	gene	58345	5314	.	-	.	ID=gene_fusfus59_eg233694;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	region	65353	0	.	+	flank	ID=gene_fusfus59_tyr5866|DR|down;Description=fusfus59_s05616;parent=fusfus59_JAHREO010000009.1
+fusfus59_JAHREO010000009.1	bed	RNA	274	64382	.	-	ID=rna_fusfus59_eg233981;Description=;parent=gene_fusfus59_eg233981
+fusfus59_JAHREO010000009.1	bed	RNA	2077	62791	.	+	ID=rna_fusfus59_eg233567;Description=;parent=gene_fusfus59_eg233567
+fusfus59_JAHREO010000009.1	bed	RNA	5711	56974	.	+	ID=rna_fusfus59_tyr5866;Description=;parent=gene_fusfus59_tyr5866
+fusfus59_JAHREO010000009.1	bed	RNA	17007	47486	.	-	ID=rna_fusfus59_eg233807;Description=;parent=gene_fusfus59_eg233807
+fusfus59_JAHREO010000009.1	bed	RNA	22955	42135	.	-	ID=rna_fusfus59_eg233695;Description=;parent=gene_fusfus59_eg233695
+fusfus59_JAHREO010000009.1	bed	RNA	25280	37839	.	+	ID=rna_fusfus59_eg233968;Description=;parent=gene_fusfus59_eg233968
+fusfus59_JAHREO010000009.1	bed	RNA	31350	33239	.	+	ID=rna_fusfus59_eg233830;Description=;parent=gene_fusfus59_eg233830
+fusfus59_JAHREO010000009.1	bed	RNA	32519	32172	.	-	ID=rna_fusfus59_eg234156;Description=;parent=gene_fusfus59_eg234156
+fusfus59_JAHREO010000009.1	bed	RNA	33939	30336	.	+	ID=rna_fusfus59_eg233754;Description=;parent=gene_fusfus59_eg233754
+fusfus59_JAHREO010000009.1	bed	RNA	47582	15453	.	+	ID=rna_fusfus59_eg233868;Description=;parent=gene_fusfus59_eg233868
+fusfus59_JAHREO010000009.1	bed	RNA	57204	7397	.	+	ID=rna_fusfus59_eg233805;Description=;parent=gene_fusfus59_eg233805
+fusfus59_JAHREO010000009.1	bed	RNA	58345	5314	.	-	ID=rna_fusfus59_eg233694;Description=;parent=gene_fusfus59_eg233694
+fusfus59_JAHREO010000009.1	bed	CDS	274	64382	.	-	ID=cds_fusfus59_eg233981;Description=;parent=rna_fusfus59_eg233981
+fusfus59_JAHREO010000009.1	bed	CDS	2077	62791	.	+	ID=cds_fusfus59_eg233567;Description=;parent=rna_fusfus59_eg233567
+fusfus59_JAHREO010000009.1	bed	CDS	5711	56974	.	+	ID=cds_fusfus59_tyr5866;Description=;parent=rna_fusfus59_tyr5866
+fusfus59_JAHREO010000009.1	bed	CDS	17007	47486	.	-	ID=cds_fusfus59_eg233807;Description=;parent=rna_fusfus59_eg233807
+fusfus59_JAHREO010000009.1	bed	CDS	22955	42135	.	-	ID=cds_fusfus59_eg233695;Description=;parent=rna_fusfus59_eg233695
+fusfus59_JAHREO010000009.1	bed	CDS	25280	37839	.	+	ID=cds_fusfus59_eg233968;Description=;parent=rna_fusfus59_eg233968
+fusfus59_JAHREO010000009.1	bed	CDS	31350	33239	.	+	ID=cds_fusfus59_eg233830;Description=;parent=rna_fusfus59_eg233830
+fusfus59_JAHREO010000009.1	bed	CDS	32519	32172	.	-	ID=cds_fusfus59_eg234156;Description=;parent=rna_fusfus59_eg234156
+fusfus59_JAHREO010000009.1	bed	CDS	33939	30336	.	+	ID=cds_fusfus59_eg233754;Description=;parent=rna_fusfus59_eg233754
+fusfus59_JAHREO010000009.1	bed	CDS	47582	15453	.	+	ID=cds_fusfus59_eg233868;Description=;parent=rna_fusfus59_eg233868
+fusfus59_JAHREO010000009.1	bed	CDS	57204	7397	.	+	ID=cds_fusfus59_eg233805;Description=;parent=rna_fusfus59_eg233805
+fusfus59_JAHREO010000009.1	bed	CDS	58345	5314	.	-	ID=cds_fusfus59_eg233694;Description=;parent=rna_fusfus59_eg233694

@@ -1,0 +1,17 @@
+aspfis4_VWYB01000060.1	bed	region	1	20490	.	-	flank	ID=gene_aspfis4_tyr1148|DR|down;Description=aspfis4_s01091;parent=aspfis4_VWYB01000060.1
+aspfis4_VWYB01000060.1	bed	gene	3383	16044	.	+	.	ID=gene_aspfis4_eg50287;Description=aspfis4_s01091;parent=aspfis4_VWYB01000060.1
+aspfis4_VWYB01000060.1	bed	gene	6208	13885	.	-	cap	ID=gene_aspfis4_tyr1148;Description=aspfis4_s01091;parent=aspfis4_VWYB01000060.1
+aspfis4_VWYB01000060.1	bed	gene	10869	9284	.	-	.	ID=gene_aspfis4_eg50322;Description=aspfis4_s01091;parent=aspfis4_VWYB01000060.1
+aspfis4_VWYB01000060.1	bed	gene	14816	4302	.	+	.	ID=gene_aspfis4_eg50291;Description=aspfis4_s01091;parent=aspfis4_VWYB01000060.1
+aspfis4_VWYB01000060.1	bed	gene	16923	1511	.	+	.	ID=gene_aspfis4_eg50289;Description=aspfis4_s01091;parent=aspfis4_VWYB01000060.1
+aspfis4_VWYB01000060.1	bed	region	20490	0	.	-	flank	ID=gene_aspfis4_tyr1148|DR|up;Description=aspfis4_s01091;parent=aspfis4_VWYB01000060.1
+aspfis4_VWYB01000060.1	bed	RNA	3383	16044	.	+	ID=rna_aspfis4_eg50287;Description=;parent=gene_aspfis4_eg50287
+aspfis4_VWYB01000060.1	bed	RNA	6208	13885	.	-	ID=rna_aspfis4_tyr1148;Description=;parent=gene_aspfis4_tyr1148
+aspfis4_VWYB01000060.1	bed	RNA	10869	9284	.	-	ID=rna_aspfis4_eg50322;Description=;parent=gene_aspfis4_eg50322
+aspfis4_VWYB01000060.1	bed	RNA	14816	4302	.	+	ID=rna_aspfis4_eg50291;Description=;parent=gene_aspfis4_eg50291
+aspfis4_VWYB01000060.1	bed	RNA	16923	1511	.	+	ID=rna_aspfis4_eg50289;Description=;parent=gene_aspfis4_eg50289
+aspfis4_VWYB01000060.1	bed	CDS	3383	16044	.	+	ID=cds_aspfis4_eg50287;Description=;parent=rna_aspfis4_eg50287
+aspfis4_VWYB01000060.1	bed	CDS	6208	13885	.	-	ID=cds_aspfis4_tyr1148;Description=;parent=rna_aspfis4_tyr1148
+aspfis4_VWYB01000060.1	bed	CDS	10869	9284	.	-	ID=cds_aspfis4_eg50322;Description=;parent=rna_aspfis4_eg50322
+aspfis4_VWYB01000060.1	bed	CDS	14816	4302	.	+	ID=cds_aspfis4_eg50291;Description=;parent=rna_aspfis4_eg50291
+aspfis4_VWYB01000060.1	bed	CDS	16923	1511	.	+	ID=cds_aspfis4_eg50289;Description=;parent=rna_aspfis4_eg50289

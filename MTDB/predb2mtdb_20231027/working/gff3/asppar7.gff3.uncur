@@ -1,0 +1,17 @@
+asppar7_ML735007.1	bed	gene	80	39832	.	+	.	ID=gene_asppar7_eg143597;Description=asppar7_s02234;parent=asppar7_ML735007.1
+asppar7_ML735007.1	bed	region	1	39841	.	-	flank	ID=gene_asppar7_tyr2406|DR|down;Description=asppar7_s02234;parent=asppar7_ML735007.1
+asppar7_ML735007.1	bed	gene	4466	34289	.	+	.	ID=gene_asppar7_eg143601;Description=asppar7_s02234;parent=asppar7_ML735007.1
+asppar7_ML735007.1	bed	gene	16191	22729	.	+	.	ID=gene_asppar7_eg143613;Description=asppar7_s02234;parent=asppar7_ML735007.1
+asppar7_ML735007.1	bed	gene	33456	5155	.	+	.	ID=gene_asppar7_eg143604;Description=asppar7_s02234;parent=asppar7_ML735007.1
+asppar7_ML735007.1	bed	gene	37337	976	.	-	cap	ID=gene_asppar7_tyr2406;Description=asppar7_s02234;parent=asppar7_ML735007.1
+asppar7_ML735007.1	bed	region	39841	0	.	-	flank	ID=gene_asppar7_tyr2406|DR|up;Description=asppar7_s02234;parent=asppar7_ML735007.1
+asppar7_ML735007.1	bed	RNA	80	39832	.	+	ID=rna_asppar7_eg143597;Description=;parent=gene_asppar7_eg143597
+asppar7_ML735007.1	bed	RNA	4466	34289	.	+	ID=rna_asppar7_eg143601;Description=;parent=gene_asppar7_eg143601
+asppar7_ML735007.1	bed	RNA	16191	22729	.	+	ID=rna_asppar7_eg143613;Description=;parent=gene_asppar7_eg143613
+asppar7_ML735007.1	bed	RNA	33456	5155	.	+	ID=rna_asppar7_eg143604;Description=;parent=gene_asppar7_eg143604
+asppar7_ML735007.1	bed	RNA	37337	976	.	-	ID=rna_asppar7_tyr2406;Description=;parent=gene_asppar7_tyr2406
+asppar7_ML735007.1	bed	CDS	80	39832	.	+	ID=cds_asppar7_eg143597;Description=;parent=rna_asppar7_eg143597
+asppar7_ML735007.1	bed	CDS	4466	34289	.	+	ID=cds_asppar7_eg143601;Description=;parent=rna_asppar7_eg143601
+asppar7_ML735007.1	bed	CDS	16191	22729	.	+	ID=cds_asppar7_eg143613;Description=;parent=rna_asppar7_eg143613
+asppar7_ML735007.1	bed	CDS	33456	5155	.	+	ID=cds_asppar7_eg143604;Description=;parent=rna_asppar7_eg143604
+asppar7_ML735007.1	bed	CDS	37337	976	.	-	ID=cds_asppar7_tyr2406;Description=;parent=rna_asppar7_tyr2406
