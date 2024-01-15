@@ -13,7 +13,7 @@ args = parser.parse_args()
 
 # make coordinates in gff relative to the element, rather than the chr. Use columns 4 and 5 in `mycodb.final.starships.feat` to correct. and remember, gff is 1-indexed
 # Load the TSV file into a DataFrame
-file_path = "ships/mycodb/output/mycodb.final.starships.feat"
+file_path = "ships/starfish/output/mycodb.final.starships.feat"
 df = pd.read_csv(file_path, sep="\t")
 
 # Initialize a dictionary to store data on element lengths
@@ -64,7 +64,7 @@ with open(args.bed_file, "r") as bed_file:
 
 # Create a directory to store the output files
 # output_directory = args.bed_file.strip(".bed") + "_split"
-output_directory = "SQL/data/gff/mycodb"
+output_directory = "metadata/ships/starfish/gff/mycodb"
 os.makedirs(output_directory, exist_ok=True)
 
 # Create separate GFF files for each ID

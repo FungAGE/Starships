@@ -17,7 +17,7 @@ mycodb_df<-read_tsv("MTDB/20211215.pub.dedup.db",c('ome', 'genus', 'species', 's
   mutate(evidence="starfish",source="mycodb")
   
 # fill in metadata using starfish features
-mycodb_feat <- read_tsv("ships/mycodb/output/mycodb.final.starships.feat",show_col_types = FALSE) %>%
+mycodb_feat <- read_tsv("ships/starfish/output/mycodb.final.starships.feat",show_col_types = FALSE) %>%
   rename("size"="elementLength") %>%
   mutate(dr=ifelse(!is.na(upDR) & !is.na(downDR),paste0(upDR,"/",downDR),
                    ifelse(is.na(upDR),downDR,
@@ -29,7 +29,7 @@ mycodb_feat <- read_tsv("ships/mycodb/output/mycodb.final.starships.feat",show_c
                                    ifelse(is.na(upTIR) & is.na(downTIR),NA)))))
 
 # fill in lineage information
-mycodb_lineage <- read_tsv("ships/mycodb/output/mycodb.final.lineage.txt",col_names = c("starshipID","lineages"),show_col_types = FALSE) %>% 
+mycodb_lineage <- read_tsv("ships/starfish/output/mycodb.final.lineage.txt",col_names = c("starshipID","lineages"),show_col_types = FALSE) %>% 
   separate(lineages,into = c("starship_family","starship_navis","starship_haplotype"),sep = ":")
 
 # manual
@@ -42,11 +42,11 @@ manual_df<-read_csv("ships/manual-annotations/Starships.fulltaxa.csv",na=c("","N
 
 # ships
 mycodb_ships <- left_join(
-  tibble(fna=Sys.glob("SQL/data/fna/ships/mycodb/*")) %>% 
+  tibble(fna=Sys.glob("SQL/data/fna/ships/starfish/*")) %>% 
     rowwise() %>%
     mutate(starshipID=gsub("mycodb.final.starships.part_|__.*|.fna|.fa","",basename(fna)),
           ome=str_split(starshipID,"_",simplify=TRUE)[1]),
-  tibble(gff3=Sys.glob("SQL/data/gff/mycodb/*")) %>% 
+  tibble(gff3=Sys.glob("metadata/ships/starfish/gff/starfish/*")) %>% 
     rowwise() %>%
     mutate(starshipID=gsub(".gff","",basename(gff3)),
           ome=str_split(starshipID,"_",simplify=TRUE)[1])
@@ -140,8 +140,8 @@ joined_ships %>%
 mycodb_captain <- mycodb_df %>%
   select(-gff3) %>%
   rowwise() %>%
-  mutate(faa=ifelse(length(Sys.glob(paste0("SQL/data/faa/captain/tyr/mycodb/*",ome,"*")))==1,
-              Sys.glob(paste0("SQL/data/faa/captain/tyr/mycodb/*",ome,"*")),NA),
+  mutate(faa=ifelse(length(Sys.glob(paste0("SQL/data/faa/captain/tyr/starfish/*",ome,"*")))==1,
+              Sys.glob(paste0("SQL/data/faa/captain/tyr/starfish/*",ome,"*")),NA),
         gene="tyr") %>%
   ungroup()
 
@@ -178,14 +178,14 @@ joined_captain %>%
 mycodb_cargo <- mycodb_df %>%
   select(-faa) %>%
   rowwise() %>%
-  mutate(nlr=ifelse(length(Sys.glob(paste0("SQL/data/faa/cargo/nlr/mycodb/*",ome,"*")))==1,
-              Sys.glob(paste0("SQL/data/faa/cargo/nlr/mycodb/*",ome,"*")),NA),
-        fre=ifelse(length(Sys.glob(paste0("SQL/data/faa/cargo/fre/mycodb/*",ome,"*")))==1,
-              Sys.glob(paste0("SQL/data/faa/cargo/fre/mycodb/*",ome,"*")),NA),
-        plp=ifelse(length(Sys.glob(paste0("SQL/data/faa/cargo/plp/mycodb/*",ome,"*")))==1,
-              Sys.glob(paste0("SQL/data/faa/cargo/plp/mycodb/*",ome,"*")),NA),
-        duf3723=ifelse(length(Sys.glob(paste0("SQL/data/faa/cargo/duf3723/mycodb/*",ome,"*")))==1,
-              Sys.glob(paste0("SQL/data/faa/cargo/duf3723/mycodb/*",ome,"*")),NA),) %>%
+  mutate(nlr=ifelse(length(Sys.glob(paste0("SQL/data/faa/cargo/nlr/starfish/*",ome,"*")))==1,
+              Sys.glob(paste0("SQL/data/faa/cargo/nlr/starfish/*",ome,"*")),NA),
+        fre=ifelse(length(Sys.glob(paste0("SQL/data/faa/cargo/fre/starfish/*",ome,"*")))==1,
+              Sys.glob(paste0("SQL/data/faa/cargo/fre/starfish/*",ome,"*")),NA),
+        plp=ifelse(length(Sys.glob(paste0("SQL/data/faa/cargo/plp/starfish/*",ome,"*")))==1,
+              Sys.glob(paste0("SQL/data/faa/cargo/plp/starfish/*",ome,"*")),NA),
+        duf3723=ifelse(length(Sys.glob(paste0("SQL/data/faa/cargo/duf3723/starfish/*",ome,"*")))==1,
+              Sys.glob(paste0("SQL/data/faa/cargo/duf3723/starfish/*",ome,"*")),NA),) %>%
   ungroup() %>%
   pivot_longer(cols=c(nlr,fre,plp,duf3723),names_to="gene",values_to="faa") %>%
   mutate(file=basename(faa)) # just in case files have changed locations...

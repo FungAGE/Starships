@@ -30,7 +30,7 @@ directories = (
     "SQL/data/fna/captain/tyr/mycodb",
     "SQL/data/fna/ships/manual-annotations",
     "SQL/data/fna/ships/mycodb",
-    "SQL/data/gff/mycodb",
+    "metadata/ships/starfish/gff/mycodb",
     "SQL/data/hmm/cargo",
     "SQL/data/hmm/captain",
     "SQL/data/faa/cargo/nlr/mycodb",

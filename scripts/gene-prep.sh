@@ -31,7 +31,7 @@ for fna in $fnas
   do
     # make sure fasta headers match gff
     ship_code=$(basename "$fna" | cut -d _ -f 3)
-    gff=$(find SQL/data/gff/mycodb/ -name "*$ship_name.gff")
+    gff=$(find metadata/ships/starfish/gff/starfish/ -name "*$ship_name.gff")
     header=$(grep "$ship_code" "$gff" | head -n 1 | cut -f 1)
     sed -i "1s/^>.*/>$header/" "$fna"
   done
