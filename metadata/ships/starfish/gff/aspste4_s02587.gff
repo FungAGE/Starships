@@ -1,0 +1,47 @@
+aspste4_MSFO01000004.1	bed	region	1	136042	.	-	flank	ID=gene_aspste4_tyr2750|DR|down;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	6710	127775	.	-	.	ID=gene_aspste4_eg157473;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	33709	100737	.	+	.	ID=gene_aspste4_eg157242;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	48490	86856	.	-	.	ID=gene_aspste4_eg157325;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	50647	83440	.	+	.	ID=gene_aspste4_eg157174;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	54921	80896	.	-	.	ID=gene_aspste4_eg157460;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	77362	58395	.	+	d37	ID=gene_aspste4_d371665;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	84710	48296	.	-	nlr	ID=gene_aspste4_nlr31947;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	101544	34360	.	+	.	ID=gene_aspste4_eg157102;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	116393	19382	.	+	.	ID=gene_aspste4_eg157465;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	121042	14178	.	-	.	ID=gene_aspste4_eg157469;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	121933	13719	.	-	.	ID=gene_aspste4_eg157447;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	122617	13134	.	-	.	ID=gene_aspste4_eg157295;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	125608	9231	.	+	.	ID=gene_aspste4_eg157164;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	128157	7609	.	+	.	ID=gene_aspste4_eg157149;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	gene	133081	404	.	-	cap	ID=gene_aspste4_tyr2750;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	region	136044	0	.	-	flank	ID=gene_aspste4_tyr2750|DR|up;Description=aspste4_s02587;parent=aspste4_MSFO01000004.1
+aspste4_MSFO01000004.1	bed	RNA	6710	127775	.	-	ID=rna_aspste4_eg157473;Description=;parent=gene_aspste4_eg157473
+aspste4_MSFO01000004.1	bed	RNA	33709	100737	.	+	ID=rna_aspste4_eg157242;Description=;parent=gene_aspste4_eg157242
+aspste4_MSFO01000004.1	bed	RNA	48490	86856	.	-	ID=rna_aspste4_eg157325;Description=;parent=gene_aspste4_eg157325
+aspste4_MSFO01000004.1	bed	RNA	50647	83440	.	+	ID=rna_aspste4_eg157174;Description=;parent=gene_aspste4_eg157174
+aspste4_MSFO01000004.1	bed	RNA	54921	80896	.	-	ID=rna_aspste4_eg157460;Description=;parent=gene_aspste4_eg157460
+aspste4_MSFO01000004.1	bed	RNA	77362	58395	.	+	ID=rna_aspste4_d371665;Description=;parent=gene_aspste4_d371665
+aspste4_MSFO01000004.1	bed	RNA	84710	48296	.	-	ID=rna_aspste4_nlr31947;Description=;parent=gene_aspste4_nlr31947
+aspste4_MSFO01000004.1	bed	RNA	101544	34360	.	+	ID=rna_aspste4_eg157102;Description=;parent=gene_aspste4_eg157102
+aspste4_MSFO01000004.1	bed	RNA	116393	19382	.	+	ID=rna_aspste4_eg157465;Description=;parent=gene_aspste4_eg157465
+aspste4_MSFO01000004.1	bed	RNA	121042	14178	.	-	ID=rna_aspste4_eg157469;Description=;parent=gene_aspste4_eg157469
+aspste4_MSFO01000004.1	bed	RNA	121933	13719	.	-	ID=rna_aspste4_eg157447;Description=;parent=gene_aspste4_eg157447
+aspste4_MSFO01000004.1	bed	RNA	122617	13134	.	-	ID=rna_aspste4_eg157295;Description=;parent=gene_aspste4_eg157295
+aspste4_MSFO01000004.1	bed	RNA	125608	9231	.	+	ID=rna_aspste4_eg157164;Description=;parent=gene_aspste4_eg157164
+aspste4_MSFO01000004.1	bed	RNA	128157	7609	.	+	ID=rna_aspste4_eg157149;Description=;parent=gene_aspste4_eg157149
+aspste4_MSFO01000004.1	bed	RNA	133081	404	.	-	ID=rna_aspste4_tyr2750;Description=;parent=gene_aspste4_tyr2750
+aspste4_MSFO01000004.1	bed	CDS	6710	127775	.	-	ID=cds_aspste4_eg157473;Description=;parent=rna_aspste4_eg157473
+aspste4_MSFO01000004.1	bed	CDS	33709	100737	.	+	ID=cds_aspste4_eg157242;Description=;parent=rna_aspste4_eg157242
+aspste4_MSFO01000004.1	bed	CDS	48490	86856	.	-	ID=cds_aspste4_eg157325;Description=;parent=rna_aspste4_eg157325
+aspste4_MSFO01000004.1	bed	CDS	50647	83440	.	+	ID=cds_aspste4_eg157174;Description=;parent=rna_aspste4_eg157174
+aspste4_MSFO01000004.1	bed	CDS	54921	80896	.	-	ID=cds_aspste4_eg157460;Description=;parent=rna_aspste4_eg157460
+aspste4_MSFO01000004.1	bed	CDS	77362	58395	.	+	ID=cds_aspste4_d371665;Description=;parent=rna_aspste4_d371665
+aspste4_MSFO01000004.1	bed	CDS	84710	48296	.	-	ID=cds_aspste4_nlr31947;Description=;parent=rna_aspste4_nlr31947
+aspste4_MSFO01000004.1	bed	CDS	101544	34360	.	+	ID=cds_aspste4_eg157102;Description=;parent=rna_aspste4_eg157102
+aspste4_MSFO01000004.1	bed	CDS	116393	19382	.	+	ID=cds_aspste4_eg157465;Description=;parent=rna_aspste4_eg157465
+aspste4_MSFO01000004.1	bed	CDS	121042	14178	.	-	ID=cds_aspste4_eg157469;Description=;parent=rna_aspste4_eg157469
+aspste4_MSFO01000004.1	bed	CDS	121933	13719	.	-	ID=cds_aspste4_eg157447;Description=;parent=rna_aspste4_eg157447
+aspste4_MSFO01000004.1	bed	CDS	122617	13134	.	-	ID=cds_aspste4_eg157295;Description=;parent=rna_aspste4_eg157295
+aspste4_MSFO01000004.1	bed	CDS	125608	9231	.	+	ID=cds_aspste4_eg157164;Description=;parent=rna_aspste4_eg157164
+aspste4_MSFO01000004.1	bed	CDS	128157	7609	.	+	ID=cds_aspste4_eg157149;Description=;parent=rna_aspste4_eg157149
+aspste4_MSFO01000004.1	bed	CDS	133081	404	.	-	ID=cds_aspste4_tyr2750;Description=;parent=rna_aspste4_tyr2750

@@ -1,0 +1,93 @@
+metrob3_GL698729.1	bed	gene	1	108946	.	-	insert	ID=gene_metrob3_EFY96531.1|methum1_JACEFI010000040.1|down;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	2682	103091	.	-	nlr	ID=gene_metrob3_EFY96510.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	9825	96867	.	-	.	ID=gene_metrob3_EFY96511.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	12587	94997	.	+	.	ID=gene_metrob3_EFY96512.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	13953	94773	.	-	.	ID=gene_metrob3_eg340347;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	15386	92143	.	+	.	ID=gene_metrob3_EFY96513.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	17506	90578	.	+	.	ID=gene_metrob3_eg340296;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	20798	87634	.	-	.	ID=gene_metrob3_eg340310;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	22564	85901	.	+	.	ID=gene_metrob3_eg340298;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	26354	79447	.	+	.	ID=gene_metrob3_EFY96514.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	29636	78718	.	-	.	ID=gene_metrob3_EFY96515.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	38086	68344	.	+	.	ID=gene_metrob3_EFY96516.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	49212	58695	.	+	.	ID=gene_metrob3_eg340291;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	52522	54611	.	+	.	ID=gene_metrob3_EFY96517.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	56178	52010	.	-	.	ID=gene_metrob3_EFY96518.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	58629	48939	.	-	.	ID=gene_metrob3_EFY96519.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	63157	45200	.	-	.	ID=gene_metrob3_EFY96520.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	69139	39287	.	-	.	ID=gene_metrob3_EFY96521.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	70747	37575	.	-	.	ID=gene_metrob3_EFY96522.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	76105	31624	.	-	d37	ID=gene_metrob3_EFY96523.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	77614	29439	.	+	.	ID=gene_metrob3_EFY96524.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	79632	28647	.	-	.	ID=gene_metrob3_EFY96525.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	81638	26653	.	+	.	ID=gene_metrob3_EFY96526.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	83060	24547	.	+	.	ID=gene_metrob3_EFY96527.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	89462	17746	.	-	nlr	ID=gene_metrob3_EFY96528.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	93338	12802	.	+	nlr	ID=gene_metrob3_EFY96529.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	100479	6342	.	+	nlr	ID=gene_metrob3_EFY96530.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	104821	3626	.	-	.	ID=gene_metrob3_eg340349;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	105611	570	.	-	cap	ID=gene_metrob3_EFY96531.1;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	108937	91	.	-	.	ID=gene_metrob3_eg340345;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	gene	108947	0	.	-	insert	ID=gene_metrob3_EFY96531.1|methum1_JACEFI010000040.1|up;Description=metrob3_s07847;parent=metrob3_GL698729.1
+metrob3_GL698729.1	bed	RNA	1	108946	.	-	ID=rna_metrob3_EFY96531.1|methum1_JACEFI010000040.1|down;Description=;parent=gene_metrob3_EFY96531.1|methum1_JACEFI010000040.1|down
+metrob3_GL698729.1	bed	RNA	2682	103091	.	-	ID=rna_metrob3_EFY96510.1;Description=;parent=gene_metrob3_EFY96510.1
+metrob3_GL698729.1	bed	RNA	9825	96867	.	-	ID=rna_metrob3_EFY96511.1;Description=;parent=gene_metrob3_EFY96511.1
+metrob3_GL698729.1	bed	RNA	12587	94997	.	+	ID=rna_metrob3_EFY96512.1;Description=;parent=gene_metrob3_EFY96512.1
+metrob3_GL698729.1	bed	RNA	13953	94773	.	-	ID=rna_metrob3_eg340347;Description=;parent=gene_metrob3_eg340347
+metrob3_GL698729.1	bed	RNA	15386	92143	.	+	ID=rna_metrob3_EFY96513.1;Description=;parent=gene_metrob3_EFY96513.1
+metrob3_GL698729.1	bed	RNA	17506	90578	.	+	ID=rna_metrob3_eg340296;Description=;parent=gene_metrob3_eg340296
+metrob3_GL698729.1	bed	RNA	20798	87634	.	-	ID=rna_metrob3_eg340310;Description=;parent=gene_metrob3_eg340310
+metrob3_GL698729.1	bed	RNA	22564	85901	.	+	ID=rna_metrob3_eg340298;Description=;parent=gene_metrob3_eg340298
+metrob3_GL698729.1	bed	RNA	26354	79447	.	+	ID=rna_metrob3_EFY96514.1;Description=;parent=gene_metrob3_EFY96514.1
+metrob3_GL698729.1	bed	RNA	29636	78718	.	-	ID=rna_metrob3_EFY96515.1;Description=;parent=gene_metrob3_EFY96515.1
+metrob3_GL698729.1	bed	RNA	38086	68344	.	+	ID=rna_metrob3_EFY96516.1;Description=;parent=gene_metrob3_EFY96516.1
+metrob3_GL698729.1	bed	RNA	49212	58695	.	+	ID=rna_metrob3_eg340291;Description=;parent=gene_metrob3_eg340291
+metrob3_GL698729.1	bed	RNA	52522	54611	.	+	ID=rna_metrob3_EFY96517.1;Description=;parent=gene_metrob3_EFY96517.1
+metrob3_GL698729.1	bed	RNA	56178	52010	.	-	ID=rna_metrob3_EFY96518.1;Description=;parent=gene_metrob3_EFY96518.1
+metrob3_GL698729.1	bed	RNA	58629	48939	.	-	ID=rna_metrob3_EFY96519.1;Description=;parent=gene_metrob3_EFY96519.1
+metrob3_GL698729.1	bed	RNA	63157	45200	.	-	ID=rna_metrob3_EFY96520.1;Description=;parent=gene_metrob3_EFY96520.1
+metrob3_GL698729.1	bed	RNA	69139	39287	.	-	ID=rna_metrob3_EFY96521.1;Description=;parent=gene_metrob3_EFY96521.1
+metrob3_GL698729.1	bed	RNA	70747	37575	.	-	ID=rna_metrob3_EFY96522.1;Description=;parent=gene_metrob3_EFY96522.1
+metrob3_GL698729.1	bed	RNA	76105	31624	.	-	ID=rna_metrob3_EFY96523.1;Description=;parent=gene_metrob3_EFY96523.1
+metrob3_GL698729.1	bed	RNA	77614	29439	.	+	ID=rna_metrob3_EFY96524.1;Description=;parent=gene_metrob3_EFY96524.1
+metrob3_GL698729.1	bed	RNA	79632	28647	.	-	ID=rna_metrob3_EFY96525.1;Description=;parent=gene_metrob3_EFY96525.1
+metrob3_GL698729.1	bed	RNA	81638	26653	.	+	ID=rna_metrob3_EFY96526.1;Description=;parent=gene_metrob3_EFY96526.1
+metrob3_GL698729.1	bed	RNA	83060	24547	.	+	ID=rna_metrob3_EFY96527.1;Description=;parent=gene_metrob3_EFY96527.1
+metrob3_GL698729.1	bed	RNA	89462	17746	.	-	ID=rna_metrob3_EFY96528.1;Description=;parent=gene_metrob3_EFY96528.1
+metrob3_GL698729.1	bed	RNA	93338	12802	.	+	ID=rna_metrob3_EFY96529.1;Description=;parent=gene_metrob3_EFY96529.1
+metrob3_GL698729.1	bed	RNA	100479	6342	.	+	ID=rna_metrob3_EFY96530.1;Description=;parent=gene_metrob3_EFY96530.1
+metrob3_GL698729.1	bed	RNA	104821	3626	.	-	ID=rna_metrob3_eg340349;Description=;parent=gene_metrob3_eg340349
+metrob3_GL698729.1	bed	RNA	105611	570	.	-	ID=rna_metrob3_EFY96531.1;Description=;parent=gene_metrob3_EFY96531.1
+metrob3_GL698729.1	bed	RNA	108937	91	.	-	ID=rna_metrob3_eg340345;Description=;parent=gene_metrob3_eg340345
+metrob3_GL698729.1	bed	RNA	108947	0	.	-	ID=rna_metrob3_EFY96531.1|methum1_JACEFI010000040.1|up;Description=;parent=gene_metrob3_EFY96531.1|methum1_JACEFI010000040.1|up
+metrob3_GL698729.1	bed	CDS	1	108946	.	-	ID=cds_metrob3_EFY96531.1|methum1_JACEFI010000040.1|down;Description=;parent=rna_metrob3_EFY96531.1|methum1_JACEFI010000040.1|down
+metrob3_GL698729.1	bed	CDS	2682	103091	.	-	ID=cds_metrob3_EFY96510.1;Description=;parent=rna_metrob3_EFY96510.1
+metrob3_GL698729.1	bed	CDS	9825	96867	.	-	ID=cds_metrob3_EFY96511.1;Description=;parent=rna_metrob3_EFY96511.1
+metrob3_GL698729.1	bed	CDS	12587	94997	.	+	ID=cds_metrob3_EFY96512.1;Description=;parent=rna_metrob3_EFY96512.1
+metrob3_GL698729.1	bed	CDS	13953	94773	.	-	ID=cds_metrob3_eg340347;Description=;parent=rna_metrob3_eg340347
+metrob3_GL698729.1	bed	CDS	15386	92143	.	+	ID=cds_metrob3_EFY96513.1;Description=;parent=rna_metrob3_EFY96513.1
+metrob3_GL698729.1	bed	CDS	17506	90578	.	+	ID=cds_metrob3_eg340296;Description=;parent=rna_metrob3_eg340296
+metrob3_GL698729.1	bed	CDS	20798	87634	.	-	ID=cds_metrob3_eg340310;Description=;parent=rna_metrob3_eg340310
+metrob3_GL698729.1	bed	CDS	22564	85901	.	+	ID=cds_metrob3_eg340298;Description=;parent=rna_metrob3_eg340298
+metrob3_GL698729.1	bed	CDS	26354	79447	.	+	ID=cds_metrob3_EFY96514.1;Description=;parent=rna_metrob3_EFY96514.1
+metrob3_GL698729.1	bed	CDS	29636	78718	.	-	ID=cds_metrob3_EFY96515.1;Description=;parent=rna_metrob3_EFY96515.1
+metrob3_GL698729.1	bed	CDS	38086	68344	.	+	ID=cds_metrob3_EFY96516.1;Description=;parent=rna_metrob3_EFY96516.1
+metrob3_GL698729.1	bed	CDS	49212	58695	.	+	ID=cds_metrob3_eg340291;Description=;parent=rna_metrob3_eg340291
+metrob3_GL698729.1	bed	CDS	52522	54611	.	+	ID=cds_metrob3_EFY96517.1;Description=;parent=rna_metrob3_EFY96517.1
+metrob3_GL698729.1	bed	CDS	56178	52010	.	-	ID=cds_metrob3_EFY96518.1;Description=;parent=rna_metrob3_EFY96518.1
+metrob3_GL698729.1	bed	CDS	58629	48939	.	-	ID=cds_metrob3_EFY96519.1;Description=;parent=rna_metrob3_EFY96519.1
+metrob3_GL698729.1	bed	CDS	63157	45200	.	-	ID=cds_metrob3_EFY96520.1;Description=;parent=rna_metrob3_EFY96520.1
+metrob3_GL698729.1	bed	CDS	69139	39287	.	-	ID=cds_metrob3_EFY96521.1;Description=;parent=rna_metrob3_EFY96521.1
+metrob3_GL698729.1	bed	CDS	70747	37575	.	-	ID=cds_metrob3_EFY96522.1;Description=;parent=rna_metrob3_EFY96522.1
+metrob3_GL698729.1	bed	CDS	76105	31624	.	-	ID=cds_metrob3_EFY96523.1;Description=;parent=rna_metrob3_EFY96523.1
+metrob3_GL698729.1	bed	CDS	77614	29439	.	+	ID=cds_metrob3_EFY96524.1;Description=;parent=rna_metrob3_EFY96524.1
+metrob3_GL698729.1	bed	CDS	79632	28647	.	-	ID=cds_metrob3_EFY96525.1;Description=;parent=rna_metrob3_EFY96525.1
+metrob3_GL698729.1	bed	CDS	81638	26653	.	+	ID=cds_metrob3_EFY96526.1;Description=;parent=rna_metrob3_EFY96526.1
+metrob3_GL698729.1	bed	CDS	83060	24547	.	+	ID=cds_metrob3_EFY96527.1;Description=;parent=rna_metrob3_EFY96527.1
+metrob3_GL698729.1	bed	CDS	89462	17746	.	-	ID=cds_metrob3_EFY96528.1;Description=;parent=rna_metrob3_EFY96528.1
+metrob3_GL698729.1	bed	CDS	93338	12802	.	+	ID=cds_metrob3_EFY96529.1;Description=;parent=rna_metrob3_EFY96529.1
+metrob3_GL698729.1	bed	CDS	100479	6342	.	+	ID=cds_metrob3_EFY96530.1;Description=;parent=rna_metrob3_EFY96530.1
+metrob3_GL698729.1	bed	CDS	104821	3626	.	-	ID=cds_metrob3_eg340349;Description=;parent=rna_metrob3_eg340349
+metrob3_GL698729.1	bed	CDS	105611	570	.	-	ID=cds_metrob3_EFY96531.1;Description=;parent=rna_metrob3_EFY96531.1
+metrob3_GL698729.1	bed	CDS	108937	91	.	-	ID=cds_metrob3_eg340345;Description=;parent=rna_metrob3_eg340345
+metrob3_GL698729.1	bed	CDS	108947	0	.	-	ID=cds_metrob3_EFY96531.1|methum1_JACEFI010000040.1|up;Description=;parent=rna_metrob3_EFY96531.1|methum1_JACEFI010000040.1|up

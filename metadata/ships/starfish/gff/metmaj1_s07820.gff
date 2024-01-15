@@ -1,0 +1,37 @@
+metmaj1_scaffold11	bed	region	1	38425	.	-	flank	ID=gene_metmaj1_tyr8194|DR|down;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	region	52	38367	.	-	flank	ID=gene_metmaj1_tyr8194|TIR|down;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	1741	35948	.	+	.	ID=gene_metmaj1_1211;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	3817	33879	.	+	.	ID=gene_metmaj1_1212;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	4819	32944	.	-	.	ID=gene_metmaj1_eg339556;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	7426	30477	.	+	.	ID=gene_metmaj1_1213;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	10194	26655	.	+	.	ID=gene_metmaj1_1214;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	13515	22504	.	+	.	ID=gene_metmaj1_1215;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	17465	20154	.	+	.	ID=gene_metmaj1_1216;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	20506	16801	.	+	.	ID=gene_metmaj1_1217;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	22226	14352	.	+	.	ID=gene_metmaj1_1218;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	25176	9398	.	+	.	ID=gene_metmaj1_1219;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	gene	35650	439	.	-	cap	ID=gene_metmaj1_tyr8194;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	region	38405	14	.	-	flank	ID=gene_metmaj1_tyr8194|TIR|up;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	region	38426	0	.	-	flank	ID=gene_metmaj1_tyr8194|DR|up;Description=metmaj1_s07820;parent=metmaj1_scaffold11
+metmaj1_scaffold11	bed	RNA	1741	35948	.	+	ID=rna_metmaj1_1211;Description=;parent=gene_metmaj1_1211
+metmaj1_scaffold11	bed	RNA	3817	33879	.	+	ID=rna_metmaj1_1212;Description=;parent=gene_metmaj1_1212
+metmaj1_scaffold11	bed	RNA	4819	32944	.	-	ID=rna_metmaj1_eg339556;Description=;parent=gene_metmaj1_eg339556
+metmaj1_scaffold11	bed	RNA	7426	30477	.	+	ID=rna_metmaj1_1213;Description=;parent=gene_metmaj1_1213
+metmaj1_scaffold11	bed	RNA	10194	26655	.	+	ID=rna_metmaj1_1214;Description=;parent=gene_metmaj1_1214
+metmaj1_scaffold11	bed	RNA	13515	22504	.	+	ID=rna_metmaj1_1215;Description=;parent=gene_metmaj1_1215
+metmaj1_scaffold11	bed	RNA	17465	20154	.	+	ID=rna_metmaj1_1216;Description=;parent=gene_metmaj1_1216
+metmaj1_scaffold11	bed	RNA	20506	16801	.	+	ID=rna_metmaj1_1217;Description=;parent=gene_metmaj1_1217
+metmaj1_scaffold11	bed	RNA	22226	14352	.	+	ID=rna_metmaj1_1218;Description=;parent=gene_metmaj1_1218
+metmaj1_scaffold11	bed	RNA	25176	9398	.	+	ID=rna_metmaj1_1219;Description=;parent=gene_metmaj1_1219
+metmaj1_scaffold11	bed	RNA	35650	439	.	-	ID=rna_metmaj1_tyr8194;Description=;parent=gene_metmaj1_tyr8194
+metmaj1_scaffold11	bed	CDS	1741	35948	.	+	ID=cds_metmaj1_1211;Description=;parent=rna_metmaj1_1211
+metmaj1_scaffold11	bed	CDS	3817	33879	.	+	ID=cds_metmaj1_1212;Description=;parent=rna_metmaj1_1212
+metmaj1_scaffold11	bed	CDS	4819	32944	.	-	ID=cds_metmaj1_eg339556;Description=;parent=rna_metmaj1_eg339556
+metmaj1_scaffold11	bed	CDS	7426	30477	.	+	ID=cds_metmaj1_1213;Description=;parent=rna_metmaj1_1213
+metmaj1_scaffold11	bed	CDS	10194	26655	.	+	ID=cds_metmaj1_1214;Description=;parent=rna_metmaj1_1214
+metmaj1_scaffold11	bed	CDS	13515	22504	.	+	ID=cds_metmaj1_1215;Description=;parent=rna_metmaj1_1215
+metmaj1_scaffold11	bed	CDS	17465	20154	.	+	ID=cds_metmaj1_1216;Description=;parent=rna_metmaj1_1216
+metmaj1_scaffold11	bed	CDS	20506	16801	.	+	ID=cds_metmaj1_1217;Description=;parent=rna_metmaj1_1217
+metmaj1_scaffold11	bed	CDS	22226	14352	.	+	ID=cds_metmaj1_1218;Description=;parent=rna_metmaj1_1218
+metmaj1_scaffold11	bed	CDS	25176	9398	.	+	ID=cds_metmaj1_1219;Description=;parent=rna_metmaj1_1219
+metmaj1_scaffold11	bed	CDS	35650	439	.	-	ID=cds_metmaj1_tyr8194;Description=;parent=rna_metmaj1_tyr8194

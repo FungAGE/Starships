@@ -1,0 +1,260 @@
+pyrory1_CM001231.1	bed	gene	1768	267703	.	+	.	ID=gene_pyrory1_EHA56133.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	region	1	267778	.	+	flank	ID=gene_pyrory1_EHA56134.1|DR|up;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	724	264333	.	+	cap	ID=gene_pyrory1_EHA56134.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	5057	262144	.	+	.	ID=gene_pyrory1_EHA56135.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	5936	261121	.	+	.	ID=gene_pyrory1_EHA56136.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	7207	258022	.	+	.	ID=gene_pyrory1_EHA56137.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	11564	255930	.	+	.	ID=gene_pyrory1_EHA56138.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	15109	251074	.	-	nlr	ID=gene_pyrory1_EHA56139.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	18534	247692	.	+	.	ID=gene_pyrory1_EHA56140.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	20018	246997	.	+	.	ID=gene_pyrory1_EHA56141.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	20465	243988	.	-	.	ID=gene_pyrory1_EHA56142.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	30331	236200	.	-	.	ID=gene_pyrory1_EHA56143.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	32981	233322	.	-	.	ID=gene_pyrory1_EHA56144.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	36585	230478	.	-	.	ID=gene_pyrory1_EHA56145.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	39462	227887	.	+	.	ID=gene_pyrory1_EHA56146.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	40704	225526	.	+	.	ID=gene_pyrory1_EHA56147.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	42670	223399	.	+	.	ID=gene_pyrory1_EHA56148.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	45526	220261	.	-	.	ID=gene_pyrory1_EHA56149.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	47938	218006	.	+	.	ID=gene_pyrory1_EHA56150.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	52530	214070	.	-	.	ID=gene_pyrory1_EHA56151.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	55524	211661	.	+	.	ID=gene_pyrory1_EHA56152.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	57670	209621	.	-	.	ID=gene_pyrory1_EHA56153.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	58262	208865	.	-	.	ID=gene_pyrory1_EHA56154.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	59001	208076	.	+	.	ID=gene_pyrory1_EHA56155.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	59710	205986	.	-	.	ID=gene_pyrory1_EHA56156.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	63015	202946	.	+	.	ID=gene_pyrory1_EHA56157.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	68191	198585	.	+	.	ID=gene_pyrory1_EHA56158.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	70100	197332	.	-	.	ID=gene_pyrory1_EHA56159.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	71506	195586	.	+	.	ID=gene_pyrory1_EHA56160.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	72198	192628	.	-	.	ID=gene_pyrory1_EHA56161.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	75884	191277	.	-	.	ID=gene_pyrory1_EHA56162.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	79450	187598	.	+	.	ID=gene_pyrory1_EHA56163.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	80825	184710	.	+	.	ID=gene_pyrory1_EHA56164.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	83441	181087	.	+	.	ID=gene_pyrory1_EHA56165.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	87510	178388	.	-	.	ID=gene_pyrory1_EHA56166.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	94699	171317	.	+	.	ID=gene_pyrory1_EHA56167.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	98881	167953	.	+	.	ID=gene_pyrory1_EHA56168.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	101166	163165	.	-	.	ID=gene_pyrory1_EHA56169.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	109589	157661	.	+	.	ID=gene_pyrory1_EHA56170.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	110354	155940	.	+	.	ID=gene_pyrory1_EHA56171.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	112691	154109	.	-	.	ID=gene_pyrory1_EHA56172.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	116737	149618	.	+	.	ID=gene_pyrory1_EHA56173.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	119737	145793	.	-	tyr	ID=gene_pyrory1_EHA56174.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	122162	145078	.	+	.	ID=gene_pyrory1_EHA56175.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	123405	143898	.	-	.	ID=gene_pyrory1_EHA56176.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	132254	134626	.	+	.	ID=gene_pyrory1_eg357248;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	141537	125916	.	-	.	ID=gene_pyrory1_EHA56177.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	144046	121281	.	-	.	ID=gene_pyrory1_EHA56178.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	146866	119400	.	+	.	ID=gene_pyrory1_EHA56179.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	148780	117818	.	+	.	ID=gene_pyrory1_EHA56180.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	151791	112762	.	-	.	ID=gene_pyrory1_EHA56181.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	155948	110609	.	+	.	ID=gene_pyrory1_EHA56182.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	158623	108835	.	-	.	ID=gene_pyrory1_EHA56183.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	159350	107648	.	-	.	ID=gene_pyrory1_EHA56184.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	161067	106245	.	+	.	ID=gene_pyrory1_EHA56185.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	162452	101479	.	+	.	ID=gene_pyrory1_EHA56186.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	167604	99414	.	-	.	ID=gene_pyrory1_EHA56187.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	172855	94598	.	+	.	ID=gene_pyrory1_EHA56188.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	180015	85207	.	+	.	ID=gene_pyrory1_EHA56189.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	185686	80750	.	-	.	ID=gene_pyrory1_EHA56190.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	187203	79578	.	+	.	ID=gene_pyrory1_EHA56191.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	188762	76778	.	-	.	ID=gene_pyrory1_EHA56192.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	194193	73269	.	-	.	ID=gene_pyrory1_EHA56193.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	195135	70978	.	-	.	ID=gene_pyrory1_EHA56194.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	196950	68596	.	+	.	ID=gene_pyrory1_EHA56195.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	202245	65233	.	+	.	ID=gene_pyrory1_EHA56196.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	206649	60340	.	+	.	ID=gene_pyrory1_EHA56197.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	207734	59242	.	-	.	ID=gene_pyrory1_EHA56198.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	208652	58163	.	-	.	ID=gene_pyrory1_EHA56199.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	211910	53190	.	-	.	ID=gene_pyrory1_EHA56200.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	214838	52646	.	-	.	ID=gene_pyrory1_EHA56201.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	216160	49331	.	-	.	ID=gene_pyrory1_EHA56202.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	218760	46108	.	+	.	ID=gene_pyrory1_EHA56203.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	222605	44940	.	+	.	ID=gene_pyrory1_EHA56204.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	223207	42976	.	-	.	ID=gene_pyrory1_EHA56205.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	227442	38432	.	+	.	ID=gene_pyrory1_EHA56206.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	229487	27118	.	-	.	ID=gene_pyrory1_EHA56207.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	240972	25232	.	+	.	ID=gene_pyrory1_EHA56208.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	242762	22424	.	-	.	ID=gene_pyrory1_EHA56209.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	245811	20766	.	+	.	ID=gene_pyrory1_EHA56210.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	248766	18227	.	+	.	ID=gene_pyrory1_EHA56211.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	250141	16926	.	-	.	ID=gene_pyrory1_EHA56212.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	251067	14561	.	+	.	ID=gene_pyrory1_EHA56213.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	253303	13875	.	-	.	ID=gene_pyrory1_EHA56214.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	255804	8764	.	-	.	ID=gene_pyrory1_EHA56215.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	262368	4484	.	-	.	ID=gene_pyrory1_EHA56217.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	gene	265152	983	.	+	.	ID=gene_pyrory1_EHA56218.1;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	region	267779	0	.	+	flank	ID=gene_pyrory1_EHA56134.1|DR|down;Description=pyrory1_s09315;parent=pyrory1_CM001231.1
+pyrory1_CM001231.1	bed	RNA	1768	267703	.	+	ID=rna_pyrory1_EHA56133.1;Description=;parent=gene_pyrory1_EHA56133.1
+pyrory1_CM001231.1	bed	RNA	724	264333	.	+	ID=rna_pyrory1_EHA56134.1;Description=;parent=gene_pyrory1_EHA56134.1
+pyrory1_CM001231.1	bed	RNA	5057	262144	.	+	ID=rna_pyrory1_EHA56135.1;Description=;parent=gene_pyrory1_EHA56135.1
+pyrory1_CM001231.1	bed	RNA	5936	261121	.	+	ID=rna_pyrory1_EHA56136.1;Description=;parent=gene_pyrory1_EHA56136.1
+pyrory1_CM001231.1	bed	RNA	7207	258022	.	+	ID=rna_pyrory1_EHA56137.1;Description=;parent=gene_pyrory1_EHA56137.1
+pyrory1_CM001231.1	bed	RNA	11564	255930	.	+	ID=rna_pyrory1_EHA56138.1;Description=;parent=gene_pyrory1_EHA56138.1
+pyrory1_CM001231.1	bed	RNA	15109	251074	.	-	ID=rna_pyrory1_EHA56139.1;Description=;parent=gene_pyrory1_EHA56139.1
+pyrory1_CM001231.1	bed	RNA	18534	247692	.	+	ID=rna_pyrory1_EHA56140.1;Description=;parent=gene_pyrory1_EHA56140.1
+pyrory1_CM001231.1	bed	RNA	20018	246997	.	+	ID=rna_pyrory1_EHA56141.1;Description=;parent=gene_pyrory1_EHA56141.1
+pyrory1_CM001231.1	bed	RNA	20465	243988	.	-	ID=rna_pyrory1_EHA56142.1;Description=;parent=gene_pyrory1_EHA56142.1
+pyrory1_CM001231.1	bed	RNA	30331	236200	.	-	ID=rna_pyrory1_EHA56143.1;Description=;parent=gene_pyrory1_EHA56143.1
+pyrory1_CM001231.1	bed	RNA	32981	233322	.	-	ID=rna_pyrory1_EHA56144.1;Description=;parent=gene_pyrory1_EHA56144.1
+pyrory1_CM001231.1	bed	RNA	36585	230478	.	-	ID=rna_pyrory1_EHA56145.1;Description=;parent=gene_pyrory1_EHA56145.1
+pyrory1_CM001231.1	bed	RNA	39462	227887	.	+	ID=rna_pyrory1_EHA56146.1;Description=;parent=gene_pyrory1_EHA56146.1
+pyrory1_CM001231.1	bed	RNA	40704	225526	.	+	ID=rna_pyrory1_EHA56147.1;Description=;parent=gene_pyrory1_EHA56147.1
+pyrory1_CM001231.1	bed	RNA	42670	223399	.	+	ID=rna_pyrory1_EHA56148.1;Description=;parent=gene_pyrory1_EHA56148.1
+pyrory1_CM001231.1	bed	RNA	45526	220261	.	-	ID=rna_pyrory1_EHA56149.1;Description=;parent=gene_pyrory1_EHA56149.1
+pyrory1_CM001231.1	bed	RNA	47938	218006	.	+	ID=rna_pyrory1_EHA56150.1;Description=;parent=gene_pyrory1_EHA56150.1
+pyrory1_CM001231.1	bed	RNA	52530	214070	.	-	ID=rna_pyrory1_EHA56151.1;Description=;parent=gene_pyrory1_EHA56151.1
+pyrory1_CM001231.1	bed	RNA	55524	211661	.	+	ID=rna_pyrory1_EHA56152.1;Description=;parent=gene_pyrory1_EHA56152.1
+pyrory1_CM001231.1	bed	RNA	57670	209621	.	-	ID=rna_pyrory1_EHA56153.1;Description=;parent=gene_pyrory1_EHA56153.1
+pyrory1_CM001231.1	bed	RNA	58262	208865	.	-	ID=rna_pyrory1_EHA56154.1;Description=;parent=gene_pyrory1_EHA56154.1
+pyrory1_CM001231.1	bed	RNA	59001	208076	.	+	ID=rna_pyrory1_EHA56155.1;Description=;parent=gene_pyrory1_EHA56155.1
+pyrory1_CM001231.1	bed	RNA	59710	205986	.	-	ID=rna_pyrory1_EHA56156.1;Description=;parent=gene_pyrory1_EHA56156.1
+pyrory1_CM001231.1	bed	RNA	63015	202946	.	+	ID=rna_pyrory1_EHA56157.1;Description=;parent=gene_pyrory1_EHA56157.1
+pyrory1_CM001231.1	bed	RNA	68191	198585	.	+	ID=rna_pyrory1_EHA56158.1;Description=;parent=gene_pyrory1_EHA56158.1
+pyrory1_CM001231.1	bed	RNA	70100	197332	.	-	ID=rna_pyrory1_EHA56159.1;Description=;parent=gene_pyrory1_EHA56159.1
+pyrory1_CM001231.1	bed	RNA	71506	195586	.	+	ID=rna_pyrory1_EHA56160.1;Description=;parent=gene_pyrory1_EHA56160.1
+pyrory1_CM001231.1	bed	RNA	72198	192628	.	-	ID=rna_pyrory1_EHA56161.1;Description=;parent=gene_pyrory1_EHA56161.1
+pyrory1_CM001231.1	bed	RNA	75884	191277	.	-	ID=rna_pyrory1_EHA56162.1;Description=;parent=gene_pyrory1_EHA56162.1
+pyrory1_CM001231.1	bed	RNA	79450	187598	.	+	ID=rna_pyrory1_EHA56163.1;Description=;parent=gene_pyrory1_EHA56163.1
+pyrory1_CM001231.1	bed	RNA	80825	184710	.	+	ID=rna_pyrory1_EHA56164.1;Description=;parent=gene_pyrory1_EHA56164.1
+pyrory1_CM001231.1	bed	RNA	83441	181087	.	+	ID=rna_pyrory1_EHA56165.1;Description=;parent=gene_pyrory1_EHA56165.1
+pyrory1_CM001231.1	bed	RNA	87510	178388	.	-	ID=rna_pyrory1_EHA56166.1;Description=;parent=gene_pyrory1_EHA56166.1
+pyrory1_CM001231.1	bed	RNA	94699	171317	.	+	ID=rna_pyrory1_EHA56167.1;Description=;parent=gene_pyrory1_EHA56167.1
+pyrory1_CM001231.1	bed	RNA	98881	167953	.	+	ID=rna_pyrory1_EHA56168.1;Description=;parent=gene_pyrory1_EHA56168.1
+pyrory1_CM001231.1	bed	RNA	101166	163165	.	-	ID=rna_pyrory1_EHA56169.1;Description=;parent=gene_pyrory1_EHA56169.1
+pyrory1_CM001231.1	bed	RNA	109589	157661	.	+	ID=rna_pyrory1_EHA56170.1;Description=;parent=gene_pyrory1_EHA56170.1
+pyrory1_CM001231.1	bed	RNA	110354	155940	.	+	ID=rna_pyrory1_EHA56171.1;Description=;parent=gene_pyrory1_EHA56171.1
+pyrory1_CM001231.1	bed	RNA	112691	154109	.	-	ID=rna_pyrory1_EHA56172.1;Description=;parent=gene_pyrory1_EHA56172.1
+pyrory1_CM001231.1	bed	RNA	116737	149618	.	+	ID=rna_pyrory1_EHA56173.1;Description=;parent=gene_pyrory1_EHA56173.1
+pyrory1_CM001231.1	bed	RNA	119737	145793	.	-	ID=rna_pyrory1_EHA56174.1;Description=;parent=gene_pyrory1_EHA56174.1
+pyrory1_CM001231.1	bed	RNA	122162	145078	.	+	ID=rna_pyrory1_EHA56175.1;Description=;parent=gene_pyrory1_EHA56175.1
+pyrory1_CM001231.1	bed	RNA	123405	143898	.	-	ID=rna_pyrory1_EHA56176.1;Description=;parent=gene_pyrory1_EHA56176.1
+pyrory1_CM001231.1	bed	RNA	132254	134626	.	+	ID=rna_pyrory1_eg357248;Description=;parent=gene_pyrory1_eg357248
+pyrory1_CM001231.1	bed	RNA	141537	125916	.	-	ID=rna_pyrory1_EHA56177.1;Description=;parent=gene_pyrory1_EHA56177.1
+pyrory1_CM001231.1	bed	RNA	144046	121281	.	-	ID=rna_pyrory1_EHA56178.1;Description=;parent=gene_pyrory1_EHA56178.1
+pyrory1_CM001231.1	bed	RNA	146866	119400	.	+	ID=rna_pyrory1_EHA56179.1;Description=;parent=gene_pyrory1_EHA56179.1
+pyrory1_CM001231.1	bed	RNA	148780	117818	.	+	ID=rna_pyrory1_EHA56180.1;Description=;parent=gene_pyrory1_EHA56180.1
+pyrory1_CM001231.1	bed	RNA	151791	112762	.	-	ID=rna_pyrory1_EHA56181.1;Description=;parent=gene_pyrory1_EHA56181.1
+pyrory1_CM001231.1	bed	RNA	155948	110609	.	+	ID=rna_pyrory1_EHA56182.1;Description=;parent=gene_pyrory1_EHA56182.1
+pyrory1_CM001231.1	bed	RNA	158623	108835	.	-	ID=rna_pyrory1_EHA56183.1;Description=;parent=gene_pyrory1_EHA56183.1
+pyrory1_CM001231.1	bed	RNA	159350	107648	.	-	ID=rna_pyrory1_EHA56184.1;Description=;parent=gene_pyrory1_EHA56184.1
+pyrory1_CM001231.1	bed	RNA	161067	106245	.	+	ID=rna_pyrory1_EHA56185.1;Description=;parent=gene_pyrory1_EHA56185.1
+pyrory1_CM001231.1	bed	RNA	162452	101479	.	+	ID=rna_pyrory1_EHA56186.1;Description=;parent=gene_pyrory1_EHA56186.1
+pyrory1_CM001231.1	bed	RNA	167604	99414	.	-	ID=rna_pyrory1_EHA56187.1;Description=;parent=gene_pyrory1_EHA56187.1
+pyrory1_CM001231.1	bed	RNA	172855	94598	.	+	ID=rna_pyrory1_EHA56188.1;Description=;parent=gene_pyrory1_EHA56188.1
+pyrory1_CM001231.1	bed	RNA	180015	85207	.	+	ID=rna_pyrory1_EHA56189.1;Description=;parent=gene_pyrory1_EHA56189.1
+pyrory1_CM001231.1	bed	RNA	185686	80750	.	-	ID=rna_pyrory1_EHA56190.1;Description=;parent=gene_pyrory1_EHA56190.1
+pyrory1_CM001231.1	bed	RNA	187203	79578	.	+	ID=rna_pyrory1_EHA56191.1;Description=;parent=gene_pyrory1_EHA56191.1
+pyrory1_CM001231.1	bed	RNA	188762	76778	.	-	ID=rna_pyrory1_EHA56192.1;Description=;parent=gene_pyrory1_EHA56192.1
+pyrory1_CM001231.1	bed	RNA	194193	73269	.	-	ID=rna_pyrory1_EHA56193.1;Description=;parent=gene_pyrory1_EHA56193.1
+pyrory1_CM001231.1	bed	RNA	195135	70978	.	-	ID=rna_pyrory1_EHA56194.1;Description=;parent=gene_pyrory1_EHA56194.1
+pyrory1_CM001231.1	bed	RNA	196950	68596	.	+	ID=rna_pyrory1_EHA56195.1;Description=;parent=gene_pyrory1_EHA56195.1
+pyrory1_CM001231.1	bed	RNA	202245	65233	.	+	ID=rna_pyrory1_EHA56196.1;Description=;parent=gene_pyrory1_EHA56196.1
+pyrory1_CM001231.1	bed	RNA	206649	60340	.	+	ID=rna_pyrory1_EHA56197.1;Description=;parent=gene_pyrory1_EHA56197.1
+pyrory1_CM001231.1	bed	RNA	207734	59242	.	-	ID=rna_pyrory1_EHA56198.1;Description=;parent=gene_pyrory1_EHA56198.1
+pyrory1_CM001231.1	bed	RNA	208652	58163	.	-	ID=rna_pyrory1_EHA56199.1;Description=;parent=gene_pyrory1_EHA56199.1
+pyrory1_CM001231.1	bed	RNA	211910	53190	.	-	ID=rna_pyrory1_EHA56200.1;Description=;parent=gene_pyrory1_EHA56200.1
+pyrory1_CM001231.1	bed	RNA	214838	52646	.	-	ID=rna_pyrory1_EHA56201.1;Description=;parent=gene_pyrory1_EHA56201.1
+pyrory1_CM001231.1	bed	RNA	216160	49331	.	-	ID=rna_pyrory1_EHA56202.1;Description=;parent=gene_pyrory1_EHA56202.1
+pyrory1_CM001231.1	bed	RNA	218760	46108	.	+	ID=rna_pyrory1_EHA56203.1;Description=;parent=gene_pyrory1_EHA56203.1
+pyrory1_CM001231.1	bed	RNA	222605	44940	.	+	ID=rna_pyrory1_EHA56204.1;Description=;parent=gene_pyrory1_EHA56204.1
+pyrory1_CM001231.1	bed	RNA	223207	42976	.	-	ID=rna_pyrory1_EHA56205.1;Description=;parent=gene_pyrory1_EHA56205.1
+pyrory1_CM001231.1	bed	RNA	227442	38432	.	+	ID=rna_pyrory1_EHA56206.1;Description=;parent=gene_pyrory1_EHA56206.1
+pyrory1_CM001231.1	bed	RNA	229487	27118	.	-	ID=rna_pyrory1_EHA56207.1;Description=;parent=gene_pyrory1_EHA56207.1
+pyrory1_CM001231.1	bed	RNA	240972	25232	.	+	ID=rna_pyrory1_EHA56208.1;Description=;parent=gene_pyrory1_EHA56208.1
+pyrory1_CM001231.1	bed	RNA	242762	22424	.	-	ID=rna_pyrory1_EHA56209.1;Description=;parent=gene_pyrory1_EHA56209.1
+pyrory1_CM001231.1	bed	RNA	245811	20766	.	+	ID=rna_pyrory1_EHA56210.1;Description=;parent=gene_pyrory1_EHA56210.1
+pyrory1_CM001231.1	bed	RNA	248766	18227	.	+	ID=rna_pyrory1_EHA56211.1;Description=;parent=gene_pyrory1_EHA56211.1
+pyrory1_CM001231.1	bed	RNA	250141	16926	.	-	ID=rna_pyrory1_EHA56212.1;Description=;parent=gene_pyrory1_EHA56212.1
+pyrory1_CM001231.1	bed	RNA	251067	14561	.	+	ID=rna_pyrory1_EHA56213.1;Description=;parent=gene_pyrory1_EHA56213.1
+pyrory1_CM001231.1	bed	RNA	253303	13875	.	-	ID=rna_pyrory1_EHA56214.1;Description=;parent=gene_pyrory1_EHA56214.1
+pyrory1_CM001231.1	bed	RNA	255804	8764	.	-	ID=rna_pyrory1_EHA56215.1;Description=;parent=gene_pyrory1_EHA56215.1
+pyrory1_CM001231.1	bed	RNA	262368	4484	.	-	ID=rna_pyrory1_EHA56217.1;Description=;parent=gene_pyrory1_EHA56217.1
+pyrory1_CM001231.1	bed	RNA	265152	983	.	+	ID=rna_pyrory1_EHA56218.1;Description=;parent=gene_pyrory1_EHA56218.1
+pyrory1_CM001231.1	bed	CDS	1768	267703	.	+	ID=cds_pyrory1_EHA56133.1;Description=;parent=rna_pyrory1_EHA56133.1
+pyrory1_CM001231.1	bed	CDS	724	264333	.	+	ID=cds_pyrory1_EHA56134.1;Description=;parent=rna_pyrory1_EHA56134.1
+pyrory1_CM001231.1	bed	CDS	5057	262144	.	+	ID=cds_pyrory1_EHA56135.1;Description=;parent=rna_pyrory1_EHA56135.1
+pyrory1_CM001231.1	bed	CDS	5936	261121	.	+	ID=cds_pyrory1_EHA56136.1;Description=;parent=rna_pyrory1_EHA56136.1
+pyrory1_CM001231.1	bed	CDS	7207	258022	.	+	ID=cds_pyrory1_EHA56137.1;Description=;parent=rna_pyrory1_EHA56137.1
+pyrory1_CM001231.1	bed	CDS	11564	255930	.	+	ID=cds_pyrory1_EHA56138.1;Description=;parent=rna_pyrory1_EHA56138.1
+pyrory1_CM001231.1	bed	CDS	15109	251074	.	-	ID=cds_pyrory1_EHA56139.1;Description=;parent=rna_pyrory1_EHA56139.1
+pyrory1_CM001231.1	bed	CDS	18534	247692	.	+	ID=cds_pyrory1_EHA56140.1;Description=;parent=rna_pyrory1_EHA56140.1
+pyrory1_CM001231.1	bed	CDS	20018	246997	.	+	ID=cds_pyrory1_EHA56141.1;Description=;parent=rna_pyrory1_EHA56141.1
+pyrory1_CM001231.1	bed	CDS	20465	243988	.	-	ID=cds_pyrory1_EHA56142.1;Description=;parent=rna_pyrory1_EHA56142.1
+pyrory1_CM001231.1	bed	CDS	30331	236200	.	-	ID=cds_pyrory1_EHA56143.1;Description=;parent=rna_pyrory1_EHA56143.1
+pyrory1_CM001231.1	bed	CDS	32981	233322	.	-	ID=cds_pyrory1_EHA56144.1;Description=;parent=rna_pyrory1_EHA56144.1
+pyrory1_CM001231.1	bed	CDS	36585	230478	.	-	ID=cds_pyrory1_EHA56145.1;Description=;parent=rna_pyrory1_EHA56145.1
+pyrory1_CM001231.1	bed	CDS	39462	227887	.	+	ID=cds_pyrory1_EHA56146.1;Description=;parent=rna_pyrory1_EHA56146.1
+pyrory1_CM001231.1	bed	CDS	40704	225526	.	+	ID=cds_pyrory1_EHA56147.1;Description=;parent=rna_pyrory1_EHA56147.1
+pyrory1_CM001231.1	bed	CDS	42670	223399	.	+	ID=cds_pyrory1_EHA56148.1;Description=;parent=rna_pyrory1_EHA56148.1
+pyrory1_CM001231.1	bed	CDS	45526	220261	.	-	ID=cds_pyrory1_EHA56149.1;Description=;parent=rna_pyrory1_EHA56149.1
+pyrory1_CM001231.1	bed	CDS	47938	218006	.	+	ID=cds_pyrory1_EHA56150.1;Description=;parent=rna_pyrory1_EHA56150.1
+pyrory1_CM001231.1	bed	CDS	52530	214070	.	-	ID=cds_pyrory1_EHA56151.1;Description=;parent=rna_pyrory1_EHA56151.1
+pyrory1_CM001231.1	bed	CDS	55524	211661	.	+	ID=cds_pyrory1_EHA56152.1;Description=;parent=rna_pyrory1_EHA56152.1
+pyrory1_CM001231.1	bed	CDS	57670	209621	.	-	ID=cds_pyrory1_EHA56153.1;Description=;parent=rna_pyrory1_EHA56153.1
+pyrory1_CM001231.1	bed	CDS	58262	208865	.	-	ID=cds_pyrory1_EHA56154.1;Description=;parent=rna_pyrory1_EHA56154.1
+pyrory1_CM001231.1	bed	CDS	59001	208076	.	+	ID=cds_pyrory1_EHA56155.1;Description=;parent=rna_pyrory1_EHA56155.1
+pyrory1_CM001231.1	bed	CDS	59710	205986	.	-	ID=cds_pyrory1_EHA56156.1;Description=;parent=rna_pyrory1_EHA56156.1
+pyrory1_CM001231.1	bed	CDS	63015	202946	.	+	ID=cds_pyrory1_EHA56157.1;Description=;parent=rna_pyrory1_EHA56157.1
+pyrory1_CM001231.1	bed	CDS	68191	198585	.	+	ID=cds_pyrory1_EHA56158.1;Description=;parent=rna_pyrory1_EHA56158.1
+pyrory1_CM001231.1	bed	CDS	70100	197332	.	-	ID=cds_pyrory1_EHA56159.1;Description=;parent=rna_pyrory1_EHA56159.1
+pyrory1_CM001231.1	bed	CDS	71506	195586	.	+	ID=cds_pyrory1_EHA56160.1;Description=;parent=rna_pyrory1_EHA56160.1
+pyrory1_CM001231.1	bed	CDS	72198	192628	.	-	ID=cds_pyrory1_EHA56161.1;Description=;parent=rna_pyrory1_EHA56161.1
+pyrory1_CM001231.1	bed	CDS	75884	191277	.	-	ID=cds_pyrory1_EHA56162.1;Description=;parent=rna_pyrory1_EHA56162.1
+pyrory1_CM001231.1	bed	CDS	79450	187598	.	+	ID=cds_pyrory1_EHA56163.1;Description=;parent=rna_pyrory1_EHA56163.1
+pyrory1_CM001231.1	bed	CDS	80825	184710	.	+	ID=cds_pyrory1_EHA56164.1;Description=;parent=rna_pyrory1_EHA56164.1
+pyrory1_CM001231.1	bed	CDS	83441	181087	.	+	ID=cds_pyrory1_EHA56165.1;Description=;parent=rna_pyrory1_EHA56165.1
+pyrory1_CM001231.1	bed	CDS	87510	178388	.	-	ID=cds_pyrory1_EHA56166.1;Description=;parent=rna_pyrory1_EHA56166.1
+pyrory1_CM001231.1	bed	CDS	94699	171317	.	+	ID=cds_pyrory1_EHA56167.1;Description=;parent=rna_pyrory1_EHA56167.1
+pyrory1_CM001231.1	bed	CDS	98881	167953	.	+	ID=cds_pyrory1_EHA56168.1;Description=;parent=rna_pyrory1_EHA56168.1
+pyrory1_CM001231.1	bed	CDS	101166	163165	.	-	ID=cds_pyrory1_EHA56169.1;Description=;parent=rna_pyrory1_EHA56169.1
+pyrory1_CM001231.1	bed	CDS	109589	157661	.	+	ID=cds_pyrory1_EHA56170.1;Description=;parent=rna_pyrory1_EHA56170.1
+pyrory1_CM001231.1	bed	CDS	110354	155940	.	+	ID=cds_pyrory1_EHA56171.1;Description=;parent=rna_pyrory1_EHA56171.1
+pyrory1_CM001231.1	bed	CDS	112691	154109	.	-	ID=cds_pyrory1_EHA56172.1;Description=;parent=rna_pyrory1_EHA56172.1
+pyrory1_CM001231.1	bed	CDS	116737	149618	.	+	ID=cds_pyrory1_EHA56173.1;Description=;parent=rna_pyrory1_EHA56173.1
+pyrory1_CM001231.1	bed	CDS	119737	145793	.	-	ID=cds_pyrory1_EHA56174.1;Description=;parent=rna_pyrory1_EHA56174.1
+pyrory1_CM001231.1	bed	CDS	122162	145078	.	+	ID=cds_pyrory1_EHA56175.1;Description=;parent=rna_pyrory1_EHA56175.1
+pyrory1_CM001231.1	bed	CDS	123405	143898	.	-	ID=cds_pyrory1_EHA56176.1;Description=;parent=rna_pyrory1_EHA56176.1
+pyrory1_CM001231.1	bed	CDS	132254	134626	.	+	ID=cds_pyrory1_eg357248;Description=;parent=rna_pyrory1_eg357248
+pyrory1_CM001231.1	bed	CDS	141537	125916	.	-	ID=cds_pyrory1_EHA56177.1;Description=;parent=rna_pyrory1_EHA56177.1
+pyrory1_CM001231.1	bed	CDS	144046	121281	.	-	ID=cds_pyrory1_EHA56178.1;Description=;parent=rna_pyrory1_EHA56178.1
+pyrory1_CM001231.1	bed	CDS	146866	119400	.	+	ID=cds_pyrory1_EHA56179.1;Description=;parent=rna_pyrory1_EHA56179.1
+pyrory1_CM001231.1	bed	CDS	148780	117818	.	+	ID=cds_pyrory1_EHA56180.1;Description=;parent=rna_pyrory1_EHA56180.1
+pyrory1_CM001231.1	bed	CDS	151791	112762	.	-	ID=cds_pyrory1_EHA56181.1;Description=;parent=rna_pyrory1_EHA56181.1
+pyrory1_CM001231.1	bed	CDS	155948	110609	.	+	ID=cds_pyrory1_EHA56182.1;Description=;parent=rna_pyrory1_EHA56182.1
+pyrory1_CM001231.1	bed	CDS	158623	108835	.	-	ID=cds_pyrory1_EHA56183.1;Description=;parent=rna_pyrory1_EHA56183.1
+pyrory1_CM001231.1	bed	CDS	159350	107648	.	-	ID=cds_pyrory1_EHA56184.1;Description=;parent=rna_pyrory1_EHA56184.1
+pyrory1_CM001231.1	bed	CDS	161067	106245	.	+	ID=cds_pyrory1_EHA56185.1;Description=;parent=rna_pyrory1_EHA56185.1
+pyrory1_CM001231.1	bed	CDS	162452	101479	.	+	ID=cds_pyrory1_EHA56186.1;Description=;parent=rna_pyrory1_EHA56186.1
+pyrory1_CM001231.1	bed	CDS	167604	99414	.	-	ID=cds_pyrory1_EHA56187.1;Description=;parent=rna_pyrory1_EHA56187.1
+pyrory1_CM001231.1	bed	CDS	172855	94598	.	+	ID=cds_pyrory1_EHA56188.1;Description=;parent=rna_pyrory1_EHA56188.1
+pyrory1_CM001231.1	bed	CDS	180015	85207	.	+	ID=cds_pyrory1_EHA56189.1;Description=;parent=rna_pyrory1_EHA56189.1
+pyrory1_CM001231.1	bed	CDS	185686	80750	.	-	ID=cds_pyrory1_EHA56190.1;Description=;parent=rna_pyrory1_EHA56190.1
+pyrory1_CM001231.1	bed	CDS	187203	79578	.	+	ID=cds_pyrory1_EHA56191.1;Description=;parent=rna_pyrory1_EHA56191.1
+pyrory1_CM001231.1	bed	CDS	188762	76778	.	-	ID=cds_pyrory1_EHA56192.1;Description=;parent=rna_pyrory1_EHA56192.1
+pyrory1_CM001231.1	bed	CDS	194193	73269	.	-	ID=cds_pyrory1_EHA56193.1;Description=;parent=rna_pyrory1_EHA56193.1
+pyrory1_CM001231.1	bed	CDS	195135	70978	.	-	ID=cds_pyrory1_EHA56194.1;Description=;parent=rna_pyrory1_EHA56194.1
+pyrory1_CM001231.1	bed	CDS	196950	68596	.	+	ID=cds_pyrory1_EHA56195.1;Description=;parent=rna_pyrory1_EHA56195.1
+pyrory1_CM001231.1	bed	CDS	202245	65233	.	+	ID=cds_pyrory1_EHA56196.1;Description=;parent=rna_pyrory1_EHA56196.1
+pyrory1_CM001231.1	bed	CDS	206649	60340	.	+	ID=cds_pyrory1_EHA56197.1;Description=;parent=rna_pyrory1_EHA56197.1
+pyrory1_CM001231.1	bed	CDS	207734	59242	.	-	ID=cds_pyrory1_EHA56198.1;Description=;parent=rna_pyrory1_EHA56198.1
+pyrory1_CM001231.1	bed	CDS	208652	58163	.	-	ID=cds_pyrory1_EHA56199.1;Description=;parent=rna_pyrory1_EHA56199.1
+pyrory1_CM001231.1	bed	CDS	211910	53190	.	-	ID=cds_pyrory1_EHA56200.1;Description=;parent=rna_pyrory1_EHA56200.1
+pyrory1_CM001231.1	bed	CDS	214838	52646	.	-	ID=cds_pyrory1_EHA56201.1;Description=;parent=rna_pyrory1_EHA56201.1
+pyrory1_CM001231.1	bed	CDS	216160	49331	.	-	ID=cds_pyrory1_EHA56202.1;Description=;parent=rna_pyrory1_EHA56202.1
+pyrory1_CM001231.1	bed	CDS	218760	46108	.	+	ID=cds_pyrory1_EHA56203.1;Description=;parent=rna_pyrory1_EHA56203.1
+pyrory1_CM001231.1	bed	CDS	222605	44940	.	+	ID=cds_pyrory1_EHA56204.1;Description=;parent=rna_pyrory1_EHA56204.1
+pyrory1_CM001231.1	bed	CDS	223207	42976	.	-	ID=cds_pyrory1_EHA56205.1;Description=;parent=rna_pyrory1_EHA56205.1
+pyrory1_CM001231.1	bed	CDS	227442	38432	.	+	ID=cds_pyrory1_EHA56206.1;Description=;parent=rna_pyrory1_EHA56206.1
+pyrory1_CM001231.1	bed	CDS	229487	27118	.	-	ID=cds_pyrory1_EHA56207.1;Description=;parent=rna_pyrory1_EHA56207.1
+pyrory1_CM001231.1	bed	CDS	240972	25232	.	+	ID=cds_pyrory1_EHA56208.1;Description=;parent=rna_pyrory1_EHA56208.1
+pyrory1_CM001231.1	bed	CDS	242762	22424	.	-	ID=cds_pyrory1_EHA56209.1;Description=;parent=rna_pyrory1_EHA56209.1
+pyrory1_CM001231.1	bed	CDS	245811	20766	.	+	ID=cds_pyrory1_EHA56210.1;Description=;parent=rna_pyrory1_EHA56210.1
+pyrory1_CM001231.1	bed	CDS	248766	18227	.	+	ID=cds_pyrory1_EHA56211.1;Description=;parent=rna_pyrory1_EHA56211.1
+pyrory1_CM001231.1	bed	CDS	250141	16926	.	-	ID=cds_pyrory1_EHA56212.1;Description=;parent=rna_pyrory1_EHA56212.1
+pyrory1_CM001231.1	bed	CDS	251067	14561	.	+	ID=cds_pyrory1_EHA56213.1;Description=;parent=rna_pyrory1_EHA56213.1
+pyrory1_CM001231.1	bed	CDS	253303	13875	.	-	ID=cds_pyrory1_EHA56214.1;Description=;parent=rna_pyrory1_EHA56214.1
+pyrory1_CM001231.1	bed	CDS	255804	8764	.	-	ID=cds_pyrory1_EHA56215.1;Description=;parent=rna_pyrory1_EHA56215.1
+pyrory1_CM001231.1	bed	CDS	262368	4484	.	-	ID=cds_pyrory1_EHA56217.1;Description=;parent=rna_pyrory1_EHA56217.1
+pyrory1_CM001231.1	bed	CDS	265152	983	.	+	ID=cds_pyrory1_EHA56218.1;Description=;parent=rna_pyrory1_EHA56218.1

@@ -1,0 +1,24 @@
+chaglo1_scaffold3	bed	gene	1	18227	.	+	insert	ID=gene_chaglo1_456390|chaglo2_CH408030.1|up;Description=chaglo1_s03747;parent=chaglo1_scaffold3
+chaglo1_scaffold3	bed	gene	3	17171	.	+	cap	ID=gene_chaglo1_456390;Description=chaglo1_s03747;parent=chaglo1_scaffold3
+chaglo1_scaffold3	bed	gene	3977	13326	.	-	.	ID=gene_chaglo1_570246;Description=chaglo1_s03747;parent=chaglo1_scaffold3
+chaglo1_scaffold3	bed	gene	6524	11205	.	+	.	ID=gene_chaglo1_211113;Description=chaglo1_s03747;parent=chaglo1_scaffold3
+chaglo1_scaffold3	bed	gene	7812	10033	.	+	.	ID=gene_chaglo1_459623;Description=chaglo1_s03747;parent=chaglo1_scaffold3
+chaglo1_scaffold3	bed	gene	12448	4808	.	-	.	ID=gene_chaglo1_601997;Description=chaglo1_s03747;parent=chaglo1_scaffold3
+chaglo1_scaffold3	bed	gene	16740	1156	.	+	.	ID=gene_chaglo1_601998;Description=chaglo1_s03747;parent=chaglo1_scaffold3
+chaglo1_scaffold3	bed	gene	18228	0	.	+	insert	ID=gene_chaglo1_456390|chaglo2_CH408030.1|down;Description=chaglo1_s03747;parent=chaglo1_scaffold3
+chaglo1_scaffold3	bed	RNA	1	18227	.	+	ID=rna_chaglo1_456390|chaglo2_CH408030.1|up;Description=;parent=gene_chaglo1_456390|chaglo2_CH408030.1|up
+chaglo1_scaffold3	bed	RNA	3	17171	.	+	ID=rna_chaglo1_456390;Description=;parent=gene_chaglo1_456390
+chaglo1_scaffold3	bed	RNA	3977	13326	.	-	ID=rna_chaglo1_570246;Description=;parent=gene_chaglo1_570246
+chaglo1_scaffold3	bed	RNA	6524	11205	.	+	ID=rna_chaglo1_211113;Description=;parent=gene_chaglo1_211113
+chaglo1_scaffold3	bed	RNA	7812	10033	.	+	ID=rna_chaglo1_459623;Description=;parent=gene_chaglo1_459623
+chaglo1_scaffold3	bed	RNA	12448	4808	.	-	ID=rna_chaglo1_601997;Description=;parent=gene_chaglo1_601997
+chaglo1_scaffold3	bed	RNA	16740	1156	.	+	ID=rna_chaglo1_601998;Description=;parent=gene_chaglo1_601998
+chaglo1_scaffold3	bed	RNA	18228	0	.	+	ID=rna_chaglo1_456390|chaglo2_CH408030.1|down;Description=;parent=gene_chaglo1_456390|chaglo2_CH408030.1|down
+chaglo1_scaffold3	bed	CDS	1	18227	.	+	ID=cds_chaglo1_456390|chaglo2_CH408030.1|up;Description=;parent=rna_chaglo1_456390|chaglo2_CH408030.1|up
+chaglo1_scaffold3	bed	CDS	3	17171	.	+	ID=cds_chaglo1_456390;Description=;parent=rna_chaglo1_456390
+chaglo1_scaffold3	bed	CDS	3977	13326	.	-	ID=cds_chaglo1_570246;Description=;parent=rna_chaglo1_570246
+chaglo1_scaffold3	bed	CDS	6524	11205	.	+	ID=cds_chaglo1_211113;Description=;parent=rna_chaglo1_211113
+chaglo1_scaffold3	bed	CDS	7812	10033	.	+	ID=cds_chaglo1_459623;Description=;parent=rna_chaglo1_459623
+chaglo1_scaffold3	bed	CDS	12448	4808	.	-	ID=cds_chaglo1_601997;Description=;parent=rna_chaglo1_601997
+chaglo1_scaffold3	bed	CDS	16740	1156	.	+	ID=cds_chaglo1_601998;Description=;parent=rna_chaglo1_601998
+chaglo1_scaffold3	bed	CDS	18228	0	.	+	ID=cds_chaglo1_456390|chaglo2_CH408030.1|down;Description=;parent=rna_chaglo1_456390|chaglo2_CH408030.1|down

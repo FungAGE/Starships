@@ -1,0 +1,69 @@
+cocimm3_DS017003.1	bed	gene	1	70168	.	+	insert	ID=gene_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|up;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	6160	61201	.	+	cap	ID=gene_cocimm3_KMU88194.1:KMU88195.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	10064	59624	.	+	.	ID=gene_cocimm3_KMU88196.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	10838	58551	.	+	.	ID=gene_cocimm3_KMU88197.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	12781	56225	.	+	.	ID=gene_cocimm3_KMU88198.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	15815	54019	.	+	.	ID=gene_cocimm3_KMU88199.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	18866	49507	.	-	.	ID=gene_cocimm3_eg180296;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	21575	47075	.	-	.	ID=gene_cocimm3_KMU88200.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	28359	41190	.	+	.	ID=gene_cocimm3_KMU88201.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	29637	40145	.	-	.	ID=gene_cocimm3_KMU88202.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	37770	31973	.	-	.	ID=gene_cocimm3_KMU88203.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	38872	30562	.	+	.	ID=gene_cocimm3_KMU88204.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	40010	29769	.	-	.	ID=gene_cocimm3_KMU88205.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	44000	23788	.	+	.	ID=gene_cocimm3_eg180318;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	46517	23533	.	+	.	ID=gene_cocimm3_eg180295;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	49728	19129	.	+	.	ID=gene_cocimm3_KMU88206.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	59931	8889	.	+	.	ID=gene_cocimm3_KMU88207.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	61247	7562	.	-	.	ID=gene_cocimm3_KMU88209.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	62184	5762	.	+	.	ID=gene_cocimm3_KMU88208.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	64577	5098	.	-	.	ID=gene_cocimm3_KMU88210.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	65727	4029	.	+	.	ID=gene_cocimm3_KMU88211.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	66368	3373	.	-	.	ID=gene_cocimm3_KMU88212.1;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	gene	70169	0	.	+	insert	ID=gene_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|down;Description=cocimm3_s03905;parent=cocimm3_DS017003.1
+cocimm3_DS017003.1	bed	RNA	1	70168	.	+	ID=rna_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|up;Description=;parent=gene_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|up
+cocimm3_DS017003.1	bed	RNA	6160	61201	.	+	ID=rna_cocimm3_KMU88194.1:KMU88195.1;Description=;parent=gene_cocimm3_KMU88194.1:KMU88195.1
+cocimm3_DS017003.1	bed	RNA	10064	59624	.	+	ID=rna_cocimm3_KMU88196.1;Description=;parent=gene_cocimm3_KMU88196.1
+cocimm3_DS017003.1	bed	RNA	10838	58551	.	+	ID=rna_cocimm3_KMU88197.1;Description=;parent=gene_cocimm3_KMU88197.1
+cocimm3_DS017003.1	bed	RNA	12781	56225	.	+	ID=rna_cocimm3_KMU88198.1;Description=;parent=gene_cocimm3_KMU88198.1
+cocimm3_DS017003.1	bed	RNA	15815	54019	.	+	ID=rna_cocimm3_KMU88199.1;Description=;parent=gene_cocimm3_KMU88199.1
+cocimm3_DS017003.1	bed	RNA	18866	49507	.	-	ID=rna_cocimm3_eg180296;Description=;parent=gene_cocimm3_eg180296
+cocimm3_DS017003.1	bed	RNA	21575	47075	.	-	ID=rna_cocimm3_KMU88200.1;Description=;parent=gene_cocimm3_KMU88200.1
+cocimm3_DS017003.1	bed	RNA	28359	41190	.	+	ID=rna_cocimm3_KMU88201.1;Description=;parent=gene_cocimm3_KMU88201.1
+cocimm3_DS017003.1	bed	RNA	29637	40145	.	-	ID=rna_cocimm3_KMU88202.1;Description=;parent=gene_cocimm3_KMU88202.1
+cocimm3_DS017003.1	bed	RNA	37770	31973	.	-	ID=rna_cocimm3_KMU88203.1;Description=;parent=gene_cocimm3_KMU88203.1
+cocimm3_DS017003.1	bed	RNA	38872	30562	.	+	ID=rna_cocimm3_KMU88204.1;Description=;parent=gene_cocimm3_KMU88204.1
+cocimm3_DS017003.1	bed	RNA	40010	29769	.	-	ID=rna_cocimm3_KMU88205.1;Description=;parent=gene_cocimm3_KMU88205.1
+cocimm3_DS017003.1	bed	RNA	44000	23788	.	+	ID=rna_cocimm3_eg180318;Description=;parent=gene_cocimm3_eg180318
+cocimm3_DS017003.1	bed	RNA	46517	23533	.	+	ID=rna_cocimm3_eg180295;Description=;parent=gene_cocimm3_eg180295
+cocimm3_DS017003.1	bed	RNA	49728	19129	.	+	ID=rna_cocimm3_KMU88206.1;Description=;parent=gene_cocimm3_KMU88206.1
+cocimm3_DS017003.1	bed	RNA	59931	8889	.	+	ID=rna_cocimm3_KMU88207.1;Description=;parent=gene_cocimm3_KMU88207.1
+cocimm3_DS017003.1	bed	RNA	61247	7562	.	-	ID=rna_cocimm3_KMU88209.1;Description=;parent=gene_cocimm3_KMU88209.1
+cocimm3_DS017003.1	bed	RNA	62184	5762	.	+	ID=rna_cocimm3_KMU88208.1;Description=;parent=gene_cocimm3_KMU88208.1
+cocimm3_DS017003.1	bed	RNA	64577	5098	.	-	ID=rna_cocimm3_KMU88210.1;Description=;parent=gene_cocimm3_KMU88210.1
+cocimm3_DS017003.1	bed	RNA	65727	4029	.	+	ID=rna_cocimm3_KMU88211.1;Description=;parent=gene_cocimm3_KMU88211.1
+cocimm3_DS017003.1	bed	RNA	66368	3373	.	-	ID=rna_cocimm3_KMU88212.1;Description=;parent=gene_cocimm3_KMU88212.1
+cocimm3_DS017003.1	bed	RNA	70169	0	.	+	ID=rna_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|down;Description=;parent=gene_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|down
+cocimm3_DS017003.1	bed	CDS	1	70168	.	+	ID=cds_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|up;Description=;parent=rna_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|up
+cocimm3_DS017003.1	bed	CDS	6160	61201	.	+	ID=cds_cocimm3_KMU88194.1:KMU88195.1;Description=;parent=rna_cocimm3_KMU88194.1:KMU88195.1
+cocimm3_DS017003.1	bed	CDS	10064	59624	.	+	ID=cds_cocimm3_KMU88196.1;Description=;parent=rna_cocimm3_KMU88196.1
+cocimm3_DS017003.1	bed	CDS	10838	58551	.	+	ID=cds_cocimm3_KMU88197.1;Description=;parent=rna_cocimm3_KMU88197.1
+cocimm3_DS017003.1	bed	CDS	12781	56225	.	+	ID=cds_cocimm3_KMU88198.1;Description=;parent=rna_cocimm3_KMU88198.1
+cocimm3_DS017003.1	bed	CDS	15815	54019	.	+	ID=cds_cocimm3_KMU88199.1;Description=;parent=rna_cocimm3_KMU88199.1
+cocimm3_DS017003.1	bed	CDS	18866	49507	.	-	ID=cds_cocimm3_eg180296;Description=;parent=rna_cocimm3_eg180296
+cocimm3_DS017003.1	bed	CDS	21575	47075	.	-	ID=cds_cocimm3_KMU88200.1;Description=;parent=rna_cocimm3_KMU88200.1
+cocimm3_DS017003.1	bed	CDS	28359	41190	.	+	ID=cds_cocimm3_KMU88201.1;Description=;parent=rna_cocimm3_KMU88201.1
+cocimm3_DS017003.1	bed	CDS	29637	40145	.	-	ID=cds_cocimm3_KMU88202.1;Description=;parent=rna_cocimm3_KMU88202.1
+cocimm3_DS017003.1	bed	CDS	37770	31973	.	-	ID=cds_cocimm3_KMU88203.1;Description=;parent=rna_cocimm3_KMU88203.1
+cocimm3_DS017003.1	bed	CDS	38872	30562	.	+	ID=cds_cocimm3_KMU88204.1;Description=;parent=rna_cocimm3_KMU88204.1
+cocimm3_DS017003.1	bed	CDS	40010	29769	.	-	ID=cds_cocimm3_KMU88205.1;Description=;parent=rna_cocimm3_KMU88205.1
+cocimm3_DS017003.1	bed	CDS	44000	23788	.	+	ID=cds_cocimm3_eg180318;Description=;parent=rna_cocimm3_eg180318
+cocimm3_DS017003.1	bed	CDS	46517	23533	.	+	ID=cds_cocimm3_eg180295;Description=;parent=rna_cocimm3_eg180295
+cocimm3_DS017003.1	bed	CDS	49728	19129	.	+	ID=cds_cocimm3_KMU88206.1;Description=;parent=rna_cocimm3_KMU88206.1
+cocimm3_DS017003.1	bed	CDS	59931	8889	.	+	ID=cds_cocimm3_KMU88207.1;Description=;parent=rna_cocimm3_KMU88207.1
+cocimm3_DS017003.1	bed	CDS	61247	7562	.	-	ID=cds_cocimm3_KMU88209.1;Description=;parent=rna_cocimm3_KMU88209.1
+cocimm3_DS017003.1	bed	CDS	62184	5762	.	+	ID=cds_cocimm3_KMU88208.1;Description=;parent=rna_cocimm3_KMU88208.1
+cocimm3_DS017003.1	bed	CDS	64577	5098	.	-	ID=cds_cocimm3_KMU88210.1;Description=;parent=rna_cocimm3_KMU88210.1
+cocimm3_DS017003.1	bed	CDS	65727	4029	.	+	ID=cds_cocimm3_KMU88211.1;Description=;parent=rna_cocimm3_KMU88211.1
+cocimm3_DS017003.1	bed	CDS	66368	3373	.	-	ID=cds_cocimm3_KMU88212.1;Description=;parent=rna_cocimm3_KMU88212.1
+cocimm3_DS017003.1	bed	CDS	70169	0	.	+	ID=cds_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|down;Description=;parent=rna_cocimm3_KMU88194.1:KMU88195.1|cocpos4_GL636496.1|down

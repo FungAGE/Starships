@@ -1,0 +1,315 @@
+aspfum4_KQ087364.1	bed	gene	150	336721	.	+	.	ID=gene_aspfum4_eg80455;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	1	336742	.	-	insert	ID=gene_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|down;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	675	335013	.	-	.	ID=gene_aspfum4_KMK58454.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	6505	328031	.	+	.	ID=gene_aspfum4_KMK58455.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	10244	325829	.	+	.	ID=gene_aspfum4_KMK58456.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	11878	324119	.	-	.	ID=gene_aspfum4_KMK58457.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	14982	320056	.	+	.	ID=gene_aspfum4_KMK58458.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	18984	317254	.	+	.	ID=gene_aspfum4_KMK58459.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	19615	316706	.	+	.	ID=gene_aspfum4_eg80485;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	24762	309674	.	+	.	ID=gene_aspfum4_KMK58460.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	28498	307730	.	-	.	ID=gene_aspfum4_KMK58461.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	34316	301578	.	-	.	ID=gene_aspfum4_KMK58462.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	35424	299861	.	+	.	ID=gene_aspfum4_KMK58463.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	38667	296870	.	+	.	ID=gene_aspfum4_KMK58464.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	41889	291265	.	+	.	ID=gene_aspfum4_KMK58465.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	47595	285652	.	+	.	ID=gene_aspfum4_KMK58466.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	52998	283386	.	-	.	ID=gene_aspfum4_eg80488;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	56246	279334	.	-	tyr	ID=gene_aspfum4_KMK58467.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	57940	277895	.	-	.	ID=gene_aspfum4_eg80537;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	60094	275424	.	+	.	ID=gene_aspfum4_KMK58468.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	66620	269407	.	-	.	ID=gene_aspfum4_KMK58469.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	69819	262463	.	-	d37	ID=gene_aspfum4_KMK58470.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	74551	261197	.	+	.	ID=gene_aspfum4_KMK58471.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	77330	257651	.	-	fre	ID=gene_aspfum4_KMK58472.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	81261	251851	.	+	.	ID=gene_aspfum4_KMK58473.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	85964	250090	.	+	.	ID=gene_aspfum4_KMK58474.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	86844	244503	.	-	.	ID=gene_aspfum4_KMK58475.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	93769	242038	.	+	.	ID=gene_aspfum4_KMK58476.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	95240	241051	.	-	.	ID=gene_aspfum4_KMK58477.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	98685	235789	.	+	.	ID=gene_aspfum4_KMK58478.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	101647	233283	.	-	.	ID=gene_aspfum4_KMK58479.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	104546	231634	.	-	.	ID=gene_aspfum4_KMK58480.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	111622	224604	.	+	.	ID=gene_aspfum4_KMK58481.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	115841	220478	.	+	.	ID=gene_aspfum4_KMK58482.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	120639	215496	.	+	.	ID=gene_aspfum4_KMK58483.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	123742	212771	.	-	.	ID=gene_aspfum4_KMK58484.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	126892	208427	.	+	.	ID=gene_aspfum4_KMK58485.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	128913	207294	.	-	.	ID=gene_aspfum4_eg80655;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	130681	204338	.	-	.	ID=gene_aspfum4_KMK58486.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	135149	199181	.	+	.	ID=gene_aspfum4_KMK58487.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	138053	198167	.	-	.	ID=gene_aspfum4_KMK58488.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	139263	195938	.	+	.	ID=gene_aspfum4_KMK58489.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	141693	194394	.	-	.	ID=gene_aspfum4_KMK58490.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	143249	192043	.	-	.	ID=gene_aspfum4_KMK58491.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	145116	190054	.	+	.	ID=gene_aspfum4_KMK58492.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	147243	188764	.	-	.	ID=gene_aspfum4_KMK58493.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	148833	185705	.	+	.	ID=gene_aspfum4_KMK58494.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	153233	182576	.	-	.	ID=gene_aspfum4_KMK58495.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	155648	179476	.	+	.	ID=gene_aspfum4_KMK58496.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	157687	177728	.	-	.	ID=gene_aspfum4_KMK58497.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	159544	173956	.	+	.	ID=gene_aspfum4_KMK58498.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	163634	168645	.	-	.	ID=gene_aspfum4_KMK58499.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	168768	167529	.	+	.	ID=gene_aspfum4_KMK58500.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	170668	164036	.	+	.	ID=gene_aspfum4_KMK58501.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	173999	162112	.	-	.	ID=gene_aspfum4_KMK58502.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	176845	156728	.	-	plp	ID=gene_aspfum4_KMK58503.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	180532	155550	.	-	.	ID=gene_aspfum4_KMK58504.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	182120	153550	.	+	.	ID=gene_aspfum4_KMK58505.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	188263	147977	.	+	.	ID=gene_aspfum4_KMK58506.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	189182	147364	.	+	.	ID=gene_aspfum4_eg80493;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	191254	144790	.	+	.	ID=gene_aspfum4_KMK58507.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	192607	143700	.	+	.	ID=gene_aspfum4_KMK58508.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	194876	141204	.	+	.	ID=gene_aspfum4_KMK58509.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	196147	139408	.	+	.	ID=gene_aspfum4_KMK58510.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	197386	138842	.	+	.	ID=gene_aspfum4_eg80480;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	200151	135610	.	-	.	ID=gene_aspfum4_KMK58511.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	201591	134797	.	-	.	ID=gene_aspfum4_eg80649;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	204320	130630	.	+	nlr	ID=gene_aspfum4_KMK58512.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	209538	126464	.	+	.	ID=gene_aspfum4_KMK58513.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	211196	124949	.	-	.	ID=gene_aspfum4_KMK58514.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	213932	121567	.	-	.	ID=gene_aspfum4_KMK58515.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	219536	115889	.	-	nlr	ID=gene_aspfum4_KMK58516.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	223184	113314	.	+	.	ID=gene_aspfum4_KMK58517.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	224063	112000	.	-	.	ID=gene_aspfum4_KMK58518.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	225930	109725	.	-	.	ID=gene_aspfum4_KMK58519.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	229588	105797	.	-	.	ID=gene_aspfum4_KMK58520.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	232101	103037	.	-	.	ID=gene_aspfum4_KMK58521.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	234796	101451	.	-	.	ID=gene_aspfum4_KMK58522.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	239540	91257	.	+	.	ID=gene_aspfum4_KMK58523.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	247910	87784	.	+	nlr	ID=gene_aspfum4_KMK58524.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	250633	85183	.	-	.	ID=gene_aspfum4_KMK58525.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	252420	83345	.	+	.	ID=gene_aspfum4_KMK58526.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	253532	81108	.	-	.	ID=gene_aspfum4_KMK58527.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	256297	78921	.	+	.	ID=gene_aspfum4_KMK58528.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	258880	77483	.	-	.	ID=gene_aspfum4_KMK58529.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	259454	76798	.	-	.	ID=gene_aspfum4_KMK58530.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	261572	74856	.	+	.	ID=gene_aspfum4_KMK58531.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	267266	69037	.	-	.	ID=gene_aspfum4_KMK58532.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	268493	67068	.	+	.	ID=gene_aspfum4_KMK58533.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	270938	62754	.	-	.	ID=gene_aspfum4_KMK58534.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	275241	59619	.	-	.	ID=gene_aspfum4_KMK58535.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	278808	48377	.	+	.	ID=gene_aspfum4_KMK58536.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	288819	42499	.	-	.	ID=gene_aspfum4_KMK58537.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	294535	41570	.	+	.	ID=gene_aspfum4_KMK58538.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	295857	40285	.	+	.	ID=gene_aspfum4_KMK58539.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	296941	37768	.	+	.	ID=gene_aspfum4_KMK58540.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	300749	34651	.	+	.	ID=gene_aspfum4_KMK58541.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	302842	31134	.	-	.	ID=gene_aspfum4_KMK58542.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	307481	26891	.	+	.	ID=gene_aspfum4_KMK58543.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	311202	25398	.	-	.	ID=gene_aspfum4_eg80451;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	314137	21431	.	-	.	ID=gene_aspfum4_KMK58544.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	319266	16980	.	-	.	ID=gene_aspfum4_KMK58545.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	321471	14952	.	+	.	ID=gene_aspfum4_KMK58546.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	322432	11749	.	-	cap	ID=gene_aspfum4_KMK58547.1;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	gene	336743	0	.	-	insert	ID=gene_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|up;Description=aspfum4_s01185;parent=aspfum4_KQ087364.1
+aspfum4_KQ087364.1	bed	RNA	150	336721	.	+	ID=rna_aspfum4_eg80455;Description=;parent=gene_aspfum4_eg80455
+aspfum4_KQ087364.1	bed	RNA	1	336742	.	-	ID=rna_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|down;Description=;parent=gene_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|down
+aspfum4_KQ087364.1	bed	RNA	675	335013	.	-	ID=rna_aspfum4_KMK58454.1;Description=;parent=gene_aspfum4_KMK58454.1
+aspfum4_KQ087364.1	bed	RNA	6505	328031	.	+	ID=rna_aspfum4_KMK58455.1;Description=;parent=gene_aspfum4_KMK58455.1
+aspfum4_KQ087364.1	bed	RNA	10244	325829	.	+	ID=rna_aspfum4_KMK58456.1;Description=;parent=gene_aspfum4_KMK58456.1
+aspfum4_KQ087364.1	bed	RNA	11878	324119	.	-	ID=rna_aspfum4_KMK58457.1;Description=;parent=gene_aspfum4_KMK58457.1
+aspfum4_KQ087364.1	bed	RNA	14982	320056	.	+	ID=rna_aspfum4_KMK58458.1;Description=;parent=gene_aspfum4_KMK58458.1
+aspfum4_KQ087364.1	bed	RNA	18984	317254	.	+	ID=rna_aspfum4_KMK58459.1;Description=;parent=gene_aspfum4_KMK58459.1
+aspfum4_KQ087364.1	bed	RNA	19615	316706	.	+	ID=rna_aspfum4_eg80485;Description=;parent=gene_aspfum4_eg80485
+aspfum4_KQ087364.1	bed	RNA	24762	309674	.	+	ID=rna_aspfum4_KMK58460.1;Description=;parent=gene_aspfum4_KMK58460.1
+aspfum4_KQ087364.1	bed	RNA	28498	307730	.	-	ID=rna_aspfum4_KMK58461.1;Description=;parent=gene_aspfum4_KMK58461.1
+aspfum4_KQ087364.1	bed	RNA	34316	301578	.	-	ID=rna_aspfum4_KMK58462.1;Description=;parent=gene_aspfum4_KMK58462.1
+aspfum4_KQ087364.1	bed	RNA	35424	299861	.	+	ID=rna_aspfum4_KMK58463.1;Description=;parent=gene_aspfum4_KMK58463.1
+aspfum4_KQ087364.1	bed	RNA	38667	296870	.	+	ID=rna_aspfum4_KMK58464.1;Description=;parent=gene_aspfum4_KMK58464.1
+aspfum4_KQ087364.1	bed	RNA	41889	291265	.	+	ID=rna_aspfum4_KMK58465.1;Description=;parent=gene_aspfum4_KMK58465.1
+aspfum4_KQ087364.1	bed	RNA	47595	285652	.	+	ID=rna_aspfum4_KMK58466.1;Description=;parent=gene_aspfum4_KMK58466.1
+aspfum4_KQ087364.1	bed	RNA	52998	283386	.	-	ID=rna_aspfum4_eg80488;Description=;parent=gene_aspfum4_eg80488
+aspfum4_KQ087364.1	bed	RNA	56246	279334	.	-	ID=rna_aspfum4_KMK58467.1;Description=;parent=gene_aspfum4_KMK58467.1
+aspfum4_KQ087364.1	bed	RNA	57940	277895	.	-	ID=rna_aspfum4_eg80537;Description=;parent=gene_aspfum4_eg80537
+aspfum4_KQ087364.1	bed	RNA	60094	275424	.	+	ID=rna_aspfum4_KMK58468.1;Description=;parent=gene_aspfum4_KMK58468.1
+aspfum4_KQ087364.1	bed	RNA	66620	269407	.	-	ID=rna_aspfum4_KMK58469.1;Description=;parent=gene_aspfum4_KMK58469.1
+aspfum4_KQ087364.1	bed	RNA	69819	262463	.	-	ID=rna_aspfum4_KMK58470.1;Description=;parent=gene_aspfum4_KMK58470.1
+aspfum4_KQ087364.1	bed	RNA	74551	261197	.	+	ID=rna_aspfum4_KMK58471.1;Description=;parent=gene_aspfum4_KMK58471.1
+aspfum4_KQ087364.1	bed	RNA	77330	257651	.	-	ID=rna_aspfum4_KMK58472.1;Description=;parent=gene_aspfum4_KMK58472.1
+aspfum4_KQ087364.1	bed	RNA	81261	251851	.	+	ID=rna_aspfum4_KMK58473.1;Description=;parent=gene_aspfum4_KMK58473.1
+aspfum4_KQ087364.1	bed	RNA	85964	250090	.	+	ID=rna_aspfum4_KMK58474.1;Description=;parent=gene_aspfum4_KMK58474.1
+aspfum4_KQ087364.1	bed	RNA	86844	244503	.	-	ID=rna_aspfum4_KMK58475.1;Description=;parent=gene_aspfum4_KMK58475.1
+aspfum4_KQ087364.1	bed	RNA	93769	242038	.	+	ID=rna_aspfum4_KMK58476.1;Description=;parent=gene_aspfum4_KMK58476.1
+aspfum4_KQ087364.1	bed	RNA	95240	241051	.	-	ID=rna_aspfum4_KMK58477.1;Description=;parent=gene_aspfum4_KMK58477.1
+aspfum4_KQ087364.1	bed	RNA	98685	235789	.	+	ID=rna_aspfum4_KMK58478.1;Description=;parent=gene_aspfum4_KMK58478.1
+aspfum4_KQ087364.1	bed	RNA	101647	233283	.	-	ID=rna_aspfum4_KMK58479.1;Description=;parent=gene_aspfum4_KMK58479.1
+aspfum4_KQ087364.1	bed	RNA	104546	231634	.	-	ID=rna_aspfum4_KMK58480.1;Description=;parent=gene_aspfum4_KMK58480.1
+aspfum4_KQ087364.1	bed	RNA	111622	224604	.	+	ID=rna_aspfum4_KMK58481.1;Description=;parent=gene_aspfum4_KMK58481.1
+aspfum4_KQ087364.1	bed	RNA	115841	220478	.	+	ID=rna_aspfum4_KMK58482.1;Description=;parent=gene_aspfum4_KMK58482.1
+aspfum4_KQ087364.1	bed	RNA	120639	215496	.	+	ID=rna_aspfum4_KMK58483.1;Description=;parent=gene_aspfum4_KMK58483.1
+aspfum4_KQ087364.1	bed	RNA	123742	212771	.	-	ID=rna_aspfum4_KMK58484.1;Description=;parent=gene_aspfum4_KMK58484.1
+aspfum4_KQ087364.1	bed	RNA	126892	208427	.	+	ID=rna_aspfum4_KMK58485.1;Description=;parent=gene_aspfum4_KMK58485.1
+aspfum4_KQ087364.1	bed	RNA	128913	207294	.	-	ID=rna_aspfum4_eg80655;Description=;parent=gene_aspfum4_eg80655
+aspfum4_KQ087364.1	bed	RNA	130681	204338	.	-	ID=rna_aspfum4_KMK58486.1;Description=;parent=gene_aspfum4_KMK58486.1
+aspfum4_KQ087364.1	bed	RNA	135149	199181	.	+	ID=rna_aspfum4_KMK58487.1;Description=;parent=gene_aspfum4_KMK58487.1
+aspfum4_KQ087364.1	bed	RNA	138053	198167	.	-	ID=rna_aspfum4_KMK58488.1;Description=;parent=gene_aspfum4_KMK58488.1
+aspfum4_KQ087364.1	bed	RNA	139263	195938	.	+	ID=rna_aspfum4_KMK58489.1;Description=;parent=gene_aspfum4_KMK58489.1
+aspfum4_KQ087364.1	bed	RNA	141693	194394	.	-	ID=rna_aspfum4_KMK58490.1;Description=;parent=gene_aspfum4_KMK58490.1
+aspfum4_KQ087364.1	bed	RNA	143249	192043	.	-	ID=rna_aspfum4_KMK58491.1;Description=;parent=gene_aspfum4_KMK58491.1
+aspfum4_KQ087364.1	bed	RNA	145116	190054	.	+	ID=rna_aspfum4_KMK58492.1;Description=;parent=gene_aspfum4_KMK58492.1
+aspfum4_KQ087364.1	bed	RNA	147243	188764	.	-	ID=rna_aspfum4_KMK58493.1;Description=;parent=gene_aspfum4_KMK58493.1
+aspfum4_KQ087364.1	bed	RNA	148833	185705	.	+	ID=rna_aspfum4_KMK58494.1;Description=;parent=gene_aspfum4_KMK58494.1
+aspfum4_KQ087364.1	bed	RNA	153233	182576	.	-	ID=rna_aspfum4_KMK58495.1;Description=;parent=gene_aspfum4_KMK58495.1
+aspfum4_KQ087364.1	bed	RNA	155648	179476	.	+	ID=rna_aspfum4_KMK58496.1;Description=;parent=gene_aspfum4_KMK58496.1
+aspfum4_KQ087364.1	bed	RNA	157687	177728	.	-	ID=rna_aspfum4_KMK58497.1;Description=;parent=gene_aspfum4_KMK58497.1
+aspfum4_KQ087364.1	bed	RNA	159544	173956	.	+	ID=rna_aspfum4_KMK58498.1;Description=;parent=gene_aspfum4_KMK58498.1
+aspfum4_KQ087364.1	bed	RNA	163634	168645	.	-	ID=rna_aspfum4_KMK58499.1;Description=;parent=gene_aspfum4_KMK58499.1
+aspfum4_KQ087364.1	bed	RNA	168768	167529	.	+	ID=rna_aspfum4_KMK58500.1;Description=;parent=gene_aspfum4_KMK58500.1
+aspfum4_KQ087364.1	bed	RNA	170668	164036	.	+	ID=rna_aspfum4_KMK58501.1;Description=;parent=gene_aspfum4_KMK58501.1
+aspfum4_KQ087364.1	bed	RNA	173999	162112	.	-	ID=rna_aspfum4_KMK58502.1;Description=;parent=gene_aspfum4_KMK58502.1
+aspfum4_KQ087364.1	bed	RNA	176845	156728	.	-	ID=rna_aspfum4_KMK58503.1;Description=;parent=gene_aspfum4_KMK58503.1
+aspfum4_KQ087364.1	bed	RNA	180532	155550	.	-	ID=rna_aspfum4_KMK58504.1;Description=;parent=gene_aspfum4_KMK58504.1
+aspfum4_KQ087364.1	bed	RNA	182120	153550	.	+	ID=rna_aspfum4_KMK58505.1;Description=;parent=gene_aspfum4_KMK58505.1
+aspfum4_KQ087364.1	bed	RNA	188263	147977	.	+	ID=rna_aspfum4_KMK58506.1;Description=;parent=gene_aspfum4_KMK58506.1
+aspfum4_KQ087364.1	bed	RNA	189182	147364	.	+	ID=rna_aspfum4_eg80493;Description=;parent=gene_aspfum4_eg80493
+aspfum4_KQ087364.1	bed	RNA	191254	144790	.	+	ID=rna_aspfum4_KMK58507.1;Description=;parent=gene_aspfum4_KMK58507.1
+aspfum4_KQ087364.1	bed	RNA	192607	143700	.	+	ID=rna_aspfum4_KMK58508.1;Description=;parent=gene_aspfum4_KMK58508.1
+aspfum4_KQ087364.1	bed	RNA	194876	141204	.	+	ID=rna_aspfum4_KMK58509.1;Description=;parent=gene_aspfum4_KMK58509.1
+aspfum4_KQ087364.1	bed	RNA	196147	139408	.	+	ID=rna_aspfum4_KMK58510.1;Description=;parent=gene_aspfum4_KMK58510.1
+aspfum4_KQ087364.1	bed	RNA	197386	138842	.	+	ID=rna_aspfum4_eg80480;Description=;parent=gene_aspfum4_eg80480
+aspfum4_KQ087364.1	bed	RNA	200151	135610	.	-	ID=rna_aspfum4_KMK58511.1;Description=;parent=gene_aspfum4_KMK58511.1
+aspfum4_KQ087364.1	bed	RNA	201591	134797	.	-	ID=rna_aspfum4_eg80649;Description=;parent=gene_aspfum4_eg80649
+aspfum4_KQ087364.1	bed	RNA	204320	130630	.	+	ID=rna_aspfum4_KMK58512.1;Description=;parent=gene_aspfum4_KMK58512.1
+aspfum4_KQ087364.1	bed	RNA	209538	126464	.	+	ID=rna_aspfum4_KMK58513.1;Description=;parent=gene_aspfum4_KMK58513.1
+aspfum4_KQ087364.1	bed	RNA	211196	124949	.	-	ID=rna_aspfum4_KMK58514.1;Description=;parent=gene_aspfum4_KMK58514.1
+aspfum4_KQ087364.1	bed	RNA	213932	121567	.	-	ID=rna_aspfum4_KMK58515.1;Description=;parent=gene_aspfum4_KMK58515.1
+aspfum4_KQ087364.1	bed	RNA	219536	115889	.	-	ID=rna_aspfum4_KMK58516.1;Description=;parent=gene_aspfum4_KMK58516.1
+aspfum4_KQ087364.1	bed	RNA	223184	113314	.	+	ID=rna_aspfum4_KMK58517.1;Description=;parent=gene_aspfum4_KMK58517.1
+aspfum4_KQ087364.1	bed	RNA	224063	112000	.	-	ID=rna_aspfum4_KMK58518.1;Description=;parent=gene_aspfum4_KMK58518.1
+aspfum4_KQ087364.1	bed	RNA	225930	109725	.	-	ID=rna_aspfum4_KMK58519.1;Description=;parent=gene_aspfum4_KMK58519.1
+aspfum4_KQ087364.1	bed	RNA	229588	105797	.	-	ID=rna_aspfum4_KMK58520.1;Description=;parent=gene_aspfum4_KMK58520.1
+aspfum4_KQ087364.1	bed	RNA	232101	103037	.	-	ID=rna_aspfum4_KMK58521.1;Description=;parent=gene_aspfum4_KMK58521.1
+aspfum4_KQ087364.1	bed	RNA	234796	101451	.	-	ID=rna_aspfum4_KMK58522.1;Description=;parent=gene_aspfum4_KMK58522.1
+aspfum4_KQ087364.1	bed	RNA	239540	91257	.	+	ID=rna_aspfum4_KMK58523.1;Description=;parent=gene_aspfum4_KMK58523.1
+aspfum4_KQ087364.1	bed	RNA	247910	87784	.	+	ID=rna_aspfum4_KMK58524.1;Description=;parent=gene_aspfum4_KMK58524.1
+aspfum4_KQ087364.1	bed	RNA	250633	85183	.	-	ID=rna_aspfum4_KMK58525.1;Description=;parent=gene_aspfum4_KMK58525.1
+aspfum4_KQ087364.1	bed	RNA	252420	83345	.	+	ID=rna_aspfum4_KMK58526.1;Description=;parent=gene_aspfum4_KMK58526.1
+aspfum4_KQ087364.1	bed	RNA	253532	81108	.	-	ID=rna_aspfum4_KMK58527.1;Description=;parent=gene_aspfum4_KMK58527.1
+aspfum4_KQ087364.1	bed	RNA	256297	78921	.	+	ID=rna_aspfum4_KMK58528.1;Description=;parent=gene_aspfum4_KMK58528.1
+aspfum4_KQ087364.1	bed	RNA	258880	77483	.	-	ID=rna_aspfum4_KMK58529.1;Description=;parent=gene_aspfum4_KMK58529.1
+aspfum4_KQ087364.1	bed	RNA	259454	76798	.	-	ID=rna_aspfum4_KMK58530.1;Description=;parent=gene_aspfum4_KMK58530.1
+aspfum4_KQ087364.1	bed	RNA	261572	74856	.	+	ID=rna_aspfum4_KMK58531.1;Description=;parent=gene_aspfum4_KMK58531.1
+aspfum4_KQ087364.1	bed	RNA	267266	69037	.	-	ID=rna_aspfum4_KMK58532.1;Description=;parent=gene_aspfum4_KMK58532.1
+aspfum4_KQ087364.1	bed	RNA	268493	67068	.	+	ID=rna_aspfum4_KMK58533.1;Description=;parent=gene_aspfum4_KMK58533.1
+aspfum4_KQ087364.1	bed	RNA	270938	62754	.	-	ID=rna_aspfum4_KMK58534.1;Description=;parent=gene_aspfum4_KMK58534.1
+aspfum4_KQ087364.1	bed	RNA	275241	59619	.	-	ID=rna_aspfum4_KMK58535.1;Description=;parent=gene_aspfum4_KMK58535.1
+aspfum4_KQ087364.1	bed	RNA	278808	48377	.	+	ID=rna_aspfum4_KMK58536.1;Description=;parent=gene_aspfum4_KMK58536.1
+aspfum4_KQ087364.1	bed	RNA	288819	42499	.	-	ID=rna_aspfum4_KMK58537.1;Description=;parent=gene_aspfum4_KMK58537.1
+aspfum4_KQ087364.1	bed	RNA	294535	41570	.	+	ID=rna_aspfum4_KMK58538.1;Description=;parent=gene_aspfum4_KMK58538.1
+aspfum4_KQ087364.1	bed	RNA	295857	40285	.	+	ID=rna_aspfum4_KMK58539.1;Description=;parent=gene_aspfum4_KMK58539.1
+aspfum4_KQ087364.1	bed	RNA	296941	37768	.	+	ID=rna_aspfum4_KMK58540.1;Description=;parent=gene_aspfum4_KMK58540.1
+aspfum4_KQ087364.1	bed	RNA	300749	34651	.	+	ID=rna_aspfum4_KMK58541.1;Description=;parent=gene_aspfum4_KMK58541.1
+aspfum4_KQ087364.1	bed	RNA	302842	31134	.	-	ID=rna_aspfum4_KMK58542.1;Description=;parent=gene_aspfum4_KMK58542.1
+aspfum4_KQ087364.1	bed	RNA	307481	26891	.	+	ID=rna_aspfum4_KMK58543.1;Description=;parent=gene_aspfum4_KMK58543.1
+aspfum4_KQ087364.1	bed	RNA	311202	25398	.	-	ID=rna_aspfum4_eg80451;Description=;parent=gene_aspfum4_eg80451
+aspfum4_KQ087364.1	bed	RNA	314137	21431	.	-	ID=rna_aspfum4_KMK58544.1;Description=;parent=gene_aspfum4_KMK58544.1
+aspfum4_KQ087364.1	bed	RNA	319266	16980	.	-	ID=rna_aspfum4_KMK58545.1;Description=;parent=gene_aspfum4_KMK58545.1
+aspfum4_KQ087364.1	bed	RNA	321471	14952	.	+	ID=rna_aspfum4_KMK58546.1;Description=;parent=gene_aspfum4_KMK58546.1
+aspfum4_KQ087364.1	bed	RNA	322432	11749	.	-	ID=rna_aspfum4_KMK58547.1;Description=;parent=gene_aspfum4_KMK58547.1
+aspfum4_KQ087364.1	bed	RNA	336743	0	.	-	ID=rna_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|up;Description=;parent=gene_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|up
+aspfum4_KQ087364.1	bed	CDS	150	336721	.	+	ID=cds_aspfum4_eg80455;Description=;parent=rna_aspfum4_eg80455
+aspfum4_KQ087364.1	bed	CDS	1	336742	.	-	ID=cds_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|down;Description=;parent=rna_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|down
+aspfum4_KQ087364.1	bed	CDS	675	335013	.	-	ID=cds_aspfum4_KMK58454.1;Description=;parent=rna_aspfum4_KMK58454.1
+aspfum4_KQ087364.1	bed	CDS	6505	328031	.	+	ID=cds_aspfum4_KMK58455.1;Description=;parent=rna_aspfum4_KMK58455.1
+aspfum4_KQ087364.1	bed	CDS	10244	325829	.	+	ID=cds_aspfum4_KMK58456.1;Description=;parent=rna_aspfum4_KMK58456.1
+aspfum4_KQ087364.1	bed	CDS	11878	324119	.	-	ID=cds_aspfum4_KMK58457.1;Description=;parent=rna_aspfum4_KMK58457.1
+aspfum4_KQ087364.1	bed	CDS	14982	320056	.	+	ID=cds_aspfum4_KMK58458.1;Description=;parent=rna_aspfum4_KMK58458.1
+aspfum4_KQ087364.1	bed	CDS	18984	317254	.	+	ID=cds_aspfum4_KMK58459.1;Description=;parent=rna_aspfum4_KMK58459.1
+aspfum4_KQ087364.1	bed	CDS	19615	316706	.	+	ID=cds_aspfum4_eg80485;Description=;parent=rna_aspfum4_eg80485
+aspfum4_KQ087364.1	bed	CDS	24762	309674	.	+	ID=cds_aspfum4_KMK58460.1;Description=;parent=rna_aspfum4_KMK58460.1
+aspfum4_KQ087364.1	bed	CDS	28498	307730	.	-	ID=cds_aspfum4_KMK58461.1;Description=;parent=rna_aspfum4_KMK58461.1
+aspfum4_KQ087364.1	bed	CDS	34316	301578	.	-	ID=cds_aspfum4_KMK58462.1;Description=;parent=rna_aspfum4_KMK58462.1
+aspfum4_KQ087364.1	bed	CDS	35424	299861	.	+	ID=cds_aspfum4_KMK58463.1;Description=;parent=rna_aspfum4_KMK58463.1
+aspfum4_KQ087364.1	bed	CDS	38667	296870	.	+	ID=cds_aspfum4_KMK58464.1;Description=;parent=rna_aspfum4_KMK58464.1
+aspfum4_KQ087364.1	bed	CDS	41889	291265	.	+	ID=cds_aspfum4_KMK58465.1;Description=;parent=rna_aspfum4_KMK58465.1
+aspfum4_KQ087364.1	bed	CDS	47595	285652	.	+	ID=cds_aspfum4_KMK58466.1;Description=;parent=rna_aspfum4_KMK58466.1
+aspfum4_KQ087364.1	bed	CDS	52998	283386	.	-	ID=cds_aspfum4_eg80488;Description=;parent=rna_aspfum4_eg80488
+aspfum4_KQ087364.1	bed	CDS	56246	279334	.	-	ID=cds_aspfum4_KMK58467.1;Description=;parent=rna_aspfum4_KMK58467.1
+aspfum4_KQ087364.1	bed	CDS	57940	277895	.	-	ID=cds_aspfum4_eg80537;Description=;parent=rna_aspfum4_eg80537
+aspfum4_KQ087364.1	bed	CDS	60094	275424	.	+	ID=cds_aspfum4_KMK58468.1;Description=;parent=rna_aspfum4_KMK58468.1
+aspfum4_KQ087364.1	bed	CDS	66620	269407	.	-	ID=cds_aspfum4_KMK58469.1;Description=;parent=rna_aspfum4_KMK58469.1
+aspfum4_KQ087364.1	bed	CDS	69819	262463	.	-	ID=cds_aspfum4_KMK58470.1;Description=;parent=rna_aspfum4_KMK58470.1
+aspfum4_KQ087364.1	bed	CDS	74551	261197	.	+	ID=cds_aspfum4_KMK58471.1;Description=;parent=rna_aspfum4_KMK58471.1
+aspfum4_KQ087364.1	bed	CDS	77330	257651	.	-	ID=cds_aspfum4_KMK58472.1;Description=;parent=rna_aspfum4_KMK58472.1
+aspfum4_KQ087364.1	bed	CDS	81261	251851	.	+	ID=cds_aspfum4_KMK58473.1;Description=;parent=rna_aspfum4_KMK58473.1
+aspfum4_KQ087364.1	bed	CDS	85964	250090	.	+	ID=cds_aspfum4_KMK58474.1;Description=;parent=rna_aspfum4_KMK58474.1
+aspfum4_KQ087364.1	bed	CDS	86844	244503	.	-	ID=cds_aspfum4_KMK58475.1;Description=;parent=rna_aspfum4_KMK58475.1
+aspfum4_KQ087364.1	bed	CDS	93769	242038	.	+	ID=cds_aspfum4_KMK58476.1;Description=;parent=rna_aspfum4_KMK58476.1
+aspfum4_KQ087364.1	bed	CDS	95240	241051	.	-	ID=cds_aspfum4_KMK58477.1;Description=;parent=rna_aspfum4_KMK58477.1
+aspfum4_KQ087364.1	bed	CDS	98685	235789	.	+	ID=cds_aspfum4_KMK58478.1;Description=;parent=rna_aspfum4_KMK58478.1
+aspfum4_KQ087364.1	bed	CDS	101647	233283	.	-	ID=cds_aspfum4_KMK58479.1;Description=;parent=rna_aspfum4_KMK58479.1
+aspfum4_KQ087364.1	bed	CDS	104546	231634	.	-	ID=cds_aspfum4_KMK58480.1;Description=;parent=rna_aspfum4_KMK58480.1
+aspfum4_KQ087364.1	bed	CDS	111622	224604	.	+	ID=cds_aspfum4_KMK58481.1;Description=;parent=rna_aspfum4_KMK58481.1
+aspfum4_KQ087364.1	bed	CDS	115841	220478	.	+	ID=cds_aspfum4_KMK58482.1;Description=;parent=rna_aspfum4_KMK58482.1
+aspfum4_KQ087364.1	bed	CDS	120639	215496	.	+	ID=cds_aspfum4_KMK58483.1;Description=;parent=rna_aspfum4_KMK58483.1
+aspfum4_KQ087364.1	bed	CDS	123742	212771	.	-	ID=cds_aspfum4_KMK58484.1;Description=;parent=rna_aspfum4_KMK58484.1
+aspfum4_KQ087364.1	bed	CDS	126892	208427	.	+	ID=cds_aspfum4_KMK58485.1;Description=;parent=rna_aspfum4_KMK58485.1
+aspfum4_KQ087364.1	bed	CDS	128913	207294	.	-	ID=cds_aspfum4_eg80655;Description=;parent=rna_aspfum4_eg80655
+aspfum4_KQ087364.1	bed	CDS	130681	204338	.	-	ID=cds_aspfum4_KMK58486.1;Description=;parent=rna_aspfum4_KMK58486.1
+aspfum4_KQ087364.1	bed	CDS	135149	199181	.	+	ID=cds_aspfum4_KMK58487.1;Description=;parent=rna_aspfum4_KMK58487.1
+aspfum4_KQ087364.1	bed	CDS	138053	198167	.	-	ID=cds_aspfum4_KMK58488.1;Description=;parent=rna_aspfum4_KMK58488.1
+aspfum4_KQ087364.1	bed	CDS	139263	195938	.	+	ID=cds_aspfum4_KMK58489.1;Description=;parent=rna_aspfum4_KMK58489.1
+aspfum4_KQ087364.1	bed	CDS	141693	194394	.	-	ID=cds_aspfum4_KMK58490.1;Description=;parent=rna_aspfum4_KMK58490.1
+aspfum4_KQ087364.1	bed	CDS	143249	192043	.	-	ID=cds_aspfum4_KMK58491.1;Description=;parent=rna_aspfum4_KMK58491.1
+aspfum4_KQ087364.1	bed	CDS	145116	190054	.	+	ID=cds_aspfum4_KMK58492.1;Description=;parent=rna_aspfum4_KMK58492.1
+aspfum4_KQ087364.1	bed	CDS	147243	188764	.	-	ID=cds_aspfum4_KMK58493.1;Description=;parent=rna_aspfum4_KMK58493.1
+aspfum4_KQ087364.1	bed	CDS	148833	185705	.	+	ID=cds_aspfum4_KMK58494.1;Description=;parent=rna_aspfum4_KMK58494.1
+aspfum4_KQ087364.1	bed	CDS	153233	182576	.	-	ID=cds_aspfum4_KMK58495.1;Description=;parent=rna_aspfum4_KMK58495.1
+aspfum4_KQ087364.1	bed	CDS	155648	179476	.	+	ID=cds_aspfum4_KMK58496.1;Description=;parent=rna_aspfum4_KMK58496.1
+aspfum4_KQ087364.1	bed	CDS	157687	177728	.	-	ID=cds_aspfum4_KMK58497.1;Description=;parent=rna_aspfum4_KMK58497.1
+aspfum4_KQ087364.1	bed	CDS	159544	173956	.	+	ID=cds_aspfum4_KMK58498.1;Description=;parent=rna_aspfum4_KMK58498.1
+aspfum4_KQ087364.1	bed	CDS	163634	168645	.	-	ID=cds_aspfum4_KMK58499.1;Description=;parent=rna_aspfum4_KMK58499.1
+aspfum4_KQ087364.1	bed	CDS	168768	167529	.	+	ID=cds_aspfum4_KMK58500.1;Description=;parent=rna_aspfum4_KMK58500.1
+aspfum4_KQ087364.1	bed	CDS	170668	164036	.	+	ID=cds_aspfum4_KMK58501.1;Description=;parent=rna_aspfum4_KMK58501.1
+aspfum4_KQ087364.1	bed	CDS	173999	162112	.	-	ID=cds_aspfum4_KMK58502.1;Description=;parent=rna_aspfum4_KMK58502.1
+aspfum4_KQ087364.1	bed	CDS	176845	156728	.	-	ID=cds_aspfum4_KMK58503.1;Description=;parent=rna_aspfum4_KMK58503.1
+aspfum4_KQ087364.1	bed	CDS	180532	155550	.	-	ID=cds_aspfum4_KMK58504.1;Description=;parent=rna_aspfum4_KMK58504.1
+aspfum4_KQ087364.1	bed	CDS	182120	153550	.	+	ID=cds_aspfum4_KMK58505.1;Description=;parent=rna_aspfum4_KMK58505.1
+aspfum4_KQ087364.1	bed	CDS	188263	147977	.	+	ID=cds_aspfum4_KMK58506.1;Description=;parent=rna_aspfum4_KMK58506.1
+aspfum4_KQ087364.1	bed	CDS	189182	147364	.	+	ID=cds_aspfum4_eg80493;Description=;parent=rna_aspfum4_eg80493
+aspfum4_KQ087364.1	bed	CDS	191254	144790	.	+	ID=cds_aspfum4_KMK58507.1;Description=;parent=rna_aspfum4_KMK58507.1
+aspfum4_KQ087364.1	bed	CDS	192607	143700	.	+	ID=cds_aspfum4_KMK58508.1;Description=;parent=rna_aspfum4_KMK58508.1
+aspfum4_KQ087364.1	bed	CDS	194876	141204	.	+	ID=cds_aspfum4_KMK58509.1;Description=;parent=rna_aspfum4_KMK58509.1
+aspfum4_KQ087364.1	bed	CDS	196147	139408	.	+	ID=cds_aspfum4_KMK58510.1;Description=;parent=rna_aspfum4_KMK58510.1
+aspfum4_KQ087364.1	bed	CDS	197386	138842	.	+	ID=cds_aspfum4_eg80480;Description=;parent=rna_aspfum4_eg80480
+aspfum4_KQ087364.1	bed	CDS	200151	135610	.	-	ID=cds_aspfum4_KMK58511.1;Description=;parent=rna_aspfum4_KMK58511.1
+aspfum4_KQ087364.1	bed	CDS	201591	134797	.	-	ID=cds_aspfum4_eg80649;Description=;parent=rna_aspfum4_eg80649
+aspfum4_KQ087364.1	bed	CDS	204320	130630	.	+	ID=cds_aspfum4_KMK58512.1;Description=;parent=rna_aspfum4_KMK58512.1
+aspfum4_KQ087364.1	bed	CDS	209538	126464	.	+	ID=cds_aspfum4_KMK58513.1;Description=;parent=rna_aspfum4_KMK58513.1
+aspfum4_KQ087364.1	bed	CDS	211196	124949	.	-	ID=cds_aspfum4_KMK58514.1;Description=;parent=rna_aspfum4_KMK58514.1
+aspfum4_KQ087364.1	bed	CDS	213932	121567	.	-	ID=cds_aspfum4_KMK58515.1;Description=;parent=rna_aspfum4_KMK58515.1
+aspfum4_KQ087364.1	bed	CDS	219536	115889	.	-	ID=cds_aspfum4_KMK58516.1;Description=;parent=rna_aspfum4_KMK58516.1
+aspfum4_KQ087364.1	bed	CDS	223184	113314	.	+	ID=cds_aspfum4_KMK58517.1;Description=;parent=rna_aspfum4_KMK58517.1
+aspfum4_KQ087364.1	bed	CDS	224063	112000	.	-	ID=cds_aspfum4_KMK58518.1;Description=;parent=rna_aspfum4_KMK58518.1
+aspfum4_KQ087364.1	bed	CDS	225930	109725	.	-	ID=cds_aspfum4_KMK58519.1;Description=;parent=rna_aspfum4_KMK58519.1
+aspfum4_KQ087364.1	bed	CDS	229588	105797	.	-	ID=cds_aspfum4_KMK58520.1;Description=;parent=rna_aspfum4_KMK58520.1
+aspfum4_KQ087364.1	bed	CDS	232101	103037	.	-	ID=cds_aspfum4_KMK58521.1;Description=;parent=rna_aspfum4_KMK58521.1
+aspfum4_KQ087364.1	bed	CDS	234796	101451	.	-	ID=cds_aspfum4_KMK58522.1;Description=;parent=rna_aspfum4_KMK58522.1
+aspfum4_KQ087364.1	bed	CDS	239540	91257	.	+	ID=cds_aspfum4_KMK58523.1;Description=;parent=rna_aspfum4_KMK58523.1
+aspfum4_KQ087364.1	bed	CDS	247910	87784	.	+	ID=cds_aspfum4_KMK58524.1;Description=;parent=rna_aspfum4_KMK58524.1
+aspfum4_KQ087364.1	bed	CDS	250633	85183	.	-	ID=cds_aspfum4_KMK58525.1;Description=;parent=rna_aspfum4_KMK58525.1
+aspfum4_KQ087364.1	bed	CDS	252420	83345	.	+	ID=cds_aspfum4_KMK58526.1;Description=;parent=rna_aspfum4_KMK58526.1
+aspfum4_KQ087364.1	bed	CDS	253532	81108	.	-	ID=cds_aspfum4_KMK58527.1;Description=;parent=rna_aspfum4_KMK58527.1
+aspfum4_KQ087364.1	bed	CDS	256297	78921	.	+	ID=cds_aspfum4_KMK58528.1;Description=;parent=rna_aspfum4_KMK58528.1
+aspfum4_KQ087364.1	bed	CDS	258880	77483	.	-	ID=cds_aspfum4_KMK58529.1;Description=;parent=rna_aspfum4_KMK58529.1
+aspfum4_KQ087364.1	bed	CDS	259454	76798	.	-	ID=cds_aspfum4_KMK58530.1;Description=;parent=rna_aspfum4_KMK58530.1
+aspfum4_KQ087364.1	bed	CDS	261572	74856	.	+	ID=cds_aspfum4_KMK58531.1;Description=;parent=rna_aspfum4_KMK58531.1
+aspfum4_KQ087364.1	bed	CDS	267266	69037	.	-	ID=cds_aspfum4_KMK58532.1;Description=;parent=rna_aspfum4_KMK58532.1
+aspfum4_KQ087364.1	bed	CDS	268493	67068	.	+	ID=cds_aspfum4_KMK58533.1;Description=;parent=rna_aspfum4_KMK58533.1
+aspfum4_KQ087364.1	bed	CDS	270938	62754	.	-	ID=cds_aspfum4_KMK58534.1;Description=;parent=rna_aspfum4_KMK58534.1
+aspfum4_KQ087364.1	bed	CDS	275241	59619	.	-	ID=cds_aspfum4_KMK58535.1;Description=;parent=rna_aspfum4_KMK58535.1
+aspfum4_KQ087364.1	bed	CDS	278808	48377	.	+	ID=cds_aspfum4_KMK58536.1;Description=;parent=rna_aspfum4_KMK58536.1
+aspfum4_KQ087364.1	bed	CDS	288819	42499	.	-	ID=cds_aspfum4_KMK58537.1;Description=;parent=rna_aspfum4_KMK58537.1
+aspfum4_KQ087364.1	bed	CDS	294535	41570	.	+	ID=cds_aspfum4_KMK58538.1;Description=;parent=rna_aspfum4_KMK58538.1
+aspfum4_KQ087364.1	bed	CDS	295857	40285	.	+	ID=cds_aspfum4_KMK58539.1;Description=;parent=rna_aspfum4_KMK58539.1
+aspfum4_KQ087364.1	bed	CDS	296941	37768	.	+	ID=cds_aspfum4_KMK58540.1;Description=;parent=rna_aspfum4_KMK58540.1
+aspfum4_KQ087364.1	bed	CDS	300749	34651	.	+	ID=cds_aspfum4_KMK58541.1;Description=;parent=rna_aspfum4_KMK58541.1
+aspfum4_KQ087364.1	bed	CDS	302842	31134	.	-	ID=cds_aspfum4_KMK58542.1;Description=;parent=rna_aspfum4_KMK58542.1
+aspfum4_KQ087364.1	bed	CDS	307481	26891	.	+	ID=cds_aspfum4_KMK58543.1;Description=;parent=rna_aspfum4_KMK58543.1
+aspfum4_KQ087364.1	bed	CDS	311202	25398	.	-	ID=cds_aspfum4_eg80451;Description=;parent=rna_aspfum4_eg80451
+aspfum4_KQ087364.1	bed	CDS	314137	21431	.	-	ID=cds_aspfum4_KMK58544.1;Description=;parent=rna_aspfum4_KMK58544.1
+aspfum4_KQ087364.1	bed	CDS	319266	16980	.	-	ID=cds_aspfum4_KMK58545.1;Description=;parent=rna_aspfum4_KMK58545.1
+aspfum4_KQ087364.1	bed	CDS	321471	14952	.	+	ID=cds_aspfum4_KMK58546.1;Description=;parent=rna_aspfum4_KMK58546.1
+aspfum4_KQ087364.1	bed	CDS	322432	11749	.	-	ID=cds_aspfum4_KMK58547.1;Description=;parent=rna_aspfum4_KMK58547.1
+aspfum4_KQ087364.1	bed	CDS	336743	0	.	-	ID=cds_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|up;Description=;parent=rna_aspfum4_KMK58547.1|aspfum8_MCQI02000213.1|up

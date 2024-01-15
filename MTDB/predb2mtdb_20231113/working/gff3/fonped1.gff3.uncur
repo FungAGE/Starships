@@ -1,0 +1,121 @@
+fonped1_scaffold4	bed	region	1	86058	.	-	flank	ID=gene_fonped1_6568|DR|down;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	region	16	86031	.	-	flank	ID=gene_fonped1_6568|TIR|down;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	835	83636	.	+	.	ID=gene_fonped1_6532;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	2467	83247	.	-	.	ID=gene_fonped1_6533;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	3450	81565	.	+	.	ID=gene_fonped1_6534;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	5917	79953	.	+	.	ID=gene_fonped1_6535;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	6983	78314	.	+	.	ID=gene_fonped1_6536;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	7815	76477	.	-	.	ID=gene_fonped1_6537;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	9968	75665	.	+	.	ID=gene_fonped1_6538;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	10664	74921	.	+	.	ID=gene_fonped1_6539;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	11323	74067	.	+	.	ID=gene_fonped1_6540;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	13165	71643	.	+	.	ID=gene_fonped1_6541;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	14931	70216	.	+	.	ID=gene_fonped1_6542;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	16729	68283	.	+	.	ID=gene_fonped1_6543;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	18812	66876	.	-	.	ID=gene_fonped1_6544;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	20758	64400	.	-	.	ID=gene_fonped1_6545;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	24756	60447	.	+	.	ID=gene_fonped1_6546;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	29377	50144	.	-	plp	ID=gene_fonped1_6548:6547;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	38045	46125	.	+	fre	ID=gene_fonped1_6549;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	41582	43678	.	-	.	ID=gene_fonped1_6550;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	43078	42353	.	+	.	ID=gene_fonped1_6551;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	45376	39147	.	+	.	ID=gene_fonped1_6552;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	47355	38515	.	+	.	ID=gene_fonped1_eg195773;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	47657	37102	.	+	.	ID=gene_fonped1_6553;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	49344	36184	.	-	.	ID=gene_fonped1_6554;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	50690	35006	.	-	.	ID=gene_fonped1_6555;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	52001	33188	.	-	.	ID=gene_fonped1_6556;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	53652	30577	.	-	nlr	ID=gene_fonped1_6557;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	56946	26864	.	+	.	ID=gene_fonped1_6558;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	59749	23636	.	-	d37	ID=gene_fonped1_6559;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	62725	22323	.	+	.	ID=gene_fonped1_6560;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	64143	21321	.	+	.	ID=gene_fonped1_6561;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	64975	20236	.	-	.	ID=gene_fonped1_6562;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	67454	15768	.	+	.	ID=gene_fonped1_6563;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	70685	14825	.	-	.	ID=gene_fonped1_eg195786;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	72176	12978	.	+	.	ID=gene_fonped1_eg195561;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	73513	11706	.	+	.	ID=gene_fonped1_6564;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	75987	9305	.	+	.	ID=gene_fonped1_6565;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	77258	8240	.	-	.	ID=gene_fonped1_6566;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	78384	4818	.	-	.	ID=gene_fonped1_6567;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	gene	82121	542	.	-	cap	ID=gene_fonped1_6568;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	region	86039	7	.	-	flank	ID=gene_fonped1_6568|TIR|up;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	region	86058	0	.	-	flank	ID=gene_fonped1_6568|DR|up;Description=fonped1_s04882;parent=fonped1_scaffold4
+fonped1_scaffold4	bed	RNA	835	83636	.	+	ID=rna_fonped1_6532;Description=;parent=gene_fonped1_6532
+fonped1_scaffold4	bed	RNA	2467	83247	.	-	ID=rna_fonped1_6533;Description=;parent=gene_fonped1_6533
+fonped1_scaffold4	bed	RNA	3450	81565	.	+	ID=rna_fonped1_6534;Description=;parent=gene_fonped1_6534
+fonped1_scaffold4	bed	RNA	5917	79953	.	+	ID=rna_fonped1_6535;Description=;parent=gene_fonped1_6535
+fonped1_scaffold4	bed	RNA	6983	78314	.	+	ID=rna_fonped1_6536;Description=;parent=gene_fonped1_6536
+fonped1_scaffold4	bed	RNA	7815	76477	.	-	ID=rna_fonped1_6537;Description=;parent=gene_fonped1_6537
+fonped1_scaffold4	bed	RNA	9968	75665	.	+	ID=rna_fonped1_6538;Description=;parent=gene_fonped1_6538
+fonped1_scaffold4	bed	RNA	10664	74921	.	+	ID=rna_fonped1_6539;Description=;parent=gene_fonped1_6539
+fonped1_scaffold4	bed	RNA	11323	74067	.	+	ID=rna_fonped1_6540;Description=;parent=gene_fonped1_6540
+fonped1_scaffold4	bed	RNA	13165	71643	.	+	ID=rna_fonped1_6541;Description=;parent=gene_fonped1_6541
+fonped1_scaffold4	bed	RNA	14931	70216	.	+	ID=rna_fonped1_6542;Description=;parent=gene_fonped1_6542
+fonped1_scaffold4	bed	RNA	16729	68283	.	+	ID=rna_fonped1_6543;Description=;parent=gene_fonped1_6543
+fonped1_scaffold4	bed	RNA	18812	66876	.	-	ID=rna_fonped1_6544;Description=;parent=gene_fonped1_6544
+fonped1_scaffold4	bed	RNA	20758	64400	.	-	ID=rna_fonped1_6545;Description=;parent=gene_fonped1_6545
+fonped1_scaffold4	bed	RNA	24756	60447	.	+	ID=rna_fonped1_6546;Description=;parent=gene_fonped1_6546
+fonped1_scaffold4	bed	RNA	29377	50144	.	-	ID=rna_fonped1_6548:6547;Description=;parent=gene_fonped1_6548:6547
+fonped1_scaffold4	bed	RNA	38045	46125	.	+	ID=rna_fonped1_6549;Description=;parent=gene_fonped1_6549
+fonped1_scaffold4	bed	RNA	41582	43678	.	-	ID=rna_fonped1_6550;Description=;parent=gene_fonped1_6550
+fonped1_scaffold4	bed	RNA	43078	42353	.	+	ID=rna_fonped1_6551;Description=;parent=gene_fonped1_6551
+fonped1_scaffold4	bed	RNA	45376	39147	.	+	ID=rna_fonped1_6552;Description=;parent=gene_fonped1_6552
+fonped1_scaffold4	bed	RNA	47355	38515	.	+	ID=rna_fonped1_eg195773;Description=;parent=gene_fonped1_eg195773
+fonped1_scaffold4	bed	RNA	47657	37102	.	+	ID=rna_fonped1_6553;Description=;parent=gene_fonped1_6553
+fonped1_scaffold4	bed	RNA	49344	36184	.	-	ID=rna_fonped1_6554;Description=;parent=gene_fonped1_6554
+fonped1_scaffold4	bed	RNA	50690	35006	.	-	ID=rna_fonped1_6555;Description=;parent=gene_fonped1_6555
+fonped1_scaffold4	bed	RNA	52001	33188	.	-	ID=rna_fonped1_6556;Description=;parent=gene_fonped1_6556
+fonped1_scaffold4	bed	RNA	53652	30577	.	-	ID=rna_fonped1_6557;Description=;parent=gene_fonped1_6557
+fonped1_scaffold4	bed	RNA	56946	26864	.	+	ID=rna_fonped1_6558;Description=;parent=gene_fonped1_6558
+fonped1_scaffold4	bed	RNA	59749	23636	.	-	ID=rna_fonped1_6559;Description=;parent=gene_fonped1_6559
+fonped1_scaffold4	bed	RNA	62725	22323	.	+	ID=rna_fonped1_6560;Description=;parent=gene_fonped1_6560
+fonped1_scaffold4	bed	RNA	64143	21321	.	+	ID=rna_fonped1_6561;Description=;parent=gene_fonped1_6561
+fonped1_scaffold4	bed	RNA	64975	20236	.	-	ID=rna_fonped1_6562;Description=;parent=gene_fonped1_6562
+fonped1_scaffold4	bed	RNA	67454	15768	.	+	ID=rna_fonped1_6563;Description=;parent=gene_fonped1_6563
+fonped1_scaffold4	bed	RNA	70685	14825	.	-	ID=rna_fonped1_eg195786;Description=;parent=gene_fonped1_eg195786
+fonped1_scaffold4	bed	RNA	72176	12978	.	+	ID=rna_fonped1_eg195561;Description=;parent=gene_fonped1_eg195561
+fonped1_scaffold4	bed	RNA	73513	11706	.	+	ID=rna_fonped1_6564;Description=;parent=gene_fonped1_6564
+fonped1_scaffold4	bed	RNA	75987	9305	.	+	ID=rna_fonped1_6565;Description=;parent=gene_fonped1_6565
+fonped1_scaffold4	bed	RNA	77258	8240	.	-	ID=rna_fonped1_6566;Description=;parent=gene_fonped1_6566
+fonped1_scaffold4	bed	RNA	78384	4818	.	-	ID=rna_fonped1_6567;Description=;parent=gene_fonped1_6567
+fonped1_scaffold4	bed	RNA	82121	542	.	-	ID=rna_fonped1_6568;Description=;parent=gene_fonped1_6568
+fonped1_scaffold4	bed	CDS	835	83636	.	+	ID=cds_fonped1_6532;Description=;parent=rna_fonped1_6532
+fonped1_scaffold4	bed	CDS	2467	83247	.	-	ID=cds_fonped1_6533;Description=;parent=rna_fonped1_6533
+fonped1_scaffold4	bed	CDS	3450	81565	.	+	ID=cds_fonped1_6534;Description=;parent=rna_fonped1_6534
+fonped1_scaffold4	bed	CDS	5917	79953	.	+	ID=cds_fonped1_6535;Description=;parent=rna_fonped1_6535
+fonped1_scaffold4	bed	CDS	6983	78314	.	+	ID=cds_fonped1_6536;Description=;parent=rna_fonped1_6536
+fonped1_scaffold4	bed	CDS	7815	76477	.	-	ID=cds_fonped1_6537;Description=;parent=rna_fonped1_6537
+fonped1_scaffold4	bed	CDS	9968	75665	.	+	ID=cds_fonped1_6538;Description=;parent=rna_fonped1_6538
+fonped1_scaffold4	bed	CDS	10664	74921	.	+	ID=cds_fonped1_6539;Description=;parent=rna_fonped1_6539
+fonped1_scaffold4	bed	CDS	11323	74067	.	+	ID=cds_fonped1_6540;Description=;parent=rna_fonped1_6540
+fonped1_scaffold4	bed	CDS	13165	71643	.	+	ID=cds_fonped1_6541;Description=;parent=rna_fonped1_6541
+fonped1_scaffold4	bed	CDS	14931	70216	.	+	ID=cds_fonped1_6542;Description=;parent=rna_fonped1_6542
+fonped1_scaffold4	bed	CDS	16729	68283	.	+	ID=cds_fonped1_6543;Description=;parent=rna_fonped1_6543
+fonped1_scaffold4	bed	CDS	18812	66876	.	-	ID=cds_fonped1_6544;Description=;parent=rna_fonped1_6544
+fonped1_scaffold4	bed	CDS	20758	64400	.	-	ID=cds_fonped1_6545;Description=;parent=rna_fonped1_6545
+fonped1_scaffold4	bed	CDS	24756	60447	.	+	ID=cds_fonped1_6546;Description=;parent=rna_fonped1_6546
+fonped1_scaffold4	bed	CDS	29377	50144	.	-	ID=cds_fonped1_6548:6547;Description=;parent=rna_fonped1_6548:6547
+fonped1_scaffold4	bed	CDS	38045	46125	.	+	ID=cds_fonped1_6549;Description=;parent=rna_fonped1_6549
+fonped1_scaffold4	bed	CDS	41582	43678	.	-	ID=cds_fonped1_6550;Description=;parent=rna_fonped1_6550
+fonped1_scaffold4	bed	CDS	43078	42353	.	+	ID=cds_fonped1_6551;Description=;parent=rna_fonped1_6551
+fonped1_scaffold4	bed	CDS	45376	39147	.	+	ID=cds_fonped1_6552;Description=;parent=rna_fonped1_6552
+fonped1_scaffold4	bed	CDS	47355	38515	.	+	ID=cds_fonped1_eg195773;Description=;parent=rna_fonped1_eg195773
+fonped1_scaffold4	bed	CDS	47657	37102	.	+	ID=cds_fonped1_6553;Description=;parent=rna_fonped1_6553
+fonped1_scaffold4	bed	CDS	49344	36184	.	-	ID=cds_fonped1_6554;Description=;parent=rna_fonped1_6554
+fonped1_scaffold4	bed	CDS	50690	35006	.	-	ID=cds_fonped1_6555;Description=;parent=rna_fonped1_6555
+fonped1_scaffold4	bed	CDS	52001	33188	.	-	ID=cds_fonped1_6556;Description=;parent=rna_fonped1_6556
+fonped1_scaffold4	bed	CDS	53652	30577	.	-	ID=cds_fonped1_6557;Description=;parent=rna_fonped1_6557
+fonped1_scaffold4	bed	CDS	56946	26864	.	+	ID=cds_fonped1_6558;Description=;parent=rna_fonped1_6558
+fonped1_scaffold4	bed	CDS	59749	23636	.	-	ID=cds_fonped1_6559;Description=;parent=rna_fonped1_6559
+fonped1_scaffold4	bed	CDS	62725	22323	.	+	ID=cds_fonped1_6560;Description=;parent=rna_fonped1_6560
+fonped1_scaffold4	bed	CDS	64143	21321	.	+	ID=cds_fonped1_6561;Description=;parent=rna_fonped1_6561
+fonped1_scaffold4	bed	CDS	64975	20236	.	-	ID=cds_fonped1_6562;Description=;parent=rna_fonped1_6562
+fonped1_scaffold4	bed	CDS	67454	15768	.	+	ID=cds_fonped1_6563;Description=;parent=rna_fonped1_6563
+fonped1_scaffold4	bed	CDS	70685	14825	.	-	ID=cds_fonped1_eg195786;Description=;parent=rna_fonped1_eg195786
+fonped1_scaffold4	bed	CDS	72176	12978	.	+	ID=cds_fonped1_eg195561;Description=;parent=rna_fonped1_eg195561
+fonped1_scaffold4	bed	CDS	73513	11706	.	+	ID=cds_fonped1_6564;Description=;parent=rna_fonped1_6564
+fonped1_scaffold4	bed	CDS	75987	9305	.	+	ID=cds_fonped1_6565;Description=;parent=rna_fonped1_6565
+fonped1_scaffold4	bed	CDS	77258	8240	.	-	ID=cds_fonped1_6566;Description=;parent=rna_fonped1_6566
+fonped1_scaffold4	bed	CDS	78384	4818	.	-	ID=cds_fonped1_6567;Description=;parent=rna_fonped1_6567
+fonped1_scaffold4	bed	CDS	82121	542	.	-	ID=cds_fonped1_6568;Description=;parent=rna_fonped1_6568

@@ -1,0 +1,61 @@
+aspory5_MKZY01000002.1	bed	region	1	118073	.	-	flank	ID=gene_aspory5_tyr2314|DR|down;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	region	52	118018	.	-	flank	ID=gene_aspory5_tyr2314|TIR|down;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	3480	114408	.	-	.	ID=gene_aspory5_eg134049;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	4536	110190	.	+	nlr	ID=gene_aspory5_nlr27995;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	8581	107890	.	-	.	ID=gene_aspory5_eg134339;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	10821	106914	.	-	.	ID=gene_aspory5_eg134456;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	13232	103981	.	+	.	ID=gene_aspory5_eg134132;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	15064	102500	.	-	.	ID=gene_aspory5_eg134493;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	18773	97263	.	-	.	ID=gene_aspory5_eg134301;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	21489	96219	.	-	.	ID=gene_aspory5_eg134471;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	26779	89879	.	-	.	ID=gene_aspory5_eg134105;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	42362	75535	.	+	.	ID=gene_aspory5_eg134067;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	42554	74436	.	+	.	ID=gene_aspory5_eg134147;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	53578	63944	.	-	.	ID=gene_aspory5_eg134157;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	57527	58672	.	+	.	ID=gene_aspory5_eg134418;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	62586	54651	.	+	d37	ID=gene_aspory5_d371381;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	67834	46890	.	+	plp	ID=gene_aspory5_plp2068;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	94829	21390	.	+	d37	ID=gene_aspory5_d371382;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	101144	16654	.	-	.	ID=gene_aspory5_eg134509;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	111327	5628	.	+	.	ID=gene_aspory5_eg133998;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	gene	115337	478	.	-	cap	ID=gene_aspory5_tyr2314;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	region	118045	27	.	-	flank	ID=gene_aspory5_tyr2314|TIR|up;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	region	118076	0	.	-	flank	ID=gene_aspory5_tyr2314|DR|up;Description=aspory5_s02158;parent=aspory5_MKZY01000002.1
+aspory5_MKZY01000002.1	bed	RNA	3480	114408	.	-	ID=rna_aspory5_eg134049;Description=;parent=gene_aspory5_eg134049
+aspory5_MKZY01000002.1	bed	RNA	4536	110190	.	+	ID=rna_aspory5_nlr27995;Description=;parent=gene_aspory5_nlr27995
+aspory5_MKZY01000002.1	bed	RNA	8581	107890	.	-	ID=rna_aspory5_eg134339;Description=;parent=gene_aspory5_eg134339
+aspory5_MKZY01000002.1	bed	RNA	10821	106914	.	-	ID=rna_aspory5_eg134456;Description=;parent=gene_aspory5_eg134456
+aspory5_MKZY01000002.1	bed	RNA	13232	103981	.	+	ID=rna_aspory5_eg134132;Description=;parent=gene_aspory5_eg134132
+aspory5_MKZY01000002.1	bed	RNA	15064	102500	.	-	ID=rna_aspory5_eg134493;Description=;parent=gene_aspory5_eg134493
+aspory5_MKZY01000002.1	bed	RNA	18773	97263	.	-	ID=rna_aspory5_eg134301;Description=;parent=gene_aspory5_eg134301
+aspory5_MKZY01000002.1	bed	RNA	21489	96219	.	-	ID=rna_aspory5_eg134471;Description=;parent=gene_aspory5_eg134471
+aspory5_MKZY01000002.1	bed	RNA	26779	89879	.	-	ID=rna_aspory5_eg134105;Description=;parent=gene_aspory5_eg134105
+aspory5_MKZY01000002.1	bed	RNA	42362	75535	.	+	ID=rna_aspory5_eg134067;Description=;parent=gene_aspory5_eg134067
+aspory5_MKZY01000002.1	bed	RNA	42554	74436	.	+	ID=rna_aspory5_eg134147;Description=;parent=gene_aspory5_eg134147
+aspory5_MKZY01000002.1	bed	RNA	53578	63944	.	-	ID=rna_aspory5_eg134157;Description=;parent=gene_aspory5_eg134157
+aspory5_MKZY01000002.1	bed	RNA	57527	58672	.	+	ID=rna_aspory5_eg134418;Description=;parent=gene_aspory5_eg134418
+aspory5_MKZY01000002.1	bed	RNA	62586	54651	.	+	ID=rna_aspory5_d371381;Description=;parent=gene_aspory5_d371381
+aspory5_MKZY01000002.1	bed	RNA	67834	46890	.	+	ID=rna_aspory5_plp2068;Description=;parent=gene_aspory5_plp2068
+aspory5_MKZY01000002.1	bed	RNA	94829	21390	.	+	ID=rna_aspory5_d371382;Description=;parent=gene_aspory5_d371382
+aspory5_MKZY01000002.1	bed	RNA	101144	16654	.	-	ID=rna_aspory5_eg134509;Description=;parent=gene_aspory5_eg134509
+aspory5_MKZY01000002.1	bed	RNA	111327	5628	.	+	ID=rna_aspory5_eg133998;Description=;parent=gene_aspory5_eg133998
+aspory5_MKZY01000002.1	bed	RNA	115337	478	.	-	ID=rna_aspory5_tyr2314;Description=;parent=gene_aspory5_tyr2314
+aspory5_MKZY01000002.1	bed	CDS	3480	114408	.	-	ID=cds_aspory5_eg134049;Description=;parent=rna_aspory5_eg134049
+aspory5_MKZY01000002.1	bed	CDS	4536	110190	.	+	ID=cds_aspory5_nlr27995;Description=;parent=rna_aspory5_nlr27995
+aspory5_MKZY01000002.1	bed	CDS	8581	107890	.	-	ID=cds_aspory5_eg134339;Description=;parent=rna_aspory5_eg134339
+aspory5_MKZY01000002.1	bed	CDS	10821	106914	.	-	ID=cds_aspory5_eg134456;Description=;parent=rna_aspory5_eg134456
+aspory5_MKZY01000002.1	bed	CDS	13232	103981	.	+	ID=cds_aspory5_eg134132;Description=;parent=rna_aspory5_eg134132
+aspory5_MKZY01000002.1	bed	CDS	15064	102500	.	-	ID=cds_aspory5_eg134493;Description=;parent=rna_aspory5_eg134493
+aspory5_MKZY01000002.1	bed	CDS	18773	97263	.	-	ID=cds_aspory5_eg134301;Description=;parent=rna_aspory5_eg134301
+aspory5_MKZY01000002.1	bed	CDS	21489	96219	.	-	ID=cds_aspory5_eg134471;Description=;parent=rna_aspory5_eg134471
+aspory5_MKZY01000002.1	bed	CDS	26779	89879	.	-	ID=cds_aspory5_eg134105;Description=;parent=rna_aspory5_eg134105
+aspory5_MKZY01000002.1	bed	CDS	42362	75535	.	+	ID=cds_aspory5_eg134067;Description=;parent=rna_aspory5_eg134067
+aspory5_MKZY01000002.1	bed	CDS	42554	74436	.	+	ID=cds_aspory5_eg134147;Description=;parent=rna_aspory5_eg134147
+aspory5_MKZY01000002.1	bed	CDS	53578	63944	.	-	ID=cds_aspory5_eg134157;Description=;parent=rna_aspory5_eg134157
+aspory5_MKZY01000002.1	bed	CDS	57527	58672	.	+	ID=cds_aspory5_eg134418;Description=;parent=rna_aspory5_eg134418
+aspory5_MKZY01000002.1	bed	CDS	62586	54651	.	+	ID=cds_aspory5_d371381;Description=;parent=rna_aspory5_d371381
+aspory5_MKZY01000002.1	bed	CDS	67834	46890	.	+	ID=cds_aspory5_plp2068;Description=;parent=rna_aspory5_plp2068
+aspory5_MKZY01000002.1	bed	CDS	94829	21390	.	+	ID=cds_aspory5_d371382;Description=;parent=rna_aspory5_d371382
+aspory5_MKZY01000002.1	bed	CDS	101144	16654	.	-	ID=cds_aspory5_eg134509;Description=;parent=rna_aspory5_eg134509
+aspory5_MKZY01000002.1	bed	CDS	111327	5628	.	+	ID=cds_aspory5_eg133998;Description=;parent=rna_aspory5_eg133998
+aspory5_MKZY01000002.1	bed	CDS	115337	478	.	-	ID=cds_aspory5_tyr2314;Description=;parent=rna_aspory5_tyr2314

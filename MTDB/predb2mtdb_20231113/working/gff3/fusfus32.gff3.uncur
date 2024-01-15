@@ -1,0 +1,18 @@
+fusfus32_WEVC01000005.1	bed	gene	1	38374	.	-	insert	ID=gene_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|down;Description=fusfus32_s05494;parent=fusfus32_WEVC01000005.1
+fusfus32_WEVC01000005.1	bed	gene	20225	16152	.	-	.	ID=gene_fusfus32_eg230381;Description=fusfus32_s05494;parent=fusfus32_WEVC01000005.1
+fusfus32_WEVC01000005.1	bed	gene	23658	12320	.	-	.	ID=gene_fusfus32_eg230405;Description=fusfus32_s05494;parent=fusfus32_WEVC01000005.1
+fusfus32_WEVC01000005.1	bed	gene	32924	4948	.	-	.	ID=gene_fusfus32_eg230370;Description=fusfus32_s05494;parent=fusfus32_WEVC01000005.1
+fusfus32_WEVC01000005.1	bed	gene	36674	943	.	-	cap	ID=gene_fusfus32_tyr5738;Description=fusfus32_s05494;parent=fusfus32_WEVC01000005.1
+fusfus32_WEVC01000005.1	bed	gene	38375	0	.	-	insert	ID=gene_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|up;Description=fusfus32_s05494;parent=fusfus32_WEVC01000005.1
+fusfus32_WEVC01000005.1	bed	RNA	1	38374	.	-	ID=rna_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|down;Description=;parent=gene_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|down
+fusfus32_WEVC01000005.1	bed	RNA	20225	16152	.	-	ID=rna_fusfus32_eg230381;Description=;parent=gene_fusfus32_eg230381
+fusfus32_WEVC01000005.1	bed	RNA	23658	12320	.	-	ID=rna_fusfus32_eg230405;Description=;parent=gene_fusfus32_eg230405
+fusfus32_WEVC01000005.1	bed	RNA	32924	4948	.	-	ID=rna_fusfus32_eg230370;Description=;parent=gene_fusfus32_eg230370
+fusfus32_WEVC01000005.1	bed	RNA	36674	943	.	-	ID=rna_fusfus32_tyr5738;Description=;parent=gene_fusfus32_tyr5738
+fusfus32_WEVC01000005.1	bed	RNA	38375	0	.	-	ID=rna_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|up;Description=;parent=gene_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|up
+fusfus32_WEVC01000005.1	bed	CDS	1	38374	.	-	ID=cds_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|down;Description=;parent=rna_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|down
+fusfus32_WEVC01000005.1	bed	CDS	20225	16152	.	-	ID=cds_fusfus32_eg230381;Description=;parent=rna_fusfus32_eg230381
+fusfus32_WEVC01000005.1	bed	CDS	23658	12320	.	-	ID=cds_fusfus32_eg230405;Description=;parent=rna_fusfus32_eg230405
+fusfus32_WEVC01000005.1	bed	CDS	32924	4948	.	-	ID=cds_fusfus32_eg230370;Description=;parent=rna_fusfus32_eg230370
+fusfus32_WEVC01000005.1	bed	CDS	36674	943	.	-	ID=cds_fusfus32_tyr5738;Description=;parent=rna_fusfus32_tyr5738
+fusfus32_WEVC01000005.1	bed	CDS	38375	0	.	-	ID=cds_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|up;Description=;parent=rna_fusfus32_tyr5738|fusfal1_JABEEK010000260.1|up

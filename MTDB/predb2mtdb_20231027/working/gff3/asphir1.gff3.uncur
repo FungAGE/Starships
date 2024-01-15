@@ -1,0 +1,27 @@
+asphir1_JACBAD010001953.1	bed	gene	1	27087	.	-	insert	ID=gene_asphir1_tyr1491|asptur1_NKHV02000012.1|down;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	gene	2389	23378	.	+	.	ID=gene_asphir1_eg88009;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	gene	4049	21965	.	+	.	ID=gene_asphir1_eg88003;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	gene	7428	18503	.	+	.	ID=gene_asphir1_eg88006;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	gene	8973	11182	.	-	.	ID=gene_asphir1_eg88011;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	gene	16738	8649	.	+	.	ID=gene_asphir1_eg88008;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	gene	21824	4372	.	-	.	ID=gene_asphir1_eg88007;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	gene	23866	749	.	-	cap	ID=gene_asphir1_tyr1491;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	gene	27088	0	.	-	insert	ID=gene_asphir1_tyr1491|asptur1_NKHV02000012.1|up;Description=asphir1_s01419;parent=asphir1_JACBAD010001953.1
+asphir1_JACBAD010001953.1	bed	RNA	1	27087	.	-	ID=rna_asphir1_tyr1491|asptur1_NKHV02000012.1|down;Description=;parent=gene_asphir1_tyr1491|asptur1_NKHV02000012.1|down
+asphir1_JACBAD010001953.1	bed	RNA	2389	23378	.	+	ID=rna_asphir1_eg88009;Description=;parent=gene_asphir1_eg88009
+asphir1_JACBAD010001953.1	bed	RNA	4049	21965	.	+	ID=rna_asphir1_eg88003;Description=;parent=gene_asphir1_eg88003
+asphir1_JACBAD010001953.1	bed	RNA	7428	18503	.	+	ID=rna_asphir1_eg88006;Description=;parent=gene_asphir1_eg88006
+asphir1_JACBAD010001953.1	bed	RNA	8973	11182	.	-	ID=rna_asphir1_eg88011;Description=;parent=gene_asphir1_eg88011
+asphir1_JACBAD010001953.1	bed	RNA	16738	8649	.	+	ID=rna_asphir1_eg88008;Description=;parent=gene_asphir1_eg88008
+asphir1_JACBAD010001953.1	bed	RNA	21824	4372	.	-	ID=rna_asphir1_eg88007;Description=;parent=gene_asphir1_eg88007
+asphir1_JACBAD010001953.1	bed	RNA	23866	749	.	-	ID=rna_asphir1_tyr1491;Description=;parent=gene_asphir1_tyr1491
+asphir1_JACBAD010001953.1	bed	RNA	27088	0	.	-	ID=rna_asphir1_tyr1491|asptur1_NKHV02000012.1|up;Description=;parent=gene_asphir1_tyr1491|asptur1_NKHV02000012.1|up
+asphir1_JACBAD010001953.1	bed	CDS	1	27087	.	-	ID=cds_asphir1_tyr1491|asptur1_NKHV02000012.1|down;Description=;parent=rna_asphir1_tyr1491|asptur1_NKHV02000012.1|down
+asphir1_JACBAD010001953.1	bed	CDS	2389	23378	.	+	ID=cds_asphir1_eg88009;Description=;parent=rna_asphir1_eg88009
+asphir1_JACBAD010001953.1	bed	CDS	4049	21965	.	+	ID=cds_asphir1_eg88003;Description=;parent=rna_asphir1_eg88003
+asphir1_JACBAD010001953.1	bed	CDS	7428	18503	.	+	ID=cds_asphir1_eg88006;Description=;parent=rna_asphir1_eg88006
+asphir1_JACBAD010001953.1	bed	CDS	8973	11182	.	-	ID=cds_asphir1_eg88011;Description=;parent=rna_asphir1_eg88011
+asphir1_JACBAD010001953.1	bed	CDS	16738	8649	.	+	ID=cds_asphir1_eg88008;Description=;parent=rna_asphir1_eg88008
+asphir1_JACBAD010001953.1	bed	CDS	21824	4372	.	-	ID=cds_asphir1_eg88007;Description=;parent=rna_asphir1_eg88007
+asphir1_JACBAD010001953.1	bed	CDS	23866	749	.	-	ID=cds_asphir1_tyr1491;Description=;parent=rna_asphir1_tyr1491
+asphir1_JACBAD010001953.1	bed	CDS	27088	0	.	-	ID=cds_asphir1_tyr1491|asptur1_NKHV02000012.1|up;Description=;parent=rna_asphir1_tyr1491|asptur1_NKHV02000012.1|up

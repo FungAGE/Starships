@@ -1,0 +1,40 @@
+aspfla12_CP059858.1	bed	region	1	77399	.	-	flank	ID=gene_aspfla12_tyr1194|DR|down;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	region	41	77339	.	-	flank	ID=gene_aspfla12_tyr1194|TIR|down;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	10568	65449	.	+	.	ID=gene_aspfla12_eg55415;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	15449	60834	.	+	.	ID=gene_aspfla12_eg55975;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	17702	59410	.	+	.	ID=gene_aspfla12_eg55458;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	19120	58001	.	+	.	ID=gene_aspfla12_eg56010;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	19696	57248	.	+	.	ID=gene_aspfla12_eg56011;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	36688	38984	.	+	fre	ID=gene_aspfla12_fre1952;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	45680	29728	.	+	.	ID=gene_aspfla12_eg55442;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	47997	28381	.	-	.	ID=gene_aspfla12_eg55930;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	49300	25005	.	+	d37	ID=gene_aspfla12_d37709;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	55973	20221	.	-	.	ID=gene_aspfla12_eg55762;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	60437	16054	.	+	.	ID=gene_aspfla12_eg55797;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	gene	65724	8967	.	-	cap	ID=gene_aspfla12_tyr1194;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	region	77363	18	.	-	flank	ID=gene_aspfla12_tyr1194|TIR|up;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	region	77400	0	.	-	flank	ID=gene_aspfla12_tyr1194|DR|up;Description=aspfla12_s01153;parent=aspfla12_CP059858.1
+aspfla12_CP059858.1	bed	RNA	10568	65449	.	+	ID=rna_aspfla12_eg55415;Description=;parent=gene_aspfla12_eg55415
+aspfla12_CP059858.1	bed	RNA	15449	60834	.	+	ID=rna_aspfla12_eg55975;Description=;parent=gene_aspfla12_eg55975
+aspfla12_CP059858.1	bed	RNA	17702	59410	.	+	ID=rna_aspfla12_eg55458;Description=;parent=gene_aspfla12_eg55458
+aspfla12_CP059858.1	bed	RNA	19120	58001	.	+	ID=rna_aspfla12_eg56010;Description=;parent=gene_aspfla12_eg56010
+aspfla12_CP059858.1	bed	RNA	19696	57248	.	+	ID=rna_aspfla12_eg56011;Description=;parent=gene_aspfla12_eg56011
+aspfla12_CP059858.1	bed	RNA	36688	38984	.	+	ID=rna_aspfla12_fre1952;Description=;parent=gene_aspfla12_fre1952
+aspfla12_CP059858.1	bed	RNA	45680	29728	.	+	ID=rna_aspfla12_eg55442;Description=;parent=gene_aspfla12_eg55442
+aspfla12_CP059858.1	bed	RNA	47997	28381	.	-	ID=rna_aspfla12_eg55930;Description=;parent=gene_aspfla12_eg55930
+aspfla12_CP059858.1	bed	RNA	49300	25005	.	+	ID=rna_aspfla12_d37709;Description=;parent=gene_aspfla12_d37709
+aspfla12_CP059858.1	bed	RNA	55973	20221	.	-	ID=rna_aspfla12_eg55762;Description=;parent=gene_aspfla12_eg55762
+aspfla12_CP059858.1	bed	RNA	60437	16054	.	+	ID=rna_aspfla12_eg55797;Description=;parent=gene_aspfla12_eg55797
+aspfla12_CP059858.1	bed	RNA	65724	8967	.	-	ID=rna_aspfla12_tyr1194;Description=;parent=gene_aspfla12_tyr1194
+aspfla12_CP059858.1	bed	CDS	10568	65449	.	+	ID=cds_aspfla12_eg55415;Description=;parent=rna_aspfla12_eg55415
+aspfla12_CP059858.1	bed	CDS	15449	60834	.	+	ID=cds_aspfla12_eg55975;Description=;parent=rna_aspfla12_eg55975
+aspfla12_CP059858.1	bed	CDS	17702	59410	.	+	ID=cds_aspfla12_eg55458;Description=;parent=rna_aspfla12_eg55458
+aspfla12_CP059858.1	bed	CDS	19120	58001	.	+	ID=cds_aspfla12_eg56010;Description=;parent=rna_aspfla12_eg56010
+aspfla12_CP059858.1	bed	CDS	19696	57248	.	+	ID=cds_aspfla12_eg56011;Description=;parent=rna_aspfla12_eg56011
+aspfla12_CP059858.1	bed	CDS	36688	38984	.	+	ID=cds_aspfla12_fre1952;Description=;parent=rna_aspfla12_fre1952
+aspfla12_CP059858.1	bed	CDS	45680	29728	.	+	ID=cds_aspfla12_eg55442;Description=;parent=rna_aspfla12_eg55442
+aspfla12_CP059858.1	bed	CDS	47997	28381	.	-	ID=cds_aspfla12_eg55930;Description=;parent=rna_aspfla12_eg55930
+aspfla12_CP059858.1	bed	CDS	49300	25005	.	+	ID=cds_aspfla12_d37709;Description=;parent=rna_aspfla12_d37709
+aspfla12_CP059858.1	bed	CDS	55973	20221	.	-	ID=cds_aspfla12_eg55762;Description=;parent=rna_aspfla12_eg55762
+aspfla12_CP059858.1	bed	CDS	60437	16054	.	+	ID=cds_aspfla12_eg55797;Description=;parent=rna_aspfla12_eg55797
+aspfla12_CP059858.1	bed	CDS	65724	8967	.	-	ID=cds_aspfla12_tyr1194;Description=;parent=rna_aspfla12_tyr1194

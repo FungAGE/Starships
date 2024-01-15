@@ -1,0 +1,18 @@
+fusfus25_WEYN01000008.1	bed	gene	1	38592	.	+	insert	ID=gene_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|up;Description=fusfus25_s05431;parent=fusfus25_WEYN01000008.1
+fusfus25_WEYN01000008.1	bed	gene	942	36893	.	+	cap	ID=gene_fusfus25_tyr5666;Description=fusfus25_s05431;parent=fusfus25_WEYN01000008.1
+fusfus25_WEYN01000008.1	bed	gene	5032	33058	.	+	.	ID=gene_fusfus25_eg228944;Description=fusfus25_s05431;parent=fusfus25_WEYN01000008.1
+fusfus25_WEYN01000008.1	bed	gene	12570	23626	.	+	.	ID=gene_fusfus25_eg228967;Description=fusfus25_s05431;parent=fusfus25_WEYN01000008.1
+fusfus25_WEYN01000008.1	bed	gene	16401	20194	.	+	.	ID=gene_fusfus25_eg228951;Description=fusfus25_s05431;parent=fusfus25_WEYN01000008.1
+fusfus25_WEYN01000008.1	bed	gene	38593	0	.	+	insert	ID=gene_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|down;Description=fusfus25_s05431;parent=fusfus25_WEYN01000008.1
+fusfus25_WEYN01000008.1	bed	RNA	1	38592	.	+	ID=rna_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|up;Description=;parent=gene_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|up
+fusfus25_WEYN01000008.1	bed	RNA	942	36893	.	+	ID=rna_fusfus25_tyr5666;Description=;parent=gene_fusfus25_tyr5666
+fusfus25_WEYN01000008.1	bed	RNA	5032	33058	.	+	ID=rna_fusfus25_eg228944;Description=;parent=gene_fusfus25_eg228944
+fusfus25_WEYN01000008.1	bed	RNA	12570	23626	.	+	ID=rna_fusfus25_eg228967;Description=;parent=gene_fusfus25_eg228967
+fusfus25_WEYN01000008.1	bed	RNA	16401	20194	.	+	ID=rna_fusfus25_eg228951;Description=;parent=gene_fusfus25_eg228951
+fusfus25_WEYN01000008.1	bed	RNA	38593	0	.	+	ID=rna_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|down;Description=;parent=gene_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|down
+fusfus25_WEYN01000008.1	bed	CDS	1	38592	.	+	ID=cds_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|up;Description=;parent=rna_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|up
+fusfus25_WEYN01000008.1	bed	CDS	942	36893	.	+	ID=cds_fusfus25_tyr5666;Description=;parent=rna_fusfus25_tyr5666
+fusfus25_WEYN01000008.1	bed	CDS	5032	33058	.	+	ID=cds_fusfus25_eg228944;Description=;parent=rna_fusfus25_eg228944
+fusfus25_WEYN01000008.1	bed	CDS	12570	23626	.	+	ID=cds_fusfus25_eg228967;Description=;parent=rna_fusfus25_eg228967
+fusfus25_WEYN01000008.1	bed	CDS	16401	20194	.	+	ID=cds_fusfus25_eg228951;Description=;parent=rna_fusfus25_eg228951
+fusfus25_WEYN01000008.1	bed	CDS	38593	0	.	+	ID=cds_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|down;Description=;parent=rna_fusfus25_tyr5666|fusfal1_JABEEK010000260.1|down

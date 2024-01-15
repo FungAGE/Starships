@@ -1,0 +1,31 @@
+hiscap3_CP069121.1	bed	region	1	109347	.	-	flank	ID=gene_hiscap3_tyr7406|DR|down;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	region	14	109293	.	-	flank	ID=gene_hiscap3_tyr7406|TIR|down;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	6088	101817	.	-	.	ID=gene_hiscap3_eg331206;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	16727	92241	.	+	.	ID=gene_=hiscap3_ncRNA08564;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	46239	62936	.	-	.	ID=gene_hiscap3_eg331408;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	49387	59415	.	-	.	ID=gene_=hiscap3_ncRNA08565;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	59247	49609	.	-	.	ID=gene_=hiscap3_ncRNA08566;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	61713	47326	.	-	.	ID=gene_hiscap3_eg331196;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	65432	43085	.	+	.	ID=gene_hiscap3_eg331155;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	83583	25281	.	-	.	ID=gene_=hiscap3_ncRNA08567;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	gene	100924	7660	.	-	cap	ID=gene_hiscap3_tyr7406;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	region	109291	18	.	-	flank	ID=gene_hiscap3_tyr7406|TIR|up;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	region	109346	0	.	-	flank	ID=gene_hiscap3_tyr7406|DR|up;Description=hiscap3_s07075;parent=hiscap3_CP069121.1
+hiscap3_CP069121.1	bed	RNA	6088	101817	.	-	ID=rna_hiscap3_eg331206;Description=;parent=gene_hiscap3_eg331206
+hiscap3_CP069121.1	bed	RNA	16727	92241	.	+	ID=rna_=hiscap3_ncRNA08564;Description=;parent=gene_=hiscap3_ncRNA08564
+hiscap3_CP069121.1	bed	RNA	46239	62936	.	-	ID=rna_hiscap3_eg331408;Description=;parent=gene_hiscap3_eg331408
+hiscap3_CP069121.1	bed	RNA	49387	59415	.	-	ID=rna_=hiscap3_ncRNA08565;Description=;parent=gene_=hiscap3_ncRNA08565
+hiscap3_CP069121.1	bed	RNA	59247	49609	.	-	ID=rna_=hiscap3_ncRNA08566;Description=;parent=gene_=hiscap3_ncRNA08566
+hiscap3_CP069121.1	bed	RNA	61713	47326	.	-	ID=rna_hiscap3_eg331196;Description=;parent=gene_hiscap3_eg331196
+hiscap3_CP069121.1	bed	RNA	65432	43085	.	+	ID=rna_hiscap3_eg331155;Description=;parent=gene_hiscap3_eg331155
+hiscap3_CP069121.1	bed	RNA	83583	25281	.	-	ID=rna_=hiscap3_ncRNA08567;Description=;parent=gene_=hiscap3_ncRNA08567
+hiscap3_CP069121.1	bed	RNA	100924	7660	.	-	ID=rna_hiscap3_tyr7406;Description=;parent=gene_hiscap3_tyr7406
+hiscap3_CP069121.1	bed	CDS	6088	101817	.	-	ID=cds_hiscap3_eg331206;Description=;parent=rna_hiscap3_eg331206
+hiscap3_CP069121.1	bed	CDS	16727	92241	.	+	ID=cds_=hiscap3_ncRNA08564;Description=;parent=rna_=hiscap3_ncRNA08564
+hiscap3_CP069121.1	bed	CDS	46239	62936	.	-	ID=cds_hiscap3_eg331408;Description=;parent=rna_hiscap3_eg331408
+hiscap3_CP069121.1	bed	CDS	49387	59415	.	-	ID=cds_=hiscap3_ncRNA08565;Description=;parent=rna_=hiscap3_ncRNA08565
+hiscap3_CP069121.1	bed	CDS	59247	49609	.	-	ID=cds_=hiscap3_ncRNA08566;Description=;parent=rna_=hiscap3_ncRNA08566
+hiscap3_CP069121.1	bed	CDS	61713	47326	.	-	ID=cds_hiscap3_eg331196;Description=;parent=rna_hiscap3_eg331196
+hiscap3_CP069121.1	bed	CDS	65432	43085	.	+	ID=cds_hiscap3_eg331155;Description=;parent=rna_hiscap3_eg331155
+hiscap3_CP069121.1	bed	CDS	83583	25281	.	-	ID=cds_=hiscap3_ncRNA08567;Description=;parent=rna_=hiscap3_ncRNA08567
+hiscap3_CP069121.1	bed	CDS	100924	7660	.	-	ID=cds_hiscap3_tyr7406;Description=;parent=rna_hiscap3_tyr7406

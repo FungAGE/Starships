@@ -1,0 +1,35 @@
+aspfis4_VWYB01000012.1	bed	region	1	48912	.	-	flank	ID=gene_aspfis4_tyr1149|DR|down;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	1361	46374	.	+	.	ID=gene_aspfis4_eg49931;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	8929	39597	.	-	.	ID=gene_aspfis4_eg50000;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	11033	35849	.	+	.	ID=gene_aspfis4_eg49934;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	19596	27583	.	+	fre	ID=gene_aspfis4_fre1901;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	22202	24664	.	+	.	ID=gene_aspfis4_eg49939;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	24968	22793	.	-	.	ID=gene_aspfis4_eg49987;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	26380	19181	.	+	d37	ID=gene_aspfis4_d37690;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	30793	14323	.	+	nlr	ID=gene_aspfis4_nlr20776;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	40489	7711	.	-	.	ID=gene_aspfis4_eg49991;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	42099	6458	.	-	.	ID=gene_aspfis4_eg50002;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	gene	45769	456	.	-	cap	ID=gene_aspfis4_tyr1149;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	region	48914	0	.	-	flank	ID=gene_aspfis4_tyr1149|DR|up;Description=aspfis4_s01084;parent=aspfis4_VWYB01000012.1
+aspfis4_VWYB01000012.1	bed	RNA	1361	46374	.	+	ID=rna_aspfis4_eg49931;Description=;parent=gene_aspfis4_eg49931
+aspfis4_VWYB01000012.1	bed	RNA	8929	39597	.	-	ID=rna_aspfis4_eg50000;Description=;parent=gene_aspfis4_eg50000
+aspfis4_VWYB01000012.1	bed	RNA	11033	35849	.	+	ID=rna_aspfis4_eg49934;Description=;parent=gene_aspfis4_eg49934
+aspfis4_VWYB01000012.1	bed	RNA	19596	27583	.	+	ID=rna_aspfis4_fre1901;Description=;parent=gene_aspfis4_fre1901
+aspfis4_VWYB01000012.1	bed	RNA	22202	24664	.	+	ID=rna_aspfis4_eg49939;Description=;parent=gene_aspfis4_eg49939
+aspfis4_VWYB01000012.1	bed	RNA	24968	22793	.	-	ID=rna_aspfis4_eg49987;Description=;parent=gene_aspfis4_eg49987
+aspfis4_VWYB01000012.1	bed	RNA	26380	19181	.	+	ID=rna_aspfis4_d37690;Description=;parent=gene_aspfis4_d37690
+aspfis4_VWYB01000012.1	bed	RNA	30793	14323	.	+	ID=rna_aspfis4_nlr20776;Description=;parent=gene_aspfis4_nlr20776
+aspfis4_VWYB01000012.1	bed	RNA	40489	7711	.	-	ID=rna_aspfis4_eg49991;Description=;parent=gene_aspfis4_eg49991
+aspfis4_VWYB01000012.1	bed	RNA	42099	6458	.	-	ID=rna_aspfis4_eg50002;Description=;parent=gene_aspfis4_eg50002
+aspfis4_VWYB01000012.1	bed	RNA	45769	456	.	-	ID=rna_aspfis4_tyr1149;Description=;parent=gene_aspfis4_tyr1149
+aspfis4_VWYB01000012.1	bed	CDS	1361	46374	.	+	ID=cds_aspfis4_eg49931;Description=;parent=rna_aspfis4_eg49931
+aspfis4_VWYB01000012.1	bed	CDS	8929	39597	.	-	ID=cds_aspfis4_eg50000;Description=;parent=rna_aspfis4_eg50000
+aspfis4_VWYB01000012.1	bed	CDS	11033	35849	.	+	ID=cds_aspfis4_eg49934;Description=;parent=rna_aspfis4_eg49934
+aspfis4_VWYB01000012.1	bed	CDS	19596	27583	.	+	ID=cds_aspfis4_fre1901;Description=;parent=rna_aspfis4_fre1901
+aspfis4_VWYB01000012.1	bed	CDS	22202	24664	.	+	ID=cds_aspfis4_eg49939;Description=;parent=rna_aspfis4_eg49939
+aspfis4_VWYB01000012.1	bed	CDS	24968	22793	.	-	ID=cds_aspfis4_eg49987;Description=;parent=rna_aspfis4_eg49987
+aspfis4_VWYB01000012.1	bed	CDS	26380	19181	.	+	ID=cds_aspfis4_d37690;Description=;parent=rna_aspfis4_d37690
+aspfis4_VWYB01000012.1	bed	CDS	30793	14323	.	+	ID=cds_aspfis4_nlr20776;Description=;parent=rna_aspfis4_nlr20776
+aspfis4_VWYB01000012.1	bed	CDS	40489	7711	.	-	ID=cds_aspfis4_eg49991;Description=;parent=rna_aspfis4_eg49991
+aspfis4_VWYB01000012.1	bed	CDS	42099	6458	.	-	ID=cds_aspfis4_eg50002;Description=;parent=rna_aspfis4_eg50002
+aspfis4_VWYB01000012.1	bed	CDS	45769	456	.	-	ID=cds_aspfis4_tyr1149;Description=;parent=rna_aspfis4_tyr1149

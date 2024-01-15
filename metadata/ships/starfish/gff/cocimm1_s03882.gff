@@ -1,0 +1,249 @@
+cocimm1_Supercontig3	bed	gene	1	304674	.	+	insert	ID=gene_cocimm1_5177:5178|cocpos2_NW003316013|up;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	299	301704	.	+	cap	ID=gene_cocimm1_5177:5178;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	5455	298698	.	+	.	ID=gene_cocimm1_5179;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	13771	290761	.	-	.	ID=gene_cocimm1_eg178237;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	14217	288629	.	+	.	ID=gene_cocimm1_5180;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	17356	286768	.	+	.	ID=gene_cocimm1_5181;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	19220	285000	.	-	.	ID=gene_cocimm1_5182;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	19809	282908	.	+	.	ID=gene_cocimm1_eg178507;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	22455	282077	.	+	.	ID=gene_cocimm1_eg178186;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	26220	277790	.	-	.	ID=gene_cocimm1_5183;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	27128	277224	.	+	.	ID=gene_cocimm1_5184;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	29938	273797	.	-	.	ID=gene_cocimm1_5185;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	32675	271673	.	-	.	ID=gene_cocimm1_5186;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	33224	271038	.	-	.	ID=gene_cocimm1_eg178506;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	34817	268950	.	+	.	ID=gene_cocimm1_5187;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	46135	258137	.	+	.	ID=gene_cocimm1_5188;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	46747	257418	.	-	.	ID=gene_cocimm1_5189;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	48022	256154	.	+	.	ID=gene_cocimm1_5190;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	49633	254065	.	+	.	ID=gene_cocimm1_5191;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	51107	253030	.	-	.	ID=gene_cocimm1_5192;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	51918	252077	.	+	.	ID=gene_cocimm1_5193;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	54009	250162	.	-	.	ID=gene_cocimm1_5194;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	56277	247948	.	+	.	ID=gene_cocimm1_5195;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	60725	243690	.	+	.	ID=gene_cocimm1_5196;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	68540	235463	.	+	.	ID=gene_cocimm1_5197;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	72403	231031	.	-	.	ID=gene_cocimm1_eg178522;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	74271	229465	.	+	.	ID=gene_cocimm1_5198;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	76628	227514	.	+	.	ID=gene_cocimm1_5199;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	78034	226109	.	-	.	ID=gene_cocimm1_5200;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	78931	224522	.	+	.	ID=gene_cocimm1_5201;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	81917	222075	.	+	.	ID=gene_cocimm1_5202;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	84563	218967	.	-	.	ID=gene_cocimm1_5203;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	86194	217962	.	-	.	ID=gene_cocimm1_5204;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	88760	214937	.	-	.	ID=gene_cocimm1_5205;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	90065	214085	.	-	.	ID=gene_cocimm1_5206;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	92634	211262	.	-	.	ID=gene_cocimm1_5207;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	98331	206003	.	-	.	ID=gene_cocimm1_eg178217;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	99420	204033	.	-	.	ID=gene_cocimm1_5208;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	112005	191953	.	-	.	ID=gene_cocimm1_5209;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	113617	189123	.	+	.	ID=gene_cocimm1_5210;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	115613	188489	.	-	.	ID=gene_cocimm1_5211;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	117094	186396	.	-	.	ID=gene_cocimm1_5212;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	119722	183211	.	-	.	ID=gene_cocimm1_5213;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	122141	181396	.	-	.	ID=gene_cocimm1_5214;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	123661	180508	.	-	.	ID=gene_cocimm1_5215;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	131583	172412	.	-	.	ID=gene_cocimm1_5216;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	136537	165375	.	-	.	ID=gene_cocimm1_5217;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	143636	160632	.	-	.	ID=gene_cocimm1_eg178453;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	145074	159102	.	-	.	ID=gene_cocimm1_5218;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	150906	152806	.	+	.	ID=gene_cocimm1_5219;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	155714	148785	.	-	d37	ID=gene_cocimm1_d372454;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	164415	139265	.	+	.	ID=gene_cocimm1_5220;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	166721	137360	.	+	.	ID=gene_cocimm1_5221;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	167700	135812	.	-	.	ID=gene_cocimm1_5222;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	176663	127222	.	+	.	ID=gene_cocimm1_5223;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	178454	125574	.	+	.	ID=gene_cocimm1_5224;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	181220	122238	.	-	.	ID=gene_cocimm1_5225;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	185047	119182	.	-	.	ID=gene_cocimm1_5226;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	187491	116509	.	+	.	ID=gene_cocimm1_5227;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	188953	115273	.	+	.	ID=gene_cocimm1_5228;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	195244	108448	.	-	.	ID=gene_cocimm1_5229;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	197939	105683	.	-	.	ID=gene_cocimm1_5230;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	201337	101211	.	+	.	ID=gene_cocimm1_5231;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	205163	97688	.	+	.	ID=gene_cocimm1_5232;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	207957	96041	.	+	.	ID=gene_cocimm1_5233;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	221782	82684	.	-	.	ID=gene_cocimm1_5234;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	229362	74120	.	+	.	ID=gene_cocimm1_5235;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	231005	73221	.	+	.	ID=gene_cocimm1_5236;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	237066	67046	.	-	.	ID=gene_cocimm1_5237;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	248346	55552	.	+	.	ID=gene_cocimm1_5238;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	249776	54109	.	+	.	ID=gene_cocimm1_5239;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	251404	52685	.	-	.	ID=gene_cocimm1_5240;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	253380	50890	.	+	.	ID=gene_cocimm1_5241;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	255085	49217	.	+	.	ID=gene_cocimm1_5242;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	257144	45081	.	+	.	ID=gene_cocimm1_5243;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	270999	33557	.	+	.	ID=gene_cocimm1_eg178170;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	272075	31509	.	-	.	ID=gene_cocimm1_5244;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	273490	30240	.	+	.	ID=gene_cocimm1_eg178491;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	277979	25939	.	+	.	ID=gene_cocimm1_5245;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	287559	16300	.	+	.	ID=gene_cocimm1_5246;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	297693	5727	.	-	.	ID=gene_cocimm1_5247;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	301471	2104	.	+	.	ID=gene_cocimm1_5248;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	gene	304675	0	.	+	insert	ID=gene_cocimm1_5177:5178|cocpos2_NW003316013|down;Description=cocimm1_s03882;parent=cocimm1_Supercontig3
+cocimm1_Supercontig3	bed	RNA	1	304674	.	+	ID=rna_cocimm1_5177:5178|cocpos2_NW003316013|up;Description=;parent=gene_cocimm1_5177:5178|cocpos2_NW003316013|up
+cocimm1_Supercontig3	bed	RNA	299	301704	.	+	ID=rna_cocimm1_5177:5178;Description=;parent=gene_cocimm1_5177:5178
+cocimm1_Supercontig3	bed	RNA	5455	298698	.	+	ID=rna_cocimm1_5179;Description=;parent=gene_cocimm1_5179
+cocimm1_Supercontig3	bed	RNA	13771	290761	.	-	ID=rna_cocimm1_eg178237;Description=;parent=gene_cocimm1_eg178237
+cocimm1_Supercontig3	bed	RNA	14217	288629	.	+	ID=rna_cocimm1_5180;Description=;parent=gene_cocimm1_5180
+cocimm1_Supercontig3	bed	RNA	17356	286768	.	+	ID=rna_cocimm1_5181;Description=;parent=gene_cocimm1_5181
+cocimm1_Supercontig3	bed	RNA	19220	285000	.	-	ID=rna_cocimm1_5182;Description=;parent=gene_cocimm1_5182
+cocimm1_Supercontig3	bed	RNA	19809	282908	.	+	ID=rna_cocimm1_eg178507;Description=;parent=gene_cocimm1_eg178507
+cocimm1_Supercontig3	bed	RNA	22455	282077	.	+	ID=rna_cocimm1_eg178186;Description=;parent=gene_cocimm1_eg178186
+cocimm1_Supercontig3	bed	RNA	26220	277790	.	-	ID=rna_cocimm1_5183;Description=;parent=gene_cocimm1_5183
+cocimm1_Supercontig3	bed	RNA	27128	277224	.	+	ID=rna_cocimm1_5184;Description=;parent=gene_cocimm1_5184
+cocimm1_Supercontig3	bed	RNA	29938	273797	.	-	ID=rna_cocimm1_5185;Description=;parent=gene_cocimm1_5185
+cocimm1_Supercontig3	bed	RNA	32675	271673	.	-	ID=rna_cocimm1_5186;Description=;parent=gene_cocimm1_5186
+cocimm1_Supercontig3	bed	RNA	33224	271038	.	-	ID=rna_cocimm1_eg178506;Description=;parent=gene_cocimm1_eg178506
+cocimm1_Supercontig3	bed	RNA	34817	268950	.	+	ID=rna_cocimm1_5187;Description=;parent=gene_cocimm1_5187
+cocimm1_Supercontig3	bed	RNA	46135	258137	.	+	ID=rna_cocimm1_5188;Description=;parent=gene_cocimm1_5188
+cocimm1_Supercontig3	bed	RNA	46747	257418	.	-	ID=rna_cocimm1_5189;Description=;parent=gene_cocimm1_5189
+cocimm1_Supercontig3	bed	RNA	48022	256154	.	+	ID=rna_cocimm1_5190;Description=;parent=gene_cocimm1_5190
+cocimm1_Supercontig3	bed	RNA	49633	254065	.	+	ID=rna_cocimm1_5191;Description=;parent=gene_cocimm1_5191
+cocimm1_Supercontig3	bed	RNA	51107	253030	.	-	ID=rna_cocimm1_5192;Description=;parent=gene_cocimm1_5192
+cocimm1_Supercontig3	bed	RNA	51918	252077	.	+	ID=rna_cocimm1_5193;Description=;parent=gene_cocimm1_5193
+cocimm1_Supercontig3	bed	RNA	54009	250162	.	-	ID=rna_cocimm1_5194;Description=;parent=gene_cocimm1_5194
+cocimm1_Supercontig3	bed	RNA	56277	247948	.	+	ID=rna_cocimm1_5195;Description=;parent=gene_cocimm1_5195
+cocimm1_Supercontig3	bed	RNA	60725	243690	.	+	ID=rna_cocimm1_5196;Description=;parent=gene_cocimm1_5196
+cocimm1_Supercontig3	bed	RNA	68540	235463	.	+	ID=rna_cocimm1_5197;Description=;parent=gene_cocimm1_5197
+cocimm1_Supercontig3	bed	RNA	72403	231031	.	-	ID=rna_cocimm1_eg178522;Description=;parent=gene_cocimm1_eg178522
+cocimm1_Supercontig3	bed	RNA	74271	229465	.	+	ID=rna_cocimm1_5198;Description=;parent=gene_cocimm1_5198
+cocimm1_Supercontig3	bed	RNA	76628	227514	.	+	ID=rna_cocimm1_5199;Description=;parent=gene_cocimm1_5199
+cocimm1_Supercontig3	bed	RNA	78034	226109	.	-	ID=rna_cocimm1_5200;Description=;parent=gene_cocimm1_5200
+cocimm1_Supercontig3	bed	RNA	78931	224522	.	+	ID=rna_cocimm1_5201;Description=;parent=gene_cocimm1_5201
+cocimm1_Supercontig3	bed	RNA	81917	222075	.	+	ID=rna_cocimm1_5202;Description=;parent=gene_cocimm1_5202
+cocimm1_Supercontig3	bed	RNA	84563	218967	.	-	ID=rna_cocimm1_5203;Description=;parent=gene_cocimm1_5203
+cocimm1_Supercontig3	bed	RNA	86194	217962	.	-	ID=rna_cocimm1_5204;Description=;parent=gene_cocimm1_5204
+cocimm1_Supercontig3	bed	RNA	88760	214937	.	-	ID=rna_cocimm1_5205;Description=;parent=gene_cocimm1_5205
+cocimm1_Supercontig3	bed	RNA	90065	214085	.	-	ID=rna_cocimm1_5206;Description=;parent=gene_cocimm1_5206
+cocimm1_Supercontig3	bed	RNA	92634	211262	.	-	ID=rna_cocimm1_5207;Description=;parent=gene_cocimm1_5207
+cocimm1_Supercontig3	bed	RNA	98331	206003	.	-	ID=rna_cocimm1_eg178217;Description=;parent=gene_cocimm1_eg178217
+cocimm1_Supercontig3	bed	RNA	99420	204033	.	-	ID=rna_cocimm1_5208;Description=;parent=gene_cocimm1_5208
+cocimm1_Supercontig3	bed	RNA	112005	191953	.	-	ID=rna_cocimm1_5209;Description=;parent=gene_cocimm1_5209
+cocimm1_Supercontig3	bed	RNA	113617	189123	.	+	ID=rna_cocimm1_5210;Description=;parent=gene_cocimm1_5210
+cocimm1_Supercontig3	bed	RNA	115613	188489	.	-	ID=rna_cocimm1_5211;Description=;parent=gene_cocimm1_5211
+cocimm1_Supercontig3	bed	RNA	117094	186396	.	-	ID=rna_cocimm1_5212;Description=;parent=gene_cocimm1_5212
+cocimm1_Supercontig3	bed	RNA	119722	183211	.	-	ID=rna_cocimm1_5213;Description=;parent=gene_cocimm1_5213
+cocimm1_Supercontig3	bed	RNA	122141	181396	.	-	ID=rna_cocimm1_5214;Description=;parent=gene_cocimm1_5214
+cocimm1_Supercontig3	bed	RNA	123661	180508	.	-	ID=rna_cocimm1_5215;Description=;parent=gene_cocimm1_5215
+cocimm1_Supercontig3	bed	RNA	131583	172412	.	-	ID=rna_cocimm1_5216;Description=;parent=gene_cocimm1_5216
+cocimm1_Supercontig3	bed	RNA	136537	165375	.	-	ID=rna_cocimm1_5217;Description=;parent=gene_cocimm1_5217
+cocimm1_Supercontig3	bed	RNA	143636	160632	.	-	ID=rna_cocimm1_eg178453;Description=;parent=gene_cocimm1_eg178453
+cocimm1_Supercontig3	bed	RNA	145074	159102	.	-	ID=rna_cocimm1_5218;Description=;parent=gene_cocimm1_5218
+cocimm1_Supercontig3	bed	RNA	150906	152806	.	+	ID=rna_cocimm1_5219;Description=;parent=gene_cocimm1_5219
+cocimm1_Supercontig3	bed	RNA	155714	148785	.	-	ID=rna_cocimm1_d372454;Description=;parent=gene_cocimm1_d372454
+cocimm1_Supercontig3	bed	RNA	164415	139265	.	+	ID=rna_cocimm1_5220;Description=;parent=gene_cocimm1_5220
+cocimm1_Supercontig3	bed	RNA	166721	137360	.	+	ID=rna_cocimm1_5221;Description=;parent=gene_cocimm1_5221
+cocimm1_Supercontig3	bed	RNA	167700	135812	.	-	ID=rna_cocimm1_5222;Description=;parent=gene_cocimm1_5222
+cocimm1_Supercontig3	bed	RNA	176663	127222	.	+	ID=rna_cocimm1_5223;Description=;parent=gene_cocimm1_5223
+cocimm1_Supercontig3	bed	RNA	178454	125574	.	+	ID=rna_cocimm1_5224;Description=;parent=gene_cocimm1_5224
+cocimm1_Supercontig3	bed	RNA	181220	122238	.	-	ID=rna_cocimm1_5225;Description=;parent=gene_cocimm1_5225
+cocimm1_Supercontig3	bed	RNA	185047	119182	.	-	ID=rna_cocimm1_5226;Description=;parent=gene_cocimm1_5226
+cocimm1_Supercontig3	bed	RNA	187491	116509	.	+	ID=rna_cocimm1_5227;Description=;parent=gene_cocimm1_5227
+cocimm1_Supercontig3	bed	RNA	188953	115273	.	+	ID=rna_cocimm1_5228;Description=;parent=gene_cocimm1_5228
+cocimm1_Supercontig3	bed	RNA	195244	108448	.	-	ID=rna_cocimm1_5229;Description=;parent=gene_cocimm1_5229
+cocimm1_Supercontig3	bed	RNA	197939	105683	.	-	ID=rna_cocimm1_5230;Description=;parent=gene_cocimm1_5230
+cocimm1_Supercontig3	bed	RNA	201337	101211	.	+	ID=rna_cocimm1_5231;Description=;parent=gene_cocimm1_5231
+cocimm1_Supercontig3	bed	RNA	205163	97688	.	+	ID=rna_cocimm1_5232;Description=;parent=gene_cocimm1_5232
+cocimm1_Supercontig3	bed	RNA	207957	96041	.	+	ID=rna_cocimm1_5233;Description=;parent=gene_cocimm1_5233
+cocimm1_Supercontig3	bed	RNA	221782	82684	.	-	ID=rna_cocimm1_5234;Description=;parent=gene_cocimm1_5234
+cocimm1_Supercontig3	bed	RNA	229362	74120	.	+	ID=rna_cocimm1_5235;Description=;parent=gene_cocimm1_5235
+cocimm1_Supercontig3	bed	RNA	231005	73221	.	+	ID=rna_cocimm1_5236;Description=;parent=gene_cocimm1_5236
+cocimm1_Supercontig3	bed	RNA	237066	67046	.	-	ID=rna_cocimm1_5237;Description=;parent=gene_cocimm1_5237
+cocimm1_Supercontig3	bed	RNA	248346	55552	.	+	ID=rna_cocimm1_5238;Description=;parent=gene_cocimm1_5238
+cocimm1_Supercontig3	bed	RNA	249776	54109	.	+	ID=rna_cocimm1_5239;Description=;parent=gene_cocimm1_5239
+cocimm1_Supercontig3	bed	RNA	251404	52685	.	-	ID=rna_cocimm1_5240;Description=;parent=gene_cocimm1_5240
+cocimm1_Supercontig3	bed	RNA	253380	50890	.	+	ID=rna_cocimm1_5241;Description=;parent=gene_cocimm1_5241
+cocimm1_Supercontig3	bed	RNA	255085	49217	.	+	ID=rna_cocimm1_5242;Description=;parent=gene_cocimm1_5242
+cocimm1_Supercontig3	bed	RNA	257144	45081	.	+	ID=rna_cocimm1_5243;Description=;parent=gene_cocimm1_5243
+cocimm1_Supercontig3	bed	RNA	270999	33557	.	+	ID=rna_cocimm1_eg178170;Description=;parent=gene_cocimm1_eg178170
+cocimm1_Supercontig3	bed	RNA	272075	31509	.	-	ID=rna_cocimm1_5244;Description=;parent=gene_cocimm1_5244
+cocimm1_Supercontig3	bed	RNA	273490	30240	.	+	ID=rna_cocimm1_eg178491;Description=;parent=gene_cocimm1_eg178491
+cocimm1_Supercontig3	bed	RNA	277979	25939	.	+	ID=rna_cocimm1_5245;Description=;parent=gene_cocimm1_5245
+cocimm1_Supercontig3	bed	RNA	287559	16300	.	+	ID=rna_cocimm1_5246;Description=;parent=gene_cocimm1_5246
+cocimm1_Supercontig3	bed	RNA	297693	5727	.	-	ID=rna_cocimm1_5247;Description=;parent=gene_cocimm1_5247
+cocimm1_Supercontig3	bed	RNA	301471	2104	.	+	ID=rna_cocimm1_5248;Description=;parent=gene_cocimm1_5248
+cocimm1_Supercontig3	bed	RNA	304675	0	.	+	ID=rna_cocimm1_5177:5178|cocpos2_NW003316013|down;Description=;parent=gene_cocimm1_5177:5178|cocpos2_NW003316013|down
+cocimm1_Supercontig3	bed	CDS	1	304674	.	+	ID=cds_cocimm1_5177:5178|cocpos2_NW003316013|up;Description=;parent=rna_cocimm1_5177:5178|cocpos2_NW003316013|up
+cocimm1_Supercontig3	bed	CDS	299	301704	.	+	ID=cds_cocimm1_5177:5178;Description=;parent=rna_cocimm1_5177:5178
+cocimm1_Supercontig3	bed	CDS	5455	298698	.	+	ID=cds_cocimm1_5179;Description=;parent=rna_cocimm1_5179
+cocimm1_Supercontig3	bed	CDS	13771	290761	.	-	ID=cds_cocimm1_eg178237;Description=;parent=rna_cocimm1_eg178237
+cocimm1_Supercontig3	bed	CDS	14217	288629	.	+	ID=cds_cocimm1_5180;Description=;parent=rna_cocimm1_5180
+cocimm1_Supercontig3	bed	CDS	17356	286768	.	+	ID=cds_cocimm1_5181;Description=;parent=rna_cocimm1_5181
+cocimm1_Supercontig3	bed	CDS	19220	285000	.	-	ID=cds_cocimm1_5182;Description=;parent=rna_cocimm1_5182
+cocimm1_Supercontig3	bed	CDS	19809	282908	.	+	ID=cds_cocimm1_eg178507;Description=;parent=rna_cocimm1_eg178507
+cocimm1_Supercontig3	bed	CDS	22455	282077	.	+	ID=cds_cocimm1_eg178186;Description=;parent=rna_cocimm1_eg178186
+cocimm1_Supercontig3	bed	CDS	26220	277790	.	-	ID=cds_cocimm1_5183;Description=;parent=rna_cocimm1_5183
+cocimm1_Supercontig3	bed	CDS	27128	277224	.	+	ID=cds_cocimm1_5184;Description=;parent=rna_cocimm1_5184
+cocimm1_Supercontig3	bed	CDS	29938	273797	.	-	ID=cds_cocimm1_5185;Description=;parent=rna_cocimm1_5185
+cocimm1_Supercontig3	bed	CDS	32675	271673	.	-	ID=cds_cocimm1_5186;Description=;parent=rna_cocimm1_5186
+cocimm1_Supercontig3	bed	CDS	33224	271038	.	-	ID=cds_cocimm1_eg178506;Description=;parent=rna_cocimm1_eg178506
+cocimm1_Supercontig3	bed	CDS	34817	268950	.	+	ID=cds_cocimm1_5187;Description=;parent=rna_cocimm1_5187
+cocimm1_Supercontig3	bed	CDS	46135	258137	.	+	ID=cds_cocimm1_5188;Description=;parent=rna_cocimm1_5188
+cocimm1_Supercontig3	bed	CDS	46747	257418	.	-	ID=cds_cocimm1_5189;Description=;parent=rna_cocimm1_5189
+cocimm1_Supercontig3	bed	CDS	48022	256154	.	+	ID=cds_cocimm1_5190;Description=;parent=rna_cocimm1_5190
+cocimm1_Supercontig3	bed	CDS	49633	254065	.	+	ID=cds_cocimm1_5191;Description=;parent=rna_cocimm1_5191
+cocimm1_Supercontig3	bed	CDS	51107	253030	.	-	ID=cds_cocimm1_5192;Description=;parent=rna_cocimm1_5192
+cocimm1_Supercontig3	bed	CDS	51918	252077	.	+	ID=cds_cocimm1_5193;Description=;parent=rna_cocimm1_5193
+cocimm1_Supercontig3	bed	CDS	54009	250162	.	-	ID=cds_cocimm1_5194;Description=;parent=rna_cocimm1_5194
+cocimm1_Supercontig3	bed	CDS	56277	247948	.	+	ID=cds_cocimm1_5195;Description=;parent=rna_cocimm1_5195
+cocimm1_Supercontig3	bed	CDS	60725	243690	.	+	ID=cds_cocimm1_5196;Description=;parent=rna_cocimm1_5196
+cocimm1_Supercontig3	bed	CDS	68540	235463	.	+	ID=cds_cocimm1_5197;Description=;parent=rna_cocimm1_5197
+cocimm1_Supercontig3	bed	CDS	72403	231031	.	-	ID=cds_cocimm1_eg178522;Description=;parent=rna_cocimm1_eg178522
+cocimm1_Supercontig3	bed	CDS	74271	229465	.	+	ID=cds_cocimm1_5198;Description=;parent=rna_cocimm1_5198
+cocimm1_Supercontig3	bed	CDS	76628	227514	.	+	ID=cds_cocimm1_5199;Description=;parent=rna_cocimm1_5199
+cocimm1_Supercontig3	bed	CDS	78034	226109	.	-	ID=cds_cocimm1_5200;Description=;parent=rna_cocimm1_5200
+cocimm1_Supercontig3	bed	CDS	78931	224522	.	+	ID=cds_cocimm1_5201;Description=;parent=rna_cocimm1_5201
+cocimm1_Supercontig3	bed	CDS	81917	222075	.	+	ID=cds_cocimm1_5202;Description=;parent=rna_cocimm1_5202
+cocimm1_Supercontig3	bed	CDS	84563	218967	.	-	ID=cds_cocimm1_5203;Description=;parent=rna_cocimm1_5203
+cocimm1_Supercontig3	bed	CDS	86194	217962	.	-	ID=cds_cocimm1_5204;Description=;parent=rna_cocimm1_5204
+cocimm1_Supercontig3	bed	CDS	88760	214937	.	-	ID=cds_cocimm1_5205;Description=;parent=rna_cocimm1_5205
+cocimm1_Supercontig3	bed	CDS	90065	214085	.	-	ID=cds_cocimm1_5206;Description=;parent=rna_cocimm1_5206
+cocimm1_Supercontig3	bed	CDS	92634	211262	.	-	ID=cds_cocimm1_5207;Description=;parent=rna_cocimm1_5207
+cocimm1_Supercontig3	bed	CDS	98331	206003	.	-	ID=cds_cocimm1_eg178217;Description=;parent=rna_cocimm1_eg178217
+cocimm1_Supercontig3	bed	CDS	99420	204033	.	-	ID=cds_cocimm1_5208;Description=;parent=rna_cocimm1_5208
+cocimm1_Supercontig3	bed	CDS	112005	191953	.	-	ID=cds_cocimm1_5209;Description=;parent=rna_cocimm1_5209
+cocimm1_Supercontig3	bed	CDS	113617	189123	.	+	ID=cds_cocimm1_5210;Description=;parent=rna_cocimm1_5210
+cocimm1_Supercontig3	bed	CDS	115613	188489	.	-	ID=cds_cocimm1_5211;Description=;parent=rna_cocimm1_5211
+cocimm1_Supercontig3	bed	CDS	117094	186396	.	-	ID=cds_cocimm1_5212;Description=;parent=rna_cocimm1_5212
+cocimm1_Supercontig3	bed	CDS	119722	183211	.	-	ID=cds_cocimm1_5213;Description=;parent=rna_cocimm1_5213
+cocimm1_Supercontig3	bed	CDS	122141	181396	.	-	ID=cds_cocimm1_5214;Description=;parent=rna_cocimm1_5214
+cocimm1_Supercontig3	bed	CDS	123661	180508	.	-	ID=cds_cocimm1_5215;Description=;parent=rna_cocimm1_5215
+cocimm1_Supercontig3	bed	CDS	131583	172412	.	-	ID=cds_cocimm1_5216;Description=;parent=rna_cocimm1_5216
+cocimm1_Supercontig3	bed	CDS	136537	165375	.	-	ID=cds_cocimm1_5217;Description=;parent=rna_cocimm1_5217
+cocimm1_Supercontig3	bed	CDS	143636	160632	.	-	ID=cds_cocimm1_eg178453;Description=;parent=rna_cocimm1_eg178453
+cocimm1_Supercontig3	bed	CDS	145074	159102	.	-	ID=cds_cocimm1_5218;Description=;parent=rna_cocimm1_5218
+cocimm1_Supercontig3	bed	CDS	150906	152806	.	+	ID=cds_cocimm1_5219;Description=;parent=rna_cocimm1_5219
+cocimm1_Supercontig3	bed	CDS	155714	148785	.	-	ID=cds_cocimm1_d372454;Description=;parent=rna_cocimm1_d372454
+cocimm1_Supercontig3	bed	CDS	164415	139265	.	+	ID=cds_cocimm1_5220;Description=;parent=rna_cocimm1_5220
+cocimm1_Supercontig3	bed	CDS	166721	137360	.	+	ID=cds_cocimm1_5221;Description=;parent=rna_cocimm1_5221
+cocimm1_Supercontig3	bed	CDS	167700	135812	.	-	ID=cds_cocimm1_5222;Description=;parent=rna_cocimm1_5222
+cocimm1_Supercontig3	bed	CDS	176663	127222	.	+	ID=cds_cocimm1_5223;Description=;parent=rna_cocimm1_5223
+cocimm1_Supercontig3	bed	CDS	178454	125574	.	+	ID=cds_cocimm1_5224;Description=;parent=rna_cocimm1_5224
+cocimm1_Supercontig3	bed	CDS	181220	122238	.	-	ID=cds_cocimm1_5225;Description=;parent=rna_cocimm1_5225
+cocimm1_Supercontig3	bed	CDS	185047	119182	.	-	ID=cds_cocimm1_5226;Description=;parent=rna_cocimm1_5226
+cocimm1_Supercontig3	bed	CDS	187491	116509	.	+	ID=cds_cocimm1_5227;Description=;parent=rna_cocimm1_5227
+cocimm1_Supercontig3	bed	CDS	188953	115273	.	+	ID=cds_cocimm1_5228;Description=;parent=rna_cocimm1_5228
+cocimm1_Supercontig3	bed	CDS	195244	108448	.	-	ID=cds_cocimm1_5229;Description=;parent=rna_cocimm1_5229
+cocimm1_Supercontig3	bed	CDS	197939	105683	.	-	ID=cds_cocimm1_5230;Description=;parent=rna_cocimm1_5230
+cocimm1_Supercontig3	bed	CDS	201337	101211	.	+	ID=cds_cocimm1_5231;Description=;parent=rna_cocimm1_5231
+cocimm1_Supercontig3	bed	CDS	205163	97688	.	+	ID=cds_cocimm1_5232;Description=;parent=rna_cocimm1_5232
+cocimm1_Supercontig3	bed	CDS	207957	96041	.	+	ID=cds_cocimm1_5233;Description=;parent=rna_cocimm1_5233
+cocimm1_Supercontig3	bed	CDS	221782	82684	.	-	ID=cds_cocimm1_5234;Description=;parent=rna_cocimm1_5234
+cocimm1_Supercontig3	bed	CDS	229362	74120	.	+	ID=cds_cocimm1_5235;Description=;parent=rna_cocimm1_5235
+cocimm1_Supercontig3	bed	CDS	231005	73221	.	+	ID=cds_cocimm1_5236;Description=;parent=rna_cocimm1_5236
+cocimm1_Supercontig3	bed	CDS	237066	67046	.	-	ID=cds_cocimm1_5237;Description=;parent=rna_cocimm1_5237
+cocimm1_Supercontig3	bed	CDS	248346	55552	.	+	ID=cds_cocimm1_5238;Description=;parent=rna_cocimm1_5238
+cocimm1_Supercontig3	bed	CDS	249776	54109	.	+	ID=cds_cocimm1_5239;Description=;parent=rna_cocimm1_5239
+cocimm1_Supercontig3	bed	CDS	251404	52685	.	-	ID=cds_cocimm1_5240;Description=;parent=rna_cocimm1_5240
+cocimm1_Supercontig3	bed	CDS	253380	50890	.	+	ID=cds_cocimm1_5241;Description=;parent=rna_cocimm1_5241
+cocimm1_Supercontig3	bed	CDS	255085	49217	.	+	ID=cds_cocimm1_5242;Description=;parent=rna_cocimm1_5242
+cocimm1_Supercontig3	bed	CDS	257144	45081	.	+	ID=cds_cocimm1_5243;Description=;parent=rna_cocimm1_5243
+cocimm1_Supercontig3	bed	CDS	270999	33557	.	+	ID=cds_cocimm1_eg178170;Description=;parent=rna_cocimm1_eg178170
+cocimm1_Supercontig3	bed	CDS	272075	31509	.	-	ID=cds_cocimm1_5244;Description=;parent=rna_cocimm1_5244
+cocimm1_Supercontig3	bed	CDS	273490	30240	.	+	ID=cds_cocimm1_eg178491;Description=;parent=rna_cocimm1_eg178491
+cocimm1_Supercontig3	bed	CDS	277979	25939	.	+	ID=cds_cocimm1_5245;Description=;parent=rna_cocimm1_5245
+cocimm1_Supercontig3	bed	CDS	287559	16300	.	+	ID=cds_cocimm1_5246;Description=;parent=rna_cocimm1_5246
+cocimm1_Supercontig3	bed	CDS	297693	5727	.	-	ID=cds_cocimm1_5247;Description=;parent=rna_cocimm1_5247
+cocimm1_Supercontig3	bed	CDS	301471	2104	.	+	ID=cds_cocimm1_5248;Description=;parent=rna_cocimm1_5248
+cocimm1_Supercontig3	bed	CDS	304675	0	.	+	ID=cds_cocimm1_5177:5178|cocpos2_NW003316013|down;Description=;parent=rna_cocimm1_5177:5178|cocpos2_NW003316013|down

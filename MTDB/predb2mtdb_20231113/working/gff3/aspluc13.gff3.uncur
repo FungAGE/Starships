@@ -1,0 +1,73 @@
+aspluc13_AP024438.1	bed	region	1	242427	.	-	flank	ID=gene_aspluc13_tyr1861|DR|down;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	region	54	242361	.	-	flank	ID=gene_aspluc13_tyr1861|TIR|down;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	6712	234172	.	-	.	ID=gene_aspluc13_eg92004;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	11543	227923	.	-	nlr	ID=gene_aspluc13_nlr24498;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	15851	225512	.	-	.	ID=gene_aspluc13_eg92265;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	19083	222364	.	-	.	ID=gene_aspluc13_eg92262;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	37210	204972	.	-	.	ID=gene_aspluc13_eg92307;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	39493	201929	.	-	.	ID=gene_aspluc13_eg91926;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	85071	154262	.	-	.	ID=gene_aspluc13_eg92253;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	109528	132326	.	+	.	ID=gene_aspluc13_eg92247;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	125895	115534	.	-	.	ID=gene_aspluc13_eg91936;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	127511	113774	.	+	.	ID=gene_aspluc13_eg91935;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	159356	82389	.	-	.	ID=gene_aspluc13_eg91925;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	166504	74148	.	-	.	ID=gene_aspluc13_eg92082;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	168727	72108	.	-	.	ID=gene_aspluc13_eg92236;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	205418	36296	.	+	.	ID=gene_aspluc13_eg92193;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	206432	35567	.	-	.	ID=gene_aspluc13_eg91923;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	211527	30520	.	-	.	ID=gene_aspluc13_eg91929;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	217000	25233	.	+	.	ID=gene_aspluc13_eg92284;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	217564	23088	.	+	.	ID=gene_aspluc13_eg92081;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	219576	20889	.	+	.	ID=gene_aspluc13_eg92275;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	226265	15482	.	+	.	ID=gene_aspluc13_eg92106;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	233253	6619	.	-	nlr	ID=gene_aspluc13_nlr24505;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	236524	5577	.	-	.	ID=gene_aspluc13_eg92311;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	gene	239394	1668	.	-	cap	ID=gene_aspluc13_tyr1861;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	region	242396	18	.	-	flank	ID=gene_aspluc13_tyr1861|TIR|up;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	region	242430	0	.	-	flank	ID=gene_aspluc13_tyr1861|DR|up;Description=aspluc13_s01826;parent=aspluc13_AP024438.1
+aspluc13_AP024438.1	bed	RNA	6712	234172	.	-	ID=rna_aspluc13_eg92004;Description=;parent=gene_aspluc13_eg92004
+aspluc13_AP024438.1	bed	RNA	11543	227923	.	-	ID=rna_aspluc13_nlr24498;Description=;parent=gene_aspluc13_nlr24498
+aspluc13_AP024438.1	bed	RNA	15851	225512	.	-	ID=rna_aspluc13_eg92265;Description=;parent=gene_aspluc13_eg92265
+aspluc13_AP024438.1	bed	RNA	19083	222364	.	-	ID=rna_aspluc13_eg92262;Description=;parent=gene_aspluc13_eg92262
+aspluc13_AP024438.1	bed	RNA	37210	204972	.	-	ID=rna_aspluc13_eg92307;Description=;parent=gene_aspluc13_eg92307
+aspluc13_AP024438.1	bed	RNA	39493	201929	.	-	ID=rna_aspluc13_eg91926;Description=;parent=gene_aspluc13_eg91926
+aspluc13_AP024438.1	bed	RNA	85071	154262	.	-	ID=rna_aspluc13_eg92253;Description=;parent=gene_aspluc13_eg92253
+aspluc13_AP024438.1	bed	RNA	109528	132326	.	+	ID=rna_aspluc13_eg92247;Description=;parent=gene_aspluc13_eg92247
+aspluc13_AP024438.1	bed	RNA	125895	115534	.	-	ID=rna_aspluc13_eg91936;Description=;parent=gene_aspluc13_eg91936
+aspluc13_AP024438.1	bed	RNA	127511	113774	.	+	ID=rna_aspluc13_eg91935;Description=;parent=gene_aspluc13_eg91935
+aspluc13_AP024438.1	bed	RNA	159356	82389	.	-	ID=rna_aspluc13_eg91925;Description=;parent=gene_aspluc13_eg91925
+aspluc13_AP024438.1	bed	RNA	166504	74148	.	-	ID=rna_aspluc13_eg92082;Description=;parent=gene_aspluc13_eg92082
+aspluc13_AP024438.1	bed	RNA	168727	72108	.	-	ID=rna_aspluc13_eg92236;Description=;parent=gene_aspluc13_eg92236
+aspluc13_AP024438.1	bed	RNA	205418	36296	.	+	ID=rna_aspluc13_eg92193;Description=;parent=gene_aspluc13_eg92193
+aspluc13_AP024438.1	bed	RNA	206432	35567	.	-	ID=rna_aspluc13_eg91923;Description=;parent=gene_aspluc13_eg91923
+aspluc13_AP024438.1	bed	RNA	211527	30520	.	-	ID=rna_aspluc13_eg91929;Description=;parent=gene_aspluc13_eg91929
+aspluc13_AP024438.1	bed	RNA	217000	25233	.	+	ID=rna_aspluc13_eg92284;Description=;parent=gene_aspluc13_eg92284
+aspluc13_AP024438.1	bed	RNA	217564	23088	.	+	ID=rna_aspluc13_eg92081;Description=;parent=gene_aspluc13_eg92081
+aspluc13_AP024438.1	bed	RNA	219576	20889	.	+	ID=rna_aspluc13_eg92275;Description=;parent=gene_aspluc13_eg92275
+aspluc13_AP024438.1	bed	RNA	226265	15482	.	+	ID=rna_aspluc13_eg92106;Description=;parent=gene_aspluc13_eg92106
+aspluc13_AP024438.1	bed	RNA	233253	6619	.	-	ID=rna_aspluc13_nlr24505;Description=;parent=gene_aspluc13_nlr24505
+aspluc13_AP024438.1	bed	RNA	236524	5577	.	-	ID=rna_aspluc13_eg92311;Description=;parent=gene_aspluc13_eg92311
+aspluc13_AP024438.1	bed	RNA	239394	1668	.	-	ID=rna_aspluc13_tyr1861;Description=;parent=gene_aspluc13_tyr1861
+aspluc13_AP024438.1	bed	CDS	6712	234172	.	-	ID=cds_aspluc13_eg92004;Description=;parent=rna_aspluc13_eg92004
+aspluc13_AP024438.1	bed	CDS	11543	227923	.	-	ID=cds_aspluc13_nlr24498;Description=;parent=rna_aspluc13_nlr24498
+aspluc13_AP024438.1	bed	CDS	15851	225512	.	-	ID=cds_aspluc13_eg92265;Description=;parent=rna_aspluc13_eg92265
+aspluc13_AP024438.1	bed	CDS	19083	222364	.	-	ID=cds_aspluc13_eg92262;Description=;parent=rna_aspluc13_eg92262
+aspluc13_AP024438.1	bed	CDS	37210	204972	.	-	ID=cds_aspluc13_eg92307;Description=;parent=rna_aspluc13_eg92307
+aspluc13_AP024438.1	bed	CDS	39493	201929	.	-	ID=cds_aspluc13_eg91926;Description=;parent=rna_aspluc13_eg91926
+aspluc13_AP024438.1	bed	CDS	85071	154262	.	-	ID=cds_aspluc13_eg92253;Description=;parent=rna_aspluc13_eg92253
+aspluc13_AP024438.1	bed	CDS	109528	132326	.	+	ID=cds_aspluc13_eg92247;Description=;parent=rna_aspluc13_eg92247
+aspluc13_AP024438.1	bed	CDS	125895	115534	.	-	ID=cds_aspluc13_eg91936;Description=;parent=rna_aspluc13_eg91936
+aspluc13_AP024438.1	bed	CDS	127511	113774	.	+	ID=cds_aspluc13_eg91935;Description=;parent=rna_aspluc13_eg91935
+aspluc13_AP024438.1	bed	CDS	159356	82389	.	-	ID=cds_aspluc13_eg91925;Description=;parent=rna_aspluc13_eg91925
+aspluc13_AP024438.1	bed	CDS	166504	74148	.	-	ID=cds_aspluc13_eg92082;Description=;parent=rna_aspluc13_eg92082
+aspluc13_AP024438.1	bed	CDS	168727	72108	.	-	ID=cds_aspluc13_eg92236;Description=;parent=rna_aspluc13_eg92236
+aspluc13_AP024438.1	bed	CDS	205418	36296	.	+	ID=cds_aspluc13_eg92193;Description=;parent=rna_aspluc13_eg92193
+aspluc13_AP024438.1	bed	CDS	206432	35567	.	-	ID=cds_aspluc13_eg91923;Description=;parent=rna_aspluc13_eg91923
+aspluc13_AP024438.1	bed	CDS	211527	30520	.	-	ID=cds_aspluc13_eg91929;Description=;parent=rna_aspluc13_eg91929
+aspluc13_AP024438.1	bed	CDS	217000	25233	.	+	ID=cds_aspluc13_eg92284;Description=;parent=rna_aspluc13_eg92284
+aspluc13_AP024438.1	bed	CDS	217564	23088	.	+	ID=cds_aspluc13_eg92081;Description=;parent=rna_aspluc13_eg92081
+aspluc13_AP024438.1	bed	CDS	219576	20889	.	+	ID=cds_aspluc13_eg92275;Description=;parent=rna_aspluc13_eg92275
+aspluc13_AP024438.1	bed	CDS	226265	15482	.	+	ID=cds_aspluc13_eg92106;Description=;parent=rna_aspluc13_eg92106
+aspluc13_AP024438.1	bed	CDS	233253	6619	.	-	ID=cds_aspluc13_nlr24505;Description=;parent=rna_aspluc13_nlr24505
+aspluc13_AP024438.1	bed	CDS	236524	5577	.	-	ID=cds_aspluc13_eg92311;Description=;parent=rna_aspluc13_eg92311
+aspluc13_AP024438.1	bed	CDS	239394	1668	.	-	ID=cds_aspluc13_tyr1861;Description=;parent=rna_aspluc13_tyr1861

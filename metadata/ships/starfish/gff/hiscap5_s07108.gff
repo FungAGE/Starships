@@ -1,0 +1,21 @@
+hiscap5_GG692419.1	bed	gene	1	16194	.	-	insert	ID=gene_hiscap5_EER44893.1|hiscap1_Supercontig9|down;Description=hiscap5_s07108;parent=hiscap5_GG692419.1
+hiscap5_GG692419.1	bed	gene	2653	13109	.	+	.	ID=gene_hiscap5_EER44890.1;Description=hiscap5_s07108;parent=hiscap5_GG692419.1
+hiscap5_GG692419.1	bed	gene	3549	10881	.	-	.	ID=gene_hiscap5_EER44891.1;Description=hiscap5_s07108;parent=hiscap5_GG692419.1
+hiscap5_GG692419.1	bed	gene	5993	9073	.	+	.	ID=gene_hiscap5_EER44892.1;Description=hiscap5_s07108;parent=hiscap5_GG692419.1
+hiscap5_GG692419.1	bed	gene	7441	6986	.	-	cap	ID=gene_hiscap5_EER44893.1;Description=hiscap5_s07108;parent=hiscap5_GG692419.1
+hiscap5_GG692419.1	bed	gene	15679	65	.	-	.	ID=gene_hiscap5_EER44894.1;Description=hiscap5_s07108;parent=hiscap5_GG692419.1
+hiscap5_GG692419.1	bed	gene	16195	0	.	-	insert	ID=gene_hiscap5_EER44893.1|hiscap1_Supercontig9|up;Description=hiscap5_s07108;parent=hiscap5_GG692419.1
+hiscap5_GG692419.1	bed	RNA	1	16194	.	-	ID=rna_hiscap5_EER44893.1|hiscap1_Supercontig9|down;Description=;parent=gene_hiscap5_EER44893.1|hiscap1_Supercontig9|down
+hiscap5_GG692419.1	bed	RNA	2653	13109	.	+	ID=rna_hiscap5_EER44890.1;Description=;parent=gene_hiscap5_EER44890.1
+hiscap5_GG692419.1	bed	RNA	3549	10881	.	-	ID=rna_hiscap5_EER44891.1;Description=;parent=gene_hiscap5_EER44891.1
+hiscap5_GG692419.1	bed	RNA	5993	9073	.	+	ID=rna_hiscap5_EER44892.1;Description=;parent=gene_hiscap5_EER44892.1
+hiscap5_GG692419.1	bed	RNA	7441	6986	.	-	ID=rna_hiscap5_EER44893.1;Description=;parent=gene_hiscap5_EER44893.1
+hiscap5_GG692419.1	bed	RNA	15679	65	.	-	ID=rna_hiscap5_EER44894.1;Description=;parent=gene_hiscap5_EER44894.1
+hiscap5_GG692419.1	bed	RNA	16195	0	.	-	ID=rna_hiscap5_EER44893.1|hiscap1_Supercontig9|up;Description=;parent=gene_hiscap5_EER44893.1|hiscap1_Supercontig9|up
+hiscap5_GG692419.1	bed	CDS	1	16194	.	-	ID=cds_hiscap5_EER44893.1|hiscap1_Supercontig9|down;Description=;parent=rna_hiscap5_EER44893.1|hiscap1_Supercontig9|down
+hiscap5_GG692419.1	bed	CDS	2653	13109	.	+	ID=cds_hiscap5_EER44890.1;Description=;parent=rna_hiscap5_EER44890.1
+hiscap5_GG692419.1	bed	CDS	3549	10881	.	-	ID=cds_hiscap5_EER44891.1;Description=;parent=rna_hiscap5_EER44891.1
+hiscap5_GG692419.1	bed	CDS	5993	9073	.	+	ID=cds_hiscap5_EER44892.1;Description=;parent=rna_hiscap5_EER44892.1
+hiscap5_GG692419.1	bed	CDS	7441	6986	.	-	ID=cds_hiscap5_EER44893.1;Description=;parent=rna_hiscap5_EER44893.1
+hiscap5_GG692419.1	bed	CDS	15679	65	.	-	ID=cds_hiscap5_EER44894.1;Description=;parent=rna_hiscap5_EER44894.1
+hiscap5_GG692419.1	bed	CDS	16195	0	.	-	ID=cds_hiscap5_EER44893.1|hiscap1_Supercontig9|up;Description=;parent=rna_hiscap5_EER44893.1|hiscap1_Supercontig9|up

@@ -1,0 +1,40 @@
+fusred3_JAFFJM010000008.1	bed	region	1	74723	.	+	flank	ID=gene_fusred3_tyr6555|DR|up;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	region	45	74675	.	+	flank	ID=gene_fusred3_tyr6555|TIR|up;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	962	71592	.	+	cap	ID=gene_fusred3_tyr6555;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	7256	66883	.	-	.	ID=gene_fusred3_eg287300;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	15129	58242	.	+	.	ID=gene_fusred3_eg287253;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	18706	55538	.	-	.	ID=gene_fusred3_eg286921;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	22957	51290	.	+	.	ID=gene_fusred3_eg286915;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	24045	50226	.	+	.	ID=gene_fusred3_eg286910;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	25138	47435	.	-	d37	ID=gene_fusred3_d374056;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	29452	44807	.	+	.	ID=gene_fusred3_eg287295;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	61254	12939	.	-	.	ID=gene_fusred3_eg286974;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	69302	4552	.	+	.	ID=gene_fusred3_eg287233;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	70425	3511	.	-	.	ID=gene_fusred3_eg286860;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	gene	71770	2516	.	-	.	ID=gene_fusred3_eg286827;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	region	74703	18	.	+	flank	ID=gene_fusred3_tyr6555|TIR|down;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	region	74723	0	.	+	flank	ID=gene_fusred3_tyr6555|DR|down;Description=fusred3_s06256;parent=fusred3_JAFFJM010000008.1
+fusred3_JAFFJM010000008.1	bed	RNA	962	71592	.	+	ID=rna_fusred3_tyr6555;Description=;parent=gene_fusred3_tyr6555
+fusred3_JAFFJM010000008.1	bed	RNA	7256	66883	.	-	ID=rna_fusred3_eg287300;Description=;parent=gene_fusred3_eg287300
+fusred3_JAFFJM010000008.1	bed	RNA	15129	58242	.	+	ID=rna_fusred3_eg287253;Description=;parent=gene_fusred3_eg287253
+fusred3_JAFFJM010000008.1	bed	RNA	18706	55538	.	-	ID=rna_fusred3_eg286921;Description=;parent=gene_fusred3_eg286921
+fusred3_JAFFJM010000008.1	bed	RNA	22957	51290	.	+	ID=rna_fusred3_eg286915;Description=;parent=gene_fusred3_eg286915
+fusred3_JAFFJM010000008.1	bed	RNA	24045	50226	.	+	ID=rna_fusred3_eg286910;Description=;parent=gene_fusred3_eg286910
+fusred3_JAFFJM010000008.1	bed	RNA	25138	47435	.	-	ID=rna_fusred3_d374056;Description=;parent=gene_fusred3_d374056
+fusred3_JAFFJM010000008.1	bed	RNA	29452	44807	.	+	ID=rna_fusred3_eg287295;Description=;parent=gene_fusred3_eg287295
+fusred3_JAFFJM010000008.1	bed	RNA	61254	12939	.	-	ID=rna_fusred3_eg286974;Description=;parent=gene_fusred3_eg286974
+fusred3_JAFFJM010000008.1	bed	RNA	69302	4552	.	+	ID=rna_fusred3_eg287233;Description=;parent=gene_fusred3_eg287233
+fusred3_JAFFJM010000008.1	bed	RNA	70425	3511	.	-	ID=rna_fusred3_eg286860;Description=;parent=gene_fusred3_eg286860
+fusred3_JAFFJM010000008.1	bed	RNA	71770	2516	.	-	ID=rna_fusred3_eg286827;Description=;parent=gene_fusred3_eg286827
+fusred3_JAFFJM010000008.1	bed	CDS	962	71592	.	+	ID=cds_fusred3_tyr6555;Description=;parent=rna_fusred3_tyr6555
+fusred3_JAFFJM010000008.1	bed	CDS	7256	66883	.	-	ID=cds_fusred3_eg287300;Description=;parent=rna_fusred3_eg287300
+fusred3_JAFFJM010000008.1	bed	CDS	15129	58242	.	+	ID=cds_fusred3_eg287253;Description=;parent=rna_fusred3_eg287253
+fusred3_JAFFJM010000008.1	bed	CDS	18706	55538	.	-	ID=cds_fusred3_eg286921;Description=;parent=rna_fusred3_eg286921
+fusred3_JAFFJM010000008.1	bed	CDS	22957	51290	.	+	ID=cds_fusred3_eg286915;Description=;parent=rna_fusred3_eg286915
+fusred3_JAFFJM010000008.1	bed	CDS	24045	50226	.	+	ID=cds_fusred3_eg286910;Description=;parent=rna_fusred3_eg286910
+fusred3_JAFFJM010000008.1	bed	CDS	25138	47435	.	-	ID=cds_fusred3_d374056;Description=;parent=rna_fusred3_d374056
+fusred3_JAFFJM010000008.1	bed	CDS	29452	44807	.	+	ID=cds_fusred3_eg287295;Description=;parent=rna_fusred3_eg287295
+fusred3_JAFFJM010000008.1	bed	CDS	61254	12939	.	-	ID=cds_fusred3_eg286974;Description=;parent=rna_fusred3_eg286974
+fusred3_JAFFJM010000008.1	bed	CDS	69302	4552	.	+	ID=cds_fusred3_eg287233;Description=;parent=rna_fusred3_eg287233
+fusred3_JAFFJM010000008.1	bed	CDS	70425	3511	.	-	ID=cds_fusred3_eg286860;Description=;parent=rna_fusred3_eg286860
+fusred3_JAFFJM010000008.1	bed	CDS	71770	2516	.	-	ID=cds_fusred3_eg286827;Description=;parent=rna_fusred3_eg286827

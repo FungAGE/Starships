@@ -1,0 +1,37 @@
+fuscul6_LT598661.1	bed	region	1	71985	.	+	flank	ID=gene_fuscul6_tyr5449|DR|up;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	region	38	71944	.	+	flank	ID=gene_fuscul6_tyr5449|TIR|up;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	386	69437	.	+	cap	ID=gene_fuscul6_tyr5449;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	8623	63076	.	-	.	ID=gene_fuscul6_eg217540;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	13016	58433	.	+	.	ID=gene_fuscul6_eg218097;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	15338	56145	.	+	.	ID=gene_fuscul6_eg217498;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	16052	55428	.	-	.	ID=gene_fuscul6_eg218141;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	31623	39004	.	+	fre	ID=gene_fuscul6_fre11941;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	33637	37879	.	-	.	ID=gene_fuscul6_eg218235;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	36350	34116	.	+	d37	ID=gene_fuscul6_d373157;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	47946	23240	.	+	.	ID=gene_fuscul6_eg217567;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	66810	4664	.	+	.	ID=gene_fuscul6_eg217461;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	gene	67590	3433	.	-	.	ID=gene_fuscul6_eg218047;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	region	71935	46	.	+	flank	ID=gene_fuscul6_tyr5449|TIR|down;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	region	71987	0	.	+	flank	ID=gene_fuscul6_tyr5449|DR|down;Description=fuscul6_s05177;parent=fuscul6_LT598661.1
+fuscul6_LT598661.1	bed	RNA	386	69437	.	+	ID=rna_fuscul6_tyr5449;Description=;parent=gene_fuscul6_tyr5449
+fuscul6_LT598661.1	bed	RNA	8623	63076	.	-	ID=rna_fuscul6_eg217540;Description=;parent=gene_fuscul6_eg217540
+fuscul6_LT598661.1	bed	RNA	13016	58433	.	+	ID=rna_fuscul6_eg218097;Description=;parent=gene_fuscul6_eg218097
+fuscul6_LT598661.1	bed	RNA	15338	56145	.	+	ID=rna_fuscul6_eg217498;Description=;parent=gene_fuscul6_eg217498
+fuscul6_LT598661.1	bed	RNA	16052	55428	.	-	ID=rna_fuscul6_eg218141;Description=;parent=gene_fuscul6_eg218141
+fuscul6_LT598661.1	bed	RNA	31623	39004	.	+	ID=rna_fuscul6_fre11941;Description=;parent=gene_fuscul6_fre11941
+fuscul6_LT598661.1	bed	RNA	33637	37879	.	-	ID=rna_fuscul6_eg218235;Description=;parent=gene_fuscul6_eg218235
+fuscul6_LT598661.1	bed	RNA	36350	34116	.	+	ID=rna_fuscul6_d373157;Description=;parent=gene_fuscul6_d373157
+fuscul6_LT598661.1	bed	RNA	47946	23240	.	+	ID=rna_fuscul6_eg217567;Description=;parent=gene_fuscul6_eg217567
+fuscul6_LT598661.1	bed	RNA	66810	4664	.	+	ID=rna_fuscul6_eg217461;Description=;parent=gene_fuscul6_eg217461
+fuscul6_LT598661.1	bed	RNA	67590	3433	.	-	ID=rna_fuscul6_eg218047;Description=;parent=gene_fuscul6_eg218047
+fuscul6_LT598661.1	bed	CDS	386	69437	.	+	ID=cds_fuscul6_tyr5449;Description=;parent=rna_fuscul6_tyr5449
+fuscul6_LT598661.1	bed	CDS	8623	63076	.	-	ID=cds_fuscul6_eg217540;Description=;parent=rna_fuscul6_eg217540
+fuscul6_LT598661.1	bed	CDS	13016	58433	.	+	ID=cds_fuscul6_eg218097;Description=;parent=rna_fuscul6_eg218097
+fuscul6_LT598661.1	bed	CDS	15338	56145	.	+	ID=cds_fuscul6_eg217498;Description=;parent=rna_fuscul6_eg217498
+fuscul6_LT598661.1	bed	CDS	16052	55428	.	-	ID=cds_fuscul6_eg218141;Description=;parent=rna_fuscul6_eg218141
+fuscul6_LT598661.1	bed	CDS	31623	39004	.	+	ID=cds_fuscul6_fre11941;Description=;parent=rna_fuscul6_fre11941
+fuscul6_LT598661.1	bed	CDS	33637	37879	.	-	ID=cds_fuscul6_eg218235;Description=;parent=rna_fuscul6_eg218235
+fuscul6_LT598661.1	bed	CDS	36350	34116	.	+	ID=cds_fuscul6_d373157;Description=;parent=rna_fuscul6_d373157
+fuscul6_LT598661.1	bed	CDS	47946	23240	.	+	ID=cds_fuscul6_eg217567;Description=;parent=rna_fuscul6_eg217567
+fuscul6_LT598661.1	bed	CDS	66810	4664	.	+	ID=cds_fuscul6_eg217461;Description=;parent=rna_fuscul6_eg217461
+fuscul6_LT598661.1	bed	CDS	67590	3433	.	-	ID=cds_fuscul6_eg218047;Description=;parent=rna_fuscul6_eg218047

@@ -1,0 +1,37 @@
+aspnig10_LLBX01000009.1	bed	region	1	107167	.	-	flank	ID=gene_aspnig10_tyr2039|DR|down;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	region	13	107146	.	-	flank	ID=gene_aspnig10_tyr2039|TIR|down;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	1470	102807	.	-	nlr	ID=gene_aspnig10_nlr25791;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	16526	89435	.	-	.	ID=gene_aspnig10_eg104283;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	24747	81865	.	+	.	ID=gene_aspnig10_eg104272;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	30823	75892	.	-	.	ID=gene_aspnig10_eg103999;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	33031	72868	.	-	.	ID=gene_aspnig10_eg104319;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	38525	67599	.	+	.	ID=gene_aspnig10_eg104320;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	40354	65700	.	-	nlr	ID=gene_aspnig10_nlr25789;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	43237	63402	.	-	.	ID=gene_aspnig10_eg104279;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	49815	54770	.	-	d37	ID=gene_aspnig10_d371211;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	92174	11623	.	+	.	ID=gene_aspnig10_eg104231;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	gene	104543	481	.	-	cap	ID=gene_aspnig10_tyr2039;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	region	107154	7	.	-	flank	ID=gene_aspnig10_tyr2039|TIR|up;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	region	107169	0	.	-	flank	ID=gene_aspnig10_tyr2039|DR|up;Description=aspnig10_s01984;parent=aspnig10_LLBX01000009.1
+aspnig10_LLBX01000009.1	bed	RNA	1470	102807	.	-	ID=rna_aspnig10_nlr25791;Description=;parent=gene_aspnig10_nlr25791
+aspnig10_LLBX01000009.1	bed	RNA	16526	89435	.	-	ID=rna_aspnig10_eg104283;Description=;parent=gene_aspnig10_eg104283
+aspnig10_LLBX01000009.1	bed	RNA	24747	81865	.	+	ID=rna_aspnig10_eg104272;Description=;parent=gene_aspnig10_eg104272
+aspnig10_LLBX01000009.1	bed	RNA	30823	75892	.	-	ID=rna_aspnig10_eg103999;Description=;parent=gene_aspnig10_eg103999
+aspnig10_LLBX01000009.1	bed	RNA	33031	72868	.	-	ID=rna_aspnig10_eg104319;Description=;parent=gene_aspnig10_eg104319
+aspnig10_LLBX01000009.1	bed	RNA	38525	67599	.	+	ID=rna_aspnig10_eg104320;Description=;parent=gene_aspnig10_eg104320
+aspnig10_LLBX01000009.1	bed	RNA	40354	65700	.	-	ID=rna_aspnig10_nlr25789;Description=;parent=gene_aspnig10_nlr25789
+aspnig10_LLBX01000009.1	bed	RNA	43237	63402	.	-	ID=rna_aspnig10_eg104279;Description=;parent=gene_aspnig10_eg104279
+aspnig10_LLBX01000009.1	bed	RNA	49815	54770	.	-	ID=rna_aspnig10_d371211;Description=;parent=gene_aspnig10_d371211
+aspnig10_LLBX01000009.1	bed	RNA	92174	11623	.	+	ID=rna_aspnig10_eg104231;Description=;parent=gene_aspnig10_eg104231
+aspnig10_LLBX01000009.1	bed	RNA	104543	481	.	-	ID=rna_aspnig10_tyr2039;Description=;parent=gene_aspnig10_tyr2039
+aspnig10_LLBX01000009.1	bed	CDS	1470	102807	.	-	ID=cds_aspnig10_nlr25791;Description=;parent=rna_aspnig10_nlr25791
+aspnig10_LLBX01000009.1	bed	CDS	16526	89435	.	-	ID=cds_aspnig10_eg104283;Description=;parent=rna_aspnig10_eg104283
+aspnig10_LLBX01000009.1	bed	CDS	24747	81865	.	+	ID=cds_aspnig10_eg104272;Description=;parent=rna_aspnig10_eg104272
+aspnig10_LLBX01000009.1	bed	CDS	30823	75892	.	-	ID=cds_aspnig10_eg103999;Description=;parent=rna_aspnig10_eg103999
+aspnig10_LLBX01000009.1	bed	CDS	33031	72868	.	-	ID=cds_aspnig10_eg104319;Description=;parent=rna_aspnig10_eg104319
+aspnig10_LLBX01000009.1	bed	CDS	38525	67599	.	+	ID=cds_aspnig10_eg104320;Description=;parent=rna_aspnig10_eg104320
+aspnig10_LLBX01000009.1	bed	CDS	40354	65700	.	-	ID=cds_aspnig10_nlr25789;Description=;parent=rna_aspnig10_nlr25789
+aspnig10_LLBX01000009.1	bed	CDS	43237	63402	.	-	ID=cds_aspnig10_eg104279;Description=;parent=rna_aspnig10_eg104279
+aspnig10_LLBX01000009.1	bed	CDS	49815	54770	.	-	ID=cds_aspnig10_d371211;Description=;parent=rna_aspnig10_d371211
+aspnig10_LLBX01000009.1	bed	CDS	92174	11623	.	+	ID=cds_aspnig10_eg104231;Description=;parent=rna_aspnig10_eg104231
+aspnig10_LLBX01000009.1	bed	CDS	104543	481	.	-	ID=cds_aspnig10_tyr2039;Description=;parent=rna_aspnig10_tyr2039

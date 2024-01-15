@@ -1,0 +1,38 @@
+lasthe2_KZ107830.1	bed	region	1	72707	.	-	flank	ID=gene_lasthe2_KAF9638820.1|DR|down;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	19099	53421	.	+	.	ID=gene_lasthe2_KAF9638815.1;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	26089	45189	.	-	.	ID=gene_lasthe2_eg337562;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	28381	41161	.	-	plp	ID=gene_lasthe2_plp10632;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	31864	37516	.	+	d37	ID=gene_lasthe2_d374623;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	38692	32364	.	+	fre	ID=gene_lasthe2_fre20428;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	42452	29723	.	-	.	ID=gene_lasthe2_KAF9638816.1;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	49361	22760	.	-	.	ID=gene_lasthe2_KAF9638817.1;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	51980	20045	.	-	.	ID=gene_lasthe2_eg337667;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	58361	12667	.	+	.	ID=gene_lasthe2_KAF9638818.1;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	61536	9331	.	-	.	ID=gene_lasthe2_eg337696;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	65125	6912	.	-	.	ID=gene_lasthe2_KAF9638819.1;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	gene	69639	574	.	-	cap	ID=gene_lasthe2_KAF9638820.1;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	region	72708	0	.	-	flank	ID=gene_lasthe2_KAF9638820.1|DR|up;Description=lasthe2_s07469;parent=lasthe2_KZ107830.1
+lasthe2_KZ107830.1	bed	RNA	19099	53421	.	+	ID=rna_lasthe2_KAF9638815.1;Description=;parent=gene_lasthe2_KAF9638815.1
+lasthe2_KZ107830.1	bed	RNA	26089	45189	.	-	ID=rna_lasthe2_eg337562;Description=;parent=gene_lasthe2_eg337562
+lasthe2_KZ107830.1	bed	RNA	28381	41161	.	-	ID=rna_lasthe2_plp10632;Description=;parent=gene_lasthe2_plp10632
+lasthe2_KZ107830.1	bed	RNA	31864	37516	.	+	ID=rna_lasthe2_d374623;Description=;parent=gene_lasthe2_d374623
+lasthe2_KZ107830.1	bed	RNA	38692	32364	.	+	ID=rna_lasthe2_fre20428;Description=;parent=gene_lasthe2_fre20428
+lasthe2_KZ107830.1	bed	RNA	42452	29723	.	-	ID=rna_lasthe2_KAF9638816.1;Description=;parent=gene_lasthe2_KAF9638816.1
+lasthe2_KZ107830.1	bed	RNA	49361	22760	.	-	ID=rna_lasthe2_KAF9638817.1;Description=;parent=gene_lasthe2_KAF9638817.1
+lasthe2_KZ107830.1	bed	RNA	51980	20045	.	-	ID=rna_lasthe2_eg337667;Description=;parent=gene_lasthe2_eg337667
+lasthe2_KZ107830.1	bed	RNA	58361	12667	.	+	ID=rna_lasthe2_KAF9638818.1;Description=;parent=gene_lasthe2_KAF9638818.1
+lasthe2_KZ107830.1	bed	RNA	61536	9331	.	-	ID=rna_lasthe2_eg337696;Description=;parent=gene_lasthe2_eg337696
+lasthe2_KZ107830.1	bed	RNA	65125	6912	.	-	ID=rna_lasthe2_KAF9638819.1;Description=;parent=gene_lasthe2_KAF9638819.1
+lasthe2_KZ107830.1	bed	RNA	69639	574	.	-	ID=rna_lasthe2_KAF9638820.1;Description=;parent=gene_lasthe2_KAF9638820.1
+lasthe2_KZ107830.1	bed	CDS	19099	53421	.	+	ID=cds_lasthe2_KAF9638815.1;Description=;parent=rna_lasthe2_KAF9638815.1
+lasthe2_KZ107830.1	bed	CDS	26089	45189	.	-	ID=cds_lasthe2_eg337562;Description=;parent=rna_lasthe2_eg337562
+lasthe2_KZ107830.1	bed	CDS	28381	41161	.	-	ID=cds_lasthe2_plp10632;Description=;parent=rna_lasthe2_plp10632
+lasthe2_KZ107830.1	bed	CDS	31864	37516	.	+	ID=cds_lasthe2_d374623;Description=;parent=rna_lasthe2_d374623
+lasthe2_KZ107830.1	bed	CDS	38692	32364	.	+	ID=cds_lasthe2_fre20428;Description=;parent=rna_lasthe2_fre20428
+lasthe2_KZ107830.1	bed	CDS	42452	29723	.	-	ID=cds_lasthe2_KAF9638816.1;Description=;parent=rna_lasthe2_KAF9638816.1
+lasthe2_KZ107830.1	bed	CDS	49361	22760	.	-	ID=cds_lasthe2_KAF9638817.1;Description=;parent=rna_lasthe2_KAF9638817.1
+lasthe2_KZ107830.1	bed	CDS	51980	20045	.	-	ID=cds_lasthe2_eg337667;Description=;parent=rna_lasthe2_eg337667
+lasthe2_KZ107830.1	bed	CDS	58361	12667	.	+	ID=cds_lasthe2_KAF9638818.1;Description=;parent=rna_lasthe2_KAF9638818.1
+lasthe2_KZ107830.1	bed	CDS	61536	9331	.	-	ID=cds_lasthe2_eg337696;Description=;parent=rna_lasthe2_eg337696
+lasthe2_KZ107830.1	bed	CDS	65125	6912	.	-	ID=cds_lasthe2_KAF9638819.1;Description=;parent=rna_lasthe2_KAF9638819.1
+lasthe2_KZ107830.1	bed	CDS	69639	574	.	-	ID=cds_lasthe2_KAF9638820.1;Description=;parent=rna_lasthe2_KAF9638820.1

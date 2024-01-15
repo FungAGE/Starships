@@ -1,0 +1,43 @@
+fuscir9_CM038543.1	bed	region	1	75480	.	-	flank	ID=gene_fuscir9_tyr5371|DR|down;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	region	7	75464	.	-	flank	ID=gene_fuscir9_tyr5371|TIR|down;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	1679	72190	.	-	.	ID=gene_fuscir9_eg200064;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	4393	70567	.	+	.	ID=gene_fuscir9_eg200545;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	5571	69017	.	+	.	ID=gene_fuscir9_eg200393;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	7801	65581	.	-	.	ID=gene_fuscir9_eg200408;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	15778	59173	.	+	.	ID=gene_fuscir9_eg200266;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	22404	52295	.	+	.	ID=gene_fuscir9_eg200034;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	47538	27578	.	-	.	ID=gene_fuscir9_eg200622;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	50089	23272	.	+	d37	ID=gene_fuscir9_d373123;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	52822	22195	.	-	.	ID=gene_fuscir9_eg200215;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	53892	21068	.	-	.	ID=gene_fuscir9_eg200222;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	58097	16905	.	+	.	ID=gene_fuscir9_eg200227;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	61009	13121	.	-	.	ID=gene_fuscir9_eg200576;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	gene	72357	1766	.	-	cap	ID=gene_fuscir9_tyr5371;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	region	75466	8	.	-	flank	ID=gene_fuscir9_tyr5371|TIR|up;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	region	75482	0	.	-	flank	ID=gene_fuscir9_tyr5371|DR|up;Description=fuscir9_s05100;parent=fuscir9_CM038543.1
+fuscir9_CM038543.1	bed	RNA	1679	72190	.	-	ID=rna_fuscir9_eg200064;Description=;parent=gene_fuscir9_eg200064
+fuscir9_CM038543.1	bed	RNA	4393	70567	.	+	ID=rna_fuscir9_eg200545;Description=;parent=gene_fuscir9_eg200545
+fuscir9_CM038543.1	bed	RNA	5571	69017	.	+	ID=rna_fuscir9_eg200393;Description=;parent=gene_fuscir9_eg200393
+fuscir9_CM038543.1	bed	RNA	7801	65581	.	-	ID=rna_fuscir9_eg200408;Description=;parent=gene_fuscir9_eg200408
+fuscir9_CM038543.1	bed	RNA	15778	59173	.	+	ID=rna_fuscir9_eg200266;Description=;parent=gene_fuscir9_eg200266
+fuscir9_CM038543.1	bed	RNA	22404	52295	.	+	ID=rna_fuscir9_eg200034;Description=;parent=gene_fuscir9_eg200034
+fuscir9_CM038543.1	bed	RNA	47538	27578	.	-	ID=rna_fuscir9_eg200622;Description=;parent=gene_fuscir9_eg200622
+fuscir9_CM038543.1	bed	RNA	50089	23272	.	+	ID=rna_fuscir9_d373123;Description=;parent=gene_fuscir9_d373123
+fuscir9_CM038543.1	bed	RNA	52822	22195	.	-	ID=rna_fuscir9_eg200215;Description=;parent=gene_fuscir9_eg200215
+fuscir9_CM038543.1	bed	RNA	53892	21068	.	-	ID=rna_fuscir9_eg200222;Description=;parent=gene_fuscir9_eg200222
+fuscir9_CM038543.1	bed	RNA	58097	16905	.	+	ID=rna_fuscir9_eg200227;Description=;parent=gene_fuscir9_eg200227
+fuscir9_CM038543.1	bed	RNA	61009	13121	.	-	ID=rna_fuscir9_eg200576;Description=;parent=gene_fuscir9_eg200576
+fuscir9_CM038543.1	bed	RNA	72357	1766	.	-	ID=rna_fuscir9_tyr5371;Description=;parent=gene_fuscir9_tyr5371
+fuscir9_CM038543.1	bed	CDS	1679	72190	.	-	ID=cds_fuscir9_eg200064;Description=;parent=rna_fuscir9_eg200064
+fuscir9_CM038543.1	bed	CDS	4393	70567	.	+	ID=cds_fuscir9_eg200545;Description=;parent=rna_fuscir9_eg200545
+fuscir9_CM038543.1	bed	CDS	5571	69017	.	+	ID=cds_fuscir9_eg200393;Description=;parent=rna_fuscir9_eg200393
+fuscir9_CM038543.1	bed	CDS	7801	65581	.	-	ID=cds_fuscir9_eg200408;Description=;parent=rna_fuscir9_eg200408
+fuscir9_CM038543.1	bed	CDS	15778	59173	.	+	ID=cds_fuscir9_eg200266;Description=;parent=rna_fuscir9_eg200266
+fuscir9_CM038543.1	bed	CDS	22404	52295	.	+	ID=cds_fuscir9_eg200034;Description=;parent=rna_fuscir9_eg200034
+fuscir9_CM038543.1	bed	CDS	47538	27578	.	-	ID=cds_fuscir9_eg200622;Description=;parent=rna_fuscir9_eg200622
+fuscir9_CM038543.1	bed	CDS	50089	23272	.	+	ID=cds_fuscir9_d373123;Description=;parent=rna_fuscir9_d373123
+fuscir9_CM038543.1	bed	CDS	52822	22195	.	-	ID=cds_fuscir9_eg200215;Description=;parent=rna_fuscir9_eg200215
+fuscir9_CM038543.1	bed	CDS	53892	21068	.	-	ID=cds_fuscir9_eg200222;Description=;parent=rna_fuscir9_eg200222
+fuscir9_CM038543.1	bed	CDS	58097	16905	.	+	ID=cds_fuscir9_eg200227;Description=;parent=rna_fuscir9_eg200227
+fuscir9_CM038543.1	bed	CDS	61009	13121	.	-	ID=cds_fuscir9_eg200576;Description=;parent=rna_fuscir9_eg200576
+fuscir9_CM038543.1	bed	CDS	72357	1766	.	-	ID=cds_fuscir9_tyr5371;Description=;parent=rna_fuscir9_tyr5371

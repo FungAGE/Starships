@@ -1,0 +1,58 @@
+aspneo8_QDFW01000097.1	bed	region	1	73378	.	+	flank	ID=gene_aspneo8_tyr2006|DR|up;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	region	42	73324	.	+	flank	ID=gene_aspneo8_tyr2006|TIR|up;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	286	70367	.	+	cap	ID=gene_aspneo8_tyr2006;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	3768	67117	.	-	d37	ID=gene_aspneo8_d371192;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	12601	57360	.	+	plp	ID=gene_aspneo8_plp1819;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	17787	55066	.	+	.	ID=gene_aspneo8_eg99339;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	19015	53634	.	+	.	ID=gene_aspneo8_eg99316;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	20290	51570	.	+	.	ID=gene_aspneo8_eg99314;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	22520	49720	.	+	.	ID=gene_aspneo8_eg99340;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	30190	43026	.	+	.	ID=gene_aspneo8_eg99321;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	38144	33370	.	+	.	ID=gene_aspneo8_eg99306;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	40110	33070	.	-	.	ID=gene_aspneo8_eg99345;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	46246	26650	.	-	.	ID=gene_aspneo8_eg99344;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	48657	24268	.	+	.	ID=gene_aspneo8_eg99341;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	50563	21471	.	-	.	ID=gene_aspneo8_eg99343;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	54396	18565	.	+	.	ID=gene_aspneo8_eg99315;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	55947	17152	.	+	.	ID=gene_aspneo8_eg99346;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	56520	16400	.	+	.	ID=gene_aspneo8_eg99347;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	61052	11996	.	+	.	ID=gene_aspneo8_eg99309;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	gene	64681	7518	.	+	.	ID=gene_aspneo8_eg99333;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	region	73360	6	.	+	flank	ID=gene_aspneo8_tyr2006|TIR|down;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	region	73380	0	.	+	flank	ID=gene_aspneo8_tyr2006|DR|down;Description=aspneo8_s01897;parent=aspneo8_QDFW01000097.1
+aspneo8_QDFW01000097.1	bed	RNA	286	70367	.	+	ID=rna_aspneo8_tyr2006;Description=;parent=gene_aspneo8_tyr2006
+aspneo8_QDFW01000097.1	bed	RNA	3768	67117	.	-	ID=rna_aspneo8_d371192;Description=;parent=gene_aspneo8_d371192
+aspneo8_QDFW01000097.1	bed	RNA	12601	57360	.	+	ID=rna_aspneo8_plp1819;Description=;parent=gene_aspneo8_plp1819
+aspneo8_QDFW01000097.1	bed	RNA	17787	55066	.	+	ID=rna_aspneo8_eg99339;Description=;parent=gene_aspneo8_eg99339
+aspneo8_QDFW01000097.1	bed	RNA	19015	53634	.	+	ID=rna_aspneo8_eg99316;Description=;parent=gene_aspneo8_eg99316
+aspneo8_QDFW01000097.1	bed	RNA	20290	51570	.	+	ID=rna_aspneo8_eg99314;Description=;parent=gene_aspneo8_eg99314
+aspneo8_QDFW01000097.1	bed	RNA	22520	49720	.	+	ID=rna_aspneo8_eg99340;Description=;parent=gene_aspneo8_eg99340
+aspneo8_QDFW01000097.1	bed	RNA	30190	43026	.	+	ID=rna_aspneo8_eg99321;Description=;parent=gene_aspneo8_eg99321
+aspneo8_QDFW01000097.1	bed	RNA	38144	33370	.	+	ID=rna_aspneo8_eg99306;Description=;parent=gene_aspneo8_eg99306
+aspneo8_QDFW01000097.1	bed	RNA	40110	33070	.	-	ID=rna_aspneo8_eg99345;Description=;parent=gene_aspneo8_eg99345
+aspneo8_QDFW01000097.1	bed	RNA	46246	26650	.	-	ID=rna_aspneo8_eg99344;Description=;parent=gene_aspneo8_eg99344
+aspneo8_QDFW01000097.1	bed	RNA	48657	24268	.	+	ID=rna_aspneo8_eg99341;Description=;parent=gene_aspneo8_eg99341
+aspneo8_QDFW01000097.1	bed	RNA	50563	21471	.	-	ID=rna_aspneo8_eg99343;Description=;parent=gene_aspneo8_eg99343
+aspneo8_QDFW01000097.1	bed	RNA	54396	18565	.	+	ID=rna_aspneo8_eg99315;Description=;parent=gene_aspneo8_eg99315
+aspneo8_QDFW01000097.1	bed	RNA	55947	17152	.	+	ID=rna_aspneo8_eg99346;Description=;parent=gene_aspneo8_eg99346
+aspneo8_QDFW01000097.1	bed	RNA	56520	16400	.	+	ID=rna_aspneo8_eg99347;Description=;parent=gene_aspneo8_eg99347
+aspneo8_QDFW01000097.1	bed	RNA	61052	11996	.	+	ID=rna_aspneo8_eg99309;Description=;parent=gene_aspneo8_eg99309
+aspneo8_QDFW01000097.1	bed	RNA	64681	7518	.	+	ID=rna_aspneo8_eg99333;Description=;parent=gene_aspneo8_eg99333
+aspneo8_QDFW01000097.1	bed	CDS	286	70367	.	+	ID=cds_aspneo8_tyr2006;Description=;parent=rna_aspneo8_tyr2006
+aspneo8_QDFW01000097.1	bed	CDS	3768	67117	.	-	ID=cds_aspneo8_d371192;Description=;parent=rna_aspneo8_d371192
+aspneo8_QDFW01000097.1	bed	CDS	12601	57360	.	+	ID=cds_aspneo8_plp1819;Description=;parent=rna_aspneo8_plp1819
+aspneo8_QDFW01000097.1	bed	CDS	17787	55066	.	+	ID=cds_aspneo8_eg99339;Description=;parent=rna_aspneo8_eg99339
+aspneo8_QDFW01000097.1	bed	CDS	19015	53634	.	+	ID=cds_aspneo8_eg99316;Description=;parent=rna_aspneo8_eg99316
+aspneo8_QDFW01000097.1	bed	CDS	20290	51570	.	+	ID=cds_aspneo8_eg99314;Description=;parent=rna_aspneo8_eg99314
+aspneo8_QDFW01000097.1	bed	CDS	22520	49720	.	+	ID=cds_aspneo8_eg99340;Description=;parent=rna_aspneo8_eg99340
+aspneo8_QDFW01000097.1	bed	CDS	30190	43026	.	+	ID=cds_aspneo8_eg99321;Description=;parent=rna_aspneo8_eg99321
+aspneo8_QDFW01000097.1	bed	CDS	38144	33370	.	+	ID=cds_aspneo8_eg99306;Description=;parent=rna_aspneo8_eg99306
+aspneo8_QDFW01000097.1	bed	CDS	40110	33070	.	-	ID=cds_aspneo8_eg99345;Description=;parent=rna_aspneo8_eg99345
+aspneo8_QDFW01000097.1	bed	CDS	46246	26650	.	-	ID=cds_aspneo8_eg99344;Description=;parent=rna_aspneo8_eg99344
+aspneo8_QDFW01000097.1	bed	CDS	48657	24268	.	+	ID=cds_aspneo8_eg99341;Description=;parent=rna_aspneo8_eg99341
+aspneo8_QDFW01000097.1	bed	CDS	50563	21471	.	-	ID=cds_aspneo8_eg99343;Description=;parent=rna_aspneo8_eg99343
+aspneo8_QDFW01000097.1	bed	CDS	54396	18565	.	+	ID=cds_aspneo8_eg99315;Description=;parent=rna_aspneo8_eg99315
+aspneo8_QDFW01000097.1	bed	CDS	55947	17152	.	+	ID=cds_aspneo8_eg99346;Description=;parent=rna_aspneo8_eg99346
+aspneo8_QDFW01000097.1	bed	CDS	56520	16400	.	+	ID=cds_aspneo8_eg99347;Description=;parent=rna_aspneo8_eg99347
+aspneo8_QDFW01000097.1	bed	CDS	61052	11996	.	+	ID=cds_aspneo8_eg99309;Description=;parent=rna_aspneo8_eg99309
+aspneo8_QDFW01000097.1	bed	CDS	64681	7518	.	+	ID=cds_aspneo8_eg99333;Description=;parent=rna_aspneo8_eg99333

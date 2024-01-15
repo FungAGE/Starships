@@ -1,0 +1,17 @@
+fuscul2_PVEM01000006.1	bed	region	1	26433	.	-	flank	ID=gene_fuscul2_tyr5437|DR|down;Description=fuscul2_s05164;parent=fuscul2_PVEM01000006.1
+fuscul2_PVEM01000006.1	bed	gene	474	25151	.	-	.	ID=gene_fuscul2_eg210376;Description=fuscul2_s05164;parent=fuscul2_PVEM01000006.1
+fuscul2_PVEM01000006.1	bed	gene	6542	19386	.	+	.	ID=gene_fuscul2_eg211042;Description=fuscul2_s05164;parent=fuscul2_PVEM01000006.1
+fuscul2_PVEM01000006.1	bed	gene	7082	18942	.	+	.	ID=gene_fuscul2_eg210995;Description=fuscul2_s05164;parent=fuscul2_PVEM01000006.1
+fuscul2_PVEM01000006.1	bed	gene	18537	7319	.	+	.	ID=gene_fuscul2_eg210336;Description=fuscul2_s05164;parent=fuscul2_PVEM01000006.1
+fuscul2_PVEM01000006.1	bed	gene	24232	1142	.	-	cap	ID=gene_fuscul2_tyr5437;Description=fuscul2_s05164;parent=fuscul2_PVEM01000006.1
+fuscul2_PVEM01000006.1	bed	region	26434	0	.	-	flank	ID=gene_fuscul2_tyr5437|DR|up;Description=fuscul2_s05164;parent=fuscul2_PVEM01000006.1
+fuscul2_PVEM01000006.1	bed	RNA	474	25151	.	-	ID=rna_fuscul2_eg210376;Description=;parent=gene_fuscul2_eg210376
+fuscul2_PVEM01000006.1	bed	RNA	6542	19386	.	+	ID=rna_fuscul2_eg211042;Description=;parent=gene_fuscul2_eg211042
+fuscul2_PVEM01000006.1	bed	RNA	7082	18942	.	+	ID=rna_fuscul2_eg210995;Description=;parent=gene_fuscul2_eg210995
+fuscul2_PVEM01000006.1	bed	RNA	18537	7319	.	+	ID=rna_fuscul2_eg210336;Description=;parent=gene_fuscul2_eg210336
+fuscul2_PVEM01000006.1	bed	RNA	24232	1142	.	-	ID=rna_fuscul2_tyr5437;Description=;parent=gene_fuscul2_tyr5437
+fuscul2_PVEM01000006.1	bed	CDS	474	25151	.	-	ID=cds_fuscul2_eg210376;Description=;parent=rna_fuscul2_eg210376
+fuscul2_PVEM01000006.1	bed	CDS	6542	19386	.	+	ID=cds_fuscul2_eg211042;Description=;parent=rna_fuscul2_eg211042
+fuscul2_PVEM01000006.1	bed	CDS	7082	18942	.	+	ID=cds_fuscul2_eg210995;Description=;parent=rna_fuscul2_eg210995
+fuscul2_PVEM01000006.1	bed	CDS	18537	7319	.	+	ID=cds_fuscul2_eg210336;Description=;parent=rna_fuscul2_eg210336
+fuscul2_PVEM01000006.1	bed	CDS	24232	1142	.	-	ID=cds_fuscul2_tyr5437;Description=;parent=rna_fuscul2_tyr5437

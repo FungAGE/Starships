@@ -1,0 +1,17 @@
+blagil1_GG657449.1	bed	region	1	82409	.	-	flank	ID=gene_blagil1_tyr3498|DR|down;Description=blagil1_s03291;parent=blagil1_GG657449.1
+blagil1_GG657449.1	bed	gene	19562	62513	.	+	.	ID=gene_blagil1_eg174328;Description=blagil1_s03291;parent=blagil1_GG657449.1
+blagil1_GG657449.1	bed	gene	34878	46975	.	+	.	ID=gene_blagil1_eg174476;Description=blagil1_s03291;parent=blagil1_GG657449.1
+blagil1_GG657449.1	bed	gene	55985	25847	.	+	.	ID=gene_blagil1_OAT04318.1;Description=blagil1_s03291;parent=blagil1_GG657449.1
+blagil1_GG657449.1	bed	gene	67603	13283	.	-	.	ID=gene_blagil1_eg174426;Description=blagil1_s03291;parent=blagil1_GG657449.1
+blagil1_GG657449.1	bed	gene	80194	603	.	-	cap	ID=gene_blagil1_tyr3498;Description=blagil1_s03291;parent=blagil1_GG657449.1
+blagil1_GG657449.1	bed	region	82409	0	.	-	flank	ID=gene_blagil1_tyr3498|DR|up;Description=blagil1_s03291;parent=blagil1_GG657449.1
+blagil1_GG657449.1	bed	RNA	19562	62513	.	+	ID=rna_blagil1_eg174328;Description=;parent=gene_blagil1_eg174328
+blagil1_GG657449.1	bed	RNA	34878	46975	.	+	ID=rna_blagil1_eg174476;Description=;parent=gene_blagil1_eg174476
+blagil1_GG657449.1	bed	RNA	55985	25847	.	+	ID=rna_blagil1_OAT04318.1;Description=;parent=gene_blagil1_OAT04318.1
+blagil1_GG657449.1	bed	RNA	67603	13283	.	-	ID=rna_blagil1_eg174426;Description=;parent=gene_blagil1_eg174426
+blagil1_GG657449.1	bed	RNA	80194	603	.	-	ID=rna_blagil1_tyr3498;Description=;parent=gene_blagil1_tyr3498
+blagil1_GG657449.1	bed	CDS	19562	62513	.	+	ID=cds_blagil1_eg174328;Description=;parent=rna_blagil1_eg174328
+blagil1_GG657449.1	bed	CDS	34878	46975	.	+	ID=cds_blagil1_eg174476;Description=;parent=rna_blagil1_eg174476
+blagil1_GG657449.1	bed	CDS	55985	25847	.	+	ID=cds_blagil1_OAT04318.1;Description=;parent=rna_blagil1_OAT04318.1
+blagil1_GG657449.1	bed	CDS	67603	13283	.	-	ID=cds_blagil1_eg174426;Description=;parent=rna_blagil1_eg174426
+blagil1_GG657449.1	bed	CDS	80194	603	.	-	ID=cds_blagil1_tyr3498;Description=;parent=rna_blagil1_tyr3498

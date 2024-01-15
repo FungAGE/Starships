@@ -1,0 +1,16 @@
+altalt7_VZUP01000002.1	bed	region	1	41764	.	+	flank	ID=gene_altalt7_tyr80|DR|up;Description=altalt7_s00066;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	region	7	41754	.	+	flank	ID=gene_altalt7_tyr80|TIR|up;Description=altalt7_s00066;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	966	38599	.	+	cap	ID=gene_altalt7_tyr80;Description=altalt7_s00066;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	23975	16464	.	-	.	ID=gene_altalt7_eg1829;Description=altalt7_s00066;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	29936	10608	.	+	.	ID=gene_altalt7_eg2179;Description=altalt7_s00066;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	gene	33657	6977	.	+	.	ID=gene_altalt7_eg2389;Description=altalt7_s00066;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	region	41741	20	.	+	flank	ID=gene_altalt7_tyr80|TIR|down;Description=altalt7_s00066;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	region	41766	0	.	+	flank	ID=gene_altalt7_tyr80|DR|down;Description=altalt7_s00066;parent=altalt7_VZUP01000002.1
+altalt7_VZUP01000002.1	bed	RNA	966	38599	.	+	ID=rna_altalt7_tyr80;Description=;parent=gene_altalt7_tyr80
+altalt7_VZUP01000002.1	bed	RNA	23975	16464	.	-	ID=rna_altalt7_eg1829;Description=;parent=gene_altalt7_eg1829
+altalt7_VZUP01000002.1	bed	RNA	29936	10608	.	+	ID=rna_altalt7_eg2179;Description=;parent=gene_altalt7_eg2179
+altalt7_VZUP01000002.1	bed	RNA	33657	6977	.	+	ID=rna_altalt7_eg2389;Description=;parent=gene_altalt7_eg2389
+altalt7_VZUP01000002.1	bed	CDS	966	38599	.	+	ID=cds_altalt7_tyr80;Description=;parent=rna_altalt7_tyr80
+altalt7_VZUP01000002.1	bed	CDS	23975	16464	.	-	ID=cds_altalt7_eg1829;Description=;parent=rna_altalt7_eg1829
+altalt7_VZUP01000002.1	bed	CDS	29936	10608	.	+	ID=cds_altalt7_eg2179;Description=;parent=rna_altalt7_eg2179
+altalt7_VZUP01000002.1	bed	CDS	33657	6977	.	+	ID=cds_altalt7_eg2389;Description=;parent=rna_altalt7_eg2389

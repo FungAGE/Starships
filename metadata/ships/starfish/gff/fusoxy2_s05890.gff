@@ -1,0 +1,148 @@
+fusoxy2_Chromosome13	bed	region	1	88896	.	-	flank	ID=gene_fusoxy2_490425|DR|down;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	region	8	88886	.	-	flank	ID=gene_fusoxy2_490425|TIR|down;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	1275	84708	.	+	.	ID=gene_fusoxy2_470912;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	3868	82525	.	+	.	ID=gene_fusoxy2_312956;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	7625	79397	.	-	.	ID=gene_fusoxy2_419421;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	10333	76874	.	+	.	ID=gene_fusoxy2_419430;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	12323	75655	.	-	.	ID=gene_fusoxy2_419434;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	14442	73742	.	-	.	ID=gene_fusoxy2_443771;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	16287	72103	.	-	.	ID=gene_fusoxy2_443772;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	17152	71023	.	-	.	ID=gene_fusoxy2_274522;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	18545	69795	.	+	.	ID=gene_fusoxy2_274224;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	20259	67972	.	+	.	ID=gene_fusoxy2_214491;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	21112	66351	.	+	.	ID=gene_fusoxy2_273800;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	22667	65640	.	-	.	ID=gene_fusoxy2_275222;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	23705	64701	.	-	.	ID=gene_fusoxy2_274787;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	25658	61605	.	-	.	ID=gene_fusoxy2_274508;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	28261	59061	.	-	.	ID=gene_fusoxy2_419445;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	32124	56630	.	+	.	ID=gene_fusoxy2_275416;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	32627	55785	.	+	.	ID=gene_fusoxy2_458180;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	33149	54921	.	-	.	ID=gene_fusoxy2_458181;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	34461	53779	.	+	.	ID=gene_fusoxy2_348118;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	35151	52354	.	+	.	ID=gene_fusoxy2_470921;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	37955	49865	.	+	.	ID=gene_fusoxy2_348121;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	39298	46440	.	+	.	ID=gene_fusoxy2_419450;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	42688	44486	.	+	.	ID=gene_fusoxy2_506162;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	44518	42421	.	-	.	ID=gene_fusoxy2_443788;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	47085	40048	.	-	.	ID=gene_fusoxy2_470923;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	49323	38976	.	+	.	ID=gene_fusoxy2_490408;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	53042	33436	.	-	.	ID=gene_fusoxy2_348129;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	55731	31052	.	+	d37	ID=gene_fusoxy2_274810:470925;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	58291	29824	.	-	.	ID=gene_fusoxy2_419456;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	59578	25260	.	+	nlr	ID=gene_fusoxy2_275205:419459;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	64087	23986	.	-	.	ID=gene_fusoxy2_506167;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	65145	23326	.	+	.	ID=gene_fusoxy2_274668;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	66063	21696	.	-	.	ID=gene_fusoxy2_274829;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	68557	19600	.	+	.	ID=gene_fusoxy2_368164;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	69569	18947	.	-	.	ID=gene_fusoxy2_443796;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	70287	17694	.	+	.	ID=gene_fusoxy2_419461;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	71253	16289	.	-	.	ID=gene_fusoxy2_368166;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	73962	14671	.	-	.	ID=gene_fusoxy2_443798;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	74401	13723	.	-	.	ID=gene_fusoxy2_490420;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	75533	12570	.	-	.	ID=gene_fusoxy2_273890;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	77173	11398	.	+	.	ID=gene_fusoxy2_273803;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	77608	9515	.	-	.	ID=gene_fusoxy2_443800;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	79796	8326	.	+	.	ID=gene_fusoxy2_443801;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	80989	7167	.	-	.	ID=gene_fusoxy2_274825;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	82775	5321	.	+	.	ID=gene_fusoxy2_274333;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	83977	3589	.	-	cap	ID=gene_fusoxy2_490425;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	86905	370	.	+	.	ID=gene_fusoxy2_eg246304;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	gene	87487	1216	.	-	.	ID=gene_fusoxy2_eg246547;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	region	88886	7	.	-	flank	ID=gene_fusoxy2_490425|TIR|up;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	region	88898	0	.	-	flank	ID=gene_fusoxy2_490425|DR|up;Description=fusoxy2_s05890;parent=fusoxy2_Chromosome13
+fusoxy2_Chromosome13	bed	RNA	1275	84708	.	+	ID=rna_fusoxy2_470912;Description=;parent=gene_fusoxy2_470912
+fusoxy2_Chromosome13	bed	RNA	3868	82525	.	+	ID=rna_fusoxy2_312956;Description=;parent=gene_fusoxy2_312956
+fusoxy2_Chromosome13	bed	RNA	7625	79397	.	-	ID=rna_fusoxy2_419421;Description=;parent=gene_fusoxy2_419421
+fusoxy2_Chromosome13	bed	RNA	10333	76874	.	+	ID=rna_fusoxy2_419430;Description=;parent=gene_fusoxy2_419430
+fusoxy2_Chromosome13	bed	RNA	12323	75655	.	-	ID=rna_fusoxy2_419434;Description=;parent=gene_fusoxy2_419434
+fusoxy2_Chromosome13	bed	RNA	14442	73742	.	-	ID=rna_fusoxy2_443771;Description=;parent=gene_fusoxy2_443771
+fusoxy2_Chromosome13	bed	RNA	16287	72103	.	-	ID=rna_fusoxy2_443772;Description=;parent=gene_fusoxy2_443772
+fusoxy2_Chromosome13	bed	RNA	17152	71023	.	-	ID=rna_fusoxy2_274522;Description=;parent=gene_fusoxy2_274522
+fusoxy2_Chromosome13	bed	RNA	18545	69795	.	+	ID=rna_fusoxy2_274224;Description=;parent=gene_fusoxy2_274224
+fusoxy2_Chromosome13	bed	RNA	20259	67972	.	+	ID=rna_fusoxy2_214491;Description=;parent=gene_fusoxy2_214491
+fusoxy2_Chromosome13	bed	RNA	21112	66351	.	+	ID=rna_fusoxy2_273800;Description=;parent=gene_fusoxy2_273800
+fusoxy2_Chromosome13	bed	RNA	22667	65640	.	-	ID=rna_fusoxy2_275222;Description=;parent=gene_fusoxy2_275222
+fusoxy2_Chromosome13	bed	RNA	23705	64701	.	-	ID=rna_fusoxy2_274787;Description=;parent=gene_fusoxy2_274787
+fusoxy2_Chromosome13	bed	RNA	25658	61605	.	-	ID=rna_fusoxy2_274508;Description=;parent=gene_fusoxy2_274508
+fusoxy2_Chromosome13	bed	RNA	28261	59061	.	-	ID=rna_fusoxy2_419445;Description=;parent=gene_fusoxy2_419445
+fusoxy2_Chromosome13	bed	RNA	32124	56630	.	+	ID=rna_fusoxy2_275416;Description=;parent=gene_fusoxy2_275416
+fusoxy2_Chromosome13	bed	RNA	32627	55785	.	+	ID=rna_fusoxy2_458180;Description=;parent=gene_fusoxy2_458180
+fusoxy2_Chromosome13	bed	RNA	33149	54921	.	-	ID=rna_fusoxy2_458181;Description=;parent=gene_fusoxy2_458181
+fusoxy2_Chromosome13	bed	RNA	34461	53779	.	+	ID=rna_fusoxy2_348118;Description=;parent=gene_fusoxy2_348118
+fusoxy2_Chromosome13	bed	RNA	35151	52354	.	+	ID=rna_fusoxy2_470921;Description=;parent=gene_fusoxy2_470921
+fusoxy2_Chromosome13	bed	RNA	37955	49865	.	+	ID=rna_fusoxy2_348121;Description=;parent=gene_fusoxy2_348121
+fusoxy2_Chromosome13	bed	RNA	39298	46440	.	+	ID=rna_fusoxy2_419450;Description=;parent=gene_fusoxy2_419450
+fusoxy2_Chromosome13	bed	RNA	42688	44486	.	+	ID=rna_fusoxy2_506162;Description=;parent=gene_fusoxy2_506162
+fusoxy2_Chromosome13	bed	RNA	44518	42421	.	-	ID=rna_fusoxy2_443788;Description=;parent=gene_fusoxy2_443788
+fusoxy2_Chromosome13	bed	RNA	47085	40048	.	-	ID=rna_fusoxy2_470923;Description=;parent=gene_fusoxy2_470923
+fusoxy2_Chromosome13	bed	RNA	49323	38976	.	+	ID=rna_fusoxy2_490408;Description=;parent=gene_fusoxy2_490408
+fusoxy2_Chromosome13	bed	RNA	53042	33436	.	-	ID=rna_fusoxy2_348129;Description=;parent=gene_fusoxy2_348129
+fusoxy2_Chromosome13	bed	RNA	55731	31052	.	+	ID=rna_fusoxy2_274810:470925;Description=;parent=gene_fusoxy2_274810:470925
+fusoxy2_Chromosome13	bed	RNA	58291	29824	.	-	ID=rna_fusoxy2_419456;Description=;parent=gene_fusoxy2_419456
+fusoxy2_Chromosome13	bed	RNA	59578	25260	.	+	ID=rna_fusoxy2_275205:419459;Description=;parent=gene_fusoxy2_275205:419459
+fusoxy2_Chromosome13	bed	RNA	64087	23986	.	-	ID=rna_fusoxy2_506167;Description=;parent=gene_fusoxy2_506167
+fusoxy2_Chromosome13	bed	RNA	65145	23326	.	+	ID=rna_fusoxy2_274668;Description=;parent=gene_fusoxy2_274668
+fusoxy2_Chromosome13	bed	RNA	66063	21696	.	-	ID=rna_fusoxy2_274829;Description=;parent=gene_fusoxy2_274829
+fusoxy2_Chromosome13	bed	RNA	68557	19600	.	+	ID=rna_fusoxy2_368164;Description=;parent=gene_fusoxy2_368164
+fusoxy2_Chromosome13	bed	RNA	69569	18947	.	-	ID=rna_fusoxy2_443796;Description=;parent=gene_fusoxy2_443796
+fusoxy2_Chromosome13	bed	RNA	70287	17694	.	+	ID=rna_fusoxy2_419461;Description=;parent=gene_fusoxy2_419461
+fusoxy2_Chromosome13	bed	RNA	71253	16289	.	-	ID=rna_fusoxy2_368166;Description=;parent=gene_fusoxy2_368166
+fusoxy2_Chromosome13	bed	RNA	73962	14671	.	-	ID=rna_fusoxy2_443798;Description=;parent=gene_fusoxy2_443798
+fusoxy2_Chromosome13	bed	RNA	74401	13723	.	-	ID=rna_fusoxy2_490420;Description=;parent=gene_fusoxy2_490420
+fusoxy2_Chromosome13	bed	RNA	75533	12570	.	-	ID=rna_fusoxy2_273890;Description=;parent=gene_fusoxy2_273890
+fusoxy2_Chromosome13	bed	RNA	77173	11398	.	+	ID=rna_fusoxy2_273803;Description=;parent=gene_fusoxy2_273803
+fusoxy2_Chromosome13	bed	RNA	77608	9515	.	-	ID=rna_fusoxy2_443800;Description=;parent=gene_fusoxy2_443800
+fusoxy2_Chromosome13	bed	RNA	79796	8326	.	+	ID=rna_fusoxy2_443801;Description=;parent=gene_fusoxy2_443801
+fusoxy2_Chromosome13	bed	RNA	80989	7167	.	-	ID=rna_fusoxy2_274825;Description=;parent=gene_fusoxy2_274825
+fusoxy2_Chromosome13	bed	RNA	82775	5321	.	+	ID=rna_fusoxy2_274333;Description=;parent=gene_fusoxy2_274333
+fusoxy2_Chromosome13	bed	RNA	83977	3589	.	-	ID=rna_fusoxy2_490425;Description=;parent=gene_fusoxy2_490425
+fusoxy2_Chromosome13	bed	RNA	86905	370	.	+	ID=rna_fusoxy2_eg246304;Description=;parent=gene_fusoxy2_eg246304
+fusoxy2_Chromosome13	bed	RNA	87487	1216	.	-	ID=rna_fusoxy2_eg246547;Description=;parent=gene_fusoxy2_eg246547
+fusoxy2_Chromosome13	bed	CDS	1275	84708	.	+	ID=cds_fusoxy2_470912;Description=;parent=rna_fusoxy2_470912
+fusoxy2_Chromosome13	bed	CDS	3868	82525	.	+	ID=cds_fusoxy2_312956;Description=;parent=rna_fusoxy2_312956
+fusoxy2_Chromosome13	bed	CDS	7625	79397	.	-	ID=cds_fusoxy2_419421;Description=;parent=rna_fusoxy2_419421
+fusoxy2_Chromosome13	bed	CDS	10333	76874	.	+	ID=cds_fusoxy2_419430;Description=;parent=rna_fusoxy2_419430
+fusoxy2_Chromosome13	bed	CDS	12323	75655	.	-	ID=cds_fusoxy2_419434;Description=;parent=rna_fusoxy2_419434
+fusoxy2_Chromosome13	bed	CDS	14442	73742	.	-	ID=cds_fusoxy2_443771;Description=;parent=rna_fusoxy2_443771
+fusoxy2_Chromosome13	bed	CDS	16287	72103	.	-	ID=cds_fusoxy2_443772;Description=;parent=rna_fusoxy2_443772
+fusoxy2_Chromosome13	bed	CDS	17152	71023	.	-	ID=cds_fusoxy2_274522;Description=;parent=rna_fusoxy2_274522
+fusoxy2_Chromosome13	bed	CDS	18545	69795	.	+	ID=cds_fusoxy2_274224;Description=;parent=rna_fusoxy2_274224
+fusoxy2_Chromosome13	bed	CDS	20259	67972	.	+	ID=cds_fusoxy2_214491;Description=;parent=rna_fusoxy2_214491
+fusoxy2_Chromosome13	bed	CDS	21112	66351	.	+	ID=cds_fusoxy2_273800;Description=;parent=rna_fusoxy2_273800
+fusoxy2_Chromosome13	bed	CDS	22667	65640	.	-	ID=cds_fusoxy2_275222;Description=;parent=rna_fusoxy2_275222
+fusoxy2_Chromosome13	bed	CDS	23705	64701	.	-	ID=cds_fusoxy2_274787;Description=;parent=rna_fusoxy2_274787
+fusoxy2_Chromosome13	bed	CDS	25658	61605	.	-	ID=cds_fusoxy2_274508;Description=;parent=rna_fusoxy2_274508
+fusoxy2_Chromosome13	bed	CDS	28261	59061	.	-	ID=cds_fusoxy2_419445;Description=;parent=rna_fusoxy2_419445
+fusoxy2_Chromosome13	bed	CDS	32124	56630	.	+	ID=cds_fusoxy2_275416;Description=;parent=rna_fusoxy2_275416
+fusoxy2_Chromosome13	bed	CDS	32627	55785	.	+	ID=cds_fusoxy2_458180;Description=;parent=rna_fusoxy2_458180
+fusoxy2_Chromosome13	bed	CDS	33149	54921	.	-	ID=cds_fusoxy2_458181;Description=;parent=rna_fusoxy2_458181
+fusoxy2_Chromosome13	bed	CDS	34461	53779	.	+	ID=cds_fusoxy2_348118;Description=;parent=rna_fusoxy2_348118
+fusoxy2_Chromosome13	bed	CDS	35151	52354	.	+	ID=cds_fusoxy2_470921;Description=;parent=rna_fusoxy2_470921
+fusoxy2_Chromosome13	bed	CDS	37955	49865	.	+	ID=cds_fusoxy2_348121;Description=;parent=rna_fusoxy2_348121
+fusoxy2_Chromosome13	bed	CDS	39298	46440	.	+	ID=cds_fusoxy2_419450;Description=;parent=rna_fusoxy2_419450
+fusoxy2_Chromosome13	bed	CDS	42688	44486	.	+	ID=cds_fusoxy2_506162;Description=;parent=rna_fusoxy2_506162
+fusoxy2_Chromosome13	bed	CDS	44518	42421	.	-	ID=cds_fusoxy2_443788;Description=;parent=rna_fusoxy2_443788
+fusoxy2_Chromosome13	bed	CDS	47085	40048	.	-	ID=cds_fusoxy2_470923;Description=;parent=rna_fusoxy2_470923
+fusoxy2_Chromosome13	bed	CDS	49323	38976	.	+	ID=cds_fusoxy2_490408;Description=;parent=rna_fusoxy2_490408
+fusoxy2_Chromosome13	bed	CDS	53042	33436	.	-	ID=cds_fusoxy2_348129;Description=;parent=rna_fusoxy2_348129
+fusoxy2_Chromosome13	bed	CDS	55731	31052	.	+	ID=cds_fusoxy2_274810:470925;Description=;parent=rna_fusoxy2_274810:470925
+fusoxy2_Chromosome13	bed	CDS	58291	29824	.	-	ID=cds_fusoxy2_419456;Description=;parent=rna_fusoxy2_419456
+fusoxy2_Chromosome13	bed	CDS	59578	25260	.	+	ID=cds_fusoxy2_275205:419459;Description=;parent=rna_fusoxy2_275205:419459
+fusoxy2_Chromosome13	bed	CDS	64087	23986	.	-	ID=cds_fusoxy2_506167;Description=;parent=rna_fusoxy2_506167
+fusoxy2_Chromosome13	bed	CDS	65145	23326	.	+	ID=cds_fusoxy2_274668;Description=;parent=rna_fusoxy2_274668
+fusoxy2_Chromosome13	bed	CDS	66063	21696	.	-	ID=cds_fusoxy2_274829;Description=;parent=rna_fusoxy2_274829
+fusoxy2_Chromosome13	bed	CDS	68557	19600	.	+	ID=cds_fusoxy2_368164;Description=;parent=rna_fusoxy2_368164
+fusoxy2_Chromosome13	bed	CDS	69569	18947	.	-	ID=cds_fusoxy2_443796;Description=;parent=rna_fusoxy2_443796
+fusoxy2_Chromosome13	bed	CDS	70287	17694	.	+	ID=cds_fusoxy2_419461;Description=;parent=rna_fusoxy2_419461
+fusoxy2_Chromosome13	bed	CDS	71253	16289	.	-	ID=cds_fusoxy2_368166;Description=;parent=rna_fusoxy2_368166
+fusoxy2_Chromosome13	bed	CDS	73962	14671	.	-	ID=cds_fusoxy2_443798;Description=;parent=rna_fusoxy2_443798
+fusoxy2_Chromosome13	bed	CDS	74401	13723	.	-	ID=cds_fusoxy2_490420;Description=;parent=rna_fusoxy2_490420
+fusoxy2_Chromosome13	bed	CDS	75533	12570	.	-	ID=cds_fusoxy2_273890;Description=;parent=rna_fusoxy2_273890
+fusoxy2_Chromosome13	bed	CDS	77173	11398	.	+	ID=cds_fusoxy2_273803;Description=;parent=rna_fusoxy2_273803
+fusoxy2_Chromosome13	bed	CDS	77608	9515	.	-	ID=cds_fusoxy2_443800;Description=;parent=rna_fusoxy2_443800
+fusoxy2_Chromosome13	bed	CDS	79796	8326	.	+	ID=cds_fusoxy2_443801;Description=;parent=rna_fusoxy2_443801
+fusoxy2_Chromosome13	bed	CDS	80989	7167	.	-	ID=cds_fusoxy2_274825;Description=;parent=rna_fusoxy2_274825
+fusoxy2_Chromosome13	bed	CDS	82775	5321	.	+	ID=cds_fusoxy2_274333;Description=;parent=rna_fusoxy2_274333
+fusoxy2_Chromosome13	bed	CDS	83977	3589	.	-	ID=cds_fusoxy2_490425;Description=;parent=rna_fusoxy2_490425
+fusoxy2_Chromosome13	bed	CDS	86905	370	.	+	ID=cds_fusoxy2_eg246304;Description=;parent=rna_fusoxy2_eg246304
+fusoxy2_Chromosome13	bed	CDS	87487	1216	.	-	ID=cds_fusoxy2_eg246547;Description=;parent=rna_fusoxy2_eg246547

@@ -1,0 +1,78 @@
+aspoch6_VBTP01000154.1	bed	gene	1	115392	.	-	insert	ID=gene_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|down;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	1023	111845	.	+	.	ID=gene_aspoch6_eg119066;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	8218	106258	.	-	.	ID=gene_aspoch6_eg119116;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	12924	102188	.	+	.	ID=gene_aspoch6_eg119189;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	18610	95747	.	-	.	ID=gene_aspoch6_eg119151;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	20369	93661	.	+	.	ID=gene_aspoch6_eg119159;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	23485	91186	.	+	.	ID=gene_aspoch6_eg119173;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	24499	89893	.	-	.	ID=gene_aspoch6_eg119169;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	38299	76396	.	-	.	ID=gene_aspoch6_eg119195;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	45957	68927	.	+	.	ID=gene_aspoch6_eg119052;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	46827	68243	.	-	.	ID=gene_aspoch6_eg119110;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	49236	65348	.	-	.	ID=gene_aspoch6_eg119115;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	51886	62590	.	+	.	ID=gene_aspoch6_eg119099;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	53008	59663	.	+	nlr	ID=gene_aspoch6_nlr27304;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	68726	44989	.	+	.	ID=gene_aspoch6_eg119119;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	73389	40417	.	+	fre	ID=gene_aspoch6_fre3273;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	77610	35407	.	+	d37	ID=gene_aspoch6_d371339;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	88390	26566	.	-	.	ID=gene_aspoch6_eg119188;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	93147	20105	.	-	.	ID=gene_aspoch6_eg119144;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	96053	18696	.	-	.	ID=gene_aspoch6_eg119186;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	98864	15707	.	+	.	ID=gene_aspoch6_eg119109;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	100256	14506	.	+	.	ID=gene_aspoch6_eg119180;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	104169	9623	.	+	.	ID=gene_aspoch6_eg119135;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	109910	5184	.	-	.	ID=gene_aspoch6_eg119198;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	112454	342	.	-	cap	ID=gene_aspoch6_tyr2234;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	gene	115393	0	.	-	insert	ID=gene_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|up;Description=aspoch6_s02113;parent=aspoch6_VBTP01000154.1
+aspoch6_VBTP01000154.1	bed	RNA	1	115392	.	-	ID=rna_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|down;Description=;parent=gene_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|down
+aspoch6_VBTP01000154.1	bed	RNA	1023	111845	.	+	ID=rna_aspoch6_eg119066;Description=;parent=gene_aspoch6_eg119066
+aspoch6_VBTP01000154.1	bed	RNA	8218	106258	.	-	ID=rna_aspoch6_eg119116;Description=;parent=gene_aspoch6_eg119116
+aspoch6_VBTP01000154.1	bed	RNA	12924	102188	.	+	ID=rna_aspoch6_eg119189;Description=;parent=gene_aspoch6_eg119189
+aspoch6_VBTP01000154.1	bed	RNA	18610	95747	.	-	ID=rna_aspoch6_eg119151;Description=;parent=gene_aspoch6_eg119151
+aspoch6_VBTP01000154.1	bed	RNA	20369	93661	.	+	ID=rna_aspoch6_eg119159;Description=;parent=gene_aspoch6_eg119159
+aspoch6_VBTP01000154.1	bed	RNA	23485	91186	.	+	ID=rna_aspoch6_eg119173;Description=;parent=gene_aspoch6_eg119173
+aspoch6_VBTP01000154.1	bed	RNA	24499	89893	.	-	ID=rna_aspoch6_eg119169;Description=;parent=gene_aspoch6_eg119169
+aspoch6_VBTP01000154.1	bed	RNA	38299	76396	.	-	ID=rna_aspoch6_eg119195;Description=;parent=gene_aspoch6_eg119195
+aspoch6_VBTP01000154.1	bed	RNA	45957	68927	.	+	ID=rna_aspoch6_eg119052;Description=;parent=gene_aspoch6_eg119052
+aspoch6_VBTP01000154.1	bed	RNA	46827	68243	.	-	ID=rna_aspoch6_eg119110;Description=;parent=gene_aspoch6_eg119110
+aspoch6_VBTP01000154.1	bed	RNA	49236	65348	.	-	ID=rna_aspoch6_eg119115;Description=;parent=gene_aspoch6_eg119115
+aspoch6_VBTP01000154.1	bed	RNA	51886	62590	.	+	ID=rna_aspoch6_eg119099;Description=;parent=gene_aspoch6_eg119099
+aspoch6_VBTP01000154.1	bed	RNA	53008	59663	.	+	ID=rna_aspoch6_nlr27304;Description=;parent=gene_aspoch6_nlr27304
+aspoch6_VBTP01000154.1	bed	RNA	68726	44989	.	+	ID=rna_aspoch6_eg119119;Description=;parent=gene_aspoch6_eg119119
+aspoch6_VBTP01000154.1	bed	RNA	73389	40417	.	+	ID=rna_aspoch6_fre3273;Description=;parent=gene_aspoch6_fre3273
+aspoch6_VBTP01000154.1	bed	RNA	77610	35407	.	+	ID=rna_aspoch6_d371339;Description=;parent=gene_aspoch6_d371339
+aspoch6_VBTP01000154.1	bed	RNA	88390	26566	.	-	ID=rna_aspoch6_eg119188;Description=;parent=gene_aspoch6_eg119188
+aspoch6_VBTP01000154.1	bed	RNA	93147	20105	.	-	ID=rna_aspoch6_eg119144;Description=;parent=gene_aspoch6_eg119144
+aspoch6_VBTP01000154.1	bed	RNA	96053	18696	.	-	ID=rna_aspoch6_eg119186;Description=;parent=gene_aspoch6_eg119186
+aspoch6_VBTP01000154.1	bed	RNA	98864	15707	.	+	ID=rna_aspoch6_eg119109;Description=;parent=gene_aspoch6_eg119109
+aspoch6_VBTP01000154.1	bed	RNA	100256	14506	.	+	ID=rna_aspoch6_eg119180;Description=;parent=gene_aspoch6_eg119180
+aspoch6_VBTP01000154.1	bed	RNA	104169	9623	.	+	ID=rna_aspoch6_eg119135;Description=;parent=gene_aspoch6_eg119135
+aspoch6_VBTP01000154.1	bed	RNA	109910	5184	.	-	ID=rna_aspoch6_eg119198;Description=;parent=gene_aspoch6_eg119198
+aspoch6_VBTP01000154.1	bed	RNA	112454	342	.	-	ID=rna_aspoch6_tyr2234;Description=;parent=gene_aspoch6_tyr2234
+aspoch6_VBTP01000154.1	bed	RNA	115393	0	.	-	ID=rna_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|up;Description=;parent=gene_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|up
+aspoch6_VBTP01000154.1	bed	CDS	1	115392	.	-	ID=cds_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|down;Description=;parent=rna_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|down
+aspoch6_VBTP01000154.1	bed	CDS	1023	111845	.	+	ID=cds_aspoch6_eg119066;Description=;parent=rna_aspoch6_eg119066
+aspoch6_VBTP01000154.1	bed	CDS	8218	106258	.	-	ID=cds_aspoch6_eg119116;Description=;parent=rna_aspoch6_eg119116
+aspoch6_VBTP01000154.1	bed	CDS	12924	102188	.	+	ID=cds_aspoch6_eg119189;Description=;parent=rna_aspoch6_eg119189
+aspoch6_VBTP01000154.1	bed	CDS	18610	95747	.	-	ID=cds_aspoch6_eg119151;Description=;parent=rna_aspoch6_eg119151
+aspoch6_VBTP01000154.1	bed	CDS	20369	93661	.	+	ID=cds_aspoch6_eg119159;Description=;parent=rna_aspoch6_eg119159
+aspoch6_VBTP01000154.1	bed	CDS	23485	91186	.	+	ID=cds_aspoch6_eg119173;Description=;parent=rna_aspoch6_eg119173
+aspoch6_VBTP01000154.1	bed	CDS	24499	89893	.	-	ID=cds_aspoch6_eg119169;Description=;parent=rna_aspoch6_eg119169
+aspoch6_VBTP01000154.1	bed	CDS	38299	76396	.	-	ID=cds_aspoch6_eg119195;Description=;parent=rna_aspoch6_eg119195
+aspoch6_VBTP01000154.1	bed	CDS	45957	68927	.	+	ID=cds_aspoch6_eg119052;Description=;parent=rna_aspoch6_eg119052
+aspoch6_VBTP01000154.1	bed	CDS	46827	68243	.	-	ID=cds_aspoch6_eg119110;Description=;parent=rna_aspoch6_eg119110
+aspoch6_VBTP01000154.1	bed	CDS	49236	65348	.	-	ID=cds_aspoch6_eg119115;Description=;parent=rna_aspoch6_eg119115
+aspoch6_VBTP01000154.1	bed	CDS	51886	62590	.	+	ID=cds_aspoch6_eg119099;Description=;parent=rna_aspoch6_eg119099
+aspoch6_VBTP01000154.1	bed	CDS	53008	59663	.	+	ID=cds_aspoch6_nlr27304;Description=;parent=rna_aspoch6_nlr27304
+aspoch6_VBTP01000154.1	bed	CDS	68726	44989	.	+	ID=cds_aspoch6_eg119119;Description=;parent=rna_aspoch6_eg119119
+aspoch6_VBTP01000154.1	bed	CDS	73389	40417	.	+	ID=cds_aspoch6_fre3273;Description=;parent=rna_aspoch6_fre3273
+aspoch6_VBTP01000154.1	bed	CDS	77610	35407	.	+	ID=cds_aspoch6_d371339;Description=;parent=rna_aspoch6_d371339
+aspoch6_VBTP01000154.1	bed	CDS	88390	26566	.	-	ID=cds_aspoch6_eg119188;Description=;parent=rna_aspoch6_eg119188
+aspoch6_VBTP01000154.1	bed	CDS	93147	20105	.	-	ID=cds_aspoch6_eg119144;Description=;parent=rna_aspoch6_eg119144
+aspoch6_VBTP01000154.1	bed	CDS	96053	18696	.	-	ID=cds_aspoch6_eg119186;Description=;parent=rna_aspoch6_eg119186
+aspoch6_VBTP01000154.1	bed	CDS	98864	15707	.	+	ID=cds_aspoch6_eg119109;Description=;parent=rna_aspoch6_eg119109
+aspoch6_VBTP01000154.1	bed	CDS	100256	14506	.	+	ID=cds_aspoch6_eg119180;Description=;parent=rna_aspoch6_eg119180
+aspoch6_VBTP01000154.1	bed	CDS	104169	9623	.	+	ID=cds_aspoch6_eg119135;Description=;parent=rna_aspoch6_eg119135
+aspoch6_VBTP01000154.1	bed	CDS	109910	5184	.	-	ID=cds_aspoch6_eg119198;Description=;parent=rna_aspoch6_eg119198
+aspoch6_VBTP01000154.1	bed	CDS	112454	342	.	-	ID=cds_aspoch6_tyr2234;Description=;parent=rna_aspoch6_tyr2234
+aspoch6_VBTP01000154.1	bed	CDS	115393	0	.	-	ID=cds_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|up;Description=;parent=rna_aspoch6_tyr2234|aspmel1_JADPPX010000004.1|up

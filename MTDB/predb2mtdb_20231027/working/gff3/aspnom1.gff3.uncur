@@ -1,0 +1,84 @@
+aspnom1_scaffold51	bed	gene	1509	72188	.	-	.	ID=gene_aspnom1_151775;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	1	72656	.	+	insert	ID=gene_aspnom1_139949|aspnom2_scaffold44|up;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	1262	69271	.	+	.	ID=gene_aspnom1_160245;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	4371	65610	.	+	cap	ID=gene_aspnom1_139949;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	7226	64579	.	-	.	ID=gene_aspnom1_76654;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	8765	62707	.	-	.	ID=gene_aspnom1_126468;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	11187	59472	.	+	.	ID=gene_aspnom1_76683;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	15848	56067	.	+	.	ID=gene_aspnom1_76764;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	16702	55614	.	+	.	ID=gene_aspnom1_151781;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	17699	52838	.	-	.	ID=gene_aspnom1_139951;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	21381	50444	.	-	.	ID=gene_aspnom1_126482;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	22214	49428	.	-	.	ID=gene_aspnom1_126484;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	24618	46182	.	+	.	ID=gene_aspnom1_151784;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	27006	41608	.	+	.	ID=gene_aspnom1_126489;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	31170	40393	.	+	.	ID=gene_aspnom1_126493;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	36131	36329	.	-	.	ID=gene_aspnom1_eg114439;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	38897	30331	.	+	.	ID=gene_aspnom1_139956;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	43204	28233	.	+	.	ID=gene_aspnom1_76968;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	44483	25955	.	-	.	ID=gene_aspnom1_139957;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	52283	19210	.	-	.	ID=gene_aspnom1_126504;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	54241	16765	.	+	.	ID=gene_aspnom1_76978;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	55785	15084	.	-	.	ID=gene_aspnom1_139959;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	58406	13318	.	+	.	ID=gene_aspnom1_139960;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	59557	12445	.	-	.	ID=gene_aspnom1_77001;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	60813	11128	.	+	.	ID=gene_aspnom1_77017;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	62285	7948	.	-	.	ID=gene_aspnom1_160253;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	71112	705	.	+	.	ID=gene_aspnom1_139962;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	gene	72657	0	.	+	insert	ID=gene_aspnom1_139949|aspnom2_scaffold44|down;Description=aspnom1_s02020;parent=aspnom1_scaffold51
+aspnom1_scaffold51	bed	RNA	1509	72188	.	-	ID=rna_aspnom1_151775;Description=;parent=gene_aspnom1_151775
+aspnom1_scaffold51	bed	RNA	1	72656	.	+	ID=rna_aspnom1_139949|aspnom2_scaffold44|up;Description=;parent=gene_aspnom1_139949|aspnom2_scaffold44|up
+aspnom1_scaffold51	bed	RNA	1262	69271	.	+	ID=rna_aspnom1_160245;Description=;parent=gene_aspnom1_160245
+aspnom1_scaffold51	bed	RNA	4371	65610	.	+	ID=rna_aspnom1_139949;Description=;parent=gene_aspnom1_139949
+aspnom1_scaffold51	bed	RNA	7226	64579	.	-	ID=rna_aspnom1_76654;Description=;parent=gene_aspnom1_76654
+aspnom1_scaffold51	bed	RNA	8765	62707	.	-	ID=rna_aspnom1_126468;Description=;parent=gene_aspnom1_126468
+aspnom1_scaffold51	bed	RNA	11187	59472	.	+	ID=rna_aspnom1_76683;Description=;parent=gene_aspnom1_76683
+aspnom1_scaffold51	bed	RNA	15848	56067	.	+	ID=rna_aspnom1_76764;Description=;parent=gene_aspnom1_76764
+aspnom1_scaffold51	bed	RNA	16702	55614	.	+	ID=rna_aspnom1_151781;Description=;parent=gene_aspnom1_151781
+aspnom1_scaffold51	bed	RNA	17699	52838	.	-	ID=rna_aspnom1_139951;Description=;parent=gene_aspnom1_139951
+aspnom1_scaffold51	bed	RNA	21381	50444	.	-	ID=rna_aspnom1_126482;Description=;parent=gene_aspnom1_126482
+aspnom1_scaffold51	bed	RNA	22214	49428	.	-	ID=rna_aspnom1_126484;Description=;parent=gene_aspnom1_126484
+aspnom1_scaffold51	bed	RNA	24618	46182	.	+	ID=rna_aspnom1_151784;Description=;parent=gene_aspnom1_151784
+aspnom1_scaffold51	bed	RNA	27006	41608	.	+	ID=rna_aspnom1_126489;Description=;parent=gene_aspnom1_126489
+aspnom1_scaffold51	bed	RNA	31170	40393	.	+	ID=rna_aspnom1_126493;Description=;parent=gene_aspnom1_126493
+aspnom1_scaffold51	bed	RNA	36131	36329	.	-	ID=rna_aspnom1_eg114439;Description=;parent=gene_aspnom1_eg114439
+aspnom1_scaffold51	bed	RNA	38897	30331	.	+	ID=rna_aspnom1_139956;Description=;parent=gene_aspnom1_139956
+aspnom1_scaffold51	bed	RNA	43204	28233	.	+	ID=rna_aspnom1_76968;Description=;parent=gene_aspnom1_76968
+aspnom1_scaffold51	bed	RNA	44483	25955	.	-	ID=rna_aspnom1_139957;Description=;parent=gene_aspnom1_139957
+aspnom1_scaffold51	bed	RNA	52283	19210	.	-	ID=rna_aspnom1_126504;Description=;parent=gene_aspnom1_126504
+aspnom1_scaffold51	bed	RNA	54241	16765	.	+	ID=rna_aspnom1_76978;Description=;parent=gene_aspnom1_76978
+aspnom1_scaffold51	bed	RNA	55785	15084	.	-	ID=rna_aspnom1_139959;Description=;parent=gene_aspnom1_139959
+aspnom1_scaffold51	bed	RNA	58406	13318	.	+	ID=rna_aspnom1_139960;Description=;parent=gene_aspnom1_139960
+aspnom1_scaffold51	bed	RNA	59557	12445	.	-	ID=rna_aspnom1_77001;Description=;parent=gene_aspnom1_77001
+aspnom1_scaffold51	bed	RNA	60813	11128	.	+	ID=rna_aspnom1_77017;Description=;parent=gene_aspnom1_77017
+aspnom1_scaffold51	bed	RNA	62285	7948	.	-	ID=rna_aspnom1_160253;Description=;parent=gene_aspnom1_160253
+aspnom1_scaffold51	bed	RNA	71112	705	.	+	ID=rna_aspnom1_139962;Description=;parent=gene_aspnom1_139962
+aspnom1_scaffold51	bed	RNA	72657	0	.	+	ID=rna_aspnom1_139949|aspnom2_scaffold44|down;Description=;parent=gene_aspnom1_139949|aspnom2_scaffold44|down
+aspnom1_scaffold51	bed	CDS	1509	72188	.	-	ID=cds_aspnom1_151775;Description=;parent=rna_aspnom1_151775
+aspnom1_scaffold51	bed	CDS	1	72656	.	+	ID=cds_aspnom1_139949|aspnom2_scaffold44|up;Description=;parent=rna_aspnom1_139949|aspnom2_scaffold44|up
+aspnom1_scaffold51	bed	CDS	1262	69271	.	+	ID=cds_aspnom1_160245;Description=;parent=rna_aspnom1_160245
+aspnom1_scaffold51	bed	CDS	4371	65610	.	+	ID=cds_aspnom1_139949;Description=;parent=rna_aspnom1_139949
+aspnom1_scaffold51	bed	CDS	7226	64579	.	-	ID=cds_aspnom1_76654;Description=;parent=rna_aspnom1_76654
+aspnom1_scaffold51	bed	CDS	8765	62707	.	-	ID=cds_aspnom1_126468;Description=;parent=rna_aspnom1_126468
+aspnom1_scaffold51	bed	CDS	11187	59472	.	+	ID=cds_aspnom1_76683;Description=;parent=rna_aspnom1_76683
+aspnom1_scaffold51	bed	CDS	15848	56067	.	+	ID=cds_aspnom1_76764;Description=;parent=rna_aspnom1_76764
+aspnom1_scaffold51	bed	CDS	16702	55614	.	+	ID=cds_aspnom1_151781;Description=;parent=rna_aspnom1_151781
+aspnom1_scaffold51	bed	CDS	17699	52838	.	-	ID=cds_aspnom1_139951;Description=;parent=rna_aspnom1_139951
+aspnom1_scaffold51	bed	CDS	21381	50444	.	-	ID=cds_aspnom1_126482;Description=;parent=rna_aspnom1_126482
+aspnom1_scaffold51	bed	CDS	22214	49428	.	-	ID=cds_aspnom1_126484;Description=;parent=rna_aspnom1_126484
+aspnom1_scaffold51	bed	CDS	24618	46182	.	+	ID=cds_aspnom1_151784;Description=;parent=rna_aspnom1_151784
+aspnom1_scaffold51	bed	CDS	27006	41608	.	+	ID=cds_aspnom1_126489;Description=;parent=rna_aspnom1_126489
+aspnom1_scaffold51	bed	CDS	31170	40393	.	+	ID=cds_aspnom1_126493;Description=;parent=rna_aspnom1_126493
+aspnom1_scaffold51	bed	CDS	36131	36329	.	-	ID=cds_aspnom1_eg114439;Description=;parent=rna_aspnom1_eg114439
+aspnom1_scaffold51	bed	CDS	38897	30331	.	+	ID=cds_aspnom1_139956;Description=;parent=rna_aspnom1_139956
+aspnom1_scaffold51	bed	CDS	43204	28233	.	+	ID=cds_aspnom1_76968;Description=;parent=rna_aspnom1_76968
+aspnom1_scaffold51	bed	CDS	44483	25955	.	-	ID=cds_aspnom1_139957;Description=;parent=rna_aspnom1_139957
+aspnom1_scaffold51	bed	CDS	52283	19210	.	-	ID=cds_aspnom1_126504;Description=;parent=rna_aspnom1_126504
+aspnom1_scaffold51	bed	CDS	54241	16765	.	+	ID=cds_aspnom1_76978;Description=;parent=rna_aspnom1_76978
+aspnom1_scaffold51	bed	CDS	55785	15084	.	-	ID=cds_aspnom1_139959;Description=;parent=rna_aspnom1_139959
+aspnom1_scaffold51	bed	CDS	58406	13318	.	+	ID=cds_aspnom1_139960;Description=;parent=rna_aspnom1_139960
+aspnom1_scaffold51	bed	CDS	59557	12445	.	-	ID=cds_aspnom1_77001;Description=;parent=rna_aspnom1_77001
+aspnom1_scaffold51	bed	CDS	60813	11128	.	+	ID=cds_aspnom1_77017;Description=;parent=rna_aspnom1_77017
+aspnom1_scaffold51	bed	CDS	62285	7948	.	-	ID=cds_aspnom1_160253;Description=;parent=rna_aspnom1_160253
+aspnom1_scaffold51	bed	CDS	71112	705	.	+	ID=cds_aspnom1_139962;Description=;parent=rna_aspnom1_139962
+aspnom1_scaffold51	bed	CDS	72657	0	.	+	ID=cds_aspnom1_139949|aspnom2_scaffold44|down;Description=;parent=rna_aspnom1_139949|aspnom2_scaffold44|down

@@ -1,0 +1,27 @@
+morimp1_scaffold28	bed	gene	1	37505	.	-	insert	ID=gene_morimp1_644698|morimp2_scaffold23|down;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	gene	939	36280	.	+	.	ID=gene_morimp1_627920;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	gene	5285	31097	.	+	.	ID=gene_morimp1_eg341236;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	gene	6437	30650	.	-	.	ID=gene_morimp1_597819;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	gene	8989	28209	.	+	.	ID=gene_morimp1_eg341226;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	gene	20183	16522	.	-	.	ID=gene_morimp1_644688;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	gene	23301	13876	.	-	.	ID=gene_morimp1_eg341228;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	gene	33595	1485	.	-	cap	ID=gene_morimp1_644698;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	gene	37506	0	.	-	insert	ID=gene_morimp1_644698|morimp2_scaffold23|up;Description=morimp1_s08009;parent=morimp1_scaffold28
+morimp1_scaffold28	bed	RNA	1	37505	.	-	ID=rna_morimp1_644698|morimp2_scaffold23|down;Description=;parent=gene_morimp1_644698|morimp2_scaffold23|down
+morimp1_scaffold28	bed	RNA	939	36280	.	+	ID=rna_morimp1_627920;Description=;parent=gene_morimp1_627920
+morimp1_scaffold28	bed	RNA	5285	31097	.	+	ID=rna_morimp1_eg341236;Description=;parent=gene_morimp1_eg341236
+morimp1_scaffold28	bed	RNA	6437	30650	.	-	ID=rna_morimp1_597819;Description=;parent=gene_morimp1_597819
+morimp1_scaffold28	bed	RNA	8989	28209	.	+	ID=rna_morimp1_eg341226;Description=;parent=gene_morimp1_eg341226
+morimp1_scaffold28	bed	RNA	20183	16522	.	-	ID=rna_morimp1_644688;Description=;parent=gene_morimp1_644688
+morimp1_scaffold28	bed	RNA	23301	13876	.	-	ID=rna_morimp1_eg341228;Description=;parent=gene_morimp1_eg341228
+morimp1_scaffold28	bed	RNA	33595	1485	.	-	ID=rna_morimp1_644698;Description=;parent=gene_morimp1_644698
+morimp1_scaffold28	bed	RNA	37506	0	.	-	ID=rna_morimp1_644698|morimp2_scaffold23|up;Description=;parent=gene_morimp1_644698|morimp2_scaffold23|up
+morimp1_scaffold28	bed	CDS	1	37505	.	-	ID=cds_morimp1_644698|morimp2_scaffold23|down;Description=;parent=rna_morimp1_644698|morimp2_scaffold23|down
+morimp1_scaffold28	bed	CDS	939	36280	.	+	ID=cds_morimp1_627920;Description=;parent=rna_morimp1_627920
+morimp1_scaffold28	bed	CDS	5285	31097	.	+	ID=cds_morimp1_eg341236;Description=;parent=rna_morimp1_eg341236
+morimp1_scaffold28	bed	CDS	6437	30650	.	-	ID=cds_morimp1_597819;Description=;parent=rna_morimp1_597819
+morimp1_scaffold28	bed	CDS	8989	28209	.	+	ID=cds_morimp1_eg341226;Description=;parent=rna_morimp1_eg341226
+morimp1_scaffold28	bed	CDS	20183	16522	.	-	ID=cds_morimp1_644688;Description=;parent=rna_morimp1_644688
+morimp1_scaffold28	bed	CDS	23301	13876	.	-	ID=cds_morimp1_eg341228;Description=;parent=rna_morimp1_eg341228
+morimp1_scaffold28	bed	CDS	33595	1485	.	-	ID=cds_morimp1_644698;Description=;parent=rna_morimp1_644698
+morimp1_scaffold28	bed	CDS	37506	0	.	-	ID=cds_morimp1_644698|morimp2_scaffold23|up;Description=;parent=rna_morimp1_644698|morimp2_scaffold23|up

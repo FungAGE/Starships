@@ -1,0 +1,39 @@
+fusnyg2_LBNR01000018.1	bed	gene	1	57963	.	+	insert	ID=gene_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|up;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	762	55519	.	-	.	ID=gene_fusnyg2_eg238435;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	1687	56008	.	+	.	ID=gene_fusnyg2_eg238507;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	9488	45816	.	+	cap	ID=gene_fusnyg2_tyr6158;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	14538	42302	.	+	nlr	ID=gene_fusnyg2_nlr139814;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	20001	36941	.	+	.	ID=gene_fusnyg2_eg238419;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	22410	34757	.	+	.	ID=gene_fusnyg2_eg238437;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	33401	23412	.	+	nlr	ID=gene_fusnyg2_nlr139818;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	37265	17258	.	+	nlr	ID=gene_fusnyg2_nlr139810;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	42021	13886	.	-	.	ID=gene_fusnyg2_eg238409;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	46469	11079	.	+	.	ID=gene_fusnyg2_eg238368;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	48377	7900	.	-	.	ID=gene_fusnyg2_eg238401;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	gene	57964	0	.	+	insert	ID=gene_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|down;Description=fusnyg2_s05865;parent=fusnyg2_LBNR01000018.1
+fusnyg2_LBNR01000018.1	bed	RNA	1	57963	.	+	ID=rna_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|up;Description=;parent=gene_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|up
+fusnyg2_LBNR01000018.1	bed	RNA	762	55519	.	-	ID=rna_fusnyg2_eg238435;Description=;parent=gene_fusnyg2_eg238435
+fusnyg2_LBNR01000018.1	bed	RNA	1687	56008	.	+	ID=rna_fusnyg2_eg238507;Description=;parent=gene_fusnyg2_eg238507
+fusnyg2_LBNR01000018.1	bed	RNA	9488	45816	.	+	ID=rna_fusnyg2_tyr6158;Description=;parent=gene_fusnyg2_tyr6158
+fusnyg2_LBNR01000018.1	bed	RNA	14538	42302	.	+	ID=rna_fusnyg2_nlr139814;Description=;parent=gene_fusnyg2_nlr139814
+fusnyg2_LBNR01000018.1	bed	RNA	20001	36941	.	+	ID=rna_fusnyg2_eg238419;Description=;parent=gene_fusnyg2_eg238419
+fusnyg2_LBNR01000018.1	bed	RNA	22410	34757	.	+	ID=rna_fusnyg2_eg238437;Description=;parent=gene_fusnyg2_eg238437
+fusnyg2_LBNR01000018.1	bed	RNA	33401	23412	.	+	ID=rna_fusnyg2_nlr139818;Description=;parent=gene_fusnyg2_nlr139818
+fusnyg2_LBNR01000018.1	bed	RNA	37265	17258	.	+	ID=rna_fusnyg2_nlr139810;Description=;parent=gene_fusnyg2_nlr139810
+fusnyg2_LBNR01000018.1	bed	RNA	42021	13886	.	-	ID=rna_fusnyg2_eg238409;Description=;parent=gene_fusnyg2_eg238409
+fusnyg2_LBNR01000018.1	bed	RNA	46469	11079	.	+	ID=rna_fusnyg2_eg238368;Description=;parent=gene_fusnyg2_eg238368
+fusnyg2_LBNR01000018.1	bed	RNA	48377	7900	.	-	ID=rna_fusnyg2_eg238401;Description=;parent=gene_fusnyg2_eg238401
+fusnyg2_LBNR01000018.1	bed	RNA	57964	0	.	+	ID=rna_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|down;Description=;parent=gene_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|down
+fusnyg2_LBNR01000018.1	bed	CDS	1	57963	.	+	ID=cds_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|up;Description=;parent=rna_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|up
+fusnyg2_LBNR01000018.1	bed	CDS	762	55519	.	-	ID=cds_fusnyg2_eg238435;Description=;parent=rna_fusnyg2_eg238435
+fusnyg2_LBNR01000018.1	bed	CDS	1687	56008	.	+	ID=cds_fusnyg2_eg238507;Description=;parent=rna_fusnyg2_eg238507
+fusnyg2_LBNR01000018.1	bed	CDS	9488	45816	.	+	ID=cds_fusnyg2_tyr6158;Description=;parent=rna_fusnyg2_tyr6158
+fusnyg2_LBNR01000018.1	bed	CDS	14538	42302	.	+	ID=cds_fusnyg2_nlr139814;Description=;parent=rna_fusnyg2_nlr139814
+fusnyg2_LBNR01000018.1	bed	CDS	20001	36941	.	+	ID=cds_fusnyg2_eg238419;Description=;parent=rna_fusnyg2_eg238419
+fusnyg2_LBNR01000018.1	bed	CDS	22410	34757	.	+	ID=cds_fusnyg2_eg238437;Description=;parent=rna_fusnyg2_eg238437
+fusnyg2_LBNR01000018.1	bed	CDS	33401	23412	.	+	ID=cds_fusnyg2_nlr139818;Description=;parent=rna_fusnyg2_nlr139818
+fusnyg2_LBNR01000018.1	bed	CDS	37265	17258	.	+	ID=cds_fusnyg2_nlr139810;Description=;parent=rna_fusnyg2_nlr139810
+fusnyg2_LBNR01000018.1	bed	CDS	42021	13886	.	-	ID=cds_fusnyg2_eg238409;Description=;parent=rna_fusnyg2_eg238409
+fusnyg2_LBNR01000018.1	bed	CDS	46469	11079	.	+	ID=cds_fusnyg2_eg238368;Description=;parent=rna_fusnyg2_eg238368
+fusnyg2_LBNR01000018.1	bed	CDS	48377	7900	.	-	ID=cds_fusnyg2_eg238401;Description=;parent=rna_fusnyg2_eg238401
+fusnyg2_LBNR01000018.1	bed	CDS	57964	0	.	+	ID=cds_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|down;Description=;parent=rna_fusnyg2_tyr6158|fusmun1_JAAOAN010000753.1|down

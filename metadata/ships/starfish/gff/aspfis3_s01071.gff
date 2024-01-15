@@ -1,0 +1,16 @@
+aspfis3_VWYA01000013.1	bed	region	1	27282	.	+	flank	ID=gene_aspfis3_tyr1146|DR|up;Description=aspfis3_s01071;parent=aspfis3_VWYA01000013.1
+aspfis3_VWYA01000013.1	bed	region	49	27236	.	+	flank	ID=gene_aspfis3_tyr1146|TIR|up;Description=aspfis3_s01071;parent=aspfis3_VWYA01000013.1
+aspfis3_VWYA01000013.1	bed	gene	704	25070	.	+	cap	ID=gene_aspfis3_tyr1146;Description=aspfis3_s01071;parent=aspfis3_VWYA01000013.1
+aspfis3_VWYA01000013.1	bed	gene	7355	18613	.	-	.	ID=gene_aspfis3_eg49712;Description=aspfis3_s01071;parent=aspfis3_VWYA01000013.1
+aspfis3_VWYA01000013.1	bed	gene	8991	17638	.	-	.	ID=gene_aspfis3_eg49692;Description=aspfis3_s01071;parent=aspfis3_VWYA01000013.1
+aspfis3_VWYA01000013.1	bed	gene	21280	5546	.	+	fre	ID=gene_aspfis3_fre1889;Description=aspfis3_s01071;parent=aspfis3_VWYA01000013.1
+aspfis3_VWYA01000013.1	bed	region	27235	48	.	+	flank	ID=gene_aspfis3_tyr1146|TIR|down;Description=aspfis3_s01071;parent=aspfis3_VWYA01000013.1
+aspfis3_VWYA01000013.1	bed	region	27283	0	.	+	flank	ID=gene_aspfis3_tyr1146|DR|down;Description=aspfis3_s01071;parent=aspfis3_VWYA01000013.1
+aspfis3_VWYA01000013.1	bed	RNA	704	25070	.	+	ID=rna_aspfis3_tyr1146;Description=;parent=gene_aspfis3_tyr1146
+aspfis3_VWYA01000013.1	bed	RNA	7355	18613	.	-	ID=rna_aspfis3_eg49712;Description=;parent=gene_aspfis3_eg49712
+aspfis3_VWYA01000013.1	bed	RNA	8991	17638	.	-	ID=rna_aspfis3_eg49692;Description=;parent=gene_aspfis3_eg49692
+aspfis3_VWYA01000013.1	bed	RNA	21280	5546	.	+	ID=rna_aspfis3_fre1889;Description=;parent=gene_aspfis3_fre1889
+aspfis3_VWYA01000013.1	bed	CDS	704	25070	.	+	ID=cds_aspfis3_tyr1146;Description=;parent=rna_aspfis3_tyr1146
+aspfis3_VWYA01000013.1	bed	CDS	7355	18613	.	-	ID=cds_aspfis3_eg49712;Description=;parent=rna_aspfis3_eg49712
+aspfis3_VWYA01000013.1	bed	CDS	8991	17638	.	-	ID=cds_aspfis3_eg49692;Description=;parent=rna_aspfis3_eg49692
+aspfis3_VWYA01000013.1	bed	CDS	21280	5546	.	+	ID=cds_aspfis3_fre1889;Description=;parent=rna_aspfis3_fre1889

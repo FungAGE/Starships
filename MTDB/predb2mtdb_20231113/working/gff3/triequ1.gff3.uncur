@@ -1,0 +1,72 @@
+triequ1_supercont110	bed	gene	1	69023	.	+	insert	ID=gene_triequ1_571|triint1_cont1278|up;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	1408	65483	.	+	cap	ID=gene_triequ1_571;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	5680	62274	.	+	.	ID=gene_triequ1_572;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	10833	57245	.	-	.	ID=gene_triequ1_573;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	12270	56325	.	+	.	ID=gene_triequ1_574;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	12902	54123	.	-	.	ID=gene_triequ1_575;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	15183	53140	.	+	.	ID=gene_triequ1_576;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	16225	52308	.	-	.	ID=gene_triequ1_577;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	17821	50179	.	+	.	ID=gene_triequ1_578;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	20119	47958	.	+	.	ID=gene_triequ1_579;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	21512	47079	.	+	.	ID=gene_triequ1_580;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	23437	45147	.	-	.	ID=gene_triequ1_581;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	26133	41231	.	-	.	ID=gene_triequ1_582;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	41730	27010	.	-	.	ID=gene_triequ1_eg365693;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	49512	19306	.	-	.	ID=gene_triequ1_eg365650;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	49803	18024	.	-	.	ID=gene_triequ1_583;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	53268	15047	.	-	.	ID=gene_triequ1_584;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	55676	13031	.	+	.	ID=gene_triequ1_585;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	58429	9783	.	+	.	ID=gene_triequ1_586;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	60766	8109	.	+	.	ID=gene_triequ1_eg365694;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	62618	6101	.	+	.	ID=gene_triequ1_587;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	66248	1994	.	-	.	ID=gene_triequ1_588;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	67712	920	.	-	.	ID=gene_triequ1_589;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	gene	69024	0	.	+	insert	ID=gene_triequ1_571|triint1_cont1278|down;Description=triequ1_s10067;parent=triequ1_supercont110
+triequ1_supercont110	bed	RNA	1	69023	.	+	ID=rna_triequ1_571|triint1_cont1278|up;Description=;parent=gene_triequ1_571|triint1_cont1278|up
+triequ1_supercont110	bed	RNA	1408	65483	.	+	ID=rna_triequ1_571;Description=;parent=gene_triequ1_571
+triequ1_supercont110	bed	RNA	5680	62274	.	+	ID=rna_triequ1_572;Description=;parent=gene_triequ1_572
+triequ1_supercont110	bed	RNA	10833	57245	.	-	ID=rna_triequ1_573;Description=;parent=gene_triequ1_573
+triequ1_supercont110	bed	RNA	12270	56325	.	+	ID=rna_triequ1_574;Description=;parent=gene_triequ1_574
+triequ1_supercont110	bed	RNA	12902	54123	.	-	ID=rna_triequ1_575;Description=;parent=gene_triequ1_575
+triequ1_supercont110	bed	RNA	15183	53140	.	+	ID=rna_triequ1_576;Description=;parent=gene_triequ1_576
+triequ1_supercont110	bed	RNA	16225	52308	.	-	ID=rna_triequ1_577;Description=;parent=gene_triequ1_577
+triequ1_supercont110	bed	RNA	17821	50179	.	+	ID=rna_triequ1_578;Description=;parent=gene_triequ1_578
+triequ1_supercont110	bed	RNA	20119	47958	.	+	ID=rna_triequ1_579;Description=;parent=gene_triequ1_579
+triequ1_supercont110	bed	RNA	21512	47079	.	+	ID=rna_triequ1_580;Description=;parent=gene_triequ1_580
+triequ1_supercont110	bed	RNA	23437	45147	.	-	ID=rna_triequ1_581;Description=;parent=gene_triequ1_581
+triequ1_supercont110	bed	RNA	26133	41231	.	-	ID=rna_triequ1_582;Description=;parent=gene_triequ1_582
+triequ1_supercont110	bed	RNA	41730	27010	.	-	ID=rna_triequ1_eg365693;Description=;parent=gene_triequ1_eg365693
+triequ1_supercont110	bed	RNA	49512	19306	.	-	ID=rna_triequ1_eg365650;Description=;parent=gene_triequ1_eg365650
+triequ1_supercont110	bed	RNA	49803	18024	.	-	ID=rna_triequ1_583;Description=;parent=gene_triequ1_583
+triequ1_supercont110	bed	RNA	53268	15047	.	-	ID=rna_triequ1_584;Description=;parent=gene_triequ1_584
+triequ1_supercont110	bed	RNA	55676	13031	.	+	ID=rna_triequ1_585;Description=;parent=gene_triequ1_585
+triequ1_supercont110	bed	RNA	58429	9783	.	+	ID=rna_triequ1_586;Description=;parent=gene_triequ1_586
+triequ1_supercont110	bed	RNA	60766	8109	.	+	ID=rna_triequ1_eg365694;Description=;parent=gene_triequ1_eg365694
+triequ1_supercont110	bed	RNA	62618	6101	.	+	ID=rna_triequ1_587;Description=;parent=gene_triequ1_587
+triequ1_supercont110	bed	RNA	66248	1994	.	-	ID=rna_triequ1_588;Description=;parent=gene_triequ1_588
+triequ1_supercont110	bed	RNA	67712	920	.	-	ID=rna_triequ1_589;Description=;parent=gene_triequ1_589
+triequ1_supercont110	bed	RNA	69024	0	.	+	ID=rna_triequ1_571|triint1_cont1278|down;Description=;parent=gene_triequ1_571|triint1_cont1278|down
+triequ1_supercont110	bed	CDS	1	69023	.	+	ID=cds_triequ1_571|triint1_cont1278|up;Description=;parent=rna_triequ1_571|triint1_cont1278|up
+triequ1_supercont110	bed	CDS	1408	65483	.	+	ID=cds_triequ1_571;Description=;parent=rna_triequ1_571
+triequ1_supercont110	bed	CDS	5680	62274	.	+	ID=cds_triequ1_572;Description=;parent=rna_triequ1_572
+triequ1_supercont110	bed	CDS	10833	57245	.	-	ID=cds_triequ1_573;Description=;parent=rna_triequ1_573
+triequ1_supercont110	bed	CDS	12270	56325	.	+	ID=cds_triequ1_574;Description=;parent=rna_triequ1_574
+triequ1_supercont110	bed	CDS	12902	54123	.	-	ID=cds_triequ1_575;Description=;parent=rna_triequ1_575
+triequ1_supercont110	bed	CDS	15183	53140	.	+	ID=cds_triequ1_576;Description=;parent=rna_triequ1_576
+triequ1_supercont110	bed	CDS	16225	52308	.	-	ID=cds_triequ1_577;Description=;parent=rna_triequ1_577
+triequ1_supercont110	bed	CDS	17821	50179	.	+	ID=cds_triequ1_578;Description=;parent=rna_triequ1_578
+triequ1_supercont110	bed	CDS	20119	47958	.	+	ID=cds_triequ1_579;Description=;parent=rna_triequ1_579
+triequ1_supercont110	bed	CDS	21512	47079	.	+	ID=cds_triequ1_580;Description=;parent=rna_triequ1_580
+triequ1_supercont110	bed	CDS	23437	45147	.	-	ID=cds_triequ1_581;Description=;parent=rna_triequ1_581
+triequ1_supercont110	bed	CDS	26133	41231	.	-	ID=cds_triequ1_582;Description=;parent=rna_triequ1_582
+triequ1_supercont110	bed	CDS	41730	27010	.	-	ID=cds_triequ1_eg365693;Description=;parent=rna_triequ1_eg365693
+triequ1_supercont110	bed	CDS	49512	19306	.	-	ID=cds_triequ1_eg365650;Description=;parent=rna_triequ1_eg365650
+triequ1_supercont110	bed	CDS	49803	18024	.	-	ID=cds_triequ1_583;Description=;parent=rna_triequ1_583
+triequ1_supercont110	bed	CDS	53268	15047	.	-	ID=cds_triequ1_584;Description=;parent=rna_triequ1_584
+triequ1_supercont110	bed	CDS	55676	13031	.	+	ID=cds_triequ1_585;Description=;parent=rna_triequ1_585
+triequ1_supercont110	bed	CDS	58429	9783	.	+	ID=cds_triequ1_586;Description=;parent=rna_triequ1_586
+triequ1_supercont110	bed	CDS	60766	8109	.	+	ID=cds_triequ1_eg365694;Description=;parent=rna_triequ1_eg365694
+triequ1_supercont110	bed	CDS	62618	6101	.	+	ID=cds_triequ1_587;Description=;parent=rna_triequ1_587
+triequ1_supercont110	bed	CDS	66248	1994	.	-	ID=cds_triequ1_588;Description=;parent=rna_triequ1_588
+triequ1_supercont110	bed	CDS	67712	920	.	-	ID=cds_triequ1_589;Description=;parent=rna_triequ1_589
+triequ1_supercont110	bed	CDS	69024	0	.	+	ID=cds_triequ1_571|triint1_cont1278|down;Description=;parent=rna_triequ1_571|triint1_cont1278|down

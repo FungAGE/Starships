@@ -1,0 +1,43 @@
+aspluc12_AP024429.1	bed	region	1	51951	.	+	flank	ID=gene_aspluc12_tyr1852|DR|up;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	region	47	51896	.	+	flank	ID=gene_aspluc12_tyr1852|TIR|up;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	530	48604	.	+	cap	ID=gene_aspluc12_tyr1852;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	6440	42360	.	-	d37	ID=gene_aspluc12_d371095;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	9869	40932	.	+	.	ID=gene_aspluc12_eg91478;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	11548	39278	.	-	.	ID=gene_aspluc12_eg91086;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	14164	35996	.	-	fre	ID=gene_aspluc12_fre2782;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	20654	30809	.	-	.	ID=gene_aspluc12_eg91593;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	25499	25669	.	-	.	ID=gene_aspluc12_eg91122;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	36080	15652	.	+	.	ID=gene_aspluc12_eg91101;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	36920	12850	.	-	.	ID=gene_aspluc12_eg91279;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	40035	11586	.	-	.	ID=gene_aspluc12_eg91517;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	41865	8990	.	+	.	ID=gene_aspluc12_eg91436;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	42960	8766	.	-	.	ID=gene_aspluc12_eg91510;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	gene	45999	4739	.	+	.	ID=gene_aspluc12_eg91374;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	region	51915	28	.	+	flank	ID=gene_aspluc12_tyr1852|TIR|down;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	region	51952	0	.	+	flank	ID=gene_aspluc12_tyr1852|DR|down;Description=aspluc12_s01824;parent=aspluc12_AP024429.1
+aspluc12_AP024429.1	bed	RNA	530	48604	.	+	ID=rna_aspluc12_tyr1852;Description=;parent=gene_aspluc12_tyr1852
+aspluc12_AP024429.1	bed	RNA	6440	42360	.	-	ID=rna_aspluc12_d371095;Description=;parent=gene_aspluc12_d371095
+aspluc12_AP024429.1	bed	RNA	9869	40932	.	+	ID=rna_aspluc12_eg91478;Description=;parent=gene_aspluc12_eg91478
+aspluc12_AP024429.1	bed	RNA	11548	39278	.	-	ID=rna_aspluc12_eg91086;Description=;parent=gene_aspluc12_eg91086
+aspluc12_AP024429.1	bed	RNA	14164	35996	.	-	ID=rna_aspluc12_fre2782;Description=;parent=gene_aspluc12_fre2782
+aspluc12_AP024429.1	bed	RNA	20654	30809	.	-	ID=rna_aspluc12_eg91593;Description=;parent=gene_aspluc12_eg91593
+aspluc12_AP024429.1	bed	RNA	25499	25669	.	-	ID=rna_aspluc12_eg91122;Description=;parent=gene_aspluc12_eg91122
+aspluc12_AP024429.1	bed	RNA	36080	15652	.	+	ID=rna_aspluc12_eg91101;Description=;parent=gene_aspluc12_eg91101
+aspluc12_AP024429.1	bed	RNA	36920	12850	.	-	ID=rna_aspluc12_eg91279;Description=;parent=gene_aspluc12_eg91279
+aspluc12_AP024429.1	bed	RNA	40035	11586	.	-	ID=rna_aspluc12_eg91517;Description=;parent=gene_aspluc12_eg91517
+aspluc12_AP024429.1	bed	RNA	41865	8990	.	+	ID=rna_aspluc12_eg91436;Description=;parent=gene_aspluc12_eg91436
+aspluc12_AP024429.1	bed	RNA	42960	8766	.	-	ID=rna_aspluc12_eg91510;Description=;parent=gene_aspluc12_eg91510
+aspluc12_AP024429.1	bed	RNA	45999	4739	.	+	ID=rna_aspluc12_eg91374;Description=;parent=gene_aspluc12_eg91374
+aspluc12_AP024429.1	bed	CDS	530	48604	.	+	ID=cds_aspluc12_tyr1852;Description=;parent=rna_aspluc12_tyr1852
+aspluc12_AP024429.1	bed	CDS	6440	42360	.	-	ID=cds_aspluc12_d371095;Description=;parent=rna_aspluc12_d371095
+aspluc12_AP024429.1	bed	CDS	9869	40932	.	+	ID=cds_aspluc12_eg91478;Description=;parent=rna_aspluc12_eg91478
+aspluc12_AP024429.1	bed	CDS	11548	39278	.	-	ID=cds_aspluc12_eg91086;Description=;parent=rna_aspluc12_eg91086
+aspluc12_AP024429.1	bed	CDS	14164	35996	.	-	ID=cds_aspluc12_fre2782;Description=;parent=rna_aspluc12_fre2782
+aspluc12_AP024429.1	bed	CDS	20654	30809	.	-	ID=cds_aspluc12_eg91593;Description=;parent=rna_aspluc12_eg91593
+aspluc12_AP024429.1	bed	CDS	25499	25669	.	-	ID=cds_aspluc12_eg91122;Description=;parent=rna_aspluc12_eg91122
+aspluc12_AP024429.1	bed	CDS	36080	15652	.	+	ID=cds_aspluc12_eg91101;Description=;parent=rna_aspluc12_eg91101
+aspluc12_AP024429.1	bed	CDS	36920	12850	.	-	ID=cds_aspluc12_eg91279;Description=;parent=rna_aspluc12_eg91279
+aspluc12_AP024429.1	bed	CDS	40035	11586	.	-	ID=cds_aspluc12_eg91517;Description=;parent=rna_aspluc12_eg91517
+aspluc12_AP024429.1	bed	CDS	41865	8990	.	+	ID=cds_aspluc12_eg91436;Description=;parent=rna_aspluc12_eg91436
+aspluc12_AP024429.1	bed	CDS	42960	8766	.	-	ID=cds_aspluc12_eg91510;Description=;parent=rna_aspluc12_eg91510
+aspluc12_AP024429.1	bed	CDS	45999	4739	.	+	ID=cds_aspluc12_eg91374;Description=;parent=rna_aspluc12_eg91374

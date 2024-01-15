@@ -1,0 +1,14 @@
+fuscul4_CP064747.1	bed	region	1	26284	.	-	flank	ID=gene_fuscul4_tyr5443|DR|down;Description=fuscul4_s05171;parent=fuscul4_CP064747.1
+fuscul4_CP064747.1	bed	gene	474	25317	.	-	.	ID=gene_fuscul4_eg211828;Description=fuscul4_s05171;parent=fuscul4_CP064747.1
+fuscul4_CP064747.1	bed	gene	6469	19211	.	+	.	ID=gene_fuscul4_eg212817;Description=fuscul4_s05171;parent=fuscul4_CP064747.1
+fuscul4_CP064747.1	bed	gene	7863	16195	.	-	.	ID=gene_fuscul4_eg211862;Description=fuscul4_s05171;parent=fuscul4_CP064747.1
+fuscul4_CP064747.1	bed	gene	24075	1150	.	-	cap	ID=gene_fuscul4_tyr5443;Description=fuscul4_s05171;parent=fuscul4_CP064747.1
+fuscul4_CP064747.1	bed	region	26285	0	.	-	flank	ID=gene_fuscul4_tyr5443|DR|up;Description=fuscul4_s05171;parent=fuscul4_CP064747.1
+fuscul4_CP064747.1	bed	RNA	474	25317	.	-	ID=rna_fuscul4_eg211828;Description=;parent=gene_fuscul4_eg211828
+fuscul4_CP064747.1	bed	RNA	6469	19211	.	+	ID=rna_fuscul4_eg212817;Description=;parent=gene_fuscul4_eg212817
+fuscul4_CP064747.1	bed	RNA	7863	16195	.	-	ID=rna_fuscul4_eg211862;Description=;parent=gene_fuscul4_eg211862
+fuscul4_CP064747.1	bed	RNA	24075	1150	.	-	ID=rna_fuscul4_tyr5443;Description=;parent=gene_fuscul4_tyr5443
+fuscul4_CP064747.1	bed	CDS	474	25317	.	-	ID=cds_fuscul4_eg211828;Description=;parent=rna_fuscul4_eg211828
+fuscul4_CP064747.1	bed	CDS	6469	19211	.	+	ID=cds_fuscul4_eg212817;Description=;parent=rna_fuscul4_eg212817
+fuscul4_CP064747.1	bed	CDS	7863	16195	.	-	ID=cds_fuscul4_eg211862;Description=;parent=rna_fuscul4_eg211862
+fuscul4_CP064747.1	bed	CDS	24075	1150	.	-	ID=cds_fuscul4_tyr5443;Description=;parent=rna_fuscul4_tyr5443

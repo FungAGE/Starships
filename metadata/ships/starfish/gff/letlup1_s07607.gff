@@ -1,0 +1,12 @@
+letlup1_JACCJB010000004.1	bed	gene	1	35975	.	-	insert	ID=gene_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|down;Description=letlup1_s07607;parent=letlup1_JACCJB010000004.1
+letlup1_JACCJB010000004.1	bed	gene	32707	2183	.	+	.	ID=gene_letlup1_KAF6228061.1;Description=letlup1_s07607;parent=letlup1_JACCJB010000004.1
+letlup1_JACCJB010000004.1	bed	gene	34633	597	.	-	cap	ID=gene_letlup1_KAF6228062.1;Description=letlup1_s07607;parent=letlup1_JACCJB010000004.1
+letlup1_JACCJB010000004.1	bed	gene	35976	0	.	-	insert	ID=gene_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|up;Description=letlup1_s07607;parent=letlup1_JACCJB010000004.1
+letlup1_JACCJB010000004.1	bed	RNA	1	35975	.	-	ID=rna_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|down;Description=;parent=gene_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|down
+letlup1_JACCJB010000004.1	bed	RNA	32707	2183	.	+	ID=rna_letlup1_KAF6228061.1;Description=;parent=gene_letlup1_KAF6228061.1
+letlup1_JACCJB010000004.1	bed	RNA	34633	597	.	-	ID=rna_letlup1_KAF6228062.1;Description=;parent=gene_letlup1_KAF6228062.1
+letlup1_JACCJB010000004.1	bed	RNA	35976	0	.	-	ID=rna_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|up;Description=;parent=gene_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|up
+letlup1_JACCJB010000004.1	bed	CDS	1	35975	.	-	ID=cds_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|down;Description=;parent=rna_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|down
+letlup1_JACCJB010000004.1	bed	CDS	32707	2183	.	+	ID=cds_letlup1_KAF6228061.1;Description=;parent=rna_letlup1_KAF6228061.1
+letlup1_JACCJB010000004.1	bed	CDS	34633	597	.	-	ID=cds_letlup1_KAF6228062.1;Description=;parent=rna_letlup1_KAF6228062.1
+letlup1_JACCJB010000004.1	bed	CDS	35976	0	.	-	ID=cds_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|up;Description=;parent=rna_letlup1_KAF6228062.1|letcol1_JACCJC010000004.1|up

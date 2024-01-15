@@ -1,0 +1,80 @@
+aspind2_scaffold24	bed	region	1	51868	.	-	flank	ID=gene_aspind2_339748|DR|down;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	529	49799	.	-	.	ID=gene_aspind2_424218;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	3131	47030	.	-	.	ID=gene_aspind2_434743;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	5299	42908	.	+	.	ID=gene_aspind2_367450;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	9845	41395	.	-	.	ID=gene_aspind2_414098;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	12149	38908	.	-	.	ID=gene_aspind2_494009;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	13340	36961	.	+	.	ID=gene_aspind2_414101;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	15008	36395	.	-	.	ID=gene_aspind2_129356;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	16095	34818	.	+	.	ID=gene_aspind2_129401;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	17775	32708	.	+	.	ID=gene_aspind2_414103;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	19435	31862	.	-	.	ID=gene_aspind2_471029;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	20377	31178	.	-	.	ID=gene_aspind2_129410;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	21092	29054	.	+	d37	ID=gene_aspind2_339671;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	23891	26978	.	-	.	ID=gene_aspind2_471045;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	26260	25211	.	+	.	ID=gene_aspind2_129426;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	27311	24172	.	-	.	ID=gene_aspind2_414107;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	28232	22955	.	+	.	ID=gene_aspind2_471053;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	29197	19608	.	+	plp	ID=gene_aspind2_485554;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	34141	16868	.	-	.	ID=gene_aspind2_471063;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	35494	15296	.	+	.	ID=gene_aspind2_392921;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	37025	14581	.	-	.	ID=gene_aspind2_392924;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	37685	12920	.	+	fre	ID=gene_aspind2_367459;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	40098	11484	.	-	.	ID=gene_aspind2_309087;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	40833	10419	.	+	.	ID=gene_aspind2_414110;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	41586	8898	.	+	.	ID=gene_aspind2_471066;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	44878	4794	.	-	cap	ID=gene_aspind2_339748;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	gene	48497	1132	.	+	.	ID=gene_aspind2_414113;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	region	51868	0	.	-	flank	ID=gene_aspind2_339748|DR|up;Description=aspind2_s01473;parent=aspind2_scaffold24
+aspind2_scaffold24	bed	RNA	529	49799	.	-	ID=rna_aspind2_424218;Description=;parent=gene_aspind2_424218
+aspind2_scaffold24	bed	RNA	3131	47030	.	-	ID=rna_aspind2_434743;Description=;parent=gene_aspind2_434743
+aspind2_scaffold24	bed	RNA	5299	42908	.	+	ID=rna_aspind2_367450;Description=;parent=gene_aspind2_367450
+aspind2_scaffold24	bed	RNA	9845	41395	.	-	ID=rna_aspind2_414098;Description=;parent=gene_aspind2_414098
+aspind2_scaffold24	bed	RNA	12149	38908	.	-	ID=rna_aspind2_494009;Description=;parent=gene_aspind2_494009
+aspind2_scaffold24	bed	RNA	13340	36961	.	+	ID=rna_aspind2_414101;Description=;parent=gene_aspind2_414101
+aspind2_scaffold24	bed	RNA	15008	36395	.	-	ID=rna_aspind2_129356;Description=;parent=gene_aspind2_129356
+aspind2_scaffold24	bed	RNA	16095	34818	.	+	ID=rna_aspind2_129401;Description=;parent=gene_aspind2_129401
+aspind2_scaffold24	bed	RNA	17775	32708	.	+	ID=rna_aspind2_414103;Description=;parent=gene_aspind2_414103
+aspind2_scaffold24	bed	RNA	19435	31862	.	-	ID=rna_aspind2_471029;Description=;parent=gene_aspind2_471029
+aspind2_scaffold24	bed	RNA	20377	31178	.	-	ID=rna_aspind2_129410;Description=;parent=gene_aspind2_129410
+aspind2_scaffold24	bed	RNA	21092	29054	.	+	ID=rna_aspind2_339671;Description=;parent=gene_aspind2_339671
+aspind2_scaffold24	bed	RNA	23891	26978	.	-	ID=rna_aspind2_471045;Description=;parent=gene_aspind2_471045
+aspind2_scaffold24	bed	RNA	26260	25211	.	+	ID=rna_aspind2_129426;Description=;parent=gene_aspind2_129426
+aspind2_scaffold24	bed	RNA	27311	24172	.	-	ID=rna_aspind2_414107;Description=;parent=gene_aspind2_414107
+aspind2_scaffold24	bed	RNA	28232	22955	.	+	ID=rna_aspind2_471053;Description=;parent=gene_aspind2_471053
+aspind2_scaffold24	bed	RNA	29197	19608	.	+	ID=rna_aspind2_485554;Description=;parent=gene_aspind2_485554
+aspind2_scaffold24	bed	RNA	34141	16868	.	-	ID=rna_aspind2_471063;Description=;parent=gene_aspind2_471063
+aspind2_scaffold24	bed	RNA	35494	15296	.	+	ID=rna_aspind2_392921;Description=;parent=gene_aspind2_392921
+aspind2_scaffold24	bed	RNA	37025	14581	.	-	ID=rna_aspind2_392924;Description=;parent=gene_aspind2_392924
+aspind2_scaffold24	bed	RNA	37685	12920	.	+	ID=rna_aspind2_367459;Description=;parent=gene_aspind2_367459
+aspind2_scaffold24	bed	RNA	40098	11484	.	-	ID=rna_aspind2_309087;Description=;parent=gene_aspind2_309087
+aspind2_scaffold24	bed	RNA	40833	10419	.	+	ID=rna_aspind2_414110;Description=;parent=gene_aspind2_414110
+aspind2_scaffold24	bed	RNA	41586	8898	.	+	ID=rna_aspind2_471066;Description=;parent=gene_aspind2_471066
+aspind2_scaffold24	bed	RNA	44878	4794	.	-	ID=rna_aspind2_339748;Description=;parent=gene_aspind2_339748
+aspind2_scaffold24	bed	RNA	48497	1132	.	+	ID=rna_aspind2_414113;Description=;parent=gene_aspind2_414113
+aspind2_scaffold24	bed	CDS	529	49799	.	-	ID=cds_aspind2_424218;Description=;parent=rna_aspind2_424218
+aspind2_scaffold24	bed	CDS	3131	47030	.	-	ID=cds_aspind2_434743;Description=;parent=rna_aspind2_434743
+aspind2_scaffold24	bed	CDS	5299	42908	.	+	ID=cds_aspind2_367450;Description=;parent=rna_aspind2_367450
+aspind2_scaffold24	bed	CDS	9845	41395	.	-	ID=cds_aspind2_414098;Description=;parent=rna_aspind2_414098
+aspind2_scaffold24	bed	CDS	12149	38908	.	-	ID=cds_aspind2_494009;Description=;parent=rna_aspind2_494009
+aspind2_scaffold24	bed	CDS	13340	36961	.	+	ID=cds_aspind2_414101;Description=;parent=rna_aspind2_414101
+aspind2_scaffold24	bed	CDS	15008	36395	.	-	ID=cds_aspind2_129356;Description=;parent=rna_aspind2_129356
+aspind2_scaffold24	bed	CDS	16095	34818	.	+	ID=cds_aspind2_129401;Description=;parent=rna_aspind2_129401
+aspind2_scaffold24	bed	CDS	17775	32708	.	+	ID=cds_aspind2_414103;Description=;parent=rna_aspind2_414103
+aspind2_scaffold24	bed	CDS	19435	31862	.	-	ID=cds_aspind2_471029;Description=;parent=rna_aspind2_471029
+aspind2_scaffold24	bed	CDS	20377	31178	.	-	ID=cds_aspind2_129410;Description=;parent=rna_aspind2_129410
+aspind2_scaffold24	bed	CDS	21092	29054	.	+	ID=cds_aspind2_339671;Description=;parent=rna_aspind2_339671
+aspind2_scaffold24	bed	CDS	23891	26978	.	-	ID=cds_aspind2_471045;Description=;parent=rna_aspind2_471045
+aspind2_scaffold24	bed	CDS	26260	25211	.	+	ID=cds_aspind2_129426;Description=;parent=rna_aspind2_129426
+aspind2_scaffold24	bed	CDS	27311	24172	.	-	ID=cds_aspind2_414107;Description=;parent=rna_aspind2_414107
+aspind2_scaffold24	bed	CDS	28232	22955	.	+	ID=cds_aspind2_471053;Description=;parent=rna_aspind2_471053
+aspind2_scaffold24	bed	CDS	29197	19608	.	+	ID=cds_aspind2_485554;Description=;parent=rna_aspind2_485554
+aspind2_scaffold24	bed	CDS	34141	16868	.	-	ID=cds_aspind2_471063;Description=;parent=rna_aspind2_471063
+aspind2_scaffold24	bed	CDS	35494	15296	.	+	ID=cds_aspind2_392921;Description=;parent=rna_aspind2_392921
+aspind2_scaffold24	bed	CDS	37025	14581	.	-	ID=cds_aspind2_392924;Description=;parent=rna_aspind2_392924
+aspind2_scaffold24	bed	CDS	37685	12920	.	+	ID=cds_aspind2_367459;Description=;parent=rna_aspind2_367459
+aspind2_scaffold24	bed	CDS	40098	11484	.	-	ID=cds_aspind2_309087;Description=;parent=rna_aspind2_309087
+aspind2_scaffold24	bed	CDS	40833	10419	.	+	ID=cds_aspind2_414110;Description=;parent=rna_aspind2_414110
+aspind2_scaffold24	bed	CDS	41586	8898	.	+	ID=cds_aspind2_471066;Description=;parent=rna_aspind2_471066
+aspind2_scaffold24	bed	CDS	44878	4794	.	-	ID=cds_aspind2_339748;Description=;parent=rna_aspind2_339748
+aspind2_scaffold24	bed	CDS	48497	1132	.	+	ID=cds_aspind2_414113;Description=;parent=rna_aspind2_414113

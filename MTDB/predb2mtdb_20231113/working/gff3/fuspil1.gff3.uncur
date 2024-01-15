@@ -1,0 +1,49 @@
+fuspil1_JAGQDI010000006.1	bed	region	1	94480	.	+	flank	ID=gene_fuspil1_tyr6461|DR|up;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	region	27	94443	.	+	flank	ID=gene_fuspil1_tyr6461|TIR|up;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	488	91338	.	+	cap	ID=gene_fuspil1_tyr6461;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	14541	79364	.	+	.	ID=gene_fuspil1_eg274083;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	34573	59197	.	-	.	ID=gene_fuspil1_eg274412;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	59775	32224	.	+	d37	ID=gene_fuspil1_d373966;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	64750	29536	.	-	.	ID=gene_fuspil1_eg274471;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	66174	28007	.	-	.	ID=gene_fuspil1_eg274419;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	68222	25001	.	-	.	ID=gene_fuspil1_eg274388;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	70568	23154	.	+	.	ID=gene_fuspil1_eg274218;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	71940	21263	.	+	.	ID=gene_fuspil1_eg274387;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	73478	19749	.	+	.	ID=gene_fuspil1_eg274183;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	75469	18712	.	+	.	ID=gene_fuspil1_eg274418;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	82380	11798	.	-	.	ID=gene_fuspil1_eg274081;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	83689	10125	.	-	.	ID=gene_fuspil1_eg274475;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	87879	5906	.	+	.	ID=gene_fuspil1_eg274423;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	gene	91494	1569	.	-	.	ID=gene_fuspil1_eg274080;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	region	94429	42	.	+	flank	ID=gene_fuspil1_tyr6461|TIR|down;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	region	94481	0	.	+	flank	ID=gene_fuspil1_tyr6461|DR|down;Description=fuspil1_s06164;parent=fuspil1_JAGQDI010000006.1
+fuspil1_JAGQDI010000006.1	bed	RNA	488	91338	.	+	ID=rna_fuspil1_tyr6461;Description=;parent=gene_fuspil1_tyr6461
+fuspil1_JAGQDI010000006.1	bed	RNA	14541	79364	.	+	ID=rna_fuspil1_eg274083;Description=;parent=gene_fuspil1_eg274083
+fuspil1_JAGQDI010000006.1	bed	RNA	34573	59197	.	-	ID=rna_fuspil1_eg274412;Description=;parent=gene_fuspil1_eg274412
+fuspil1_JAGQDI010000006.1	bed	RNA	59775	32224	.	+	ID=rna_fuspil1_d373966;Description=;parent=gene_fuspil1_d373966
+fuspil1_JAGQDI010000006.1	bed	RNA	64750	29536	.	-	ID=rna_fuspil1_eg274471;Description=;parent=gene_fuspil1_eg274471
+fuspil1_JAGQDI010000006.1	bed	RNA	66174	28007	.	-	ID=rna_fuspil1_eg274419;Description=;parent=gene_fuspil1_eg274419
+fuspil1_JAGQDI010000006.1	bed	RNA	68222	25001	.	-	ID=rna_fuspil1_eg274388;Description=;parent=gene_fuspil1_eg274388
+fuspil1_JAGQDI010000006.1	bed	RNA	70568	23154	.	+	ID=rna_fuspil1_eg274218;Description=;parent=gene_fuspil1_eg274218
+fuspil1_JAGQDI010000006.1	bed	RNA	71940	21263	.	+	ID=rna_fuspil1_eg274387;Description=;parent=gene_fuspil1_eg274387
+fuspil1_JAGQDI010000006.1	bed	RNA	73478	19749	.	+	ID=rna_fuspil1_eg274183;Description=;parent=gene_fuspil1_eg274183
+fuspil1_JAGQDI010000006.1	bed	RNA	75469	18712	.	+	ID=rna_fuspil1_eg274418;Description=;parent=gene_fuspil1_eg274418
+fuspil1_JAGQDI010000006.1	bed	RNA	82380	11798	.	-	ID=rna_fuspil1_eg274081;Description=;parent=gene_fuspil1_eg274081
+fuspil1_JAGQDI010000006.1	bed	RNA	83689	10125	.	-	ID=rna_fuspil1_eg274475;Description=;parent=gene_fuspil1_eg274475
+fuspil1_JAGQDI010000006.1	bed	RNA	87879	5906	.	+	ID=rna_fuspil1_eg274423;Description=;parent=gene_fuspil1_eg274423
+fuspil1_JAGQDI010000006.1	bed	RNA	91494	1569	.	-	ID=rna_fuspil1_eg274080;Description=;parent=gene_fuspil1_eg274080
+fuspil1_JAGQDI010000006.1	bed	CDS	488	91338	.	+	ID=cds_fuspil1_tyr6461;Description=;parent=rna_fuspil1_tyr6461
+fuspil1_JAGQDI010000006.1	bed	CDS	14541	79364	.	+	ID=cds_fuspil1_eg274083;Description=;parent=rna_fuspil1_eg274083
+fuspil1_JAGQDI010000006.1	bed	CDS	34573	59197	.	-	ID=cds_fuspil1_eg274412;Description=;parent=rna_fuspil1_eg274412
+fuspil1_JAGQDI010000006.1	bed	CDS	59775	32224	.	+	ID=cds_fuspil1_d373966;Description=;parent=rna_fuspil1_d373966
+fuspil1_JAGQDI010000006.1	bed	CDS	64750	29536	.	-	ID=cds_fuspil1_eg274471;Description=;parent=rna_fuspil1_eg274471
+fuspil1_JAGQDI010000006.1	bed	CDS	66174	28007	.	-	ID=cds_fuspil1_eg274419;Description=;parent=rna_fuspil1_eg274419
+fuspil1_JAGQDI010000006.1	bed	CDS	68222	25001	.	-	ID=cds_fuspil1_eg274388;Description=;parent=rna_fuspil1_eg274388
+fuspil1_JAGQDI010000006.1	bed	CDS	70568	23154	.	+	ID=cds_fuspil1_eg274218;Description=;parent=rna_fuspil1_eg274218
+fuspil1_JAGQDI010000006.1	bed	CDS	71940	21263	.	+	ID=cds_fuspil1_eg274387;Description=;parent=rna_fuspil1_eg274387
+fuspil1_JAGQDI010000006.1	bed	CDS	73478	19749	.	+	ID=cds_fuspil1_eg274183;Description=;parent=rna_fuspil1_eg274183
+fuspil1_JAGQDI010000006.1	bed	CDS	75469	18712	.	+	ID=cds_fuspil1_eg274418;Description=;parent=rna_fuspil1_eg274418
+fuspil1_JAGQDI010000006.1	bed	CDS	82380	11798	.	-	ID=cds_fuspil1_eg274081;Description=;parent=rna_fuspil1_eg274081
+fuspil1_JAGQDI010000006.1	bed	CDS	83689	10125	.	-	ID=cds_fuspil1_eg274475;Description=;parent=rna_fuspil1_eg274475
+fuspil1_JAGQDI010000006.1	bed	CDS	87879	5906	.	+	ID=cds_fuspil1_eg274423;Description=;parent=rna_fuspil1_eg274423
+fuspil1_JAGQDI010000006.1	bed	CDS	91494	1569	.	-	ID=cds_fuspil1_eg274080;Description=;parent=rna_fuspil1_eg274080

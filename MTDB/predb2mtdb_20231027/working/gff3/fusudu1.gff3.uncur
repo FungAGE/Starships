@@ -1,0 +1,21 @@
+fusudu1_NIFK01000006.1	bed	gene	1	74822	.	+	insert	ID=gene_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|up;Description=fusudu1_s06516;parent=fusudu1_NIFK01000006.1
+fusudu1_NIFK01000006.1	bed	gene	6252	66237	.	+	cap	ID=gene_fusudu1_tyr6822;Description=fusudu1_s06516;parent=fusudu1_NIFK01000006.1
+fusudu1_NIFK01000006.1	bed	gene	16523	56930	.	+	.	ID=gene_fusudu1_eg309808;Description=fusudu1_s06516;parent=fusudu1_NIFK01000006.1
+fusudu1_NIFK01000006.1	bed	gene	59358	14557	.	-	.	ID=gene_fusudu1_eg309258;Description=fusudu1_s06516;parent=fusudu1_NIFK01000006.1
+fusudu1_NIFK01000006.1	bed	gene	69552	4519	.	-	.	ID=gene_fusudu1_eg309778;Description=fusudu1_s06516;parent=fusudu1_NIFK01000006.1
+fusudu1_NIFK01000006.1	bed	gene	74266	490	.	+	.	ID=gene_fusudu1_eg309736;Description=fusudu1_s06516;parent=fusudu1_NIFK01000006.1
+fusudu1_NIFK01000006.1	bed	gene	74823	0	.	+	insert	ID=gene_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|down;Description=fusudu1_s06516;parent=fusudu1_NIFK01000006.1
+fusudu1_NIFK01000006.1	bed	RNA	1	74822	.	+	ID=rna_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|up;Description=;parent=gene_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|up
+fusudu1_NIFK01000006.1	bed	RNA	6252	66237	.	+	ID=rna_fusudu1_tyr6822;Description=;parent=gene_fusudu1_tyr6822
+fusudu1_NIFK01000006.1	bed	RNA	16523	56930	.	+	ID=rna_fusudu1_eg309808;Description=;parent=gene_fusudu1_eg309808
+fusudu1_NIFK01000006.1	bed	RNA	59358	14557	.	-	ID=rna_fusudu1_eg309258;Description=;parent=gene_fusudu1_eg309258
+fusudu1_NIFK01000006.1	bed	RNA	69552	4519	.	-	ID=rna_fusudu1_eg309778;Description=;parent=gene_fusudu1_eg309778
+fusudu1_NIFK01000006.1	bed	RNA	74266	490	.	+	ID=rna_fusudu1_eg309736;Description=;parent=gene_fusudu1_eg309736
+fusudu1_NIFK01000006.1	bed	RNA	74823	0	.	+	ID=rna_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|down;Description=;parent=gene_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|down
+fusudu1_NIFK01000006.1	bed	CDS	1	74822	.	+	ID=cds_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|up;Description=;parent=rna_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|up
+fusudu1_NIFK01000006.1	bed	CDS	6252	66237	.	+	ID=cds_fusudu1_tyr6822;Description=;parent=rna_fusudu1_tyr6822
+fusudu1_NIFK01000006.1	bed	CDS	16523	56930	.	+	ID=cds_fusudu1_eg309808;Description=;parent=rna_fusudu1_eg309808
+fusudu1_NIFK01000006.1	bed	CDS	59358	14557	.	-	ID=cds_fusudu1_eg309258;Description=;parent=rna_fusudu1_eg309258
+fusudu1_NIFK01000006.1	bed	CDS	69552	4519	.	-	ID=cds_fusudu1_eg309778;Description=;parent=rna_fusudu1_eg309778
+fusudu1_NIFK01000006.1	bed	CDS	74266	490	.	+	ID=cds_fusudu1_eg309736;Description=;parent=rna_fusudu1_eg309736
+fusudu1_NIFK01000006.1	bed	CDS	74823	0	.	+	ID=cds_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|down;Description=;parent=rna_fusudu1_tyr6822|fusste1_JAAOAU010000025.1|down

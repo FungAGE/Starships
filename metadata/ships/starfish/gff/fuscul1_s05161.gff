@@ -1,0 +1,73 @@
+fuscul1_chromosome3	bed	region	1	71985	.	+	flank	ID=gene_fuscul1_9249|DR|up;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	region	38	71944	.	+	flank	ID=gene_fuscul1_9249|TIR|up;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	386	69437	.	+	cap	ID=gene_fuscul1_9249;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	7056	64719	.	-	.	ID=gene_fuscul1_9250;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	8037	63034	.	-	.	ID=gene_fuscul1_9251;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	13016	58433	.	+	.	ID=gene_fuscul1_eg209447;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	15338	56145	.	+	.	ID=gene_fuscul1_eg208848;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	16085	53874	.	-	.	ID=gene_fuscul1_9252;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	20328	50004	.	+	.	ID=gene_fuscul1_9253;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	25663	42719	.	-	.	ID=gene_fuscul1_9254;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	31623	39004	.	+	fre	ID=gene_fuscul1_fre11846;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	33637	37879	.	-	.	ID=gene_fuscul1_eg209585;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	34203	35932	.	-	.	ID=gene_fuscul1_9255;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	36350	34116	.	+	d37	ID=gene_fuscul1_d373147;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	38664	33181	.	-	.	ID=gene_fuscul1_9256;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	39753	31611	.	-	.	ID=gene_fuscul1_9257;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	40718	30308	.	+	.	ID=gene_fuscul1_9258;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	42208	29446	.	-	.	ID=gene_fuscul1_9259;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	42878	28776	.	+	.	ID=gene_fuscul1_9260;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	47946	23240	.	+	.	ID=gene_fuscul1_eg208917;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	63380	7864	.	-	.	ID=gene_fuscul1_9261;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	64560	6336	.	+	.	ID=gene_fuscul1_9262;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	66810	4664	.	+	.	ID=gene_fuscul1_eg208811;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	67590	3433	.	-	.	ID=gene_fuscul1_eg209397;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	gene	68780	1558	.	-	.	ID=gene_fuscul1_9263;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	region	71935	46	.	+	flank	ID=gene_fuscul1_9249|TIR|down;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	region	71987	0	.	+	flank	ID=gene_fuscul1_9249|DR|down;Description=fuscul1_s05161;parent=fuscul1_chromosome3
+fuscul1_chromosome3	bed	RNA	386	69437	.	+	ID=rna_fuscul1_9249;Description=;parent=gene_fuscul1_9249
+fuscul1_chromosome3	bed	RNA	7056	64719	.	-	ID=rna_fuscul1_9250;Description=;parent=gene_fuscul1_9250
+fuscul1_chromosome3	bed	RNA	8037	63034	.	-	ID=rna_fuscul1_9251;Description=;parent=gene_fuscul1_9251
+fuscul1_chromosome3	bed	RNA	13016	58433	.	+	ID=rna_fuscul1_eg209447;Description=;parent=gene_fuscul1_eg209447
+fuscul1_chromosome3	bed	RNA	15338	56145	.	+	ID=rna_fuscul1_eg208848;Description=;parent=gene_fuscul1_eg208848
+fuscul1_chromosome3	bed	RNA	16085	53874	.	-	ID=rna_fuscul1_9252;Description=;parent=gene_fuscul1_9252
+fuscul1_chromosome3	bed	RNA	20328	50004	.	+	ID=rna_fuscul1_9253;Description=;parent=gene_fuscul1_9253
+fuscul1_chromosome3	bed	RNA	25663	42719	.	-	ID=rna_fuscul1_9254;Description=;parent=gene_fuscul1_9254
+fuscul1_chromosome3	bed	RNA	31623	39004	.	+	ID=rna_fuscul1_fre11846;Description=;parent=gene_fuscul1_fre11846
+fuscul1_chromosome3	bed	RNA	33637	37879	.	-	ID=rna_fuscul1_eg209585;Description=;parent=gene_fuscul1_eg209585
+fuscul1_chromosome3	bed	RNA	34203	35932	.	-	ID=rna_fuscul1_9255;Description=;parent=gene_fuscul1_9255
+fuscul1_chromosome3	bed	RNA	36350	34116	.	+	ID=rna_fuscul1_d373147;Description=;parent=gene_fuscul1_d373147
+fuscul1_chromosome3	bed	RNA	38664	33181	.	-	ID=rna_fuscul1_9256;Description=;parent=gene_fuscul1_9256
+fuscul1_chromosome3	bed	RNA	39753	31611	.	-	ID=rna_fuscul1_9257;Description=;parent=gene_fuscul1_9257
+fuscul1_chromosome3	bed	RNA	40718	30308	.	+	ID=rna_fuscul1_9258;Description=;parent=gene_fuscul1_9258
+fuscul1_chromosome3	bed	RNA	42208	29446	.	-	ID=rna_fuscul1_9259;Description=;parent=gene_fuscul1_9259
+fuscul1_chromosome3	bed	RNA	42878	28776	.	+	ID=rna_fuscul1_9260;Description=;parent=gene_fuscul1_9260
+fuscul1_chromosome3	bed	RNA	47946	23240	.	+	ID=rna_fuscul1_eg208917;Description=;parent=gene_fuscul1_eg208917
+fuscul1_chromosome3	bed	RNA	63380	7864	.	-	ID=rna_fuscul1_9261;Description=;parent=gene_fuscul1_9261
+fuscul1_chromosome3	bed	RNA	64560	6336	.	+	ID=rna_fuscul1_9262;Description=;parent=gene_fuscul1_9262
+fuscul1_chromosome3	bed	RNA	66810	4664	.	+	ID=rna_fuscul1_eg208811;Description=;parent=gene_fuscul1_eg208811
+fuscul1_chromosome3	bed	RNA	67590	3433	.	-	ID=rna_fuscul1_eg209397;Description=;parent=gene_fuscul1_eg209397
+fuscul1_chromosome3	bed	RNA	68780	1558	.	-	ID=rna_fuscul1_9263;Description=;parent=gene_fuscul1_9263
+fuscul1_chromosome3	bed	CDS	386	69437	.	+	ID=cds_fuscul1_9249;Description=;parent=rna_fuscul1_9249
+fuscul1_chromosome3	bed	CDS	7056	64719	.	-	ID=cds_fuscul1_9250;Description=;parent=rna_fuscul1_9250
+fuscul1_chromosome3	bed	CDS	8037	63034	.	-	ID=cds_fuscul1_9251;Description=;parent=rna_fuscul1_9251
+fuscul1_chromosome3	bed	CDS	13016	58433	.	+	ID=cds_fuscul1_eg209447;Description=;parent=rna_fuscul1_eg209447
+fuscul1_chromosome3	bed	CDS	15338	56145	.	+	ID=cds_fuscul1_eg208848;Description=;parent=rna_fuscul1_eg208848
+fuscul1_chromosome3	bed	CDS	16085	53874	.	-	ID=cds_fuscul1_9252;Description=;parent=rna_fuscul1_9252
+fuscul1_chromosome3	bed	CDS	20328	50004	.	+	ID=cds_fuscul1_9253;Description=;parent=rna_fuscul1_9253
+fuscul1_chromosome3	bed	CDS	25663	42719	.	-	ID=cds_fuscul1_9254;Description=;parent=rna_fuscul1_9254
+fuscul1_chromosome3	bed	CDS	31623	39004	.	+	ID=cds_fuscul1_fre11846;Description=;parent=rna_fuscul1_fre11846
+fuscul1_chromosome3	bed	CDS	33637	37879	.	-	ID=cds_fuscul1_eg209585;Description=;parent=rna_fuscul1_eg209585
+fuscul1_chromosome3	bed	CDS	34203	35932	.	-	ID=cds_fuscul1_9255;Description=;parent=rna_fuscul1_9255
+fuscul1_chromosome3	bed	CDS	36350	34116	.	+	ID=cds_fuscul1_d373147;Description=;parent=rna_fuscul1_d373147
+fuscul1_chromosome3	bed	CDS	38664	33181	.	-	ID=cds_fuscul1_9256;Description=;parent=rna_fuscul1_9256
+fuscul1_chromosome3	bed	CDS	39753	31611	.	-	ID=cds_fuscul1_9257;Description=;parent=rna_fuscul1_9257
+fuscul1_chromosome3	bed	CDS	40718	30308	.	+	ID=cds_fuscul1_9258;Description=;parent=rna_fuscul1_9258
+fuscul1_chromosome3	bed	CDS	42208	29446	.	-	ID=cds_fuscul1_9259;Description=;parent=rna_fuscul1_9259
+fuscul1_chromosome3	bed	CDS	42878	28776	.	+	ID=cds_fuscul1_9260;Description=;parent=rna_fuscul1_9260
+fuscul1_chromosome3	bed	CDS	47946	23240	.	+	ID=cds_fuscul1_eg208917;Description=;parent=rna_fuscul1_eg208917
+fuscul1_chromosome3	bed	CDS	63380	7864	.	-	ID=cds_fuscul1_9261;Description=;parent=rna_fuscul1_9261
+fuscul1_chromosome3	bed	CDS	64560	6336	.	+	ID=cds_fuscul1_9262;Description=;parent=rna_fuscul1_9262
+fuscul1_chromosome3	bed	CDS	66810	4664	.	+	ID=cds_fuscul1_eg208811;Description=;parent=rna_fuscul1_eg208811
+fuscul1_chromosome3	bed	CDS	67590	3433	.	-	ID=cds_fuscul1_eg209397;Description=;parent=rna_fuscul1_eg209397
+fuscul1_chromosome3	bed	CDS	68780	1558	.	-	ID=cds_fuscul1_9263;Description=;parent=rna_fuscul1_9263

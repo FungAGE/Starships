@@ -1,0 +1,21 @@
+podcom1_LR026964.1	bed	gene	1	15618	.	+	insert	ID=gene_podcom1_tyr9196|podans1_Chromosome1|up;Description=podcom1_s08798;parent=podcom1_LR026964.1
+podcom1_LR026964.1	bed	gene	188	13525	.	+	cap	ID=gene_podcom1_tyr9196;Description=podcom1_s08798;parent=podcom1_LR026964.1
+podcom1_LR026964.1	bed	gene	3998	10765	.	+	d37	ID=gene_podcom1_d375404;Description=podcom1_s08798;parent=podcom1_LR026964.1
+podcom1_LR026964.1	bed	gene	6896	7122	.	+	.	ID=gene_podcom1_VBB73007.1;Description=podcom1_s08798;parent=podcom1_LR026964.1
+podcom1_LR026964.1	bed	gene	9338	5010	.	+	.	ID=gene_podcom1_VBB73008.1;Description=podcom1_s08798;parent=podcom1_LR026964.1
+podcom1_LR026964.1	bed	gene	10726	3867	.	-	.	ID=gene_podcom1_VBB73009.1;Description=podcom1_s08798;parent=podcom1_LR026964.1
+podcom1_LR026964.1	bed	gene	15619	0	.	+	insert	ID=gene_podcom1_tyr9196|podans1_Chromosome1|down;Description=podcom1_s08798;parent=podcom1_LR026964.1
+podcom1_LR026964.1	bed	RNA	1	15618	.	+	ID=rna_podcom1_tyr9196|podans1_Chromosome1|up;Description=;parent=gene_podcom1_tyr9196|podans1_Chromosome1|up
+podcom1_LR026964.1	bed	RNA	188	13525	.	+	ID=rna_podcom1_tyr9196;Description=;parent=gene_podcom1_tyr9196
+podcom1_LR026964.1	bed	RNA	3998	10765	.	+	ID=rna_podcom1_d375404;Description=;parent=gene_podcom1_d375404
+podcom1_LR026964.1	bed	RNA	6896	7122	.	+	ID=rna_podcom1_VBB73007.1;Description=;parent=gene_podcom1_VBB73007.1
+podcom1_LR026964.1	bed	RNA	9338	5010	.	+	ID=rna_podcom1_VBB73008.1;Description=;parent=gene_podcom1_VBB73008.1
+podcom1_LR026964.1	bed	RNA	10726	3867	.	-	ID=rna_podcom1_VBB73009.1;Description=;parent=gene_podcom1_VBB73009.1
+podcom1_LR026964.1	bed	RNA	15619	0	.	+	ID=rna_podcom1_tyr9196|podans1_Chromosome1|down;Description=;parent=gene_podcom1_tyr9196|podans1_Chromosome1|down
+podcom1_LR026964.1	bed	CDS	1	15618	.	+	ID=cds_podcom1_tyr9196|podans1_Chromosome1|up;Description=;parent=rna_podcom1_tyr9196|podans1_Chromosome1|up
+podcom1_LR026964.1	bed	CDS	188	13525	.	+	ID=cds_podcom1_tyr9196;Description=;parent=rna_podcom1_tyr9196
+podcom1_LR026964.1	bed	CDS	3998	10765	.	+	ID=cds_podcom1_d375404;Description=;parent=rna_podcom1_d375404
+podcom1_LR026964.1	bed	CDS	6896	7122	.	+	ID=cds_podcom1_VBB73007.1;Description=;parent=rna_podcom1_VBB73007.1
+podcom1_LR026964.1	bed	CDS	9338	5010	.	+	ID=cds_podcom1_VBB73008.1;Description=;parent=rna_podcom1_VBB73008.1
+podcom1_LR026964.1	bed	CDS	10726	3867	.	-	ID=cds_podcom1_VBB73009.1;Description=;parent=rna_podcom1_VBB73009.1
+podcom1_LR026964.1	bed	CDS	15619	0	.	+	ID=cds_podcom1_tyr9196|podans1_Chromosome1|down;Description=;parent=rna_podcom1_tyr9196|podans1_Chromosome1|down

@@ -1,0 +1,26 @@
+aspory12_JAGJDX010000022.1	bed	region	1	46244	.	-	flank	ID=gene_aspory12_tyr2280|DR|down;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	gene	8741	36701	.	-	.	ID=gene_aspory12_eg126878;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	gene	12053	33518	.	-	.	ID=gene_aspory12_eg126708;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	gene	14742	30334	.	+	nlr	ID=gene_aspory12_nlr27557;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	gene	20782	25245	.	+	.	ID=gene_aspory12_eg126676;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	gene	25584	18392	.	-	.	ID=gene_aspory12_eg126871;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	gene	34404	11626	.	+	.	ID=gene_aspory12_eg126843;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	gene	37245	8486	.	+	.	ID=gene_aspory12_eg126827;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	gene	39949	3690	.	-	cap	ID=gene_aspory12_tyr2280;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	region	46245	0	.	-	flank	ID=gene_aspory12_tyr2280|DR|up;Description=aspory12_s02213;parent=aspory12_JAGJDX010000022.1
+aspory12_JAGJDX010000022.1	bed	RNA	8741	36701	.	-	ID=rna_aspory12_eg126878;Description=;parent=gene_aspory12_eg126878
+aspory12_JAGJDX010000022.1	bed	RNA	12053	33518	.	-	ID=rna_aspory12_eg126708;Description=;parent=gene_aspory12_eg126708
+aspory12_JAGJDX010000022.1	bed	RNA	14742	30334	.	+	ID=rna_aspory12_nlr27557;Description=;parent=gene_aspory12_nlr27557
+aspory12_JAGJDX010000022.1	bed	RNA	20782	25245	.	+	ID=rna_aspory12_eg126676;Description=;parent=gene_aspory12_eg126676
+aspory12_JAGJDX010000022.1	bed	RNA	25584	18392	.	-	ID=rna_aspory12_eg126871;Description=;parent=gene_aspory12_eg126871
+aspory12_JAGJDX010000022.1	bed	RNA	34404	11626	.	+	ID=rna_aspory12_eg126843;Description=;parent=gene_aspory12_eg126843
+aspory12_JAGJDX010000022.1	bed	RNA	37245	8486	.	+	ID=rna_aspory12_eg126827;Description=;parent=gene_aspory12_eg126827
+aspory12_JAGJDX010000022.1	bed	RNA	39949	3690	.	-	ID=rna_aspory12_tyr2280;Description=;parent=gene_aspory12_tyr2280
+aspory12_JAGJDX010000022.1	bed	CDS	8741	36701	.	-	ID=cds_aspory12_eg126878;Description=;parent=rna_aspory12_eg126878
+aspory12_JAGJDX010000022.1	bed	CDS	12053	33518	.	-	ID=cds_aspory12_eg126708;Description=;parent=rna_aspory12_eg126708
+aspory12_JAGJDX010000022.1	bed	CDS	14742	30334	.	+	ID=cds_aspory12_nlr27557;Description=;parent=rna_aspory12_nlr27557
+aspory12_JAGJDX010000022.1	bed	CDS	20782	25245	.	+	ID=cds_aspory12_eg126676;Description=;parent=rna_aspory12_eg126676
+aspory12_JAGJDX010000022.1	bed	CDS	25584	18392	.	-	ID=cds_aspory12_eg126871;Description=;parent=rna_aspory12_eg126871
+aspory12_JAGJDX010000022.1	bed	CDS	34404	11626	.	+	ID=cds_aspory12_eg126843;Description=;parent=rna_aspory12_eg126843
+aspory12_JAGJDX010000022.1	bed	CDS	37245	8486	.	+	ID=cds_aspory12_eg126827;Description=;parent=rna_aspory12_eg126827
+aspory12_JAGJDX010000022.1	bed	CDS	39949	3690	.	-	ID=cds_aspory12_tyr2280;Description=;parent=rna_aspory12_tyr2280

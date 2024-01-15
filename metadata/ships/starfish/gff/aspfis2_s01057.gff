@@ -1,0 +1,24 @@
+aspfis2_WHVT01000034.1	bed	gene	1	17255	.	+	insert	ID=gene_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|up;Description=aspfis2_s01057;parent=aspfis2_WHVT01000034.1
+aspfis2_WHVT01000034.1	bed	gene	406	15039	.	+	cap	ID=gene_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1;Description=aspfis2_s01057;parent=aspfis2_WHVT01000034.1
+aspfis2_WHVT01000034.1	bed	gene	2879	14121	.	-	.	ID=gene_aspfis2_KAG2010907.1;Description=aspfis2_s01057;parent=aspfis2_WHVT01000034.1
+aspfis2_WHVT01000034.1	bed	gene	4562	4196	.	+	.	ID=gene_aspfis2_KAG2010891.1;Description=aspfis2_s01057;parent=aspfis2_WHVT01000034.1
+aspfis2_WHVT01000034.1	bed	gene	6277	9671	.	-	.	ID=gene_aspfis2_KAG2010914.1;Description=aspfis2_s01057;parent=aspfis2_WHVT01000034.1
+aspfis2_WHVT01000034.1	bed	gene	13303	3582	.	-	.	ID=gene_aspfis2_KAG2010918.1;Description=aspfis2_s01057;parent=aspfis2_WHVT01000034.1
+aspfis2_WHVT01000034.1	bed	gene	15792	641	.	-	.	ID=gene_aspfis2_KAG2010910.1;Description=aspfis2_s01057;parent=aspfis2_WHVT01000034.1
+aspfis2_WHVT01000034.1	bed	gene	17256	0	.	+	insert	ID=gene_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|down;Description=aspfis2_s01057;parent=aspfis2_WHVT01000034.1
+aspfis2_WHVT01000034.1	bed	RNA	1	17255	.	+	ID=rna_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|up;Description=;parent=gene_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|up
+aspfis2_WHVT01000034.1	bed	RNA	406	15039	.	+	ID=rna_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1;Description=;parent=gene_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1
+aspfis2_WHVT01000034.1	bed	RNA	2879	14121	.	-	ID=rna_aspfis2_KAG2010907.1;Description=;parent=gene_aspfis2_KAG2010907.1
+aspfis2_WHVT01000034.1	bed	RNA	4562	4196	.	+	ID=rna_aspfis2_KAG2010891.1;Description=;parent=gene_aspfis2_KAG2010891.1
+aspfis2_WHVT01000034.1	bed	RNA	6277	9671	.	-	ID=rna_aspfis2_KAG2010914.1;Description=;parent=gene_aspfis2_KAG2010914.1
+aspfis2_WHVT01000034.1	bed	RNA	13303	3582	.	-	ID=rna_aspfis2_KAG2010918.1;Description=;parent=gene_aspfis2_KAG2010918.1
+aspfis2_WHVT01000034.1	bed	RNA	15792	641	.	-	ID=rna_aspfis2_KAG2010910.1;Description=;parent=gene_aspfis2_KAG2010910.1
+aspfis2_WHVT01000034.1	bed	RNA	17256	0	.	+	ID=rna_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|down;Description=;parent=gene_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|down
+aspfis2_WHVT01000034.1	bed	CDS	1	17255	.	+	ID=cds_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|up;Description=;parent=rna_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|up
+aspfis2_WHVT01000034.1	bed	CDS	406	15039	.	+	ID=cds_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1;Description=;parent=rna_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1
+aspfis2_WHVT01000034.1	bed	CDS	2879	14121	.	-	ID=cds_aspfis2_KAG2010907.1;Description=;parent=rna_aspfis2_KAG2010907.1
+aspfis2_WHVT01000034.1	bed	CDS	4562	4196	.	+	ID=cds_aspfis2_KAG2010891.1;Description=;parent=rna_aspfis2_KAG2010891.1
+aspfis2_WHVT01000034.1	bed	CDS	6277	9671	.	-	ID=cds_aspfis2_KAG2010914.1;Description=;parent=rna_aspfis2_KAG2010914.1
+aspfis2_WHVT01000034.1	bed	CDS	13303	3582	.	-	ID=cds_aspfis2_KAG2010918.1;Description=;parent=rna_aspfis2_KAG2010918.1
+aspfis2_WHVT01000034.1	bed	CDS	15792	641	.	-	ID=cds_aspfis2_KAG2010910.1;Description=;parent=rna_aspfis2_KAG2010910.1
+aspfis2_WHVT01000034.1	bed	CDS	17256	0	.	+	ID=cds_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|down;Description=;parent=rna_aspfis2_KAG2010923.1:KAG2010920.1:KAG2010921.1|aspfis3_VWYA01000037.1|down

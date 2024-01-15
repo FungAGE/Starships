@@ -1,0 +1,15 @@
+asplen8_JAAAPT010000095.1	bed	gene	1	19665	.	+	insert	ID=gene_asplen8_tyr1769|asplen9_JAAAPP010000015.1|up;Description=asplen8_s01682;parent=asplen8_JAAAPT010000095.1
+asplen8_JAAAPT010000095.1	bed	gene	981	17018	.	+	cap	ID=gene_asplen8_tyr1769;Description=asplen8_s01682;parent=asplen8_JAAAPT010000095.1
+asplen8_JAAAPT010000095.1	bed	gene	15340	3837	.	-	d37	ID=gene_asplen8_d371042;Description=asplen8_s01682;parent=asplen8_JAAAPT010000095.1
+asplen8_JAAAPT010000095.1	bed	gene	16191	3244	.	-	d37	ID=gene_asplen8_d371043;Description=asplen8_s01682;parent=asplen8_JAAAPT010000095.1
+asplen8_JAAAPT010000095.1	bed	gene	19666	0	.	+	insert	ID=gene_asplen8_tyr1769|asplen9_JAAAPP010000015.1|down;Description=asplen8_s01682;parent=asplen8_JAAAPT010000095.1
+asplen8_JAAAPT010000095.1	bed	RNA	1	19665	.	+	ID=rna_asplen8_tyr1769|asplen9_JAAAPP010000015.1|up;Description=;parent=gene_asplen8_tyr1769|asplen9_JAAAPP010000015.1|up
+asplen8_JAAAPT010000095.1	bed	RNA	981	17018	.	+	ID=rna_asplen8_tyr1769;Description=;parent=gene_asplen8_tyr1769
+asplen8_JAAAPT010000095.1	bed	RNA	15340	3837	.	-	ID=rna_asplen8_d371042;Description=;parent=gene_asplen8_d371042
+asplen8_JAAAPT010000095.1	bed	RNA	16191	3244	.	-	ID=rna_asplen8_d371043;Description=;parent=gene_asplen8_d371043
+asplen8_JAAAPT010000095.1	bed	RNA	19666	0	.	+	ID=rna_asplen8_tyr1769|asplen9_JAAAPP010000015.1|down;Description=;parent=gene_asplen8_tyr1769|asplen9_JAAAPP010000015.1|down
+asplen8_JAAAPT010000095.1	bed	CDS	1	19665	.	+	ID=cds_asplen8_tyr1769|asplen9_JAAAPP010000015.1|up;Description=;parent=rna_asplen8_tyr1769|asplen9_JAAAPP010000015.1|up
+asplen8_JAAAPT010000095.1	bed	CDS	981	17018	.	+	ID=cds_asplen8_tyr1769;Description=;parent=rna_asplen8_tyr1769
+asplen8_JAAAPT010000095.1	bed	CDS	15340	3837	.	-	ID=cds_asplen8_d371042;Description=;parent=rna_asplen8_d371042
+asplen8_JAAAPT010000095.1	bed	CDS	16191	3244	.	-	ID=cds_asplen8_d371043;Description=;parent=rna_asplen8_d371043
+asplen8_JAAAPT010000095.1	bed	CDS	19666	0	.	+	ID=cds_asplen8_tyr1769|asplen9_JAAAPP010000015.1|down;Description=;parent=rna_asplen8_tyr1769|asplen9_JAAAPP010000015.1|down

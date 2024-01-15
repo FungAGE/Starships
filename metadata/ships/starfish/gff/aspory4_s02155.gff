@@ -1,0 +1,110 @@
+aspory4_BA000056.1	bed	region	1	253757	.	+	flank	ID=gene_aspory4_tyr2301|DR|up;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	594	249558	.	+	cap	ID=gene_aspory4_tyr2301;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	5203	247026	.	-	.	ID=gene_aspory4_eg132588;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	23057	228226	.	+	nlr	ID=gene_aspory4_nlr27898;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	28307	223671	.	-	.	ID=gene_aspory4_eg132711;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	30452	223107	.	-	.	ID=gene_aspory4_eg132944;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	41463	211538	.	-	.	ID=gene_aspory4_eg132921;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	42793	207527	.	+	d37	ID=gene_aspory4_d371375;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	47156	204851	.	-	fre	ID=gene_aspory4_fre3372;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	52926	200182	.	-	.	ID=gene_aspory4_eg132608;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	54700	198528	.	+	.	ID=gene_aspory4_eg132582;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	69160	183766	.	-	.	ID=gene_aspory4_eg132566;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	70714	182623	.	-	.	ID=gene_aspory4_eg132965;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	71644	180853	.	-	.	ID=gene_aspory4_eg132911;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	76557	174822	.	+	nlr	ID=gene_aspory4_nlr27894;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	80898	171599	.	+	.	ID=gene_aspory4_eg132910;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	82269	171245	.	+	.	ID=gene_aspory4_eg132524;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	83811	169115	.	+	.	ID=gene_aspory4_eg132565;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	85873	167350	.	+	.	ID=gene_aspory4_eg132948;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	86518	165464	.	-	.	ID=gene_aspory4_eg132700;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	92053	158135	.	-	.	ID=gene_aspory4_eg132846;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	99903	153197	.	+	.	ID=gene_aspory4_eg132975;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	104709	148035	.	-	.	ID=gene_aspory4_eg132848;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	110710	138269	.	-	plp	ID=gene_aspory4_plp2061;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	122934	130430	.	+	.	ID=gene_aspory4_eg132987;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	125420	126180	.	-	.	ID=gene_aspory4_eg132710;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	131914	121381	.	+	.	ID=gene_aspory4_eg132377;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	135800	116628	.	-	.	ID=gene_aspory4_eg132481;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	151689	100055	.	-	nlr	ID=gene_aspory4_nlr27892;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	158043	93904	.	+	.	ID=gene_aspory4_eg132397;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	167954	81025	.	+	plp	ID=gene_aspory4_plp2060;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	177720	75024	.	+	.	ID=gene_aspory4_eg132847;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	183160	69466	.	-	.	ID=gene_aspory4_eg132681;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	195806	57366	.	-	.	ID=gene_aspory4_eg132544;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	217476	33096	.	+	.	ID=gene_aspory4_eg132593;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	246331	6920	.	-	.	ID=gene_aspory4_eg132586;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	gene	249942	3428	.	-	.	ID=gene_aspory4_eg132581;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	region	253758	0	.	+	flank	ID=gene_aspory4_tyr2301|DR|down;Description=aspory4_s02155;parent=aspory4_BA000056.1
+aspory4_BA000056.1	bed	RNA	594	249558	.	+	ID=rna_aspory4_tyr2301;Description=;parent=gene_aspory4_tyr2301
+aspory4_BA000056.1	bed	RNA	5203	247026	.	-	ID=rna_aspory4_eg132588;Description=;parent=gene_aspory4_eg132588
+aspory4_BA000056.1	bed	RNA	23057	228226	.	+	ID=rna_aspory4_nlr27898;Description=;parent=gene_aspory4_nlr27898
+aspory4_BA000056.1	bed	RNA	28307	223671	.	-	ID=rna_aspory4_eg132711;Description=;parent=gene_aspory4_eg132711
+aspory4_BA000056.1	bed	RNA	30452	223107	.	-	ID=rna_aspory4_eg132944;Description=;parent=gene_aspory4_eg132944
+aspory4_BA000056.1	bed	RNA	41463	211538	.	-	ID=rna_aspory4_eg132921;Description=;parent=gene_aspory4_eg132921
+aspory4_BA000056.1	bed	RNA	42793	207527	.	+	ID=rna_aspory4_d371375;Description=;parent=gene_aspory4_d371375
+aspory4_BA000056.1	bed	RNA	47156	204851	.	-	ID=rna_aspory4_fre3372;Description=;parent=gene_aspory4_fre3372
+aspory4_BA000056.1	bed	RNA	52926	200182	.	-	ID=rna_aspory4_eg132608;Description=;parent=gene_aspory4_eg132608
+aspory4_BA000056.1	bed	RNA	54700	198528	.	+	ID=rna_aspory4_eg132582;Description=;parent=gene_aspory4_eg132582
+aspory4_BA000056.1	bed	RNA	69160	183766	.	-	ID=rna_aspory4_eg132566;Description=;parent=gene_aspory4_eg132566
+aspory4_BA000056.1	bed	RNA	70714	182623	.	-	ID=rna_aspory4_eg132965;Description=;parent=gene_aspory4_eg132965
+aspory4_BA000056.1	bed	RNA	71644	180853	.	-	ID=rna_aspory4_eg132911;Description=;parent=gene_aspory4_eg132911
+aspory4_BA000056.1	bed	RNA	76557	174822	.	+	ID=rna_aspory4_nlr27894;Description=;parent=gene_aspory4_nlr27894
+aspory4_BA000056.1	bed	RNA	80898	171599	.	+	ID=rna_aspory4_eg132910;Description=;parent=gene_aspory4_eg132910
+aspory4_BA000056.1	bed	RNA	82269	171245	.	+	ID=rna_aspory4_eg132524;Description=;parent=gene_aspory4_eg132524
+aspory4_BA000056.1	bed	RNA	83811	169115	.	+	ID=rna_aspory4_eg132565;Description=;parent=gene_aspory4_eg132565
+aspory4_BA000056.1	bed	RNA	85873	167350	.	+	ID=rna_aspory4_eg132948;Description=;parent=gene_aspory4_eg132948
+aspory4_BA000056.1	bed	RNA	86518	165464	.	-	ID=rna_aspory4_eg132700;Description=;parent=gene_aspory4_eg132700
+aspory4_BA000056.1	bed	RNA	92053	158135	.	-	ID=rna_aspory4_eg132846;Description=;parent=gene_aspory4_eg132846
+aspory4_BA000056.1	bed	RNA	99903	153197	.	+	ID=rna_aspory4_eg132975;Description=;parent=gene_aspory4_eg132975
+aspory4_BA000056.1	bed	RNA	104709	148035	.	-	ID=rna_aspory4_eg132848;Description=;parent=gene_aspory4_eg132848
+aspory4_BA000056.1	bed	RNA	110710	138269	.	-	ID=rna_aspory4_plp2061;Description=;parent=gene_aspory4_plp2061
+aspory4_BA000056.1	bed	RNA	122934	130430	.	+	ID=rna_aspory4_eg132987;Description=;parent=gene_aspory4_eg132987
+aspory4_BA000056.1	bed	RNA	125420	126180	.	-	ID=rna_aspory4_eg132710;Description=;parent=gene_aspory4_eg132710
+aspory4_BA000056.1	bed	RNA	131914	121381	.	+	ID=rna_aspory4_eg132377;Description=;parent=gene_aspory4_eg132377
+aspory4_BA000056.1	bed	RNA	135800	116628	.	-	ID=rna_aspory4_eg132481;Description=;parent=gene_aspory4_eg132481
+aspory4_BA000056.1	bed	RNA	151689	100055	.	-	ID=rna_aspory4_nlr27892;Description=;parent=gene_aspory4_nlr27892
+aspory4_BA000056.1	bed	RNA	158043	93904	.	+	ID=rna_aspory4_eg132397;Description=;parent=gene_aspory4_eg132397
+aspory4_BA000056.1	bed	RNA	167954	81025	.	+	ID=rna_aspory4_plp2060;Description=;parent=gene_aspory4_plp2060
+aspory4_BA000056.1	bed	RNA	177720	75024	.	+	ID=rna_aspory4_eg132847;Description=;parent=gene_aspory4_eg132847
+aspory4_BA000056.1	bed	RNA	183160	69466	.	-	ID=rna_aspory4_eg132681;Description=;parent=gene_aspory4_eg132681
+aspory4_BA000056.1	bed	RNA	195806	57366	.	-	ID=rna_aspory4_eg132544;Description=;parent=gene_aspory4_eg132544
+aspory4_BA000056.1	bed	RNA	217476	33096	.	+	ID=rna_aspory4_eg132593;Description=;parent=gene_aspory4_eg132593
+aspory4_BA000056.1	bed	RNA	246331	6920	.	-	ID=rna_aspory4_eg132586;Description=;parent=gene_aspory4_eg132586
+aspory4_BA000056.1	bed	RNA	249942	3428	.	-	ID=rna_aspory4_eg132581;Description=;parent=gene_aspory4_eg132581
+aspory4_BA000056.1	bed	CDS	594	249558	.	+	ID=cds_aspory4_tyr2301;Description=;parent=rna_aspory4_tyr2301
+aspory4_BA000056.1	bed	CDS	5203	247026	.	-	ID=cds_aspory4_eg132588;Description=;parent=rna_aspory4_eg132588
+aspory4_BA000056.1	bed	CDS	23057	228226	.	+	ID=cds_aspory4_nlr27898;Description=;parent=rna_aspory4_nlr27898
+aspory4_BA000056.1	bed	CDS	28307	223671	.	-	ID=cds_aspory4_eg132711;Description=;parent=rna_aspory4_eg132711
+aspory4_BA000056.1	bed	CDS	30452	223107	.	-	ID=cds_aspory4_eg132944;Description=;parent=rna_aspory4_eg132944
+aspory4_BA000056.1	bed	CDS	41463	211538	.	-	ID=cds_aspory4_eg132921;Description=;parent=rna_aspory4_eg132921
+aspory4_BA000056.1	bed	CDS	42793	207527	.	+	ID=cds_aspory4_d371375;Description=;parent=rna_aspory4_d371375
+aspory4_BA000056.1	bed	CDS	47156	204851	.	-	ID=cds_aspory4_fre3372;Description=;parent=rna_aspory4_fre3372
+aspory4_BA000056.1	bed	CDS	52926	200182	.	-	ID=cds_aspory4_eg132608;Description=;parent=rna_aspory4_eg132608
+aspory4_BA000056.1	bed	CDS	54700	198528	.	+	ID=cds_aspory4_eg132582;Description=;parent=rna_aspory4_eg132582
+aspory4_BA000056.1	bed	CDS	69160	183766	.	-	ID=cds_aspory4_eg132566;Description=;parent=rna_aspory4_eg132566
+aspory4_BA000056.1	bed	CDS	70714	182623	.	-	ID=cds_aspory4_eg132965;Description=;parent=rna_aspory4_eg132965
+aspory4_BA000056.1	bed	CDS	71644	180853	.	-	ID=cds_aspory4_eg132911;Description=;parent=rna_aspory4_eg132911
+aspory4_BA000056.1	bed	CDS	76557	174822	.	+	ID=cds_aspory4_nlr27894;Description=;parent=rna_aspory4_nlr27894
+aspory4_BA000056.1	bed	CDS	80898	171599	.	+	ID=cds_aspory4_eg132910;Description=;parent=rna_aspory4_eg132910
+aspory4_BA000056.1	bed	CDS	82269	171245	.	+	ID=cds_aspory4_eg132524;Description=;parent=rna_aspory4_eg132524
+aspory4_BA000056.1	bed	CDS	83811	169115	.	+	ID=cds_aspory4_eg132565;Description=;parent=rna_aspory4_eg132565
+aspory4_BA000056.1	bed	CDS	85873	167350	.	+	ID=cds_aspory4_eg132948;Description=;parent=rna_aspory4_eg132948
+aspory4_BA000056.1	bed	CDS	86518	165464	.	-	ID=cds_aspory4_eg132700;Description=;parent=rna_aspory4_eg132700
+aspory4_BA000056.1	bed	CDS	92053	158135	.	-	ID=cds_aspory4_eg132846;Description=;parent=rna_aspory4_eg132846
+aspory4_BA000056.1	bed	CDS	99903	153197	.	+	ID=cds_aspory4_eg132975;Description=;parent=rna_aspory4_eg132975
+aspory4_BA000056.1	bed	CDS	104709	148035	.	-	ID=cds_aspory4_eg132848;Description=;parent=rna_aspory4_eg132848
+aspory4_BA000056.1	bed	CDS	110710	138269	.	-	ID=cds_aspory4_plp2061;Description=;parent=rna_aspory4_plp2061
+aspory4_BA000056.1	bed	CDS	122934	130430	.	+	ID=cds_aspory4_eg132987;Description=;parent=rna_aspory4_eg132987
+aspory4_BA000056.1	bed	CDS	125420	126180	.	-	ID=cds_aspory4_eg132710;Description=;parent=rna_aspory4_eg132710
+aspory4_BA000056.1	bed	CDS	131914	121381	.	+	ID=cds_aspory4_eg132377;Description=;parent=rna_aspory4_eg132377
+aspory4_BA000056.1	bed	CDS	135800	116628	.	-	ID=cds_aspory4_eg132481;Description=;parent=rna_aspory4_eg132481
+aspory4_BA000056.1	bed	CDS	151689	100055	.	-	ID=cds_aspory4_nlr27892;Description=;parent=rna_aspory4_nlr27892
+aspory4_BA000056.1	bed	CDS	158043	93904	.	+	ID=cds_aspory4_eg132397;Description=;parent=rna_aspory4_eg132397
+aspory4_BA000056.1	bed	CDS	167954	81025	.	+	ID=cds_aspory4_plp2060;Description=;parent=rna_aspory4_plp2060
+aspory4_BA000056.1	bed	CDS	177720	75024	.	+	ID=cds_aspory4_eg132847;Description=;parent=rna_aspory4_eg132847
+aspory4_BA000056.1	bed	CDS	183160	69466	.	-	ID=cds_aspory4_eg132681;Description=;parent=rna_aspory4_eg132681
+aspory4_BA000056.1	bed	CDS	195806	57366	.	-	ID=cds_aspory4_eg132544;Description=;parent=rna_aspory4_eg132544
+aspory4_BA000056.1	bed	CDS	217476	33096	.	+	ID=cds_aspory4_eg132593;Description=;parent=rna_aspory4_eg132593
+aspory4_BA000056.1	bed	CDS	246331	6920	.	-	ID=cds_aspory4_eg132586;Description=;parent=rna_aspory4_eg132586
+aspory4_BA000056.1	bed	CDS	249942	3428	.	-	ID=cds_aspory4_eg132581;Description=;parent=rna_aspory4_eg132581

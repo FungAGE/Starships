@@ -1,0 +1,41 @@
+aspcal3_CDMC01000002.1	bed	region	1	77723	.	-	flank	ID=gene_aspcal3_tyr810|DR|down;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	4050	73542	.	-	.	ID=gene_aspcal3_eg29768;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	8555	67939	.	-	.	ID=gene_aspcal3_eg29981;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	14317	62582	.	+	.	ID=gene_aspcal3_eg29905;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	17854	59531	.	+	.	ID=gene_aspcal3_eg30156;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	19690	57692	.	+	.	ID=gene_aspcal3_eg30145;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	32298	45204	.	-	.	ID=gene_aspcal3_eg30137;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	35412	42102	.	+	.	ID=gene_aspcal3_eg30123;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	43959	32022	.	+	.	ID=gene_aspcal3_eg29712;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	46146	30101	.	-	.	ID=gene_aspcal3_eg29724;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	48061	28778	.	+	.	ID=gene_aspcal3_eg29907;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	54512	22825	.	-	.	ID=gene_aspcal3_eg30131;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	58008	18966	.	-	.	ID=gene_aspcal3_eg29880;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	gene	70911	5677	.	-	cap	ID=gene_aspcal3_tyr810;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	region	77725	0	.	-	flank	ID=gene_aspcal3_tyr810|DR|up;Description=aspcal3_s00755;parent=aspcal3_CDMC01000002.1
+aspcal3_CDMC01000002.1	bed	RNA	4050	73542	.	-	ID=rna_aspcal3_eg29768;Description=;parent=gene_aspcal3_eg29768
+aspcal3_CDMC01000002.1	bed	RNA	8555	67939	.	-	ID=rna_aspcal3_eg29981;Description=;parent=gene_aspcal3_eg29981
+aspcal3_CDMC01000002.1	bed	RNA	14317	62582	.	+	ID=rna_aspcal3_eg29905;Description=;parent=gene_aspcal3_eg29905
+aspcal3_CDMC01000002.1	bed	RNA	17854	59531	.	+	ID=rna_aspcal3_eg30156;Description=;parent=gene_aspcal3_eg30156
+aspcal3_CDMC01000002.1	bed	RNA	19690	57692	.	+	ID=rna_aspcal3_eg30145;Description=;parent=gene_aspcal3_eg30145
+aspcal3_CDMC01000002.1	bed	RNA	32298	45204	.	-	ID=rna_aspcal3_eg30137;Description=;parent=gene_aspcal3_eg30137
+aspcal3_CDMC01000002.1	bed	RNA	35412	42102	.	+	ID=rna_aspcal3_eg30123;Description=;parent=gene_aspcal3_eg30123
+aspcal3_CDMC01000002.1	bed	RNA	43959	32022	.	+	ID=rna_aspcal3_eg29712;Description=;parent=gene_aspcal3_eg29712
+aspcal3_CDMC01000002.1	bed	RNA	46146	30101	.	-	ID=rna_aspcal3_eg29724;Description=;parent=gene_aspcal3_eg29724
+aspcal3_CDMC01000002.1	bed	RNA	48061	28778	.	+	ID=rna_aspcal3_eg29907;Description=;parent=gene_aspcal3_eg29907
+aspcal3_CDMC01000002.1	bed	RNA	54512	22825	.	-	ID=rna_aspcal3_eg30131;Description=;parent=gene_aspcal3_eg30131
+aspcal3_CDMC01000002.1	bed	RNA	58008	18966	.	-	ID=rna_aspcal3_eg29880;Description=;parent=gene_aspcal3_eg29880
+aspcal3_CDMC01000002.1	bed	RNA	70911	5677	.	-	ID=rna_aspcal3_tyr810;Description=;parent=gene_aspcal3_tyr810
+aspcal3_CDMC01000002.1	bed	CDS	4050	73542	.	-	ID=cds_aspcal3_eg29768;Description=;parent=rna_aspcal3_eg29768
+aspcal3_CDMC01000002.1	bed	CDS	8555	67939	.	-	ID=cds_aspcal3_eg29981;Description=;parent=rna_aspcal3_eg29981
+aspcal3_CDMC01000002.1	bed	CDS	14317	62582	.	+	ID=cds_aspcal3_eg29905;Description=;parent=rna_aspcal3_eg29905
+aspcal3_CDMC01000002.1	bed	CDS	17854	59531	.	+	ID=cds_aspcal3_eg30156;Description=;parent=rna_aspcal3_eg30156
+aspcal3_CDMC01000002.1	bed	CDS	19690	57692	.	+	ID=cds_aspcal3_eg30145;Description=;parent=rna_aspcal3_eg30145
+aspcal3_CDMC01000002.1	bed	CDS	32298	45204	.	-	ID=cds_aspcal3_eg30137;Description=;parent=rna_aspcal3_eg30137
+aspcal3_CDMC01000002.1	bed	CDS	35412	42102	.	+	ID=cds_aspcal3_eg30123;Description=;parent=rna_aspcal3_eg30123
+aspcal3_CDMC01000002.1	bed	CDS	43959	32022	.	+	ID=cds_aspcal3_eg29712;Description=;parent=rna_aspcal3_eg29712
+aspcal3_CDMC01000002.1	bed	CDS	46146	30101	.	-	ID=cds_aspcal3_eg29724;Description=;parent=rna_aspcal3_eg29724
+aspcal3_CDMC01000002.1	bed	CDS	48061	28778	.	+	ID=cds_aspcal3_eg29907;Description=;parent=rna_aspcal3_eg29907
+aspcal3_CDMC01000002.1	bed	CDS	54512	22825	.	-	ID=cds_aspcal3_eg30131;Description=;parent=rna_aspcal3_eg30131
+aspcal3_CDMC01000002.1	bed	CDS	58008	18966	.	-	ID=cds_aspcal3_eg29880;Description=;parent=rna_aspcal3_eg29880
+aspcal3_CDMC01000002.1	bed	CDS	70911	5677	.	-	ID=cds_aspcal3_tyr810;Description=;parent=rna_aspcal3_tyr810

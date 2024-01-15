@@ -1,0 +1,18 @@
+aspter9_JACVMK010000043.1	bed	gene	1	20285	.	-	insert	ID=gene_aspter9_tyr2940|aspter6_RAIK01000002.1|down;Description=aspter9_s02756;parent=aspter9_JACVMK010000043.1
+aspter9_JACVMK010000043.1	bed	gene	7829	12098	.	-	.	ID=gene_aspter9_eg163405;Description=aspter9_s02756;parent=aspter9_JACVMK010000043.1
+aspter9_JACVMK010000043.1	bed	gene	10076	10031	.	-	.	ID=gene_aspter9_eg163403;Description=aspter9_s02756;parent=aspter9_JACVMK010000043.1
+aspter9_JACVMK010000043.1	bed	gene	13617	5100	.	+	.	ID=gene_aspter9_eg163384;Description=aspter9_s02756;parent=aspter9_JACVMK010000043.1
+aspter9_JACVMK010000043.1	bed	gene	17076	711	.	-	cap	ID=gene_aspter9_tyr2940;Description=aspter9_s02756;parent=aspter9_JACVMK010000043.1
+aspter9_JACVMK010000043.1	bed	gene	20286	0	.	-	insert	ID=gene_aspter9_tyr2940|aspter6_RAIK01000002.1|up;Description=aspter9_s02756;parent=aspter9_JACVMK010000043.1
+aspter9_JACVMK010000043.1	bed	RNA	1	20285	.	-	ID=rna_aspter9_tyr2940|aspter6_RAIK01000002.1|down;Description=;parent=gene_aspter9_tyr2940|aspter6_RAIK01000002.1|down
+aspter9_JACVMK010000043.1	bed	RNA	7829	12098	.	-	ID=rna_aspter9_eg163405;Description=;parent=gene_aspter9_eg163405
+aspter9_JACVMK010000043.1	bed	RNA	10076	10031	.	-	ID=rna_aspter9_eg163403;Description=;parent=gene_aspter9_eg163403
+aspter9_JACVMK010000043.1	bed	RNA	13617	5100	.	+	ID=rna_aspter9_eg163384;Description=;parent=gene_aspter9_eg163384
+aspter9_JACVMK010000043.1	bed	RNA	17076	711	.	-	ID=rna_aspter9_tyr2940;Description=;parent=gene_aspter9_tyr2940
+aspter9_JACVMK010000043.1	bed	RNA	20286	0	.	-	ID=rna_aspter9_tyr2940|aspter6_RAIK01000002.1|up;Description=;parent=gene_aspter9_tyr2940|aspter6_RAIK01000002.1|up
+aspter9_JACVMK010000043.1	bed	CDS	1	20285	.	-	ID=cds_aspter9_tyr2940|aspter6_RAIK01000002.1|down;Description=;parent=rna_aspter9_tyr2940|aspter6_RAIK01000002.1|down
+aspter9_JACVMK010000043.1	bed	CDS	7829	12098	.	-	ID=cds_aspter9_eg163405;Description=;parent=rna_aspter9_eg163405
+aspter9_JACVMK010000043.1	bed	CDS	10076	10031	.	-	ID=cds_aspter9_eg163403;Description=;parent=rna_aspter9_eg163403
+aspter9_JACVMK010000043.1	bed	CDS	13617	5100	.	+	ID=cds_aspter9_eg163384;Description=;parent=rna_aspter9_eg163384
+aspter9_JACVMK010000043.1	bed	CDS	17076	711	.	-	ID=cds_aspter9_tyr2940;Description=;parent=rna_aspter9_tyr2940
+aspter9_JACVMK010000043.1	bed	CDS	20286	0	.	-	ID=cds_aspter9_tyr2940|aspter6_RAIK01000002.1|up;Description=;parent=rna_aspter9_tyr2940|aspter6_RAIK01000002.1|up

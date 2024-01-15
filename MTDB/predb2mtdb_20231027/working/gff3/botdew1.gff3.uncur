@@ -1,0 +1,11 @@
+botdew1_RCSX01000008.1	bed	region	1	18904	.	-	flank	ID=gene_botdew1_KAF7931899.1|DR|down;Description=botdew1_s03436;parent=botdew1_RCSX01000008.1
+botdew1_RCSX01000008.1	bed	gene	4393	13619	.	+	.	ID=gene_botdew1_KAF7931897.1;Description=botdew1_s03436;parent=botdew1_RCSX01000008.1
+botdew1_RCSX01000008.1	bed	gene	5851	10709	.	+	.	ID=gene_botdew1_KAF7931898.1;Description=botdew1_s03436;parent=botdew1_RCSX01000008.1
+botdew1_RCSX01000008.1	bed	gene	12857	5471	.	-	cap	ID=gene_botdew1_KAF7931899.1;Description=botdew1_s03436;parent=botdew1_RCSX01000008.1
+botdew1_RCSX01000008.1	bed	region	18905	0	.	-	flank	ID=gene_botdew1_KAF7931899.1|DR|up;Description=botdew1_s03436;parent=botdew1_RCSX01000008.1
+botdew1_RCSX01000008.1	bed	RNA	4393	13619	.	+	ID=rna_botdew1_KAF7931897.1;Description=;parent=gene_botdew1_KAF7931897.1
+botdew1_RCSX01000008.1	bed	RNA	5851	10709	.	+	ID=rna_botdew1_KAF7931898.1;Description=;parent=gene_botdew1_KAF7931898.1
+botdew1_RCSX01000008.1	bed	RNA	12857	5471	.	-	ID=rna_botdew1_KAF7931899.1;Description=;parent=gene_botdew1_KAF7931899.1
+botdew1_RCSX01000008.1	bed	CDS	4393	13619	.	+	ID=cds_botdew1_KAF7931897.1;Description=;parent=rna_botdew1_KAF7931897.1
+botdew1_RCSX01000008.1	bed	CDS	5851	10709	.	+	ID=cds_botdew1_KAF7931898.1;Description=;parent=rna_botdew1_KAF7931898.1
+botdew1_RCSX01000008.1	bed	CDS	12857	5471	.	-	ID=cds_botdew1_KAF7931899.1;Description=;parent=rna_botdew1_KAF7931899.1

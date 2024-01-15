@@ -1,0 +1,42 @@
+blagil1_GG657453.1	bed	gene	4926	61446	.	-	.	ID=gene_blagil1_OAT08030.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	1	61616	.	-	insert	ID=gene_blagil1_OAT08038.1|blasil1_LDEV01002733.1|down;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	10254	46628	.	+	.	ID=gene_blagil1_OAT08031.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	11633	49268	.	-	.	ID=gene_blagil1_OAT08032.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	13617	46375	.	-	.	ID=gene_blagil1_OAT08033.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	18832	41703	.	+	.	ID=gene_blagil1_OAT08034.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	23549	37117	.	-	.	ID=gene_blagil1_OAT08035.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	24903	36220	.	-	.	ID=gene_blagil1_OAT08036.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	39587	21356	.	-	.	ID=gene_blagil1_OAT08037.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	46287	15181	.	+	.	ID=gene_blagil1_eg174659;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	54425	6651	.	-	cap	ID=gene_blagil1_OAT08038.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	59782	42	.	-	.	ID=gene_blagil1_OAT08039.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	61589	3248	.	-	.	ID=gene_blagil1_OAT08040.1;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	gene	61617	0	.	-	insert	ID=gene_blagil1_OAT08038.1|blasil1_LDEV01002733.1|up;Description=blagil1_s03303;parent=blagil1_GG657453.1
+blagil1_GG657453.1	bed	RNA	4926	61446	.	-	ID=rna_blagil1_OAT08030.1;Description=;parent=gene_blagil1_OAT08030.1
+blagil1_GG657453.1	bed	RNA	1	61616	.	-	ID=rna_blagil1_OAT08038.1|blasil1_LDEV01002733.1|down;Description=;parent=gene_blagil1_OAT08038.1|blasil1_LDEV01002733.1|down
+blagil1_GG657453.1	bed	RNA	10254	46628	.	+	ID=rna_blagil1_OAT08031.1;Description=;parent=gene_blagil1_OAT08031.1
+blagil1_GG657453.1	bed	RNA	11633	49268	.	-	ID=rna_blagil1_OAT08032.1;Description=;parent=gene_blagil1_OAT08032.1
+blagil1_GG657453.1	bed	RNA	13617	46375	.	-	ID=rna_blagil1_OAT08033.1;Description=;parent=gene_blagil1_OAT08033.1
+blagil1_GG657453.1	bed	RNA	18832	41703	.	+	ID=rna_blagil1_OAT08034.1;Description=;parent=gene_blagil1_OAT08034.1
+blagil1_GG657453.1	bed	RNA	23549	37117	.	-	ID=rna_blagil1_OAT08035.1;Description=;parent=gene_blagil1_OAT08035.1
+blagil1_GG657453.1	bed	RNA	24903	36220	.	-	ID=rna_blagil1_OAT08036.1;Description=;parent=gene_blagil1_OAT08036.1
+blagil1_GG657453.1	bed	RNA	39587	21356	.	-	ID=rna_blagil1_OAT08037.1;Description=;parent=gene_blagil1_OAT08037.1
+blagil1_GG657453.1	bed	RNA	46287	15181	.	+	ID=rna_blagil1_eg174659;Description=;parent=gene_blagil1_eg174659
+blagil1_GG657453.1	bed	RNA	54425	6651	.	-	ID=rna_blagil1_OAT08038.1;Description=;parent=gene_blagil1_OAT08038.1
+blagil1_GG657453.1	bed	RNA	59782	42	.	-	ID=rna_blagil1_OAT08039.1;Description=;parent=gene_blagil1_OAT08039.1
+blagil1_GG657453.1	bed	RNA	61589	3248	.	-	ID=rna_blagil1_OAT08040.1;Description=;parent=gene_blagil1_OAT08040.1
+blagil1_GG657453.1	bed	RNA	61617	0	.	-	ID=rna_blagil1_OAT08038.1|blasil1_LDEV01002733.1|up;Description=;parent=gene_blagil1_OAT08038.1|blasil1_LDEV01002733.1|up
+blagil1_GG657453.1	bed	CDS	4926	61446	.	-	ID=cds_blagil1_OAT08030.1;Description=;parent=rna_blagil1_OAT08030.1
+blagil1_GG657453.1	bed	CDS	1	61616	.	-	ID=cds_blagil1_OAT08038.1|blasil1_LDEV01002733.1|down;Description=;parent=rna_blagil1_OAT08038.1|blasil1_LDEV01002733.1|down
+blagil1_GG657453.1	bed	CDS	10254	46628	.	+	ID=cds_blagil1_OAT08031.1;Description=;parent=rna_blagil1_OAT08031.1
+blagil1_GG657453.1	bed	CDS	11633	49268	.	-	ID=cds_blagil1_OAT08032.1;Description=;parent=rna_blagil1_OAT08032.1
+blagil1_GG657453.1	bed	CDS	13617	46375	.	-	ID=cds_blagil1_OAT08033.1;Description=;parent=rna_blagil1_OAT08033.1
+blagil1_GG657453.1	bed	CDS	18832	41703	.	+	ID=cds_blagil1_OAT08034.1;Description=;parent=rna_blagil1_OAT08034.1
+blagil1_GG657453.1	bed	CDS	23549	37117	.	-	ID=cds_blagil1_OAT08035.1;Description=;parent=rna_blagil1_OAT08035.1
+blagil1_GG657453.1	bed	CDS	24903	36220	.	-	ID=cds_blagil1_OAT08036.1;Description=;parent=rna_blagil1_OAT08036.1
+blagil1_GG657453.1	bed	CDS	39587	21356	.	-	ID=cds_blagil1_OAT08037.1;Description=;parent=rna_blagil1_OAT08037.1
+blagil1_GG657453.1	bed	CDS	46287	15181	.	+	ID=cds_blagil1_eg174659;Description=;parent=rna_blagil1_eg174659
+blagil1_GG657453.1	bed	CDS	54425	6651	.	-	ID=cds_blagil1_OAT08038.1;Description=;parent=rna_blagil1_OAT08038.1
+blagil1_GG657453.1	bed	CDS	59782	42	.	-	ID=cds_blagil1_OAT08039.1;Description=;parent=rna_blagil1_OAT08039.1
+blagil1_GG657453.1	bed	CDS	61589	3248	.	-	ID=cds_blagil1_OAT08040.1;Description=;parent=rna_blagil1_OAT08040.1
+blagil1_GG657453.1	bed	CDS	61617	0	.	-	ID=cds_blagil1_OAT08038.1|blasil1_LDEV01002733.1|up;Description=;parent=rna_blagil1_OAT08038.1|blasil1_LDEV01002733.1|up

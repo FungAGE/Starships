@@ -1,0 +1,25 @@
+asplen2_BLKD01000031.1	bed	region	1	54464	.	+	flank	ID=gene_asplen2_tyr1741|DR|up;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	region	17	54439	.	+	flank	ID=gene_asplen2_tyr1741|TIR|up;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	gene	539	51631	.	+	cap	ID=gene_asplen2_tyr1741;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	gene	5435	48350	.	+	.	ID=gene_asplen2_eg88988;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	gene	7283	46925	.	+	.	ID=gene_asplen2_eg88998;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	gene	15762	34903	.	-	nlr	ID=gene_asplen2_nlr23812;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	gene	23859	28844	.	-	d37	ID=gene_asplen2_d371007;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	gene	28701	24083	.	-	.	ID=gene_asplen2_eg88974;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	gene	52105	1436	.	-	.	ID=gene_asplen2_eg88972;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	region	54446	9	.	+	flank	ID=gene_asplen2_tyr1741|TIR|down;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	region	54465	0	.	+	flank	ID=gene_asplen2_tyr1741|DR|down;Description=asplen2_s01651;parent=asplen2_BLKD01000031.1
+asplen2_BLKD01000031.1	bed	RNA	539	51631	.	+	ID=rna_asplen2_tyr1741;Description=;parent=gene_asplen2_tyr1741
+asplen2_BLKD01000031.1	bed	RNA	5435	48350	.	+	ID=rna_asplen2_eg88988;Description=;parent=gene_asplen2_eg88988
+asplen2_BLKD01000031.1	bed	RNA	7283	46925	.	+	ID=rna_asplen2_eg88998;Description=;parent=gene_asplen2_eg88998
+asplen2_BLKD01000031.1	bed	RNA	15762	34903	.	-	ID=rna_asplen2_nlr23812;Description=;parent=gene_asplen2_nlr23812
+asplen2_BLKD01000031.1	bed	RNA	23859	28844	.	-	ID=rna_asplen2_d371007;Description=;parent=gene_asplen2_d371007
+asplen2_BLKD01000031.1	bed	RNA	28701	24083	.	-	ID=rna_asplen2_eg88974;Description=;parent=gene_asplen2_eg88974
+asplen2_BLKD01000031.1	bed	RNA	52105	1436	.	-	ID=rna_asplen2_eg88972;Description=;parent=gene_asplen2_eg88972
+asplen2_BLKD01000031.1	bed	CDS	539	51631	.	+	ID=cds_asplen2_tyr1741;Description=;parent=rna_asplen2_tyr1741
+asplen2_BLKD01000031.1	bed	CDS	5435	48350	.	+	ID=cds_asplen2_eg88988;Description=;parent=rna_asplen2_eg88988
+asplen2_BLKD01000031.1	bed	CDS	7283	46925	.	+	ID=cds_asplen2_eg88998;Description=;parent=rna_asplen2_eg88998
+asplen2_BLKD01000031.1	bed	CDS	15762	34903	.	-	ID=cds_asplen2_nlr23812;Description=;parent=rna_asplen2_nlr23812
+asplen2_BLKD01000031.1	bed	CDS	23859	28844	.	-	ID=cds_asplen2_d371007;Description=;parent=rna_asplen2_d371007
+asplen2_BLKD01000031.1	bed	CDS	28701	24083	.	-	ID=cds_asplen2_eg88974;Description=;parent=rna_asplen2_eg88974
+asplen2_BLKD01000031.1	bed	CDS	52105	1436	.	-	ID=cds_asplen2_eg88972;Description=;parent=rna_asplen2_eg88972

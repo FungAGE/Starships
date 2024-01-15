@@ -1,0 +1,65 @@
+altlon1_CM032459.1	bed	region	1	98406	.	+	flank	ID=gene_altlon1_tyr175|DR|up;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	310	95349	.	+	cap	ID=gene_altlon1_tyr175;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	4282	91492	.	+	nlr	ID=gene_altlon1_nlr7972;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	23994	72760	.	-	fre	ID=gene_altlon1_fre529;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	27273	69161	.	-	d37	ID=gene_altlon1_d37163;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	29703	68399	.	-	d37	ID=gene_altlon1_d37162;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	30351	64967	.	+	plp	ID=gene_altlon1_plp464;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	34791	61049	.	+	nlr	ID=gene_altlon1_nlr7981;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	55181	42954	.	-	.	ID=gene_altlon1_eg9712;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	56704	39751	.	+	nlr	ID=gene_altlon1_nlr7963;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	59856	37634	.	-	.	ID=gene_altlon1_eg9521;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	60846	37250	.	-	.	ID=gene_altlon1_eg9940;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	62342	35898	.	-	.	ID=gene_altlon1_eg9905;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	67756	29791	.	+	.	ID=gene_altlon1_eg9749;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	68951	26044	.	+	nlr	ID=gene_altlon1_nlr7973;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	73943	22363	.	+	.	ID=gene_altlon1_eg9687;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	76225	22006	.	+	.	ID=gene_altlon1_eg9886;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	76906	19967	.	+	.	ID=gene_altlon1_eg9516;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	81942	15821	.	-	.	ID=gene_altlon1_eg9821;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	83203	11417	.	+	nlr	ID=gene_altlon1_nlr7961;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	88684	9424	.	-	.	ID=gene_altlon1_eg9865;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	gene	92111	6060	.	+	.	ID=gene_altlon1_eg9493;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	region	98407	0	.	+	flank	ID=gene_altlon1_tyr175|DR|down;Description=altlon1_s00163;parent=altlon1_CM032459.1
+altlon1_CM032459.1	bed	RNA	310	95349	.	+	ID=rna_altlon1_tyr175;Description=;parent=gene_altlon1_tyr175
+altlon1_CM032459.1	bed	RNA	4282	91492	.	+	ID=rna_altlon1_nlr7972;Description=;parent=gene_altlon1_nlr7972
+altlon1_CM032459.1	bed	RNA	23994	72760	.	-	ID=rna_altlon1_fre529;Description=;parent=gene_altlon1_fre529
+altlon1_CM032459.1	bed	RNA	27273	69161	.	-	ID=rna_altlon1_d37163;Description=;parent=gene_altlon1_d37163
+altlon1_CM032459.1	bed	RNA	29703	68399	.	-	ID=rna_altlon1_d37162;Description=;parent=gene_altlon1_d37162
+altlon1_CM032459.1	bed	RNA	30351	64967	.	+	ID=rna_altlon1_plp464;Description=;parent=gene_altlon1_plp464
+altlon1_CM032459.1	bed	RNA	34791	61049	.	+	ID=rna_altlon1_nlr7981;Description=;parent=gene_altlon1_nlr7981
+altlon1_CM032459.1	bed	RNA	55181	42954	.	-	ID=rna_altlon1_eg9712;Description=;parent=gene_altlon1_eg9712
+altlon1_CM032459.1	bed	RNA	56704	39751	.	+	ID=rna_altlon1_nlr7963;Description=;parent=gene_altlon1_nlr7963
+altlon1_CM032459.1	bed	RNA	59856	37634	.	-	ID=rna_altlon1_eg9521;Description=;parent=gene_altlon1_eg9521
+altlon1_CM032459.1	bed	RNA	60846	37250	.	-	ID=rna_altlon1_eg9940;Description=;parent=gene_altlon1_eg9940
+altlon1_CM032459.1	bed	RNA	62342	35898	.	-	ID=rna_altlon1_eg9905;Description=;parent=gene_altlon1_eg9905
+altlon1_CM032459.1	bed	RNA	67756	29791	.	+	ID=rna_altlon1_eg9749;Description=;parent=gene_altlon1_eg9749
+altlon1_CM032459.1	bed	RNA	68951	26044	.	+	ID=rna_altlon1_nlr7973;Description=;parent=gene_altlon1_nlr7973
+altlon1_CM032459.1	bed	RNA	73943	22363	.	+	ID=rna_altlon1_eg9687;Description=;parent=gene_altlon1_eg9687
+altlon1_CM032459.1	bed	RNA	76225	22006	.	+	ID=rna_altlon1_eg9886;Description=;parent=gene_altlon1_eg9886
+altlon1_CM032459.1	bed	RNA	76906	19967	.	+	ID=rna_altlon1_eg9516;Description=;parent=gene_altlon1_eg9516
+altlon1_CM032459.1	bed	RNA	81942	15821	.	-	ID=rna_altlon1_eg9821;Description=;parent=gene_altlon1_eg9821
+altlon1_CM032459.1	bed	RNA	83203	11417	.	+	ID=rna_altlon1_nlr7961;Description=;parent=gene_altlon1_nlr7961
+altlon1_CM032459.1	bed	RNA	88684	9424	.	-	ID=rna_altlon1_eg9865;Description=;parent=gene_altlon1_eg9865
+altlon1_CM032459.1	bed	RNA	92111	6060	.	+	ID=rna_altlon1_eg9493;Description=;parent=gene_altlon1_eg9493
+altlon1_CM032459.1	bed	CDS	310	95349	.	+	ID=cds_altlon1_tyr175;Description=;parent=rna_altlon1_tyr175
+altlon1_CM032459.1	bed	CDS	4282	91492	.	+	ID=cds_altlon1_nlr7972;Description=;parent=rna_altlon1_nlr7972
+altlon1_CM032459.1	bed	CDS	23994	72760	.	-	ID=cds_altlon1_fre529;Description=;parent=rna_altlon1_fre529
+altlon1_CM032459.1	bed	CDS	27273	69161	.	-	ID=cds_altlon1_d37163;Description=;parent=rna_altlon1_d37163
+altlon1_CM032459.1	bed	CDS	29703	68399	.	-	ID=cds_altlon1_d37162;Description=;parent=rna_altlon1_d37162
+altlon1_CM032459.1	bed	CDS	30351	64967	.	+	ID=cds_altlon1_plp464;Description=;parent=rna_altlon1_plp464
+altlon1_CM032459.1	bed	CDS	34791	61049	.	+	ID=cds_altlon1_nlr7981;Description=;parent=rna_altlon1_nlr7981
+altlon1_CM032459.1	bed	CDS	55181	42954	.	-	ID=cds_altlon1_eg9712;Description=;parent=rna_altlon1_eg9712
+altlon1_CM032459.1	bed	CDS	56704	39751	.	+	ID=cds_altlon1_nlr7963;Description=;parent=rna_altlon1_nlr7963
+altlon1_CM032459.1	bed	CDS	59856	37634	.	-	ID=cds_altlon1_eg9521;Description=;parent=rna_altlon1_eg9521
+altlon1_CM032459.1	bed	CDS	60846	37250	.	-	ID=cds_altlon1_eg9940;Description=;parent=rna_altlon1_eg9940
+altlon1_CM032459.1	bed	CDS	62342	35898	.	-	ID=cds_altlon1_eg9905;Description=;parent=rna_altlon1_eg9905
+altlon1_CM032459.1	bed	CDS	67756	29791	.	+	ID=cds_altlon1_eg9749;Description=;parent=rna_altlon1_eg9749
+altlon1_CM032459.1	bed	CDS	68951	26044	.	+	ID=cds_altlon1_nlr7973;Description=;parent=rna_altlon1_nlr7973
+altlon1_CM032459.1	bed	CDS	73943	22363	.	+	ID=cds_altlon1_eg9687;Description=;parent=rna_altlon1_eg9687
+altlon1_CM032459.1	bed	CDS	76225	22006	.	+	ID=cds_altlon1_eg9886;Description=;parent=rna_altlon1_eg9886
+altlon1_CM032459.1	bed	CDS	76906	19967	.	+	ID=cds_altlon1_eg9516;Description=;parent=rna_altlon1_eg9516
+altlon1_CM032459.1	bed	CDS	81942	15821	.	-	ID=cds_altlon1_eg9821;Description=;parent=rna_altlon1_eg9821
+altlon1_CM032459.1	bed	CDS	83203	11417	.	+	ID=cds_altlon1_nlr7961;Description=;parent=rna_altlon1_nlr7961
+altlon1_CM032459.1	bed	CDS	88684	9424	.	-	ID=cds_altlon1_eg9865;Description=;parent=rna_altlon1_eg9865
+altlon1_CM032459.1	bed	CDS	92111	6060	.	+	ID=cds_altlon1_eg9493;Description=;parent=rna_altlon1_eg9493

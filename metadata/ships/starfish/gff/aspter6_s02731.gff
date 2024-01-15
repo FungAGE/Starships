@@ -1,0 +1,106 @@
+aspter6_RAIK01000015.1	bed	region	1	280550	.	+	flank	ID=gene_aspter6_tyr2909|DR|up;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	region	16	280517	.	+	flank	ID=gene_aspter6_tyr2909|TIR|up;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	503	277501	.	+	cap	ID=gene_aspter6_tyr2909;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	4108	276141	.	-	.	ID=gene_aspter6_eg161201;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	5973	273012	.	-	.	ID=gene_aspter6_eg160787;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	13798	265734	.	+	.	ID=gene_aspter6_eg160811;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	22904	257144	.	+	.	ID=gene_aspter6_eg160859;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	33903	245248	.	+	.	ID=gene_aspter6_eg160838;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	47143	233223	.	+	.	ID=gene_aspter6_eg161051;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	51105	228847	.	+	.	ID=gene_aspter6_eg160824;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	54474	223816	.	+	.	ID=gene_aspter6_eg160868;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	67509	210729	.	-	plp	ID=gene_aspter6_plp2506;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	134540	143990	.	+	.	ID=gene_aspter6_eg160904;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	140898	137860	.	-	.	ID=gene_aspter6_eg161049;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	143255	136307	.	-	.	ID=gene_aspter6_eg160974;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	157451	121852	.	+	.	ID=gene_aspter6_eg160716;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	165148	114738	.	-	.	ID=gene_aspter6_eg160991;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	166468	113820	.	+	.	ID=gene_aspter6_eg161244;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	166816	112938	.	+	nlr	ID=gene_aspter6_nlr33028;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	168151	112065	.	+	.	ID=gene_aspter6_eg161204;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	168685	111651	.	+	.	ID=gene_aspter6_eg161207;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	168962	107852	.	+	nlr	ID=gene_aspter6_nlr33032;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	174644	104513	.	+	.	ID=gene_aspter6_eg161175;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	176102	104246	.	+	.	ID=gene_aspter6_eg161210;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	177557	102161	.	+	.	ID=gene_aspter6_eg160852;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	186732	93409	.	-	.	ID=gene_aspter6_eg161239;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	187709	91778	.	-	.	ID=gene_aspter6_eg161298;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	212090	67784	.	+	.	ID=gene_aspter6_eg160863;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	215429	64475	.	+	.	ID=gene_aspter6_eg160784;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	235557	43262	.	-	d37	ID=gene_aspter6_d371754;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	239077	39850	.	-	fre	ID=gene_aspter6_fre4143;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	244476	35722	.	+	.	ID=gene_aspter6_eg160861;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	252121	26429	.	+	tyr	ID=gene_aspter6_tyr2910;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	255280	22733	.	-	plp	ID=gene_aspter6_plp2507;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	259632	18901	.	-	.	ID=gene_aspter6_eg161097;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	gene	262390	17586	.	-	.	ID=gene_aspter6_eg161228;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	region	280509	25	.	+	flank	ID=gene_aspter6_tyr2909|TIR|down;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	region	280551	0	.	+	flank	ID=gene_aspter6_tyr2909|DR|down;Description=aspter6_s02731;parent=aspter6_RAIK01000015.1
+aspter6_RAIK01000015.1	bed	RNA	503	277501	.	+	ID=rna_aspter6_tyr2909;Description=;parent=gene_aspter6_tyr2909
+aspter6_RAIK01000015.1	bed	RNA	4108	276141	.	-	ID=rna_aspter6_eg161201;Description=;parent=gene_aspter6_eg161201
+aspter6_RAIK01000015.1	bed	RNA	5973	273012	.	-	ID=rna_aspter6_eg160787;Description=;parent=gene_aspter6_eg160787
+aspter6_RAIK01000015.1	bed	RNA	13798	265734	.	+	ID=rna_aspter6_eg160811;Description=;parent=gene_aspter6_eg160811
+aspter6_RAIK01000015.1	bed	RNA	22904	257144	.	+	ID=rna_aspter6_eg160859;Description=;parent=gene_aspter6_eg160859
+aspter6_RAIK01000015.1	bed	RNA	33903	245248	.	+	ID=rna_aspter6_eg160838;Description=;parent=gene_aspter6_eg160838
+aspter6_RAIK01000015.1	bed	RNA	47143	233223	.	+	ID=rna_aspter6_eg161051;Description=;parent=gene_aspter6_eg161051
+aspter6_RAIK01000015.1	bed	RNA	51105	228847	.	+	ID=rna_aspter6_eg160824;Description=;parent=gene_aspter6_eg160824
+aspter6_RAIK01000015.1	bed	RNA	54474	223816	.	+	ID=rna_aspter6_eg160868;Description=;parent=gene_aspter6_eg160868
+aspter6_RAIK01000015.1	bed	RNA	67509	210729	.	-	ID=rna_aspter6_plp2506;Description=;parent=gene_aspter6_plp2506
+aspter6_RAIK01000015.1	bed	RNA	134540	143990	.	+	ID=rna_aspter6_eg160904;Description=;parent=gene_aspter6_eg160904
+aspter6_RAIK01000015.1	bed	RNA	140898	137860	.	-	ID=rna_aspter6_eg161049;Description=;parent=gene_aspter6_eg161049
+aspter6_RAIK01000015.1	bed	RNA	143255	136307	.	-	ID=rna_aspter6_eg160974;Description=;parent=gene_aspter6_eg160974
+aspter6_RAIK01000015.1	bed	RNA	157451	121852	.	+	ID=rna_aspter6_eg160716;Description=;parent=gene_aspter6_eg160716
+aspter6_RAIK01000015.1	bed	RNA	165148	114738	.	-	ID=rna_aspter6_eg160991;Description=;parent=gene_aspter6_eg160991
+aspter6_RAIK01000015.1	bed	RNA	166468	113820	.	+	ID=rna_aspter6_eg161244;Description=;parent=gene_aspter6_eg161244
+aspter6_RAIK01000015.1	bed	RNA	166816	112938	.	+	ID=rna_aspter6_nlr33028;Description=;parent=gene_aspter6_nlr33028
+aspter6_RAIK01000015.1	bed	RNA	168151	112065	.	+	ID=rna_aspter6_eg161204;Description=;parent=gene_aspter6_eg161204
+aspter6_RAIK01000015.1	bed	RNA	168685	111651	.	+	ID=rna_aspter6_eg161207;Description=;parent=gene_aspter6_eg161207
+aspter6_RAIK01000015.1	bed	RNA	168962	107852	.	+	ID=rna_aspter6_nlr33032;Description=;parent=gene_aspter6_nlr33032
+aspter6_RAIK01000015.1	bed	RNA	174644	104513	.	+	ID=rna_aspter6_eg161175;Description=;parent=gene_aspter6_eg161175
+aspter6_RAIK01000015.1	bed	RNA	176102	104246	.	+	ID=rna_aspter6_eg161210;Description=;parent=gene_aspter6_eg161210
+aspter6_RAIK01000015.1	bed	RNA	177557	102161	.	+	ID=rna_aspter6_eg160852;Description=;parent=gene_aspter6_eg160852
+aspter6_RAIK01000015.1	bed	RNA	186732	93409	.	-	ID=rna_aspter6_eg161239;Description=;parent=gene_aspter6_eg161239
+aspter6_RAIK01000015.1	bed	RNA	187709	91778	.	-	ID=rna_aspter6_eg161298;Description=;parent=gene_aspter6_eg161298
+aspter6_RAIK01000015.1	bed	RNA	212090	67784	.	+	ID=rna_aspter6_eg160863;Description=;parent=gene_aspter6_eg160863
+aspter6_RAIK01000015.1	bed	RNA	215429	64475	.	+	ID=rna_aspter6_eg160784;Description=;parent=gene_aspter6_eg160784
+aspter6_RAIK01000015.1	bed	RNA	235557	43262	.	-	ID=rna_aspter6_d371754;Description=;parent=gene_aspter6_d371754
+aspter6_RAIK01000015.1	bed	RNA	239077	39850	.	-	ID=rna_aspter6_fre4143;Description=;parent=gene_aspter6_fre4143
+aspter6_RAIK01000015.1	bed	RNA	244476	35722	.	+	ID=rna_aspter6_eg160861;Description=;parent=gene_aspter6_eg160861
+aspter6_RAIK01000015.1	bed	RNA	252121	26429	.	+	ID=rna_aspter6_tyr2910;Description=;parent=gene_aspter6_tyr2910
+aspter6_RAIK01000015.1	bed	RNA	255280	22733	.	-	ID=rna_aspter6_plp2507;Description=;parent=gene_aspter6_plp2507
+aspter6_RAIK01000015.1	bed	RNA	259632	18901	.	-	ID=rna_aspter6_eg161097;Description=;parent=gene_aspter6_eg161097
+aspter6_RAIK01000015.1	bed	RNA	262390	17586	.	-	ID=rna_aspter6_eg161228;Description=;parent=gene_aspter6_eg161228
+aspter6_RAIK01000015.1	bed	CDS	503	277501	.	+	ID=cds_aspter6_tyr2909;Description=;parent=rna_aspter6_tyr2909
+aspter6_RAIK01000015.1	bed	CDS	4108	276141	.	-	ID=cds_aspter6_eg161201;Description=;parent=rna_aspter6_eg161201
+aspter6_RAIK01000015.1	bed	CDS	5973	273012	.	-	ID=cds_aspter6_eg160787;Description=;parent=rna_aspter6_eg160787
+aspter6_RAIK01000015.1	bed	CDS	13798	265734	.	+	ID=cds_aspter6_eg160811;Description=;parent=rna_aspter6_eg160811
+aspter6_RAIK01000015.1	bed	CDS	22904	257144	.	+	ID=cds_aspter6_eg160859;Description=;parent=rna_aspter6_eg160859
+aspter6_RAIK01000015.1	bed	CDS	33903	245248	.	+	ID=cds_aspter6_eg160838;Description=;parent=rna_aspter6_eg160838
+aspter6_RAIK01000015.1	bed	CDS	47143	233223	.	+	ID=cds_aspter6_eg161051;Description=;parent=rna_aspter6_eg161051
+aspter6_RAIK01000015.1	bed	CDS	51105	228847	.	+	ID=cds_aspter6_eg160824;Description=;parent=rna_aspter6_eg160824
+aspter6_RAIK01000015.1	bed	CDS	54474	223816	.	+	ID=cds_aspter6_eg160868;Description=;parent=rna_aspter6_eg160868
+aspter6_RAIK01000015.1	bed	CDS	67509	210729	.	-	ID=cds_aspter6_plp2506;Description=;parent=rna_aspter6_plp2506
+aspter6_RAIK01000015.1	bed	CDS	134540	143990	.	+	ID=cds_aspter6_eg160904;Description=;parent=rna_aspter6_eg160904
+aspter6_RAIK01000015.1	bed	CDS	140898	137860	.	-	ID=cds_aspter6_eg161049;Description=;parent=rna_aspter6_eg161049
+aspter6_RAIK01000015.1	bed	CDS	143255	136307	.	-	ID=cds_aspter6_eg160974;Description=;parent=rna_aspter6_eg160974
+aspter6_RAIK01000015.1	bed	CDS	157451	121852	.	+	ID=cds_aspter6_eg160716;Description=;parent=rna_aspter6_eg160716
+aspter6_RAIK01000015.1	bed	CDS	165148	114738	.	-	ID=cds_aspter6_eg160991;Description=;parent=rna_aspter6_eg160991
+aspter6_RAIK01000015.1	bed	CDS	166468	113820	.	+	ID=cds_aspter6_eg161244;Description=;parent=rna_aspter6_eg161244
+aspter6_RAIK01000015.1	bed	CDS	166816	112938	.	+	ID=cds_aspter6_nlr33028;Description=;parent=rna_aspter6_nlr33028
+aspter6_RAIK01000015.1	bed	CDS	168151	112065	.	+	ID=cds_aspter6_eg161204;Description=;parent=rna_aspter6_eg161204
+aspter6_RAIK01000015.1	bed	CDS	168685	111651	.	+	ID=cds_aspter6_eg161207;Description=;parent=rna_aspter6_eg161207
+aspter6_RAIK01000015.1	bed	CDS	168962	107852	.	+	ID=cds_aspter6_nlr33032;Description=;parent=rna_aspter6_nlr33032
+aspter6_RAIK01000015.1	bed	CDS	174644	104513	.	+	ID=cds_aspter6_eg161175;Description=;parent=rna_aspter6_eg161175
+aspter6_RAIK01000015.1	bed	CDS	176102	104246	.	+	ID=cds_aspter6_eg161210;Description=;parent=rna_aspter6_eg161210
+aspter6_RAIK01000015.1	bed	CDS	177557	102161	.	+	ID=cds_aspter6_eg160852;Description=;parent=rna_aspter6_eg160852
+aspter6_RAIK01000015.1	bed	CDS	186732	93409	.	-	ID=cds_aspter6_eg161239;Description=;parent=rna_aspter6_eg161239
+aspter6_RAIK01000015.1	bed	CDS	187709	91778	.	-	ID=cds_aspter6_eg161298;Description=;parent=rna_aspter6_eg161298
+aspter6_RAIK01000015.1	bed	CDS	212090	67784	.	+	ID=cds_aspter6_eg160863;Description=;parent=rna_aspter6_eg160863
+aspter6_RAIK01000015.1	bed	CDS	215429	64475	.	+	ID=cds_aspter6_eg160784;Description=;parent=rna_aspter6_eg160784
+aspter6_RAIK01000015.1	bed	CDS	235557	43262	.	-	ID=cds_aspter6_d371754;Description=;parent=rna_aspter6_d371754
+aspter6_RAIK01000015.1	bed	CDS	239077	39850	.	-	ID=cds_aspter6_fre4143;Description=;parent=rna_aspter6_fre4143
+aspter6_RAIK01000015.1	bed	CDS	244476	35722	.	+	ID=cds_aspter6_eg160861;Description=;parent=rna_aspter6_eg160861
+aspter6_RAIK01000015.1	bed	CDS	252121	26429	.	+	ID=cds_aspter6_tyr2910;Description=;parent=rna_aspter6_tyr2910
+aspter6_RAIK01000015.1	bed	CDS	255280	22733	.	-	ID=cds_aspter6_plp2507;Description=;parent=rna_aspter6_plp2507
+aspter6_RAIK01000015.1	bed	CDS	259632	18901	.	-	ID=cds_aspter6_eg161097;Description=;parent=rna_aspter6_eg161097
+aspter6_RAIK01000015.1	bed	CDS	262390	17586	.	-	ID=cds_aspter6_eg161228;Description=;parent=rna_aspter6_eg161228

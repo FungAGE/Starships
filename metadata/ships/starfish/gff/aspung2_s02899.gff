@@ -1,0 +1,70 @@
+aspung2_JADBGV010000004.1	bed	region	1	115608	.	+	flank	ID=gene_aspung2_tyr3069|DR|up;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	region	50	115553	.	+	flank	ID=gene_aspung2_tyr3069|TIR|up;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	3366	109676	.	+	cap	ID=gene_aspung2_tyr3069;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	9189	105491	.	-	.	ID=gene_aspung2_eg167761;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	12712	101842	.	-	.	ID=gene_aspung2_eg167601;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	18466	96823	.	+	.	ID=gene_aspung2_eg167810;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	20325	95099	.	+	.	ID=gene_aspung2_eg167699;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	21318	93623	.	+	.	ID=gene_aspung2_eg167801;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	23622	90200	.	+	fre	ID=gene_aspung2_fre4463;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	29274	85607	.	+	.	ID=gene_aspung2_eg167495;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	31490	83136	.	-	.	ID=gene_aspung2_eg167778;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	32709	79178	.	+	d37	ID=gene_aspung2_d371917;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	37111	77806	.	-	.	ID=gene_aspung2_eg167791;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	38412	76490	.	+	.	ID=gene_aspung2_eg167707;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	42436	72271	.	+	.	ID=gene_aspung2_eg167503;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	54396	60082	.	+	.	ID=gene_aspung2_eg167786;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	59805	55137	.	-	.	ID=gene_aspung2_eg167651;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	60964	53101	.	+	.	ID=gene_aspung2_eg167527;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	64709	49256	.	+	.	ID=gene_aspung2_eg167665;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	66423	48420	.	-	.	ID=gene_aspung2_eg167823;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	92706	21941	.	+	.	ID=gene_aspung2_eg167603;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	101167	12460	.	-	.	ID=gene_aspung2_eg167711;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	108634	6298	.	+	.	ID=gene_aspung2_eg167463;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	gene	109743	5141	.	+	.	ID=gene_aspung2_eg167671;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	region	115564	40	.	+	flank	ID=gene_aspung2_tyr3069|TIR|down;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	region	115608	0	.	+	flank	ID=gene_aspung2_tyr3069|DR|down;Description=aspung2_s02899;parent=aspung2_JADBGV010000004.1
+aspung2_JADBGV010000004.1	bed	RNA	3366	109676	.	+	ID=rna_aspung2_tyr3069;Description=;parent=gene_aspung2_tyr3069
+aspung2_JADBGV010000004.1	bed	RNA	9189	105491	.	-	ID=rna_aspung2_eg167761;Description=;parent=gene_aspung2_eg167761
+aspung2_JADBGV010000004.1	bed	RNA	12712	101842	.	-	ID=rna_aspung2_eg167601;Description=;parent=gene_aspung2_eg167601
+aspung2_JADBGV010000004.1	bed	RNA	18466	96823	.	+	ID=rna_aspung2_eg167810;Description=;parent=gene_aspung2_eg167810
+aspung2_JADBGV010000004.1	bed	RNA	20325	95099	.	+	ID=rna_aspung2_eg167699;Description=;parent=gene_aspung2_eg167699
+aspung2_JADBGV010000004.1	bed	RNA	21318	93623	.	+	ID=rna_aspung2_eg167801;Description=;parent=gene_aspung2_eg167801
+aspung2_JADBGV010000004.1	bed	RNA	23622	90200	.	+	ID=rna_aspung2_fre4463;Description=;parent=gene_aspung2_fre4463
+aspung2_JADBGV010000004.1	bed	RNA	29274	85607	.	+	ID=rna_aspung2_eg167495;Description=;parent=gene_aspung2_eg167495
+aspung2_JADBGV010000004.1	bed	RNA	31490	83136	.	-	ID=rna_aspung2_eg167778;Description=;parent=gene_aspung2_eg167778
+aspung2_JADBGV010000004.1	bed	RNA	32709	79178	.	+	ID=rna_aspung2_d371917;Description=;parent=gene_aspung2_d371917
+aspung2_JADBGV010000004.1	bed	RNA	37111	77806	.	-	ID=rna_aspung2_eg167791;Description=;parent=gene_aspung2_eg167791
+aspung2_JADBGV010000004.1	bed	RNA	38412	76490	.	+	ID=rna_aspung2_eg167707;Description=;parent=gene_aspung2_eg167707
+aspung2_JADBGV010000004.1	bed	RNA	42436	72271	.	+	ID=rna_aspung2_eg167503;Description=;parent=gene_aspung2_eg167503
+aspung2_JADBGV010000004.1	bed	RNA	54396	60082	.	+	ID=rna_aspung2_eg167786;Description=;parent=gene_aspung2_eg167786
+aspung2_JADBGV010000004.1	bed	RNA	59805	55137	.	-	ID=rna_aspung2_eg167651;Description=;parent=gene_aspung2_eg167651
+aspung2_JADBGV010000004.1	bed	RNA	60964	53101	.	+	ID=rna_aspung2_eg167527;Description=;parent=gene_aspung2_eg167527
+aspung2_JADBGV010000004.1	bed	RNA	64709	49256	.	+	ID=rna_aspung2_eg167665;Description=;parent=gene_aspung2_eg167665
+aspung2_JADBGV010000004.1	bed	RNA	66423	48420	.	-	ID=rna_aspung2_eg167823;Description=;parent=gene_aspung2_eg167823
+aspung2_JADBGV010000004.1	bed	RNA	92706	21941	.	+	ID=rna_aspung2_eg167603;Description=;parent=gene_aspung2_eg167603
+aspung2_JADBGV010000004.1	bed	RNA	101167	12460	.	-	ID=rna_aspung2_eg167711;Description=;parent=gene_aspung2_eg167711
+aspung2_JADBGV010000004.1	bed	RNA	108634	6298	.	+	ID=rna_aspung2_eg167463;Description=;parent=gene_aspung2_eg167463
+aspung2_JADBGV010000004.1	bed	RNA	109743	5141	.	+	ID=rna_aspung2_eg167671;Description=;parent=gene_aspung2_eg167671
+aspung2_JADBGV010000004.1	bed	CDS	3366	109676	.	+	ID=cds_aspung2_tyr3069;Description=;parent=rna_aspung2_tyr3069
+aspung2_JADBGV010000004.1	bed	CDS	9189	105491	.	-	ID=cds_aspung2_eg167761;Description=;parent=rna_aspung2_eg167761
+aspung2_JADBGV010000004.1	bed	CDS	12712	101842	.	-	ID=cds_aspung2_eg167601;Description=;parent=rna_aspung2_eg167601
+aspung2_JADBGV010000004.1	bed	CDS	18466	96823	.	+	ID=cds_aspung2_eg167810;Description=;parent=rna_aspung2_eg167810
+aspung2_JADBGV010000004.1	bed	CDS	20325	95099	.	+	ID=cds_aspung2_eg167699;Description=;parent=rna_aspung2_eg167699
+aspung2_JADBGV010000004.1	bed	CDS	21318	93623	.	+	ID=cds_aspung2_eg167801;Description=;parent=rna_aspung2_eg167801
+aspung2_JADBGV010000004.1	bed	CDS	23622	90200	.	+	ID=cds_aspung2_fre4463;Description=;parent=rna_aspung2_fre4463
+aspung2_JADBGV010000004.1	bed	CDS	29274	85607	.	+	ID=cds_aspung2_eg167495;Description=;parent=rna_aspung2_eg167495
+aspung2_JADBGV010000004.1	bed	CDS	31490	83136	.	-	ID=cds_aspung2_eg167778;Description=;parent=rna_aspung2_eg167778
+aspung2_JADBGV010000004.1	bed	CDS	32709	79178	.	+	ID=cds_aspung2_d371917;Description=;parent=rna_aspung2_d371917
+aspung2_JADBGV010000004.1	bed	CDS	37111	77806	.	-	ID=cds_aspung2_eg167791;Description=;parent=rna_aspung2_eg167791
+aspung2_JADBGV010000004.1	bed	CDS	38412	76490	.	+	ID=cds_aspung2_eg167707;Description=;parent=rna_aspung2_eg167707
+aspung2_JADBGV010000004.1	bed	CDS	42436	72271	.	+	ID=cds_aspung2_eg167503;Description=;parent=rna_aspung2_eg167503
+aspung2_JADBGV010000004.1	bed	CDS	54396	60082	.	+	ID=cds_aspung2_eg167786;Description=;parent=rna_aspung2_eg167786
+aspung2_JADBGV010000004.1	bed	CDS	59805	55137	.	-	ID=cds_aspung2_eg167651;Description=;parent=rna_aspung2_eg167651
+aspung2_JADBGV010000004.1	bed	CDS	60964	53101	.	+	ID=cds_aspung2_eg167527;Description=;parent=rna_aspung2_eg167527
+aspung2_JADBGV010000004.1	bed	CDS	64709	49256	.	+	ID=cds_aspung2_eg167665;Description=;parent=rna_aspung2_eg167665
+aspung2_JADBGV010000004.1	bed	CDS	66423	48420	.	-	ID=cds_aspung2_eg167823;Description=;parent=rna_aspung2_eg167823
+aspung2_JADBGV010000004.1	bed	CDS	92706	21941	.	+	ID=cds_aspung2_eg167603;Description=;parent=rna_aspung2_eg167603
+aspung2_JADBGV010000004.1	bed	CDS	101167	12460	.	-	ID=cds_aspung2_eg167711;Description=;parent=rna_aspung2_eg167711
+aspung2_JADBGV010000004.1	bed	CDS	108634	6298	.	+	ID=cds_aspung2_eg167463;Description=;parent=rna_aspung2_eg167463
+aspung2_JADBGV010000004.1	bed	CDS	109743	5141	.	+	ID=cds_aspung2_eg167671;Description=;parent=rna_aspung2_eg167671

@@ -1,0 +1,142 @@
+aspawa1_BDHI01000029.1	bed	region	1	207336	.	-	flank	ID=gene_aspawa1_GCB27642.1|DR|down;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	region	52	207277	.	-	flank	ID=gene_aspawa1_GCB27642.1|TIR|down;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	7382	199283	.	-	.	ID=gene_aspawa1_GCB27598.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	8766	196390	.	+	.	ID=gene_aspawa1_GCB27599.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	14571	190147	.	+	.	ID=gene_aspawa1_GCB27600.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	26300	180657	.	-	.	ID=gene_aspawa1_GCB27601.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	30040	175696	.	+	.	ID=gene_aspawa1_GCB27602.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	31706	175200	.	-	.	ID=gene_aspawa1_GCB27603.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	35576	170985	.	+	.	ID=gene_aspawa1_GCB27604.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	37551	167603	.	+	.	ID=gene_aspawa1_GCB27605.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	44742	158660	.	-	d37	ID=gene_aspawa1_GCB27606.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	49842	156374	.	+	.	ID=gene_aspawa1_GCB27607.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	51633	154371	.	+	fre	ID=gene_aspawa1_GCB27608.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	55507	149603	.	+	.	ID=gene_aspawa1_GCB27609.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	64566	142340	.	-	nlr	ID=gene_aspawa1_GCB27610.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	66623	139626	.	+	.	ID=gene_aspawa1_GCB27611.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	67864	138487	.	-	.	ID=gene_aspawa1_GCB27612.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	69277	136591	.	-	.	ID=gene_aspawa1_GCB27613.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	71863	134914	.	-	.	ID=gene_aspawa1_GCB27614.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	78416	125316	.	-	.	ID=gene_aspawa1_GCB27615.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	83380	123539	.	+	.	ID=gene_aspawa1_GCB27616.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	85121	118325	.	-	.	ID=gene_aspawa1_GCB27617.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	91289	114601	.	-	nlr	ID=gene_aspawa1_GCB27618.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	97703	108901	.	+	.	ID=gene_aspawa1_GCB27619.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	99389	106881	.	-	.	ID=gene_aspawa1_GCB27620.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	102036	104741	.	+	.	ID=gene_aspawa1_GCB27621.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	103699	100772	.	+	.	ID=gene_aspawa1_GCB27622.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	107412	96799	.	-	.	ID=gene_aspawa1_GCB27623.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	112597	91183	.	+	.	ID=gene_aspawa1_GCB27624.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	120473	83639	.	+	.	ID=gene_aspawa1_GCB27625.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	124752	78138	.	-	.	ID=gene_aspawa1_GCB27626.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	129736	77025	.	+	.	ID=gene_aspawa1_GCB27627.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	131083	75057	.	-	.	ID=gene_aspawa1_GCB27628.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	134372	69802	.	-	plp	ID=gene_aspawa1_GCB27629.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	139752	66608	.	+	.	ID=gene_aspawa1_GCB27630.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	145078	61789	.	+	.	ID=gene_aspawa1_GCB27631.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	145935	60889	.	+	.	ID=gene_aspawa1_GCB27632.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	148086	58543	.	+	.	ID=gene_aspawa1_GCB27633.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	149433	57471	.	+	.	ID=gene_aspawa1_GCB27634.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	158631	47106	.	-	.	ID=gene_aspawa1_GCB27635.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	167409	34845	.	-	.	ID=gene_aspawa1_GCB27636.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	173788	30597	.	+	nlr	ID=gene_aspawa1_GCB27637.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	178619	28085	.	-	.	ID=gene_aspawa1_GCB27638.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	179440	26839	.	+	.	ID=gene_aspawa1_GCB27639.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	184181	21932	.	+	.	ID=gene_aspawa1_GCB27640.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	192091	14731	.	-	.	ID=gene_aspawa1_GCB27641.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	194815	9964	.	-	cap	ID=gene_aspawa1_GCB27642.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	gene	207218	1529	.	-	.	ID=gene_aspawa1_GCB27643.1;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	region	207302	25	.	-	flank	ID=gene_aspawa1_GCB27642.1|TIR|up;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	region	207337	0	.	-	flank	ID=gene_aspawa1_GCB27642.1|DR|up;Description=aspawa1_s00607;parent=aspawa1_BDHI01000029.1
+aspawa1_BDHI01000029.1	bed	RNA	7382	199283	.	-	ID=rna_aspawa1_GCB27598.1;Description=;parent=gene_aspawa1_GCB27598.1
+aspawa1_BDHI01000029.1	bed	RNA	8766	196390	.	+	ID=rna_aspawa1_GCB27599.1;Description=;parent=gene_aspawa1_GCB27599.1
+aspawa1_BDHI01000029.1	bed	RNA	14571	190147	.	+	ID=rna_aspawa1_GCB27600.1;Description=;parent=gene_aspawa1_GCB27600.1
+aspawa1_BDHI01000029.1	bed	RNA	26300	180657	.	-	ID=rna_aspawa1_GCB27601.1;Description=;parent=gene_aspawa1_GCB27601.1
+aspawa1_BDHI01000029.1	bed	RNA	30040	175696	.	+	ID=rna_aspawa1_GCB27602.1;Description=;parent=gene_aspawa1_GCB27602.1
+aspawa1_BDHI01000029.1	bed	RNA	31706	175200	.	-	ID=rna_aspawa1_GCB27603.1;Description=;parent=gene_aspawa1_GCB27603.1
+aspawa1_BDHI01000029.1	bed	RNA	35576	170985	.	+	ID=rna_aspawa1_GCB27604.1;Description=;parent=gene_aspawa1_GCB27604.1
+aspawa1_BDHI01000029.1	bed	RNA	37551	167603	.	+	ID=rna_aspawa1_GCB27605.1;Description=;parent=gene_aspawa1_GCB27605.1
+aspawa1_BDHI01000029.1	bed	RNA	44742	158660	.	-	ID=rna_aspawa1_GCB27606.1;Description=;parent=gene_aspawa1_GCB27606.1
+aspawa1_BDHI01000029.1	bed	RNA	49842	156374	.	+	ID=rna_aspawa1_GCB27607.1;Description=;parent=gene_aspawa1_GCB27607.1
+aspawa1_BDHI01000029.1	bed	RNA	51633	154371	.	+	ID=rna_aspawa1_GCB27608.1;Description=;parent=gene_aspawa1_GCB27608.1
+aspawa1_BDHI01000029.1	bed	RNA	55507	149603	.	+	ID=rna_aspawa1_GCB27609.1;Description=;parent=gene_aspawa1_GCB27609.1
+aspawa1_BDHI01000029.1	bed	RNA	64566	142340	.	-	ID=rna_aspawa1_GCB27610.1;Description=;parent=gene_aspawa1_GCB27610.1
+aspawa1_BDHI01000029.1	bed	RNA	66623	139626	.	+	ID=rna_aspawa1_GCB27611.1;Description=;parent=gene_aspawa1_GCB27611.1
+aspawa1_BDHI01000029.1	bed	RNA	67864	138487	.	-	ID=rna_aspawa1_GCB27612.1;Description=;parent=gene_aspawa1_GCB27612.1
+aspawa1_BDHI01000029.1	bed	RNA	69277	136591	.	-	ID=rna_aspawa1_GCB27613.1;Description=;parent=gene_aspawa1_GCB27613.1
+aspawa1_BDHI01000029.1	bed	RNA	71863	134914	.	-	ID=rna_aspawa1_GCB27614.1;Description=;parent=gene_aspawa1_GCB27614.1
+aspawa1_BDHI01000029.1	bed	RNA	78416	125316	.	-	ID=rna_aspawa1_GCB27615.1;Description=;parent=gene_aspawa1_GCB27615.1
+aspawa1_BDHI01000029.1	bed	RNA	83380	123539	.	+	ID=rna_aspawa1_GCB27616.1;Description=;parent=gene_aspawa1_GCB27616.1
+aspawa1_BDHI01000029.1	bed	RNA	85121	118325	.	-	ID=rna_aspawa1_GCB27617.1;Description=;parent=gene_aspawa1_GCB27617.1
+aspawa1_BDHI01000029.1	bed	RNA	91289	114601	.	-	ID=rna_aspawa1_GCB27618.1;Description=;parent=gene_aspawa1_GCB27618.1
+aspawa1_BDHI01000029.1	bed	RNA	97703	108901	.	+	ID=rna_aspawa1_GCB27619.1;Description=;parent=gene_aspawa1_GCB27619.1
+aspawa1_BDHI01000029.1	bed	RNA	99389	106881	.	-	ID=rna_aspawa1_GCB27620.1;Description=;parent=gene_aspawa1_GCB27620.1
+aspawa1_BDHI01000029.1	bed	RNA	102036	104741	.	+	ID=rna_aspawa1_GCB27621.1;Description=;parent=gene_aspawa1_GCB27621.1
+aspawa1_BDHI01000029.1	bed	RNA	103699	100772	.	+	ID=rna_aspawa1_GCB27622.1;Description=;parent=gene_aspawa1_GCB27622.1
+aspawa1_BDHI01000029.1	bed	RNA	107412	96799	.	-	ID=rna_aspawa1_GCB27623.1;Description=;parent=gene_aspawa1_GCB27623.1
+aspawa1_BDHI01000029.1	bed	RNA	112597	91183	.	+	ID=rna_aspawa1_GCB27624.1;Description=;parent=gene_aspawa1_GCB27624.1
+aspawa1_BDHI01000029.1	bed	RNA	120473	83639	.	+	ID=rna_aspawa1_GCB27625.1;Description=;parent=gene_aspawa1_GCB27625.1
+aspawa1_BDHI01000029.1	bed	RNA	124752	78138	.	-	ID=rna_aspawa1_GCB27626.1;Description=;parent=gene_aspawa1_GCB27626.1
+aspawa1_BDHI01000029.1	bed	RNA	129736	77025	.	+	ID=rna_aspawa1_GCB27627.1;Description=;parent=gene_aspawa1_GCB27627.1
+aspawa1_BDHI01000029.1	bed	RNA	131083	75057	.	-	ID=rna_aspawa1_GCB27628.1;Description=;parent=gene_aspawa1_GCB27628.1
+aspawa1_BDHI01000029.1	bed	RNA	134372	69802	.	-	ID=rna_aspawa1_GCB27629.1;Description=;parent=gene_aspawa1_GCB27629.1
+aspawa1_BDHI01000029.1	bed	RNA	139752	66608	.	+	ID=rna_aspawa1_GCB27630.1;Description=;parent=gene_aspawa1_GCB27630.1
+aspawa1_BDHI01000029.1	bed	RNA	145078	61789	.	+	ID=rna_aspawa1_GCB27631.1;Description=;parent=gene_aspawa1_GCB27631.1
+aspawa1_BDHI01000029.1	bed	RNA	145935	60889	.	+	ID=rna_aspawa1_GCB27632.1;Description=;parent=gene_aspawa1_GCB27632.1
+aspawa1_BDHI01000029.1	bed	RNA	148086	58543	.	+	ID=rna_aspawa1_GCB27633.1;Description=;parent=gene_aspawa1_GCB27633.1
+aspawa1_BDHI01000029.1	bed	RNA	149433	57471	.	+	ID=rna_aspawa1_GCB27634.1;Description=;parent=gene_aspawa1_GCB27634.1
+aspawa1_BDHI01000029.1	bed	RNA	158631	47106	.	-	ID=rna_aspawa1_GCB27635.1;Description=;parent=gene_aspawa1_GCB27635.1
+aspawa1_BDHI01000029.1	bed	RNA	167409	34845	.	-	ID=rna_aspawa1_GCB27636.1;Description=;parent=gene_aspawa1_GCB27636.1
+aspawa1_BDHI01000029.1	bed	RNA	173788	30597	.	+	ID=rna_aspawa1_GCB27637.1;Description=;parent=gene_aspawa1_GCB27637.1
+aspawa1_BDHI01000029.1	bed	RNA	178619	28085	.	-	ID=rna_aspawa1_GCB27638.1;Description=;parent=gene_aspawa1_GCB27638.1
+aspawa1_BDHI01000029.1	bed	RNA	179440	26839	.	+	ID=rna_aspawa1_GCB27639.1;Description=;parent=gene_aspawa1_GCB27639.1
+aspawa1_BDHI01000029.1	bed	RNA	184181	21932	.	+	ID=rna_aspawa1_GCB27640.1;Description=;parent=gene_aspawa1_GCB27640.1
+aspawa1_BDHI01000029.1	bed	RNA	192091	14731	.	-	ID=rna_aspawa1_GCB27641.1;Description=;parent=gene_aspawa1_GCB27641.1
+aspawa1_BDHI01000029.1	bed	RNA	194815	9964	.	-	ID=rna_aspawa1_GCB27642.1;Description=;parent=gene_aspawa1_GCB27642.1
+aspawa1_BDHI01000029.1	bed	RNA	207218	1529	.	-	ID=rna_aspawa1_GCB27643.1;Description=;parent=gene_aspawa1_GCB27643.1
+aspawa1_BDHI01000029.1	bed	CDS	7382	199283	.	-	ID=cds_aspawa1_GCB27598.1;Description=;parent=rna_aspawa1_GCB27598.1
+aspawa1_BDHI01000029.1	bed	CDS	8766	196390	.	+	ID=cds_aspawa1_GCB27599.1;Description=;parent=rna_aspawa1_GCB27599.1
+aspawa1_BDHI01000029.1	bed	CDS	14571	190147	.	+	ID=cds_aspawa1_GCB27600.1;Description=;parent=rna_aspawa1_GCB27600.1
+aspawa1_BDHI01000029.1	bed	CDS	26300	180657	.	-	ID=cds_aspawa1_GCB27601.1;Description=;parent=rna_aspawa1_GCB27601.1
+aspawa1_BDHI01000029.1	bed	CDS	30040	175696	.	+	ID=cds_aspawa1_GCB27602.1;Description=;parent=rna_aspawa1_GCB27602.1
+aspawa1_BDHI01000029.1	bed	CDS	31706	175200	.	-	ID=cds_aspawa1_GCB27603.1;Description=;parent=rna_aspawa1_GCB27603.1
+aspawa1_BDHI01000029.1	bed	CDS	35576	170985	.	+	ID=cds_aspawa1_GCB27604.1;Description=;parent=rna_aspawa1_GCB27604.1
+aspawa1_BDHI01000029.1	bed	CDS	37551	167603	.	+	ID=cds_aspawa1_GCB27605.1;Description=;parent=rna_aspawa1_GCB27605.1
+aspawa1_BDHI01000029.1	bed	CDS	44742	158660	.	-	ID=cds_aspawa1_GCB27606.1;Description=;parent=rna_aspawa1_GCB27606.1
+aspawa1_BDHI01000029.1	bed	CDS	49842	156374	.	+	ID=cds_aspawa1_GCB27607.1;Description=;parent=rna_aspawa1_GCB27607.1
+aspawa1_BDHI01000029.1	bed	CDS	51633	154371	.	+	ID=cds_aspawa1_GCB27608.1;Description=;parent=rna_aspawa1_GCB27608.1
+aspawa1_BDHI01000029.1	bed	CDS	55507	149603	.	+	ID=cds_aspawa1_GCB27609.1;Description=;parent=rna_aspawa1_GCB27609.1
+aspawa1_BDHI01000029.1	bed	CDS	64566	142340	.	-	ID=cds_aspawa1_GCB27610.1;Description=;parent=rna_aspawa1_GCB27610.1
+aspawa1_BDHI01000029.1	bed	CDS	66623	139626	.	+	ID=cds_aspawa1_GCB27611.1;Description=;parent=rna_aspawa1_GCB27611.1
+aspawa1_BDHI01000029.1	bed	CDS	67864	138487	.	-	ID=cds_aspawa1_GCB27612.1;Description=;parent=rna_aspawa1_GCB27612.1
+aspawa1_BDHI01000029.1	bed	CDS	69277	136591	.	-	ID=cds_aspawa1_GCB27613.1;Description=;parent=rna_aspawa1_GCB27613.1
+aspawa1_BDHI01000029.1	bed	CDS	71863	134914	.	-	ID=cds_aspawa1_GCB27614.1;Description=;parent=rna_aspawa1_GCB27614.1
+aspawa1_BDHI01000029.1	bed	CDS	78416	125316	.	-	ID=cds_aspawa1_GCB27615.1;Description=;parent=rna_aspawa1_GCB27615.1
+aspawa1_BDHI01000029.1	bed	CDS	83380	123539	.	+	ID=cds_aspawa1_GCB27616.1;Description=;parent=rna_aspawa1_GCB27616.1
+aspawa1_BDHI01000029.1	bed	CDS	85121	118325	.	-	ID=cds_aspawa1_GCB27617.1;Description=;parent=rna_aspawa1_GCB27617.1
+aspawa1_BDHI01000029.1	bed	CDS	91289	114601	.	-	ID=cds_aspawa1_GCB27618.1;Description=;parent=rna_aspawa1_GCB27618.1
+aspawa1_BDHI01000029.1	bed	CDS	97703	108901	.	+	ID=cds_aspawa1_GCB27619.1;Description=;parent=rna_aspawa1_GCB27619.1
+aspawa1_BDHI01000029.1	bed	CDS	99389	106881	.	-	ID=cds_aspawa1_GCB27620.1;Description=;parent=rna_aspawa1_GCB27620.1
+aspawa1_BDHI01000029.1	bed	CDS	102036	104741	.	+	ID=cds_aspawa1_GCB27621.1;Description=;parent=rna_aspawa1_GCB27621.1
+aspawa1_BDHI01000029.1	bed	CDS	103699	100772	.	+	ID=cds_aspawa1_GCB27622.1;Description=;parent=rna_aspawa1_GCB27622.1
+aspawa1_BDHI01000029.1	bed	CDS	107412	96799	.	-	ID=cds_aspawa1_GCB27623.1;Description=;parent=rna_aspawa1_GCB27623.1
+aspawa1_BDHI01000029.1	bed	CDS	112597	91183	.	+	ID=cds_aspawa1_GCB27624.1;Description=;parent=rna_aspawa1_GCB27624.1
+aspawa1_BDHI01000029.1	bed	CDS	120473	83639	.	+	ID=cds_aspawa1_GCB27625.1;Description=;parent=rna_aspawa1_GCB27625.1
+aspawa1_BDHI01000029.1	bed	CDS	124752	78138	.	-	ID=cds_aspawa1_GCB27626.1;Description=;parent=rna_aspawa1_GCB27626.1
+aspawa1_BDHI01000029.1	bed	CDS	129736	77025	.	+	ID=cds_aspawa1_GCB27627.1;Description=;parent=rna_aspawa1_GCB27627.1
+aspawa1_BDHI01000029.1	bed	CDS	131083	75057	.	-	ID=cds_aspawa1_GCB27628.1;Description=;parent=rna_aspawa1_GCB27628.1
+aspawa1_BDHI01000029.1	bed	CDS	134372	69802	.	-	ID=cds_aspawa1_GCB27629.1;Description=;parent=rna_aspawa1_GCB27629.1
+aspawa1_BDHI01000029.1	bed	CDS	139752	66608	.	+	ID=cds_aspawa1_GCB27630.1;Description=;parent=rna_aspawa1_GCB27630.1
+aspawa1_BDHI01000029.1	bed	CDS	145078	61789	.	+	ID=cds_aspawa1_GCB27631.1;Description=;parent=rna_aspawa1_GCB27631.1
+aspawa1_BDHI01000029.1	bed	CDS	145935	60889	.	+	ID=cds_aspawa1_GCB27632.1;Description=;parent=rna_aspawa1_GCB27632.1
+aspawa1_BDHI01000029.1	bed	CDS	148086	58543	.	+	ID=cds_aspawa1_GCB27633.1;Description=;parent=rna_aspawa1_GCB27633.1
+aspawa1_BDHI01000029.1	bed	CDS	149433	57471	.	+	ID=cds_aspawa1_GCB27634.1;Description=;parent=rna_aspawa1_GCB27634.1
+aspawa1_BDHI01000029.1	bed	CDS	158631	47106	.	-	ID=cds_aspawa1_GCB27635.1;Description=;parent=rna_aspawa1_GCB27635.1
+aspawa1_BDHI01000029.1	bed	CDS	167409	34845	.	-	ID=cds_aspawa1_GCB27636.1;Description=;parent=rna_aspawa1_GCB27636.1
+aspawa1_BDHI01000029.1	bed	CDS	173788	30597	.	+	ID=cds_aspawa1_GCB27637.1;Description=;parent=rna_aspawa1_GCB27637.1
+aspawa1_BDHI01000029.1	bed	CDS	178619	28085	.	-	ID=cds_aspawa1_GCB27638.1;Description=;parent=rna_aspawa1_GCB27638.1
+aspawa1_BDHI01000029.1	bed	CDS	179440	26839	.	+	ID=cds_aspawa1_GCB27639.1;Description=;parent=rna_aspawa1_GCB27639.1
+aspawa1_BDHI01000029.1	bed	CDS	184181	21932	.	+	ID=cds_aspawa1_GCB27640.1;Description=;parent=rna_aspawa1_GCB27640.1
+aspawa1_BDHI01000029.1	bed	CDS	192091	14731	.	-	ID=cds_aspawa1_GCB27641.1;Description=;parent=rna_aspawa1_GCB27641.1
+aspawa1_BDHI01000029.1	bed	CDS	194815	9964	.	-	ID=cds_aspawa1_GCB27642.1;Description=;parent=rna_aspawa1_GCB27642.1
+aspawa1_BDHI01000029.1	bed	CDS	207218	1529	.	-	ID=cds_aspawa1_GCB27643.1;Description=;parent=rna_aspawa1_GCB27643.1

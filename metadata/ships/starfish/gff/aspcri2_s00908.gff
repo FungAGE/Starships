@@ -1,0 +1,12 @@
+aspcri2_MAQV01000005.1	bed	gene	1	16300	.	-	insert	ID=gene_aspcri2_tyr973|aspche1_BCIE01000015.1|down;Description=aspcri2_s00908;parent=aspcri2_MAQV01000005.1
+aspcri2_MAQV01000005.1	bed	gene	3869	10280	.	+	.	ID=gene_aspcri2_eg41274;Description=aspcri2_s00908;parent=aspcri2_MAQV01000005.1
+aspcri2_MAQV01000005.1	bed	gene	6367	7364	.	-	cap	ID=gene_aspcri2_tyr973;Description=aspcri2_s00908;parent=aspcri2_MAQV01000005.1
+aspcri2_MAQV01000005.1	bed	gene	16301	0	.	-	insert	ID=gene_aspcri2_tyr973|aspche1_BCIE01000015.1|up;Description=aspcri2_s00908;parent=aspcri2_MAQV01000005.1
+aspcri2_MAQV01000005.1	bed	RNA	1	16300	.	-	ID=rna_aspcri2_tyr973|aspche1_BCIE01000015.1|down;Description=;parent=gene_aspcri2_tyr973|aspche1_BCIE01000015.1|down
+aspcri2_MAQV01000005.1	bed	RNA	3869	10280	.	+	ID=rna_aspcri2_eg41274;Description=;parent=gene_aspcri2_eg41274
+aspcri2_MAQV01000005.1	bed	RNA	6367	7364	.	-	ID=rna_aspcri2_tyr973;Description=;parent=gene_aspcri2_tyr973
+aspcri2_MAQV01000005.1	bed	RNA	16301	0	.	-	ID=rna_aspcri2_tyr973|aspche1_BCIE01000015.1|up;Description=;parent=gene_aspcri2_tyr973|aspche1_BCIE01000015.1|up
+aspcri2_MAQV01000005.1	bed	CDS	1	16300	.	-	ID=cds_aspcri2_tyr973|aspche1_BCIE01000015.1|down;Description=;parent=rna_aspcri2_tyr973|aspche1_BCIE01000015.1|down
+aspcri2_MAQV01000005.1	bed	CDS	3869	10280	.	+	ID=cds_aspcri2_eg41274;Description=;parent=rna_aspcri2_eg41274
+aspcri2_MAQV01000005.1	bed	CDS	6367	7364	.	-	ID=cds_aspcri2_tyr973;Description=;parent=rna_aspcri2_tyr973
+aspcri2_MAQV01000005.1	bed	CDS	16301	0	.	-	ID=cds_aspcri2_tyr973|aspche1_BCIE01000015.1|up;Description=;parent=rna_aspcri2_tyr973|aspche1_BCIE01000015.1|up

@@ -1,0 +1,340 @@
+aspnig4_chr502	bed	region	1	298642	.	+	flank	ID=gene_aspnig4_7123|DR|up;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	region	36	298595	.	+	flank	ID=gene_aspnig4_7123|TIR|up;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	550	294515	.	+	cap	ID=gene_aspnig4_7123;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	5555	290854	.	-	.	ID=gene_aspnig4_7124;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	8626	288694	.	-	.	ID=gene_aspnig4_7125;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	11531	286234	.	+	.	ID=gene_aspnig4_7126;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	13649	284433	.	+	.	ID=gene_aspnig4_7127;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	14519	283056	.	-	.	ID=gene_aspnig4_7128;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	16668	281667	.	-	.	ID=gene_aspnig4_eg112232;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	17280	280941	.	-	.	ID=gene_aspnig4_7129;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	19221	278368	.	-	.	ID=gene_aspnig4_7130;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	21077	277165	.	+	.	ID=gene_aspnig4_7131;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	22464	274887	.	+	.	ID=gene_aspnig4_7132;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	24263	273847	.	+	.	ID=gene_aspnig4_7133;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	26220	271710	.	-	.	ID=gene_aspnig4_7134;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	27476	270368	.	-	.	ID=gene_aspnig4_7135;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	29415	268679	.	-	.	ID=gene_aspnig4_7136;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	31978	265316	.	+	.	ID=gene_aspnig4_7137;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	33533	264346	.	-	.	ID=gene_aspnig4_7138;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	34530	263645	.	+	.	ID=gene_aspnig4_7139;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	35230	262439	.	+	.	ID=gene_aspnig4_7140;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	37031	261259	.	+	.	ID=gene_aspnig4_7141;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	38435	258844	.	+	.	ID=gene_aspnig4_7142;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	40167	258147	.	+	.	ID=gene_aspnig4_eg112236;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	41348	256796	.	+	.	ID=gene_aspnig4_7143;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	42387	254919	.	-	.	ID=gene_aspnig4_7144;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	44195	254038	.	+	.	ID=gene_aspnig4_7145;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	44658	253005	.	-	.	ID=gene_aspnig4_7146;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	46193	251365	.	-	.	ID=gene_aspnig4_7147;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	48309	249471	.	-	.	ID=gene_aspnig4_7148;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	50092	248207	.	-	.	ID=gene_aspnig4_eg112020;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	53940	243402	.	+	.	ID=gene_aspnig4_7149;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	56179	241914	.	+	.	ID=gene_aspnig4_7150;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	57466	239952	.	-	.	ID=gene_aspnig4_7151;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	60063	236807	.	-	.	ID=gene_aspnig4_7152;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	64270	229760	.	-	d37	ID=gene_aspnig4_7153;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	70687	226198	.	+	fre	ID=gene_aspnig4_7154;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	73675	223490	.	-	.	ID=gene_aspnig4_7155;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	76959	220461	.	-	.	ID=gene_aspnig4_7156;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	80308	217421	.	+	.	ID=gene_aspnig4_7157;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	82209	215685	.	-	.	ID=gene_aspnig4_7158;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	84128	211215	.	+	.	ID=gene_aspnig4_7159;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	87873	210102	.	-	.	ID=gene_aspnig4_7160;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	89747	203871	.	-	.	ID=gene_aspnig4_7161;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	99788	197749	.	+	.	ID=gene_aspnig4_7162;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	102557	194835	.	-	.	ID=gene_aspnig4_7163;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	105806	189651	.	+	plp	ID=gene_aspnig4_7164;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	110751	187354	.	-	.	ID=gene_aspnig4_7165;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	119016	178165	.	-	nlr	ID=gene_aspnig4_7166;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	127339	169736	.	+	.	ID=gene_aspnig4_7167;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	131368	165895	.	-	.	ID=gene_aspnig4_7168;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	138312	158315	.	+	.	ID=gene_aspnig4_7169;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	141974	155866	.	-	.	ID=gene_aspnig4_7170;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	150276	147672	.	+	.	ID=gene_aspnig4_7171;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	152447	145348	.	+	.	ID=gene_aspnig4_7172;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	154698	143202	.	-	.	ID=gene_aspnig4_7173;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	157559	140485	.	+	.	ID=gene_aspnig4_7174;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	159212	137263	.	-	.	ID=gene_aspnig4_7175;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	162243	135840	.	+	.	ID=gene_aspnig4_7176;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	163367	134716	.	-	.	ID=gene_aspnig4_7177;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	167058	130239	.	+	.	ID=gene_aspnig4_7178;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	170203	126864	.	-	.	ID=gene_aspnig4_7179;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	172979	124436	.	-	.	ID=gene_aspnig4_7180;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	174975	122492	.	-	.	ID=gene_aspnig4_7181;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	177216	119479	.	+	.	ID=gene_aspnig4_7182;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	179812	118610	.	-	.	ID=gene_aspnig4_eg112017;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	180635	117781	.	+	.	ID=gene_aspnig4_eg112016;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	181422	115388	.	-	.	ID=gene_aspnig4_7183;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	183807	113660	.	+	.	ID=gene_aspnig4_7184;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	185751	111664	.	+	.	ID=gene_aspnig4_7185;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	188179	108787	.	+	.	ID=gene_aspnig4_7186;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	191554	105743	.	-	.	ID=gene_aspnig4_7187;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	193826	103813	.	+	.	ID=gene_aspnig4_7188;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	194933	102945	.	-	.	ID=gene_aspnig4_7189;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	196068	102048	.	+	.	ID=gene_aspnig4_7190;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	197712	100239	.	-	.	ID=gene_aspnig4_7191;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	204060	94015	.	+	.	ID=gene_aspnig4_7192;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	204676	92036	.	-	.	ID=gene_aspnig4_7193;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	207006	91160	.	+	.	ID=gene_aspnig4_7194;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	208794	89241	.	+	.	ID=gene_aspnig4_7195;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	209829	85048	.	-	.	ID=gene_aspnig4_7196;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	215190	82125	.	-	.	ID=gene_aspnig4_7197;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	216938	80959	.	+	.	ID=gene_aspnig4_7198;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	218227	79616	.	-	.	ID=gene_aspnig4_7199;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	219819	77536	.	-	.	ID=gene_aspnig4_7200;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	222386	75934	.	-	.	ID=gene_aspnig4_7201;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	223170	74124	.	+	.	ID=gene_aspnig4_7202;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	224725	73154	.	-	.	ID=gene_aspnig4_7203;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	225722	72160	.	+	.	ID=gene_aspnig4_7204;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	226558	71105	.	-	.	ID=gene_aspnig4_7205;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	229563	67576	.	-	.	ID=gene_aspnig4_7206;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	234600	63069	.	+	.	ID=gene_aspnig4_7207;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	235760	61574	.	-	.	ID=gene_aspnig4_7208;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	237307	59848	.	-	.	ID=gene_aspnig4_7209;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	239283	58869	.	-	.	ID=gene_aspnig4_7210;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	240486	53132	.	+	.	ID=gene_aspnig4_7211;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	246717	51258	.	+	.	ID=gene_aspnig4_7212;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	247830	47537	.	-	.	ID=gene_aspnig4_7213;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	251715	45594	.	+	.	ID=gene_aspnig4_7214;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	256779	41268	.	+	.	ID=gene_aspnig4_7215;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	260939	36310	.	-	.	ID=gene_aspnig4_7216;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	263367	33840	.	-	.	ID=gene_aspnig4_7217;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	265472	32494	.	-	.	ID=gene_aspnig4_7218;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	267424	30710	.	-	.	ID=gene_aspnig4_eg112018;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	268863	28826	.	+	.	ID=gene_aspnig4_7219;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	270754	26660	.	+	.	ID=gene_aspnig4_7220;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	272519	24152	.	-	.	ID=gene_aspnig4_7221;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	276349	19814	.	-	.	ID=gene_aspnig4_7222;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	283363	14749	.	-	.	ID=gene_aspnig4_7223;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	284501	13151	.	-	.	ID=gene_aspnig4_7224;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	288778	8108	.	+	.	ID=gene_aspnig4_7225;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	290937	7241	.	-	.	ID=gene_aspnig4_7226;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	291781	6527	.	+	.	ID=gene_aspnig4_7227;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	gene	292932	3524	.	+	.	ID=gene_aspnig4_7228;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	region	298602	29	.	+	flank	ID=gene_aspnig4_7123|TIR|down;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	region	298642	0	.	+	flank	ID=gene_aspnig4_7123|DR|down;Description=aspnig4_s01945;parent=aspnig4_chr502
+aspnig4_chr502	bed	RNA	550	294515	.	+	ID=rna_aspnig4_7123;Description=;parent=gene_aspnig4_7123
+aspnig4_chr502	bed	RNA	5555	290854	.	-	ID=rna_aspnig4_7124;Description=;parent=gene_aspnig4_7124
+aspnig4_chr502	bed	RNA	8626	288694	.	-	ID=rna_aspnig4_7125;Description=;parent=gene_aspnig4_7125
+aspnig4_chr502	bed	RNA	11531	286234	.	+	ID=rna_aspnig4_7126;Description=;parent=gene_aspnig4_7126
+aspnig4_chr502	bed	RNA	13649	284433	.	+	ID=rna_aspnig4_7127;Description=;parent=gene_aspnig4_7127
+aspnig4_chr502	bed	RNA	14519	283056	.	-	ID=rna_aspnig4_7128;Description=;parent=gene_aspnig4_7128
+aspnig4_chr502	bed	RNA	16668	281667	.	-	ID=rna_aspnig4_eg112232;Description=;parent=gene_aspnig4_eg112232
+aspnig4_chr502	bed	RNA	17280	280941	.	-	ID=rna_aspnig4_7129;Description=;parent=gene_aspnig4_7129
+aspnig4_chr502	bed	RNA	19221	278368	.	-	ID=rna_aspnig4_7130;Description=;parent=gene_aspnig4_7130
+aspnig4_chr502	bed	RNA	21077	277165	.	+	ID=rna_aspnig4_7131;Description=;parent=gene_aspnig4_7131
+aspnig4_chr502	bed	RNA	22464	274887	.	+	ID=rna_aspnig4_7132;Description=;parent=gene_aspnig4_7132
+aspnig4_chr502	bed	RNA	24263	273847	.	+	ID=rna_aspnig4_7133;Description=;parent=gene_aspnig4_7133
+aspnig4_chr502	bed	RNA	26220	271710	.	-	ID=rna_aspnig4_7134;Description=;parent=gene_aspnig4_7134
+aspnig4_chr502	bed	RNA	27476	270368	.	-	ID=rna_aspnig4_7135;Description=;parent=gene_aspnig4_7135
+aspnig4_chr502	bed	RNA	29415	268679	.	-	ID=rna_aspnig4_7136;Description=;parent=gene_aspnig4_7136
+aspnig4_chr502	bed	RNA	31978	265316	.	+	ID=rna_aspnig4_7137;Description=;parent=gene_aspnig4_7137
+aspnig4_chr502	bed	RNA	33533	264346	.	-	ID=rna_aspnig4_7138;Description=;parent=gene_aspnig4_7138
+aspnig4_chr502	bed	RNA	34530	263645	.	+	ID=rna_aspnig4_7139;Description=;parent=gene_aspnig4_7139
+aspnig4_chr502	bed	RNA	35230	262439	.	+	ID=rna_aspnig4_7140;Description=;parent=gene_aspnig4_7140
+aspnig4_chr502	bed	RNA	37031	261259	.	+	ID=rna_aspnig4_7141;Description=;parent=gene_aspnig4_7141
+aspnig4_chr502	bed	RNA	38435	258844	.	+	ID=rna_aspnig4_7142;Description=;parent=gene_aspnig4_7142
+aspnig4_chr502	bed	RNA	40167	258147	.	+	ID=rna_aspnig4_eg112236;Description=;parent=gene_aspnig4_eg112236
+aspnig4_chr502	bed	RNA	41348	256796	.	+	ID=rna_aspnig4_7143;Description=;parent=gene_aspnig4_7143
+aspnig4_chr502	bed	RNA	42387	254919	.	-	ID=rna_aspnig4_7144;Description=;parent=gene_aspnig4_7144
+aspnig4_chr502	bed	RNA	44195	254038	.	+	ID=rna_aspnig4_7145;Description=;parent=gene_aspnig4_7145
+aspnig4_chr502	bed	RNA	44658	253005	.	-	ID=rna_aspnig4_7146;Description=;parent=gene_aspnig4_7146
+aspnig4_chr502	bed	RNA	46193	251365	.	-	ID=rna_aspnig4_7147;Description=;parent=gene_aspnig4_7147
+aspnig4_chr502	bed	RNA	48309	249471	.	-	ID=rna_aspnig4_7148;Description=;parent=gene_aspnig4_7148
+aspnig4_chr502	bed	RNA	50092	248207	.	-	ID=rna_aspnig4_eg112020;Description=;parent=gene_aspnig4_eg112020
+aspnig4_chr502	bed	RNA	53940	243402	.	+	ID=rna_aspnig4_7149;Description=;parent=gene_aspnig4_7149
+aspnig4_chr502	bed	RNA	56179	241914	.	+	ID=rna_aspnig4_7150;Description=;parent=gene_aspnig4_7150
+aspnig4_chr502	bed	RNA	57466	239952	.	-	ID=rna_aspnig4_7151;Description=;parent=gene_aspnig4_7151
+aspnig4_chr502	bed	RNA	60063	236807	.	-	ID=rna_aspnig4_7152;Description=;parent=gene_aspnig4_7152
+aspnig4_chr502	bed	RNA	64270	229760	.	-	ID=rna_aspnig4_7153;Description=;parent=gene_aspnig4_7153
+aspnig4_chr502	bed	RNA	70687	226198	.	+	ID=rna_aspnig4_7154;Description=;parent=gene_aspnig4_7154
+aspnig4_chr502	bed	RNA	73675	223490	.	-	ID=rna_aspnig4_7155;Description=;parent=gene_aspnig4_7155
+aspnig4_chr502	bed	RNA	76959	220461	.	-	ID=rna_aspnig4_7156;Description=;parent=gene_aspnig4_7156
+aspnig4_chr502	bed	RNA	80308	217421	.	+	ID=rna_aspnig4_7157;Description=;parent=gene_aspnig4_7157
+aspnig4_chr502	bed	RNA	82209	215685	.	-	ID=rna_aspnig4_7158;Description=;parent=gene_aspnig4_7158
+aspnig4_chr502	bed	RNA	84128	211215	.	+	ID=rna_aspnig4_7159;Description=;parent=gene_aspnig4_7159
+aspnig4_chr502	bed	RNA	87873	210102	.	-	ID=rna_aspnig4_7160;Description=;parent=gene_aspnig4_7160
+aspnig4_chr502	bed	RNA	89747	203871	.	-	ID=rna_aspnig4_7161;Description=;parent=gene_aspnig4_7161
+aspnig4_chr502	bed	RNA	99788	197749	.	+	ID=rna_aspnig4_7162;Description=;parent=gene_aspnig4_7162
+aspnig4_chr502	bed	RNA	102557	194835	.	-	ID=rna_aspnig4_7163;Description=;parent=gene_aspnig4_7163
+aspnig4_chr502	bed	RNA	105806	189651	.	+	ID=rna_aspnig4_7164;Description=;parent=gene_aspnig4_7164
+aspnig4_chr502	bed	RNA	110751	187354	.	-	ID=rna_aspnig4_7165;Description=;parent=gene_aspnig4_7165
+aspnig4_chr502	bed	RNA	119016	178165	.	-	ID=rna_aspnig4_7166;Description=;parent=gene_aspnig4_7166
+aspnig4_chr502	bed	RNA	127339	169736	.	+	ID=rna_aspnig4_7167;Description=;parent=gene_aspnig4_7167
+aspnig4_chr502	bed	RNA	131368	165895	.	-	ID=rna_aspnig4_7168;Description=;parent=gene_aspnig4_7168
+aspnig4_chr502	bed	RNA	138312	158315	.	+	ID=rna_aspnig4_7169;Description=;parent=gene_aspnig4_7169
+aspnig4_chr502	bed	RNA	141974	155866	.	-	ID=rna_aspnig4_7170;Description=;parent=gene_aspnig4_7170
+aspnig4_chr502	bed	RNA	150276	147672	.	+	ID=rna_aspnig4_7171;Description=;parent=gene_aspnig4_7171
+aspnig4_chr502	bed	RNA	152447	145348	.	+	ID=rna_aspnig4_7172;Description=;parent=gene_aspnig4_7172
+aspnig4_chr502	bed	RNA	154698	143202	.	-	ID=rna_aspnig4_7173;Description=;parent=gene_aspnig4_7173
+aspnig4_chr502	bed	RNA	157559	140485	.	+	ID=rna_aspnig4_7174;Description=;parent=gene_aspnig4_7174
+aspnig4_chr502	bed	RNA	159212	137263	.	-	ID=rna_aspnig4_7175;Description=;parent=gene_aspnig4_7175
+aspnig4_chr502	bed	RNA	162243	135840	.	+	ID=rna_aspnig4_7176;Description=;parent=gene_aspnig4_7176
+aspnig4_chr502	bed	RNA	163367	134716	.	-	ID=rna_aspnig4_7177;Description=;parent=gene_aspnig4_7177
+aspnig4_chr502	bed	RNA	167058	130239	.	+	ID=rna_aspnig4_7178;Description=;parent=gene_aspnig4_7178
+aspnig4_chr502	bed	RNA	170203	126864	.	-	ID=rna_aspnig4_7179;Description=;parent=gene_aspnig4_7179
+aspnig4_chr502	bed	RNA	172979	124436	.	-	ID=rna_aspnig4_7180;Description=;parent=gene_aspnig4_7180
+aspnig4_chr502	bed	RNA	174975	122492	.	-	ID=rna_aspnig4_7181;Description=;parent=gene_aspnig4_7181
+aspnig4_chr502	bed	RNA	177216	119479	.	+	ID=rna_aspnig4_7182;Description=;parent=gene_aspnig4_7182
+aspnig4_chr502	bed	RNA	179812	118610	.	-	ID=rna_aspnig4_eg112017;Description=;parent=gene_aspnig4_eg112017
+aspnig4_chr502	bed	RNA	180635	117781	.	+	ID=rna_aspnig4_eg112016;Description=;parent=gene_aspnig4_eg112016
+aspnig4_chr502	bed	RNA	181422	115388	.	-	ID=rna_aspnig4_7183;Description=;parent=gene_aspnig4_7183
+aspnig4_chr502	bed	RNA	183807	113660	.	+	ID=rna_aspnig4_7184;Description=;parent=gene_aspnig4_7184
+aspnig4_chr502	bed	RNA	185751	111664	.	+	ID=rna_aspnig4_7185;Description=;parent=gene_aspnig4_7185
+aspnig4_chr502	bed	RNA	188179	108787	.	+	ID=rna_aspnig4_7186;Description=;parent=gene_aspnig4_7186
+aspnig4_chr502	bed	RNA	191554	105743	.	-	ID=rna_aspnig4_7187;Description=;parent=gene_aspnig4_7187
+aspnig4_chr502	bed	RNA	193826	103813	.	+	ID=rna_aspnig4_7188;Description=;parent=gene_aspnig4_7188
+aspnig4_chr502	bed	RNA	194933	102945	.	-	ID=rna_aspnig4_7189;Description=;parent=gene_aspnig4_7189
+aspnig4_chr502	bed	RNA	196068	102048	.	+	ID=rna_aspnig4_7190;Description=;parent=gene_aspnig4_7190
+aspnig4_chr502	bed	RNA	197712	100239	.	-	ID=rna_aspnig4_7191;Description=;parent=gene_aspnig4_7191
+aspnig4_chr502	bed	RNA	204060	94015	.	+	ID=rna_aspnig4_7192;Description=;parent=gene_aspnig4_7192
+aspnig4_chr502	bed	RNA	204676	92036	.	-	ID=rna_aspnig4_7193;Description=;parent=gene_aspnig4_7193
+aspnig4_chr502	bed	RNA	207006	91160	.	+	ID=rna_aspnig4_7194;Description=;parent=gene_aspnig4_7194
+aspnig4_chr502	bed	RNA	208794	89241	.	+	ID=rna_aspnig4_7195;Description=;parent=gene_aspnig4_7195
+aspnig4_chr502	bed	RNA	209829	85048	.	-	ID=rna_aspnig4_7196;Description=;parent=gene_aspnig4_7196
+aspnig4_chr502	bed	RNA	215190	82125	.	-	ID=rna_aspnig4_7197;Description=;parent=gene_aspnig4_7197
+aspnig4_chr502	bed	RNA	216938	80959	.	+	ID=rna_aspnig4_7198;Description=;parent=gene_aspnig4_7198
+aspnig4_chr502	bed	RNA	218227	79616	.	-	ID=rna_aspnig4_7199;Description=;parent=gene_aspnig4_7199
+aspnig4_chr502	bed	RNA	219819	77536	.	-	ID=rna_aspnig4_7200;Description=;parent=gene_aspnig4_7200
+aspnig4_chr502	bed	RNA	222386	75934	.	-	ID=rna_aspnig4_7201;Description=;parent=gene_aspnig4_7201
+aspnig4_chr502	bed	RNA	223170	74124	.	+	ID=rna_aspnig4_7202;Description=;parent=gene_aspnig4_7202
+aspnig4_chr502	bed	RNA	224725	73154	.	-	ID=rna_aspnig4_7203;Description=;parent=gene_aspnig4_7203
+aspnig4_chr502	bed	RNA	225722	72160	.	+	ID=rna_aspnig4_7204;Description=;parent=gene_aspnig4_7204
+aspnig4_chr502	bed	RNA	226558	71105	.	-	ID=rna_aspnig4_7205;Description=;parent=gene_aspnig4_7205
+aspnig4_chr502	bed	RNA	229563	67576	.	-	ID=rna_aspnig4_7206;Description=;parent=gene_aspnig4_7206
+aspnig4_chr502	bed	RNA	234600	63069	.	+	ID=rna_aspnig4_7207;Description=;parent=gene_aspnig4_7207
+aspnig4_chr502	bed	RNA	235760	61574	.	-	ID=rna_aspnig4_7208;Description=;parent=gene_aspnig4_7208
+aspnig4_chr502	bed	RNA	237307	59848	.	-	ID=rna_aspnig4_7209;Description=;parent=gene_aspnig4_7209
+aspnig4_chr502	bed	RNA	239283	58869	.	-	ID=rna_aspnig4_7210;Description=;parent=gene_aspnig4_7210
+aspnig4_chr502	bed	RNA	240486	53132	.	+	ID=rna_aspnig4_7211;Description=;parent=gene_aspnig4_7211
+aspnig4_chr502	bed	RNA	246717	51258	.	+	ID=rna_aspnig4_7212;Description=;parent=gene_aspnig4_7212
+aspnig4_chr502	bed	RNA	247830	47537	.	-	ID=rna_aspnig4_7213;Description=;parent=gene_aspnig4_7213
+aspnig4_chr502	bed	RNA	251715	45594	.	+	ID=rna_aspnig4_7214;Description=;parent=gene_aspnig4_7214
+aspnig4_chr502	bed	RNA	256779	41268	.	+	ID=rna_aspnig4_7215;Description=;parent=gene_aspnig4_7215
+aspnig4_chr502	bed	RNA	260939	36310	.	-	ID=rna_aspnig4_7216;Description=;parent=gene_aspnig4_7216
+aspnig4_chr502	bed	RNA	263367	33840	.	-	ID=rna_aspnig4_7217;Description=;parent=gene_aspnig4_7217
+aspnig4_chr502	bed	RNA	265472	32494	.	-	ID=rna_aspnig4_7218;Description=;parent=gene_aspnig4_7218
+aspnig4_chr502	bed	RNA	267424	30710	.	-	ID=rna_aspnig4_eg112018;Description=;parent=gene_aspnig4_eg112018
+aspnig4_chr502	bed	RNA	268863	28826	.	+	ID=rna_aspnig4_7219;Description=;parent=gene_aspnig4_7219
+aspnig4_chr502	bed	RNA	270754	26660	.	+	ID=rna_aspnig4_7220;Description=;parent=gene_aspnig4_7220
+aspnig4_chr502	bed	RNA	272519	24152	.	-	ID=rna_aspnig4_7221;Description=;parent=gene_aspnig4_7221
+aspnig4_chr502	bed	RNA	276349	19814	.	-	ID=rna_aspnig4_7222;Description=;parent=gene_aspnig4_7222
+aspnig4_chr502	bed	RNA	283363	14749	.	-	ID=rna_aspnig4_7223;Description=;parent=gene_aspnig4_7223
+aspnig4_chr502	bed	RNA	284501	13151	.	-	ID=rna_aspnig4_7224;Description=;parent=gene_aspnig4_7224
+aspnig4_chr502	bed	RNA	288778	8108	.	+	ID=rna_aspnig4_7225;Description=;parent=gene_aspnig4_7225
+aspnig4_chr502	bed	RNA	290937	7241	.	-	ID=rna_aspnig4_7226;Description=;parent=gene_aspnig4_7226
+aspnig4_chr502	bed	RNA	291781	6527	.	+	ID=rna_aspnig4_7227;Description=;parent=gene_aspnig4_7227
+aspnig4_chr502	bed	RNA	292932	3524	.	+	ID=rna_aspnig4_7228;Description=;parent=gene_aspnig4_7228
+aspnig4_chr502	bed	CDS	550	294515	.	+	ID=cds_aspnig4_7123;Description=;parent=rna_aspnig4_7123
+aspnig4_chr502	bed	CDS	5555	290854	.	-	ID=cds_aspnig4_7124;Description=;parent=rna_aspnig4_7124
+aspnig4_chr502	bed	CDS	8626	288694	.	-	ID=cds_aspnig4_7125;Description=;parent=rna_aspnig4_7125
+aspnig4_chr502	bed	CDS	11531	286234	.	+	ID=cds_aspnig4_7126;Description=;parent=rna_aspnig4_7126
+aspnig4_chr502	bed	CDS	13649	284433	.	+	ID=cds_aspnig4_7127;Description=;parent=rna_aspnig4_7127
+aspnig4_chr502	bed	CDS	14519	283056	.	-	ID=cds_aspnig4_7128;Description=;parent=rna_aspnig4_7128
+aspnig4_chr502	bed	CDS	16668	281667	.	-	ID=cds_aspnig4_eg112232;Description=;parent=rna_aspnig4_eg112232
+aspnig4_chr502	bed	CDS	17280	280941	.	-	ID=cds_aspnig4_7129;Description=;parent=rna_aspnig4_7129
+aspnig4_chr502	bed	CDS	19221	278368	.	-	ID=cds_aspnig4_7130;Description=;parent=rna_aspnig4_7130
+aspnig4_chr502	bed	CDS	21077	277165	.	+	ID=cds_aspnig4_7131;Description=;parent=rna_aspnig4_7131
+aspnig4_chr502	bed	CDS	22464	274887	.	+	ID=cds_aspnig4_7132;Description=;parent=rna_aspnig4_7132
+aspnig4_chr502	bed	CDS	24263	273847	.	+	ID=cds_aspnig4_7133;Description=;parent=rna_aspnig4_7133
+aspnig4_chr502	bed	CDS	26220	271710	.	-	ID=cds_aspnig4_7134;Description=;parent=rna_aspnig4_7134
+aspnig4_chr502	bed	CDS	27476	270368	.	-	ID=cds_aspnig4_7135;Description=;parent=rna_aspnig4_7135
+aspnig4_chr502	bed	CDS	29415	268679	.	-	ID=cds_aspnig4_7136;Description=;parent=rna_aspnig4_7136
+aspnig4_chr502	bed	CDS	31978	265316	.	+	ID=cds_aspnig4_7137;Description=;parent=rna_aspnig4_7137
+aspnig4_chr502	bed	CDS	33533	264346	.	-	ID=cds_aspnig4_7138;Description=;parent=rna_aspnig4_7138
+aspnig4_chr502	bed	CDS	34530	263645	.	+	ID=cds_aspnig4_7139;Description=;parent=rna_aspnig4_7139
+aspnig4_chr502	bed	CDS	35230	262439	.	+	ID=cds_aspnig4_7140;Description=;parent=rna_aspnig4_7140
+aspnig4_chr502	bed	CDS	37031	261259	.	+	ID=cds_aspnig4_7141;Description=;parent=rna_aspnig4_7141
+aspnig4_chr502	bed	CDS	38435	258844	.	+	ID=cds_aspnig4_7142;Description=;parent=rna_aspnig4_7142
+aspnig4_chr502	bed	CDS	40167	258147	.	+	ID=cds_aspnig4_eg112236;Description=;parent=rna_aspnig4_eg112236
+aspnig4_chr502	bed	CDS	41348	256796	.	+	ID=cds_aspnig4_7143;Description=;parent=rna_aspnig4_7143
+aspnig4_chr502	bed	CDS	42387	254919	.	-	ID=cds_aspnig4_7144;Description=;parent=rna_aspnig4_7144
+aspnig4_chr502	bed	CDS	44195	254038	.	+	ID=cds_aspnig4_7145;Description=;parent=rna_aspnig4_7145
+aspnig4_chr502	bed	CDS	44658	253005	.	-	ID=cds_aspnig4_7146;Description=;parent=rna_aspnig4_7146
+aspnig4_chr502	bed	CDS	46193	251365	.	-	ID=cds_aspnig4_7147;Description=;parent=rna_aspnig4_7147
+aspnig4_chr502	bed	CDS	48309	249471	.	-	ID=cds_aspnig4_7148;Description=;parent=rna_aspnig4_7148
+aspnig4_chr502	bed	CDS	50092	248207	.	-	ID=cds_aspnig4_eg112020;Description=;parent=rna_aspnig4_eg112020
+aspnig4_chr502	bed	CDS	53940	243402	.	+	ID=cds_aspnig4_7149;Description=;parent=rna_aspnig4_7149
+aspnig4_chr502	bed	CDS	56179	241914	.	+	ID=cds_aspnig4_7150;Description=;parent=rna_aspnig4_7150
+aspnig4_chr502	bed	CDS	57466	239952	.	-	ID=cds_aspnig4_7151;Description=;parent=rna_aspnig4_7151
+aspnig4_chr502	bed	CDS	60063	236807	.	-	ID=cds_aspnig4_7152;Description=;parent=rna_aspnig4_7152
+aspnig4_chr502	bed	CDS	64270	229760	.	-	ID=cds_aspnig4_7153;Description=;parent=rna_aspnig4_7153
+aspnig4_chr502	bed	CDS	70687	226198	.	+	ID=cds_aspnig4_7154;Description=;parent=rna_aspnig4_7154
+aspnig4_chr502	bed	CDS	73675	223490	.	-	ID=cds_aspnig4_7155;Description=;parent=rna_aspnig4_7155
+aspnig4_chr502	bed	CDS	76959	220461	.	-	ID=cds_aspnig4_7156;Description=;parent=rna_aspnig4_7156
+aspnig4_chr502	bed	CDS	80308	217421	.	+	ID=cds_aspnig4_7157;Description=;parent=rna_aspnig4_7157
+aspnig4_chr502	bed	CDS	82209	215685	.	-	ID=cds_aspnig4_7158;Description=;parent=rna_aspnig4_7158
+aspnig4_chr502	bed	CDS	84128	211215	.	+	ID=cds_aspnig4_7159;Description=;parent=rna_aspnig4_7159
+aspnig4_chr502	bed	CDS	87873	210102	.	-	ID=cds_aspnig4_7160;Description=;parent=rna_aspnig4_7160
+aspnig4_chr502	bed	CDS	89747	203871	.	-	ID=cds_aspnig4_7161;Description=;parent=rna_aspnig4_7161
+aspnig4_chr502	bed	CDS	99788	197749	.	+	ID=cds_aspnig4_7162;Description=;parent=rna_aspnig4_7162
+aspnig4_chr502	bed	CDS	102557	194835	.	-	ID=cds_aspnig4_7163;Description=;parent=rna_aspnig4_7163
+aspnig4_chr502	bed	CDS	105806	189651	.	+	ID=cds_aspnig4_7164;Description=;parent=rna_aspnig4_7164
+aspnig4_chr502	bed	CDS	110751	187354	.	-	ID=cds_aspnig4_7165;Description=;parent=rna_aspnig4_7165
+aspnig4_chr502	bed	CDS	119016	178165	.	-	ID=cds_aspnig4_7166;Description=;parent=rna_aspnig4_7166
+aspnig4_chr502	bed	CDS	127339	169736	.	+	ID=cds_aspnig4_7167;Description=;parent=rna_aspnig4_7167
+aspnig4_chr502	bed	CDS	131368	165895	.	-	ID=cds_aspnig4_7168;Description=;parent=rna_aspnig4_7168
+aspnig4_chr502	bed	CDS	138312	158315	.	+	ID=cds_aspnig4_7169;Description=;parent=rna_aspnig4_7169
+aspnig4_chr502	bed	CDS	141974	155866	.	-	ID=cds_aspnig4_7170;Description=;parent=rna_aspnig4_7170
+aspnig4_chr502	bed	CDS	150276	147672	.	+	ID=cds_aspnig4_7171;Description=;parent=rna_aspnig4_7171
+aspnig4_chr502	bed	CDS	152447	145348	.	+	ID=cds_aspnig4_7172;Description=;parent=rna_aspnig4_7172
+aspnig4_chr502	bed	CDS	154698	143202	.	-	ID=cds_aspnig4_7173;Description=;parent=rna_aspnig4_7173
+aspnig4_chr502	bed	CDS	157559	140485	.	+	ID=cds_aspnig4_7174;Description=;parent=rna_aspnig4_7174
+aspnig4_chr502	bed	CDS	159212	137263	.	-	ID=cds_aspnig4_7175;Description=;parent=rna_aspnig4_7175
+aspnig4_chr502	bed	CDS	162243	135840	.	+	ID=cds_aspnig4_7176;Description=;parent=rna_aspnig4_7176
+aspnig4_chr502	bed	CDS	163367	134716	.	-	ID=cds_aspnig4_7177;Description=;parent=rna_aspnig4_7177
+aspnig4_chr502	bed	CDS	167058	130239	.	+	ID=cds_aspnig4_7178;Description=;parent=rna_aspnig4_7178
+aspnig4_chr502	bed	CDS	170203	126864	.	-	ID=cds_aspnig4_7179;Description=;parent=rna_aspnig4_7179
+aspnig4_chr502	bed	CDS	172979	124436	.	-	ID=cds_aspnig4_7180;Description=;parent=rna_aspnig4_7180
+aspnig4_chr502	bed	CDS	174975	122492	.	-	ID=cds_aspnig4_7181;Description=;parent=rna_aspnig4_7181
+aspnig4_chr502	bed	CDS	177216	119479	.	+	ID=cds_aspnig4_7182;Description=;parent=rna_aspnig4_7182
+aspnig4_chr502	bed	CDS	179812	118610	.	-	ID=cds_aspnig4_eg112017;Description=;parent=rna_aspnig4_eg112017
+aspnig4_chr502	bed	CDS	180635	117781	.	+	ID=cds_aspnig4_eg112016;Description=;parent=rna_aspnig4_eg112016
+aspnig4_chr502	bed	CDS	181422	115388	.	-	ID=cds_aspnig4_7183;Description=;parent=rna_aspnig4_7183
+aspnig4_chr502	bed	CDS	183807	113660	.	+	ID=cds_aspnig4_7184;Description=;parent=rna_aspnig4_7184
+aspnig4_chr502	bed	CDS	185751	111664	.	+	ID=cds_aspnig4_7185;Description=;parent=rna_aspnig4_7185
+aspnig4_chr502	bed	CDS	188179	108787	.	+	ID=cds_aspnig4_7186;Description=;parent=rna_aspnig4_7186
+aspnig4_chr502	bed	CDS	191554	105743	.	-	ID=cds_aspnig4_7187;Description=;parent=rna_aspnig4_7187
+aspnig4_chr502	bed	CDS	193826	103813	.	+	ID=cds_aspnig4_7188;Description=;parent=rna_aspnig4_7188
+aspnig4_chr502	bed	CDS	194933	102945	.	-	ID=cds_aspnig4_7189;Description=;parent=rna_aspnig4_7189
+aspnig4_chr502	bed	CDS	196068	102048	.	+	ID=cds_aspnig4_7190;Description=;parent=rna_aspnig4_7190
+aspnig4_chr502	bed	CDS	197712	100239	.	-	ID=cds_aspnig4_7191;Description=;parent=rna_aspnig4_7191
+aspnig4_chr502	bed	CDS	204060	94015	.	+	ID=cds_aspnig4_7192;Description=;parent=rna_aspnig4_7192
+aspnig4_chr502	bed	CDS	204676	92036	.	-	ID=cds_aspnig4_7193;Description=;parent=rna_aspnig4_7193
+aspnig4_chr502	bed	CDS	207006	91160	.	+	ID=cds_aspnig4_7194;Description=;parent=rna_aspnig4_7194
+aspnig4_chr502	bed	CDS	208794	89241	.	+	ID=cds_aspnig4_7195;Description=;parent=rna_aspnig4_7195
+aspnig4_chr502	bed	CDS	209829	85048	.	-	ID=cds_aspnig4_7196;Description=;parent=rna_aspnig4_7196
+aspnig4_chr502	bed	CDS	215190	82125	.	-	ID=cds_aspnig4_7197;Description=;parent=rna_aspnig4_7197
+aspnig4_chr502	bed	CDS	216938	80959	.	+	ID=cds_aspnig4_7198;Description=;parent=rna_aspnig4_7198
+aspnig4_chr502	bed	CDS	218227	79616	.	-	ID=cds_aspnig4_7199;Description=;parent=rna_aspnig4_7199
+aspnig4_chr502	bed	CDS	219819	77536	.	-	ID=cds_aspnig4_7200;Description=;parent=rna_aspnig4_7200
+aspnig4_chr502	bed	CDS	222386	75934	.	-	ID=cds_aspnig4_7201;Description=;parent=rna_aspnig4_7201
+aspnig4_chr502	bed	CDS	223170	74124	.	+	ID=cds_aspnig4_7202;Description=;parent=rna_aspnig4_7202
+aspnig4_chr502	bed	CDS	224725	73154	.	-	ID=cds_aspnig4_7203;Description=;parent=rna_aspnig4_7203
+aspnig4_chr502	bed	CDS	225722	72160	.	+	ID=cds_aspnig4_7204;Description=;parent=rna_aspnig4_7204
+aspnig4_chr502	bed	CDS	226558	71105	.	-	ID=cds_aspnig4_7205;Description=;parent=rna_aspnig4_7205
+aspnig4_chr502	bed	CDS	229563	67576	.	-	ID=cds_aspnig4_7206;Description=;parent=rna_aspnig4_7206
+aspnig4_chr502	bed	CDS	234600	63069	.	+	ID=cds_aspnig4_7207;Description=;parent=rna_aspnig4_7207
+aspnig4_chr502	bed	CDS	235760	61574	.	-	ID=cds_aspnig4_7208;Description=;parent=rna_aspnig4_7208
+aspnig4_chr502	bed	CDS	237307	59848	.	-	ID=cds_aspnig4_7209;Description=;parent=rna_aspnig4_7209
+aspnig4_chr502	bed	CDS	239283	58869	.	-	ID=cds_aspnig4_7210;Description=;parent=rna_aspnig4_7210
+aspnig4_chr502	bed	CDS	240486	53132	.	+	ID=cds_aspnig4_7211;Description=;parent=rna_aspnig4_7211
+aspnig4_chr502	bed	CDS	246717	51258	.	+	ID=cds_aspnig4_7212;Description=;parent=rna_aspnig4_7212
+aspnig4_chr502	bed	CDS	247830	47537	.	-	ID=cds_aspnig4_7213;Description=;parent=rna_aspnig4_7213
+aspnig4_chr502	bed	CDS	251715	45594	.	+	ID=cds_aspnig4_7214;Description=;parent=rna_aspnig4_7214
+aspnig4_chr502	bed	CDS	256779	41268	.	+	ID=cds_aspnig4_7215;Description=;parent=rna_aspnig4_7215
+aspnig4_chr502	bed	CDS	260939	36310	.	-	ID=cds_aspnig4_7216;Description=;parent=rna_aspnig4_7216
+aspnig4_chr502	bed	CDS	263367	33840	.	-	ID=cds_aspnig4_7217;Description=;parent=rna_aspnig4_7217
+aspnig4_chr502	bed	CDS	265472	32494	.	-	ID=cds_aspnig4_7218;Description=;parent=rna_aspnig4_7218
+aspnig4_chr502	bed	CDS	267424	30710	.	-	ID=cds_aspnig4_eg112018;Description=;parent=rna_aspnig4_eg112018
+aspnig4_chr502	bed	CDS	268863	28826	.	+	ID=cds_aspnig4_7219;Description=;parent=rna_aspnig4_7219
+aspnig4_chr502	bed	CDS	270754	26660	.	+	ID=cds_aspnig4_7220;Description=;parent=rna_aspnig4_7220
+aspnig4_chr502	bed	CDS	272519	24152	.	-	ID=cds_aspnig4_7221;Description=;parent=rna_aspnig4_7221
+aspnig4_chr502	bed	CDS	276349	19814	.	-	ID=cds_aspnig4_7222;Description=;parent=rna_aspnig4_7222
+aspnig4_chr502	bed	CDS	283363	14749	.	-	ID=cds_aspnig4_7223;Description=;parent=rna_aspnig4_7223
+aspnig4_chr502	bed	CDS	284501	13151	.	-	ID=cds_aspnig4_7224;Description=;parent=rna_aspnig4_7224
+aspnig4_chr502	bed	CDS	288778	8108	.	+	ID=cds_aspnig4_7225;Description=;parent=rna_aspnig4_7225
+aspnig4_chr502	bed	CDS	290937	7241	.	-	ID=cds_aspnig4_7226;Description=;parent=rna_aspnig4_7226
+aspnig4_chr502	bed	CDS	291781	6527	.	+	ID=cds_aspnig4_7227;Description=;parent=rna_aspnig4_7227
+aspnig4_chr502	bed	CDS	292932	3524	.	+	ID=cds_aspnig4_7228;Description=;parent=rna_aspnig4_7228

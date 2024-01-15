@@ -1,0 +1,354 @@
+pyrtri1_DS231618.1	bed	gene	1	367438	.	+	insert	ID=gene_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|up;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	981	363669	.	+	cap	ID=gene_pyrtri1_EDU47891.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	4345	360623	.	-	.	ID=gene_pyrtri1_EDU47892.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	7233	359707	.	+	.	ID=gene_pyrtri1_EDU47893.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	11637	353742	.	+	.	ID=gene_pyrtri1_EDU47894.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	16039	350523	.	-	.	ID=gene_pyrtri1_EDU47895.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	20486	346407	.	-	.	ID=gene_pyrtri1_EDU47896.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	22143	343894	.	+	.	ID=gene_pyrtri1_EDU47897.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	23972	341632	.	+	.	ID=gene_pyrtri1_EDU47898.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	31339	334153	.	-	.	ID=gene_pyrtri1_EDU47899.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	34351	332063	.	+	.	ID=gene_pyrtri1_eg361620;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	38142	326346	.	+	.	ID=gene_pyrtri1_EDU47900.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	41290	323741	.	+	.	ID=gene_pyrtri1_EDU47901.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	44307	320918	.	-	.	ID=gene_pyrtri1_EDU47902.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	46934	318769	.	+	.	ID=gene_pyrtri1_EDU47903.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	49216	316605	.	+	.	ID=gene_pyrtri1_EDU47904.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	51806	313928	.	+	.	ID=gene_pyrtri1_EDU47905.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	54437	312313	.	+	.	ID=gene_pyrtri1_EDU47906.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	55215	311310	.	-	.	ID=gene_pyrtri1_EDU47907.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	59375	307112	.	+	.	ID=gene_pyrtri1_EDU47908.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	61697	304444	.	-	.	ID=gene_pyrtri1_EDU47909.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	63661	302786	.	-	.	ID=gene_pyrtri1_eg361669;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	66535	297530	.	-	.	ID=gene_pyrtri1_EDU47910.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	70440	290979	.	-	.	ID=gene_pyrtri1_EDU47911.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	78229	283372	.	+	.	ID=gene_pyrtri1_EDU47912.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	84364	281769	.	+	.	ID=gene_pyrtri1_EDU47913.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	86409	279491	.	-	.	ID=gene_pyrtri1_EDU47914.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	88792	274802	.	-	.	ID=gene_pyrtri1_EDU47915.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	95445	269327	.	+	.	ID=gene_pyrtri1_EDU47916.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	97290	267629	.	-	.	ID=gene_pyrtri1_EDU47917.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	100046	266321	.	+	.	ID=gene_pyrtri1_EDU47918.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	101475	265188	.	-	.	ID=gene_pyrtri1_EDU47919.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	103851	262548	.	-	nlr	ID=gene_pyrtri1_nlr235207;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	104946	261933	.	+	.	ID=gene_pyrtri1_EDU47920.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	105918	260806	.	-	.	ID=gene_pyrtri1_EDU47921.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	106989	259549	.	+	.	ID=gene_pyrtri1_EDU47922.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	108569	256830	.	+	.	ID=gene_pyrtri1_EDU47923.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	112232	250700	.	+	.	ID=gene_pyrtri1_EDU47924.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	117978	248424	.	+	.	ID=gene_pyrtri1_EDU47925.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	119356	247658	.	+	.	ID=gene_pyrtri1_EDU47926.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	121602	245202	.	+	.	ID=gene_pyrtri1_EDU47927.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	124292	242641	.	+	.	ID=gene_pyrtri1_EDU47928.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	127170	238299	.	-	.	ID=gene_pyrtri1_EDU47929.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	133393	230468	.	-	.	ID=gene_pyrtri1_EDU47930.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	137505	228943	.	-	.	ID=gene_pyrtri1_EDU47931.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	141517	222232	.	+	.	ID=gene_pyrtri1_EDU47932.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	148567	217256	.	+	.	ID=gene_pyrtri1_EDU47933.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	151198	215566	.	-	.	ID=gene_pyrtri1_EDU47934.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	152980	213713	.	-	.	ID=gene_pyrtri1_EDU47935.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	155032	211383	.	-	.	ID=gene_pyrtri1_EDU47936.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	156420	210852	.	+	.	ID=gene_pyrtri1_EDU47937.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	157581	207520	.	-	.	ID=gene_pyrtri1_EDU47938.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	161278	204174	.	+	.	ID=gene_pyrtri1_EDU47939.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	163809	201757	.	-	.	ID=gene_pyrtri1_EDU47940.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	166027	200539	.	+	.	ID=gene_pyrtri1_EDU47941.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	169002	194019	.	-	.	ID=gene_pyrtri1_EDU47942.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	174351	191578	.	+	.	ID=gene_pyrtri1_EDU47943.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	176329	190721	.	-	.	ID=gene_pyrtri1_EDU47944.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	177402	189405	.	-	.	ID=gene_pyrtri1_EDU47945.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	191010	175956	.	+	.	ID=gene_pyrtri1_EDU47946.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	191853	173553	.	-	fre	ID=gene_pyrtri1_EDU47947.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	194874	171331	.	-	.	ID=gene_pyrtri1_EDU47948.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	197559	168067	.	+	.	ID=gene_pyrtri1_EDU47949.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	201301	165321	.	+	.	ID=gene_pyrtri1_EDU47950.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	202473	164112	.	-	.	ID=gene_pyrtri1_EDU47951.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	204127	161772	.	-	.	ID=gene_pyrtri1_EDU47952.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	207212	157665	.	-	.	ID=gene_pyrtri1_EDU47953.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	210446	155648	.	+	.	ID=gene_pyrtri1_EDU47954.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	212015	154080	.	-	.	ID=gene_pyrtri1_EDU47955.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	213879	143793	.	-	.	ID=gene_pyrtri1_EDU47956.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	224143	140968	.	+	.	ID=gene_pyrtri1_EDU47957.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	227561	137232	.	+	.	ID=gene_pyrtri1_EDU47958.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	231128	134628	.	-	.	ID=gene_pyrtri1_EDU47959.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	234635	130543	.	-	.	ID=gene_pyrtri1_EDU47960.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	243367	123204	.	-	.	ID=gene_pyrtri1_EDU47961.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	244991	121525	.	-	.	ID=gene_pyrtri1_EDU47962.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	246017	120163	.	-	.	ID=gene_pyrtri1_EDU47963.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	253593	110399	.	-	.	ID=gene_pyrtri1_EDU47964.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	260965	105131	.	-	.	ID=gene_pyrtri1_EDU47965.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	262819	103624	.	+	.	ID=gene_pyrtri1_EDU47966.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	264188	102406	.	+	.	ID=gene_pyrtri1_EDU47967.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	267362	99736	.	+	.	ID=gene_pyrtri1_EDU47968.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	268344	97220	.	+	.	ID=gene_pyrtri1_EDU47969.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	272770	94439	.	-	.	ID=gene_pyrtri1_eg361539;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	274199	92266	.	-	.	ID=gene_pyrtri1_eg361740;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	275881	91475	.	+	.	ID=gene_=pyrtri1_tRNA13055;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	277292	88752	.	-	.	ID=gene_pyrtri1_EDU47970.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	279851	85792	.	+	.	ID=gene_pyrtri1_EDU47971.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	283294	82340	.	-	.	ID=gene_pyrtri1_EDU47972.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	289393	77126	.	+	.	ID=gene_pyrtri1_EDU47973.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	291066	75353	.	+	.	ID=gene_pyrtri1_EDU47974.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	292384	74384	.	+	.	ID=gene_pyrtri1_EDU47975.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	294198	72901	.	-	.	ID=gene_pyrtri1_EDU47976.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	297020	70116	.	-	.	ID=gene_pyrtri1_EDU47977.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	300866	65916	.	-	.	ID=gene_pyrtri1_EDU47978.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	311014	55735	.	+	.	ID=gene_pyrtri1_EDU47979.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	312253	53948	.	-	.	ID=gene_pyrtri1_EDU47980.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	315389	50649	.	-	.	ID=gene_pyrtri1_EDU47981.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	322160	44251	.	-	.	ID=gene_pyrtri1_eg361567;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	325407	40450	.	-	.	ID=gene_pyrtri1_EDU47982.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	327282	38844	.	+	.	ID=gene_pyrtri1_eg361777;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	332251	32058	.	-	.	ID=gene_pyrtri1_EDU47983.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	337601	28734	.	-	.	ID=gene_pyrtri1_EDU47984.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	338844	27224	.	-	.	ID=gene_pyrtri1_EDU47985.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	341713	24103	.	+	.	ID=gene_pyrtri1_EDU47986.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	344523	22029	.	-	.	ID=gene_pyrtri1_EDU47987.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	345641	20506	.	-	.	ID=gene_pyrtri1_EDU47988.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	347163	19163	.	-	.	ID=gene_pyrtri1_EDU47989.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	348457	16903	.	+	.	ID=gene_pyrtri1_EDU47990.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	350575	16085	.	-	.	ID=gene_pyrtri1_EDU47991.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	351859	13919	.	+	.	ID=gene_pyrtri1_EDU47992.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	354953	11290	.	-	.	ID=gene_pyrtri1_EDU47993.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	357396	9215	.	+	.	ID=gene_pyrtri1_EDU47994.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	359705	5924	.	-	.	ID=gene_pyrtri1_EDU47995.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	361873	4284	.	+	.	ID=gene_pyrtri1_EDU47996.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	362424	3903	.	-	.	ID=gene_pyrtri1_EDU47997.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	363617	2488	.	+	.	ID=gene_pyrtri1_EDU47998.1;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	gene	367439	0	.	+	insert	ID=gene_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|down;Description=pyrtri1_s09374;parent=pyrtri1_DS231618.1
+pyrtri1_DS231618.1	bed	RNA	1	367438	.	+	ID=rna_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|up;Description=;parent=gene_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|up
+pyrtri1_DS231618.1	bed	RNA	981	363669	.	+	ID=rna_pyrtri1_EDU47891.1;Description=;parent=gene_pyrtri1_EDU47891.1
+pyrtri1_DS231618.1	bed	RNA	4345	360623	.	-	ID=rna_pyrtri1_EDU47892.1;Description=;parent=gene_pyrtri1_EDU47892.1
+pyrtri1_DS231618.1	bed	RNA	7233	359707	.	+	ID=rna_pyrtri1_EDU47893.1;Description=;parent=gene_pyrtri1_EDU47893.1
+pyrtri1_DS231618.1	bed	RNA	11637	353742	.	+	ID=rna_pyrtri1_EDU47894.1;Description=;parent=gene_pyrtri1_EDU47894.1
+pyrtri1_DS231618.1	bed	RNA	16039	350523	.	-	ID=rna_pyrtri1_EDU47895.1;Description=;parent=gene_pyrtri1_EDU47895.1
+pyrtri1_DS231618.1	bed	RNA	20486	346407	.	-	ID=rna_pyrtri1_EDU47896.1;Description=;parent=gene_pyrtri1_EDU47896.1
+pyrtri1_DS231618.1	bed	RNA	22143	343894	.	+	ID=rna_pyrtri1_EDU47897.1;Description=;parent=gene_pyrtri1_EDU47897.1
+pyrtri1_DS231618.1	bed	RNA	23972	341632	.	+	ID=rna_pyrtri1_EDU47898.1;Description=;parent=gene_pyrtri1_EDU47898.1
+pyrtri1_DS231618.1	bed	RNA	31339	334153	.	-	ID=rna_pyrtri1_EDU47899.1;Description=;parent=gene_pyrtri1_EDU47899.1
+pyrtri1_DS231618.1	bed	RNA	34351	332063	.	+	ID=rna_pyrtri1_eg361620;Description=;parent=gene_pyrtri1_eg361620
+pyrtri1_DS231618.1	bed	RNA	38142	326346	.	+	ID=rna_pyrtri1_EDU47900.1;Description=;parent=gene_pyrtri1_EDU47900.1
+pyrtri1_DS231618.1	bed	RNA	41290	323741	.	+	ID=rna_pyrtri1_EDU47901.1;Description=;parent=gene_pyrtri1_EDU47901.1
+pyrtri1_DS231618.1	bed	RNA	44307	320918	.	-	ID=rna_pyrtri1_EDU47902.1;Description=;parent=gene_pyrtri1_EDU47902.1
+pyrtri1_DS231618.1	bed	RNA	46934	318769	.	+	ID=rna_pyrtri1_EDU47903.1;Description=;parent=gene_pyrtri1_EDU47903.1
+pyrtri1_DS231618.1	bed	RNA	49216	316605	.	+	ID=rna_pyrtri1_EDU47904.1;Description=;parent=gene_pyrtri1_EDU47904.1
+pyrtri1_DS231618.1	bed	RNA	51806	313928	.	+	ID=rna_pyrtri1_EDU47905.1;Description=;parent=gene_pyrtri1_EDU47905.1
+pyrtri1_DS231618.1	bed	RNA	54437	312313	.	+	ID=rna_pyrtri1_EDU47906.1;Description=;parent=gene_pyrtri1_EDU47906.1
+pyrtri1_DS231618.1	bed	RNA	55215	311310	.	-	ID=rna_pyrtri1_EDU47907.1;Description=;parent=gene_pyrtri1_EDU47907.1
+pyrtri1_DS231618.1	bed	RNA	59375	307112	.	+	ID=rna_pyrtri1_EDU47908.1;Description=;parent=gene_pyrtri1_EDU47908.1
+pyrtri1_DS231618.1	bed	RNA	61697	304444	.	-	ID=rna_pyrtri1_EDU47909.1;Description=;parent=gene_pyrtri1_EDU47909.1
+pyrtri1_DS231618.1	bed	RNA	63661	302786	.	-	ID=rna_pyrtri1_eg361669;Description=;parent=gene_pyrtri1_eg361669
+pyrtri1_DS231618.1	bed	RNA	66535	297530	.	-	ID=rna_pyrtri1_EDU47910.1;Description=;parent=gene_pyrtri1_EDU47910.1
+pyrtri1_DS231618.1	bed	RNA	70440	290979	.	-	ID=rna_pyrtri1_EDU47911.1;Description=;parent=gene_pyrtri1_EDU47911.1
+pyrtri1_DS231618.1	bed	RNA	78229	283372	.	+	ID=rna_pyrtri1_EDU47912.1;Description=;parent=gene_pyrtri1_EDU47912.1
+pyrtri1_DS231618.1	bed	RNA	84364	281769	.	+	ID=rna_pyrtri1_EDU47913.1;Description=;parent=gene_pyrtri1_EDU47913.1
+pyrtri1_DS231618.1	bed	RNA	86409	279491	.	-	ID=rna_pyrtri1_EDU47914.1;Description=;parent=gene_pyrtri1_EDU47914.1
+pyrtri1_DS231618.1	bed	RNA	88792	274802	.	-	ID=rna_pyrtri1_EDU47915.1;Description=;parent=gene_pyrtri1_EDU47915.1
+pyrtri1_DS231618.1	bed	RNA	95445	269327	.	+	ID=rna_pyrtri1_EDU47916.1;Description=;parent=gene_pyrtri1_EDU47916.1
+pyrtri1_DS231618.1	bed	RNA	97290	267629	.	-	ID=rna_pyrtri1_EDU47917.1;Description=;parent=gene_pyrtri1_EDU47917.1
+pyrtri1_DS231618.1	bed	RNA	100046	266321	.	+	ID=rna_pyrtri1_EDU47918.1;Description=;parent=gene_pyrtri1_EDU47918.1
+pyrtri1_DS231618.1	bed	RNA	101475	265188	.	-	ID=rna_pyrtri1_EDU47919.1;Description=;parent=gene_pyrtri1_EDU47919.1
+pyrtri1_DS231618.1	bed	RNA	103851	262548	.	-	ID=rna_pyrtri1_nlr235207;Description=;parent=gene_pyrtri1_nlr235207
+pyrtri1_DS231618.1	bed	RNA	104946	261933	.	+	ID=rna_pyrtri1_EDU47920.1;Description=;parent=gene_pyrtri1_EDU47920.1
+pyrtri1_DS231618.1	bed	RNA	105918	260806	.	-	ID=rna_pyrtri1_EDU47921.1;Description=;parent=gene_pyrtri1_EDU47921.1
+pyrtri1_DS231618.1	bed	RNA	106989	259549	.	+	ID=rna_pyrtri1_EDU47922.1;Description=;parent=gene_pyrtri1_EDU47922.1
+pyrtri1_DS231618.1	bed	RNA	108569	256830	.	+	ID=rna_pyrtri1_EDU47923.1;Description=;parent=gene_pyrtri1_EDU47923.1
+pyrtri1_DS231618.1	bed	RNA	112232	250700	.	+	ID=rna_pyrtri1_EDU47924.1;Description=;parent=gene_pyrtri1_EDU47924.1
+pyrtri1_DS231618.1	bed	RNA	117978	248424	.	+	ID=rna_pyrtri1_EDU47925.1;Description=;parent=gene_pyrtri1_EDU47925.1
+pyrtri1_DS231618.1	bed	RNA	119356	247658	.	+	ID=rna_pyrtri1_EDU47926.1;Description=;parent=gene_pyrtri1_EDU47926.1
+pyrtri1_DS231618.1	bed	RNA	121602	245202	.	+	ID=rna_pyrtri1_EDU47927.1;Description=;parent=gene_pyrtri1_EDU47927.1
+pyrtri1_DS231618.1	bed	RNA	124292	242641	.	+	ID=rna_pyrtri1_EDU47928.1;Description=;parent=gene_pyrtri1_EDU47928.1
+pyrtri1_DS231618.1	bed	RNA	127170	238299	.	-	ID=rna_pyrtri1_EDU47929.1;Description=;parent=gene_pyrtri1_EDU47929.1
+pyrtri1_DS231618.1	bed	RNA	133393	230468	.	-	ID=rna_pyrtri1_EDU47930.1;Description=;parent=gene_pyrtri1_EDU47930.1
+pyrtri1_DS231618.1	bed	RNA	137505	228943	.	-	ID=rna_pyrtri1_EDU47931.1;Description=;parent=gene_pyrtri1_EDU47931.1
+pyrtri1_DS231618.1	bed	RNA	141517	222232	.	+	ID=rna_pyrtri1_EDU47932.1;Description=;parent=gene_pyrtri1_EDU47932.1
+pyrtri1_DS231618.1	bed	RNA	148567	217256	.	+	ID=rna_pyrtri1_EDU47933.1;Description=;parent=gene_pyrtri1_EDU47933.1
+pyrtri1_DS231618.1	bed	RNA	151198	215566	.	-	ID=rna_pyrtri1_EDU47934.1;Description=;parent=gene_pyrtri1_EDU47934.1
+pyrtri1_DS231618.1	bed	RNA	152980	213713	.	-	ID=rna_pyrtri1_EDU47935.1;Description=;parent=gene_pyrtri1_EDU47935.1
+pyrtri1_DS231618.1	bed	RNA	155032	211383	.	-	ID=rna_pyrtri1_EDU47936.1;Description=;parent=gene_pyrtri1_EDU47936.1
+pyrtri1_DS231618.1	bed	RNA	156420	210852	.	+	ID=rna_pyrtri1_EDU47937.1;Description=;parent=gene_pyrtri1_EDU47937.1
+pyrtri1_DS231618.1	bed	RNA	157581	207520	.	-	ID=rna_pyrtri1_EDU47938.1;Description=;parent=gene_pyrtri1_EDU47938.1
+pyrtri1_DS231618.1	bed	RNA	161278	204174	.	+	ID=rna_pyrtri1_EDU47939.1;Description=;parent=gene_pyrtri1_EDU47939.1
+pyrtri1_DS231618.1	bed	RNA	163809	201757	.	-	ID=rna_pyrtri1_EDU47940.1;Description=;parent=gene_pyrtri1_EDU47940.1
+pyrtri1_DS231618.1	bed	RNA	166027	200539	.	+	ID=rna_pyrtri1_EDU47941.1;Description=;parent=gene_pyrtri1_EDU47941.1
+pyrtri1_DS231618.1	bed	RNA	169002	194019	.	-	ID=rna_pyrtri1_EDU47942.1;Description=;parent=gene_pyrtri1_EDU47942.1
+pyrtri1_DS231618.1	bed	RNA	174351	191578	.	+	ID=rna_pyrtri1_EDU47943.1;Description=;parent=gene_pyrtri1_EDU47943.1
+pyrtri1_DS231618.1	bed	RNA	176329	190721	.	-	ID=rna_pyrtri1_EDU47944.1;Description=;parent=gene_pyrtri1_EDU47944.1
+pyrtri1_DS231618.1	bed	RNA	177402	189405	.	-	ID=rna_pyrtri1_EDU47945.1;Description=;parent=gene_pyrtri1_EDU47945.1
+pyrtri1_DS231618.1	bed	RNA	191010	175956	.	+	ID=rna_pyrtri1_EDU47946.1;Description=;parent=gene_pyrtri1_EDU47946.1
+pyrtri1_DS231618.1	bed	RNA	191853	173553	.	-	ID=rna_pyrtri1_EDU47947.1;Description=;parent=gene_pyrtri1_EDU47947.1
+pyrtri1_DS231618.1	bed	RNA	194874	171331	.	-	ID=rna_pyrtri1_EDU47948.1;Description=;parent=gene_pyrtri1_EDU47948.1
+pyrtri1_DS231618.1	bed	RNA	197559	168067	.	+	ID=rna_pyrtri1_EDU47949.1;Description=;parent=gene_pyrtri1_EDU47949.1
+pyrtri1_DS231618.1	bed	RNA	201301	165321	.	+	ID=rna_pyrtri1_EDU47950.1;Description=;parent=gene_pyrtri1_EDU47950.1
+pyrtri1_DS231618.1	bed	RNA	202473	164112	.	-	ID=rna_pyrtri1_EDU47951.1;Description=;parent=gene_pyrtri1_EDU47951.1
+pyrtri1_DS231618.1	bed	RNA	204127	161772	.	-	ID=rna_pyrtri1_EDU47952.1;Description=;parent=gene_pyrtri1_EDU47952.1
+pyrtri1_DS231618.1	bed	RNA	207212	157665	.	-	ID=rna_pyrtri1_EDU47953.1;Description=;parent=gene_pyrtri1_EDU47953.1
+pyrtri1_DS231618.1	bed	RNA	210446	155648	.	+	ID=rna_pyrtri1_EDU47954.1;Description=;parent=gene_pyrtri1_EDU47954.1
+pyrtri1_DS231618.1	bed	RNA	212015	154080	.	-	ID=rna_pyrtri1_EDU47955.1;Description=;parent=gene_pyrtri1_EDU47955.1
+pyrtri1_DS231618.1	bed	RNA	213879	143793	.	-	ID=rna_pyrtri1_EDU47956.1;Description=;parent=gene_pyrtri1_EDU47956.1
+pyrtri1_DS231618.1	bed	RNA	224143	140968	.	+	ID=rna_pyrtri1_EDU47957.1;Description=;parent=gene_pyrtri1_EDU47957.1
+pyrtri1_DS231618.1	bed	RNA	227561	137232	.	+	ID=rna_pyrtri1_EDU47958.1;Description=;parent=gene_pyrtri1_EDU47958.1
+pyrtri1_DS231618.1	bed	RNA	231128	134628	.	-	ID=rna_pyrtri1_EDU47959.1;Description=;parent=gene_pyrtri1_EDU47959.1
+pyrtri1_DS231618.1	bed	RNA	234635	130543	.	-	ID=rna_pyrtri1_EDU47960.1;Description=;parent=gene_pyrtri1_EDU47960.1
+pyrtri1_DS231618.1	bed	RNA	243367	123204	.	-	ID=rna_pyrtri1_EDU47961.1;Description=;parent=gene_pyrtri1_EDU47961.1
+pyrtri1_DS231618.1	bed	RNA	244991	121525	.	-	ID=rna_pyrtri1_EDU47962.1;Description=;parent=gene_pyrtri1_EDU47962.1
+pyrtri1_DS231618.1	bed	RNA	246017	120163	.	-	ID=rna_pyrtri1_EDU47963.1;Description=;parent=gene_pyrtri1_EDU47963.1
+pyrtri1_DS231618.1	bed	RNA	253593	110399	.	-	ID=rna_pyrtri1_EDU47964.1;Description=;parent=gene_pyrtri1_EDU47964.1
+pyrtri1_DS231618.1	bed	RNA	260965	105131	.	-	ID=rna_pyrtri1_EDU47965.1;Description=;parent=gene_pyrtri1_EDU47965.1
+pyrtri1_DS231618.1	bed	RNA	262819	103624	.	+	ID=rna_pyrtri1_EDU47966.1;Description=;parent=gene_pyrtri1_EDU47966.1
+pyrtri1_DS231618.1	bed	RNA	264188	102406	.	+	ID=rna_pyrtri1_EDU47967.1;Description=;parent=gene_pyrtri1_EDU47967.1
+pyrtri1_DS231618.1	bed	RNA	267362	99736	.	+	ID=rna_pyrtri1_EDU47968.1;Description=;parent=gene_pyrtri1_EDU47968.1
+pyrtri1_DS231618.1	bed	RNA	268344	97220	.	+	ID=rna_pyrtri1_EDU47969.1;Description=;parent=gene_pyrtri1_EDU47969.1
+pyrtri1_DS231618.1	bed	RNA	272770	94439	.	-	ID=rna_pyrtri1_eg361539;Description=;parent=gene_pyrtri1_eg361539
+pyrtri1_DS231618.1	bed	RNA	274199	92266	.	-	ID=rna_pyrtri1_eg361740;Description=;parent=gene_pyrtri1_eg361740
+pyrtri1_DS231618.1	bed	RNA	275881	91475	.	+	ID=rna_=pyrtri1_tRNA13055;Description=;parent=gene_=pyrtri1_tRNA13055
+pyrtri1_DS231618.1	bed	RNA	277292	88752	.	-	ID=rna_pyrtri1_EDU47970.1;Description=;parent=gene_pyrtri1_EDU47970.1
+pyrtri1_DS231618.1	bed	RNA	279851	85792	.	+	ID=rna_pyrtri1_EDU47971.1;Description=;parent=gene_pyrtri1_EDU47971.1
+pyrtri1_DS231618.1	bed	RNA	283294	82340	.	-	ID=rna_pyrtri1_EDU47972.1;Description=;parent=gene_pyrtri1_EDU47972.1
+pyrtri1_DS231618.1	bed	RNA	289393	77126	.	+	ID=rna_pyrtri1_EDU47973.1;Description=;parent=gene_pyrtri1_EDU47973.1
+pyrtri1_DS231618.1	bed	RNA	291066	75353	.	+	ID=rna_pyrtri1_EDU47974.1;Description=;parent=gene_pyrtri1_EDU47974.1
+pyrtri1_DS231618.1	bed	RNA	292384	74384	.	+	ID=rna_pyrtri1_EDU47975.1;Description=;parent=gene_pyrtri1_EDU47975.1
+pyrtri1_DS231618.1	bed	RNA	294198	72901	.	-	ID=rna_pyrtri1_EDU47976.1;Description=;parent=gene_pyrtri1_EDU47976.1
+pyrtri1_DS231618.1	bed	RNA	297020	70116	.	-	ID=rna_pyrtri1_EDU47977.1;Description=;parent=gene_pyrtri1_EDU47977.1
+pyrtri1_DS231618.1	bed	RNA	300866	65916	.	-	ID=rna_pyrtri1_EDU47978.1;Description=;parent=gene_pyrtri1_EDU47978.1
+pyrtri1_DS231618.1	bed	RNA	311014	55735	.	+	ID=rna_pyrtri1_EDU47979.1;Description=;parent=gene_pyrtri1_EDU47979.1
+pyrtri1_DS231618.1	bed	RNA	312253	53948	.	-	ID=rna_pyrtri1_EDU47980.1;Description=;parent=gene_pyrtri1_EDU47980.1
+pyrtri1_DS231618.1	bed	RNA	315389	50649	.	-	ID=rna_pyrtri1_EDU47981.1;Description=;parent=gene_pyrtri1_EDU47981.1
+pyrtri1_DS231618.1	bed	RNA	322160	44251	.	-	ID=rna_pyrtri1_eg361567;Description=;parent=gene_pyrtri1_eg361567
+pyrtri1_DS231618.1	bed	RNA	325407	40450	.	-	ID=rna_pyrtri1_EDU47982.1;Description=;parent=gene_pyrtri1_EDU47982.1
+pyrtri1_DS231618.1	bed	RNA	327282	38844	.	+	ID=rna_pyrtri1_eg361777;Description=;parent=gene_pyrtri1_eg361777
+pyrtri1_DS231618.1	bed	RNA	332251	32058	.	-	ID=rna_pyrtri1_EDU47983.1;Description=;parent=gene_pyrtri1_EDU47983.1
+pyrtri1_DS231618.1	bed	RNA	337601	28734	.	-	ID=rna_pyrtri1_EDU47984.1;Description=;parent=gene_pyrtri1_EDU47984.1
+pyrtri1_DS231618.1	bed	RNA	338844	27224	.	-	ID=rna_pyrtri1_EDU47985.1;Description=;parent=gene_pyrtri1_EDU47985.1
+pyrtri1_DS231618.1	bed	RNA	341713	24103	.	+	ID=rna_pyrtri1_EDU47986.1;Description=;parent=gene_pyrtri1_EDU47986.1
+pyrtri1_DS231618.1	bed	RNA	344523	22029	.	-	ID=rna_pyrtri1_EDU47987.1;Description=;parent=gene_pyrtri1_EDU47987.1
+pyrtri1_DS231618.1	bed	RNA	345641	20506	.	-	ID=rna_pyrtri1_EDU47988.1;Description=;parent=gene_pyrtri1_EDU47988.1
+pyrtri1_DS231618.1	bed	RNA	347163	19163	.	-	ID=rna_pyrtri1_EDU47989.1;Description=;parent=gene_pyrtri1_EDU47989.1
+pyrtri1_DS231618.1	bed	RNA	348457	16903	.	+	ID=rna_pyrtri1_EDU47990.1;Description=;parent=gene_pyrtri1_EDU47990.1
+pyrtri1_DS231618.1	bed	RNA	350575	16085	.	-	ID=rna_pyrtri1_EDU47991.1;Description=;parent=gene_pyrtri1_EDU47991.1
+pyrtri1_DS231618.1	bed	RNA	351859	13919	.	+	ID=rna_pyrtri1_EDU47992.1;Description=;parent=gene_pyrtri1_EDU47992.1
+pyrtri1_DS231618.1	bed	RNA	354953	11290	.	-	ID=rna_pyrtri1_EDU47993.1;Description=;parent=gene_pyrtri1_EDU47993.1
+pyrtri1_DS231618.1	bed	RNA	357396	9215	.	+	ID=rna_pyrtri1_EDU47994.1;Description=;parent=gene_pyrtri1_EDU47994.1
+pyrtri1_DS231618.1	bed	RNA	359705	5924	.	-	ID=rna_pyrtri1_EDU47995.1;Description=;parent=gene_pyrtri1_EDU47995.1
+pyrtri1_DS231618.1	bed	RNA	361873	4284	.	+	ID=rna_pyrtri1_EDU47996.1;Description=;parent=gene_pyrtri1_EDU47996.1
+pyrtri1_DS231618.1	bed	RNA	362424	3903	.	-	ID=rna_pyrtri1_EDU47997.1;Description=;parent=gene_pyrtri1_EDU47997.1
+pyrtri1_DS231618.1	bed	RNA	363617	2488	.	+	ID=rna_pyrtri1_EDU47998.1;Description=;parent=gene_pyrtri1_EDU47998.1
+pyrtri1_DS231618.1	bed	RNA	367439	0	.	+	ID=rna_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|down;Description=;parent=gene_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|down
+pyrtri1_DS231618.1	bed	CDS	1	367438	.	+	ID=cds_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|up;Description=;parent=rna_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|up
+pyrtri1_DS231618.1	bed	CDS	981	363669	.	+	ID=cds_pyrtri1_EDU47891.1;Description=;parent=rna_pyrtri1_EDU47891.1
+pyrtri1_DS231618.1	bed	CDS	4345	360623	.	-	ID=cds_pyrtri1_EDU47892.1;Description=;parent=rna_pyrtri1_EDU47892.1
+pyrtri1_DS231618.1	bed	CDS	7233	359707	.	+	ID=cds_pyrtri1_EDU47893.1;Description=;parent=rna_pyrtri1_EDU47893.1
+pyrtri1_DS231618.1	bed	CDS	11637	353742	.	+	ID=cds_pyrtri1_EDU47894.1;Description=;parent=rna_pyrtri1_EDU47894.1
+pyrtri1_DS231618.1	bed	CDS	16039	350523	.	-	ID=cds_pyrtri1_EDU47895.1;Description=;parent=rna_pyrtri1_EDU47895.1
+pyrtri1_DS231618.1	bed	CDS	20486	346407	.	-	ID=cds_pyrtri1_EDU47896.1;Description=;parent=rna_pyrtri1_EDU47896.1
+pyrtri1_DS231618.1	bed	CDS	22143	343894	.	+	ID=cds_pyrtri1_EDU47897.1;Description=;parent=rna_pyrtri1_EDU47897.1
+pyrtri1_DS231618.1	bed	CDS	23972	341632	.	+	ID=cds_pyrtri1_EDU47898.1;Description=;parent=rna_pyrtri1_EDU47898.1
+pyrtri1_DS231618.1	bed	CDS	31339	334153	.	-	ID=cds_pyrtri1_EDU47899.1;Description=;parent=rna_pyrtri1_EDU47899.1
+pyrtri1_DS231618.1	bed	CDS	34351	332063	.	+	ID=cds_pyrtri1_eg361620;Description=;parent=rna_pyrtri1_eg361620
+pyrtri1_DS231618.1	bed	CDS	38142	326346	.	+	ID=cds_pyrtri1_EDU47900.1;Description=;parent=rna_pyrtri1_EDU47900.1
+pyrtri1_DS231618.1	bed	CDS	41290	323741	.	+	ID=cds_pyrtri1_EDU47901.1;Description=;parent=rna_pyrtri1_EDU47901.1
+pyrtri1_DS231618.1	bed	CDS	44307	320918	.	-	ID=cds_pyrtri1_EDU47902.1;Description=;parent=rna_pyrtri1_EDU47902.1
+pyrtri1_DS231618.1	bed	CDS	46934	318769	.	+	ID=cds_pyrtri1_EDU47903.1;Description=;parent=rna_pyrtri1_EDU47903.1
+pyrtri1_DS231618.1	bed	CDS	49216	316605	.	+	ID=cds_pyrtri1_EDU47904.1;Description=;parent=rna_pyrtri1_EDU47904.1
+pyrtri1_DS231618.1	bed	CDS	51806	313928	.	+	ID=cds_pyrtri1_EDU47905.1;Description=;parent=rna_pyrtri1_EDU47905.1
+pyrtri1_DS231618.1	bed	CDS	54437	312313	.	+	ID=cds_pyrtri1_EDU47906.1;Description=;parent=rna_pyrtri1_EDU47906.1
+pyrtri1_DS231618.1	bed	CDS	55215	311310	.	-	ID=cds_pyrtri1_EDU47907.1;Description=;parent=rna_pyrtri1_EDU47907.1
+pyrtri1_DS231618.1	bed	CDS	59375	307112	.	+	ID=cds_pyrtri1_EDU47908.1;Description=;parent=rna_pyrtri1_EDU47908.1
+pyrtri1_DS231618.1	bed	CDS	61697	304444	.	-	ID=cds_pyrtri1_EDU47909.1;Description=;parent=rna_pyrtri1_EDU47909.1
+pyrtri1_DS231618.1	bed	CDS	63661	302786	.	-	ID=cds_pyrtri1_eg361669;Description=;parent=rna_pyrtri1_eg361669
+pyrtri1_DS231618.1	bed	CDS	66535	297530	.	-	ID=cds_pyrtri1_EDU47910.1;Description=;parent=rna_pyrtri1_EDU47910.1
+pyrtri1_DS231618.1	bed	CDS	70440	290979	.	-	ID=cds_pyrtri1_EDU47911.1;Description=;parent=rna_pyrtri1_EDU47911.1
+pyrtri1_DS231618.1	bed	CDS	78229	283372	.	+	ID=cds_pyrtri1_EDU47912.1;Description=;parent=rna_pyrtri1_EDU47912.1
+pyrtri1_DS231618.1	bed	CDS	84364	281769	.	+	ID=cds_pyrtri1_EDU47913.1;Description=;parent=rna_pyrtri1_EDU47913.1
+pyrtri1_DS231618.1	bed	CDS	86409	279491	.	-	ID=cds_pyrtri1_EDU47914.1;Description=;parent=rna_pyrtri1_EDU47914.1
+pyrtri1_DS231618.1	bed	CDS	88792	274802	.	-	ID=cds_pyrtri1_EDU47915.1;Description=;parent=rna_pyrtri1_EDU47915.1
+pyrtri1_DS231618.1	bed	CDS	95445	269327	.	+	ID=cds_pyrtri1_EDU47916.1;Description=;parent=rna_pyrtri1_EDU47916.1
+pyrtri1_DS231618.1	bed	CDS	97290	267629	.	-	ID=cds_pyrtri1_EDU47917.1;Description=;parent=rna_pyrtri1_EDU47917.1
+pyrtri1_DS231618.1	bed	CDS	100046	266321	.	+	ID=cds_pyrtri1_EDU47918.1;Description=;parent=rna_pyrtri1_EDU47918.1
+pyrtri1_DS231618.1	bed	CDS	101475	265188	.	-	ID=cds_pyrtri1_EDU47919.1;Description=;parent=rna_pyrtri1_EDU47919.1
+pyrtri1_DS231618.1	bed	CDS	103851	262548	.	-	ID=cds_pyrtri1_nlr235207;Description=;parent=rna_pyrtri1_nlr235207
+pyrtri1_DS231618.1	bed	CDS	104946	261933	.	+	ID=cds_pyrtri1_EDU47920.1;Description=;parent=rna_pyrtri1_EDU47920.1
+pyrtri1_DS231618.1	bed	CDS	105918	260806	.	-	ID=cds_pyrtri1_EDU47921.1;Description=;parent=rna_pyrtri1_EDU47921.1
+pyrtri1_DS231618.1	bed	CDS	106989	259549	.	+	ID=cds_pyrtri1_EDU47922.1;Description=;parent=rna_pyrtri1_EDU47922.1
+pyrtri1_DS231618.1	bed	CDS	108569	256830	.	+	ID=cds_pyrtri1_EDU47923.1;Description=;parent=rna_pyrtri1_EDU47923.1
+pyrtri1_DS231618.1	bed	CDS	112232	250700	.	+	ID=cds_pyrtri1_EDU47924.1;Description=;parent=rna_pyrtri1_EDU47924.1
+pyrtri1_DS231618.1	bed	CDS	117978	248424	.	+	ID=cds_pyrtri1_EDU47925.1;Description=;parent=rna_pyrtri1_EDU47925.1
+pyrtri1_DS231618.1	bed	CDS	119356	247658	.	+	ID=cds_pyrtri1_EDU47926.1;Description=;parent=rna_pyrtri1_EDU47926.1
+pyrtri1_DS231618.1	bed	CDS	121602	245202	.	+	ID=cds_pyrtri1_EDU47927.1;Description=;parent=rna_pyrtri1_EDU47927.1
+pyrtri1_DS231618.1	bed	CDS	124292	242641	.	+	ID=cds_pyrtri1_EDU47928.1;Description=;parent=rna_pyrtri1_EDU47928.1
+pyrtri1_DS231618.1	bed	CDS	127170	238299	.	-	ID=cds_pyrtri1_EDU47929.1;Description=;parent=rna_pyrtri1_EDU47929.1
+pyrtri1_DS231618.1	bed	CDS	133393	230468	.	-	ID=cds_pyrtri1_EDU47930.1;Description=;parent=rna_pyrtri1_EDU47930.1
+pyrtri1_DS231618.1	bed	CDS	137505	228943	.	-	ID=cds_pyrtri1_EDU47931.1;Description=;parent=rna_pyrtri1_EDU47931.1
+pyrtri1_DS231618.1	bed	CDS	141517	222232	.	+	ID=cds_pyrtri1_EDU47932.1;Description=;parent=rna_pyrtri1_EDU47932.1
+pyrtri1_DS231618.1	bed	CDS	148567	217256	.	+	ID=cds_pyrtri1_EDU47933.1;Description=;parent=rna_pyrtri1_EDU47933.1
+pyrtri1_DS231618.1	bed	CDS	151198	215566	.	-	ID=cds_pyrtri1_EDU47934.1;Description=;parent=rna_pyrtri1_EDU47934.1
+pyrtri1_DS231618.1	bed	CDS	152980	213713	.	-	ID=cds_pyrtri1_EDU47935.1;Description=;parent=rna_pyrtri1_EDU47935.1
+pyrtri1_DS231618.1	bed	CDS	155032	211383	.	-	ID=cds_pyrtri1_EDU47936.1;Description=;parent=rna_pyrtri1_EDU47936.1
+pyrtri1_DS231618.1	bed	CDS	156420	210852	.	+	ID=cds_pyrtri1_EDU47937.1;Description=;parent=rna_pyrtri1_EDU47937.1
+pyrtri1_DS231618.1	bed	CDS	157581	207520	.	-	ID=cds_pyrtri1_EDU47938.1;Description=;parent=rna_pyrtri1_EDU47938.1
+pyrtri1_DS231618.1	bed	CDS	161278	204174	.	+	ID=cds_pyrtri1_EDU47939.1;Description=;parent=rna_pyrtri1_EDU47939.1
+pyrtri1_DS231618.1	bed	CDS	163809	201757	.	-	ID=cds_pyrtri1_EDU47940.1;Description=;parent=rna_pyrtri1_EDU47940.1
+pyrtri1_DS231618.1	bed	CDS	166027	200539	.	+	ID=cds_pyrtri1_EDU47941.1;Description=;parent=rna_pyrtri1_EDU47941.1
+pyrtri1_DS231618.1	bed	CDS	169002	194019	.	-	ID=cds_pyrtri1_EDU47942.1;Description=;parent=rna_pyrtri1_EDU47942.1
+pyrtri1_DS231618.1	bed	CDS	174351	191578	.	+	ID=cds_pyrtri1_EDU47943.1;Description=;parent=rna_pyrtri1_EDU47943.1
+pyrtri1_DS231618.1	bed	CDS	176329	190721	.	-	ID=cds_pyrtri1_EDU47944.1;Description=;parent=rna_pyrtri1_EDU47944.1
+pyrtri1_DS231618.1	bed	CDS	177402	189405	.	-	ID=cds_pyrtri1_EDU47945.1;Description=;parent=rna_pyrtri1_EDU47945.1
+pyrtri1_DS231618.1	bed	CDS	191010	175956	.	+	ID=cds_pyrtri1_EDU47946.1;Description=;parent=rna_pyrtri1_EDU47946.1
+pyrtri1_DS231618.1	bed	CDS	191853	173553	.	-	ID=cds_pyrtri1_EDU47947.1;Description=;parent=rna_pyrtri1_EDU47947.1
+pyrtri1_DS231618.1	bed	CDS	194874	171331	.	-	ID=cds_pyrtri1_EDU47948.1;Description=;parent=rna_pyrtri1_EDU47948.1
+pyrtri1_DS231618.1	bed	CDS	197559	168067	.	+	ID=cds_pyrtri1_EDU47949.1;Description=;parent=rna_pyrtri1_EDU47949.1
+pyrtri1_DS231618.1	bed	CDS	201301	165321	.	+	ID=cds_pyrtri1_EDU47950.1;Description=;parent=rna_pyrtri1_EDU47950.1
+pyrtri1_DS231618.1	bed	CDS	202473	164112	.	-	ID=cds_pyrtri1_EDU47951.1;Description=;parent=rna_pyrtri1_EDU47951.1
+pyrtri1_DS231618.1	bed	CDS	204127	161772	.	-	ID=cds_pyrtri1_EDU47952.1;Description=;parent=rna_pyrtri1_EDU47952.1
+pyrtri1_DS231618.1	bed	CDS	207212	157665	.	-	ID=cds_pyrtri1_EDU47953.1;Description=;parent=rna_pyrtri1_EDU47953.1
+pyrtri1_DS231618.1	bed	CDS	210446	155648	.	+	ID=cds_pyrtri1_EDU47954.1;Description=;parent=rna_pyrtri1_EDU47954.1
+pyrtri1_DS231618.1	bed	CDS	212015	154080	.	-	ID=cds_pyrtri1_EDU47955.1;Description=;parent=rna_pyrtri1_EDU47955.1
+pyrtri1_DS231618.1	bed	CDS	213879	143793	.	-	ID=cds_pyrtri1_EDU47956.1;Description=;parent=rna_pyrtri1_EDU47956.1
+pyrtri1_DS231618.1	bed	CDS	224143	140968	.	+	ID=cds_pyrtri1_EDU47957.1;Description=;parent=rna_pyrtri1_EDU47957.1
+pyrtri1_DS231618.1	bed	CDS	227561	137232	.	+	ID=cds_pyrtri1_EDU47958.1;Description=;parent=rna_pyrtri1_EDU47958.1
+pyrtri1_DS231618.1	bed	CDS	231128	134628	.	-	ID=cds_pyrtri1_EDU47959.1;Description=;parent=rna_pyrtri1_EDU47959.1
+pyrtri1_DS231618.1	bed	CDS	234635	130543	.	-	ID=cds_pyrtri1_EDU47960.1;Description=;parent=rna_pyrtri1_EDU47960.1
+pyrtri1_DS231618.1	bed	CDS	243367	123204	.	-	ID=cds_pyrtri1_EDU47961.1;Description=;parent=rna_pyrtri1_EDU47961.1
+pyrtri1_DS231618.1	bed	CDS	244991	121525	.	-	ID=cds_pyrtri1_EDU47962.1;Description=;parent=rna_pyrtri1_EDU47962.1
+pyrtri1_DS231618.1	bed	CDS	246017	120163	.	-	ID=cds_pyrtri1_EDU47963.1;Description=;parent=rna_pyrtri1_EDU47963.1
+pyrtri1_DS231618.1	bed	CDS	253593	110399	.	-	ID=cds_pyrtri1_EDU47964.1;Description=;parent=rna_pyrtri1_EDU47964.1
+pyrtri1_DS231618.1	bed	CDS	260965	105131	.	-	ID=cds_pyrtri1_EDU47965.1;Description=;parent=rna_pyrtri1_EDU47965.1
+pyrtri1_DS231618.1	bed	CDS	262819	103624	.	+	ID=cds_pyrtri1_EDU47966.1;Description=;parent=rna_pyrtri1_EDU47966.1
+pyrtri1_DS231618.1	bed	CDS	264188	102406	.	+	ID=cds_pyrtri1_EDU47967.1;Description=;parent=rna_pyrtri1_EDU47967.1
+pyrtri1_DS231618.1	bed	CDS	267362	99736	.	+	ID=cds_pyrtri1_EDU47968.1;Description=;parent=rna_pyrtri1_EDU47968.1
+pyrtri1_DS231618.1	bed	CDS	268344	97220	.	+	ID=cds_pyrtri1_EDU47969.1;Description=;parent=rna_pyrtri1_EDU47969.1
+pyrtri1_DS231618.1	bed	CDS	272770	94439	.	-	ID=cds_pyrtri1_eg361539;Description=;parent=rna_pyrtri1_eg361539
+pyrtri1_DS231618.1	bed	CDS	274199	92266	.	-	ID=cds_pyrtri1_eg361740;Description=;parent=rna_pyrtri1_eg361740
+pyrtri1_DS231618.1	bed	CDS	275881	91475	.	+	ID=cds_=pyrtri1_tRNA13055;Description=;parent=rna_=pyrtri1_tRNA13055
+pyrtri1_DS231618.1	bed	CDS	277292	88752	.	-	ID=cds_pyrtri1_EDU47970.1;Description=;parent=rna_pyrtri1_EDU47970.1
+pyrtri1_DS231618.1	bed	CDS	279851	85792	.	+	ID=cds_pyrtri1_EDU47971.1;Description=;parent=rna_pyrtri1_EDU47971.1
+pyrtri1_DS231618.1	bed	CDS	283294	82340	.	-	ID=cds_pyrtri1_EDU47972.1;Description=;parent=rna_pyrtri1_EDU47972.1
+pyrtri1_DS231618.1	bed	CDS	289393	77126	.	+	ID=cds_pyrtri1_EDU47973.1;Description=;parent=rna_pyrtri1_EDU47973.1
+pyrtri1_DS231618.1	bed	CDS	291066	75353	.	+	ID=cds_pyrtri1_EDU47974.1;Description=;parent=rna_pyrtri1_EDU47974.1
+pyrtri1_DS231618.1	bed	CDS	292384	74384	.	+	ID=cds_pyrtri1_EDU47975.1;Description=;parent=rna_pyrtri1_EDU47975.1
+pyrtri1_DS231618.1	bed	CDS	294198	72901	.	-	ID=cds_pyrtri1_EDU47976.1;Description=;parent=rna_pyrtri1_EDU47976.1
+pyrtri1_DS231618.1	bed	CDS	297020	70116	.	-	ID=cds_pyrtri1_EDU47977.1;Description=;parent=rna_pyrtri1_EDU47977.1
+pyrtri1_DS231618.1	bed	CDS	300866	65916	.	-	ID=cds_pyrtri1_EDU47978.1;Description=;parent=rna_pyrtri1_EDU47978.1
+pyrtri1_DS231618.1	bed	CDS	311014	55735	.	+	ID=cds_pyrtri1_EDU47979.1;Description=;parent=rna_pyrtri1_EDU47979.1
+pyrtri1_DS231618.1	bed	CDS	312253	53948	.	-	ID=cds_pyrtri1_EDU47980.1;Description=;parent=rna_pyrtri1_EDU47980.1
+pyrtri1_DS231618.1	bed	CDS	315389	50649	.	-	ID=cds_pyrtri1_EDU47981.1;Description=;parent=rna_pyrtri1_EDU47981.1
+pyrtri1_DS231618.1	bed	CDS	322160	44251	.	-	ID=cds_pyrtri1_eg361567;Description=;parent=rna_pyrtri1_eg361567
+pyrtri1_DS231618.1	bed	CDS	325407	40450	.	-	ID=cds_pyrtri1_EDU47982.1;Description=;parent=rna_pyrtri1_EDU47982.1
+pyrtri1_DS231618.1	bed	CDS	327282	38844	.	+	ID=cds_pyrtri1_eg361777;Description=;parent=rna_pyrtri1_eg361777
+pyrtri1_DS231618.1	bed	CDS	332251	32058	.	-	ID=cds_pyrtri1_EDU47983.1;Description=;parent=rna_pyrtri1_EDU47983.1
+pyrtri1_DS231618.1	bed	CDS	337601	28734	.	-	ID=cds_pyrtri1_EDU47984.1;Description=;parent=rna_pyrtri1_EDU47984.1
+pyrtri1_DS231618.1	bed	CDS	338844	27224	.	-	ID=cds_pyrtri1_EDU47985.1;Description=;parent=rna_pyrtri1_EDU47985.1
+pyrtri1_DS231618.1	bed	CDS	341713	24103	.	+	ID=cds_pyrtri1_EDU47986.1;Description=;parent=rna_pyrtri1_EDU47986.1
+pyrtri1_DS231618.1	bed	CDS	344523	22029	.	-	ID=cds_pyrtri1_EDU47987.1;Description=;parent=rna_pyrtri1_EDU47987.1
+pyrtri1_DS231618.1	bed	CDS	345641	20506	.	-	ID=cds_pyrtri1_EDU47988.1;Description=;parent=rna_pyrtri1_EDU47988.1
+pyrtri1_DS231618.1	bed	CDS	347163	19163	.	-	ID=cds_pyrtri1_EDU47989.1;Description=;parent=rna_pyrtri1_EDU47989.1
+pyrtri1_DS231618.1	bed	CDS	348457	16903	.	+	ID=cds_pyrtri1_EDU47990.1;Description=;parent=rna_pyrtri1_EDU47990.1
+pyrtri1_DS231618.1	bed	CDS	350575	16085	.	-	ID=cds_pyrtri1_EDU47991.1;Description=;parent=rna_pyrtri1_EDU47991.1
+pyrtri1_DS231618.1	bed	CDS	351859	13919	.	+	ID=cds_pyrtri1_EDU47992.1;Description=;parent=rna_pyrtri1_EDU47992.1
+pyrtri1_DS231618.1	bed	CDS	354953	11290	.	-	ID=cds_pyrtri1_EDU47993.1;Description=;parent=rna_pyrtri1_EDU47993.1
+pyrtri1_DS231618.1	bed	CDS	357396	9215	.	+	ID=cds_pyrtri1_EDU47994.1;Description=;parent=rna_pyrtri1_EDU47994.1
+pyrtri1_DS231618.1	bed	CDS	359705	5924	.	-	ID=cds_pyrtri1_EDU47995.1;Description=;parent=rna_pyrtri1_EDU47995.1
+pyrtri1_DS231618.1	bed	CDS	361873	4284	.	+	ID=cds_pyrtri1_EDU47996.1;Description=;parent=rna_pyrtri1_EDU47996.1
+pyrtri1_DS231618.1	bed	CDS	362424	3903	.	-	ID=cds_pyrtri1_EDU47997.1;Description=;parent=rna_pyrtri1_EDU47997.1
+pyrtri1_DS231618.1	bed	CDS	363617	2488	.	+	ID=cds_pyrtri1_EDU47998.1;Description=;parent=rna_pyrtri1_EDU47998.1
+pyrtri1_DS231618.1	bed	CDS	367439	0	.	+	ID=cds_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|down;Description=;parent=rna_pyrtri1_EDU47891.1|pyrtri11_CM034230.1|down

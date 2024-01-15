@@ -1,0 +1,63 @@
+aspory11_CM030965.1	bed	gene	1	104988	.	-	insert	ID=gene_aspory11_tyr2275|aspory8_JABULI020000001.1|down;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	2087	102105	.	-	.	ID=gene_aspory11_eg125070;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	10348	93025	.	+	.	ID=gene_aspory11_eg125006;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	12511	90973	.	+	.	ID=gene_aspory11_eg124658;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	18304	85846	.	-	.	ID=gene_aspory11_eg124804;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	19990	84478	.	+	.	ID=gene_aspory11_eg124648;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	35869	66925	.	+	.	ID=gene_aspory11_eg124818;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	40455	63698	.	-	.	ID=gene_aspory11_eg124636;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	42009	62555	.	-	.	ID=gene_aspory11_eg125054;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	69836	31655	.	+	plp	ID=gene_aspory11_plp2038;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	73698	28915	.	+	fre	ID=gene_aspory11_fre3318;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	78424	24799	.	+	.	ID=gene_aspory11_eg124643;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	80950	22913	.	+	.	ID=gene_aspory11_eg125026;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	83949	20197	.	+	.	ID=gene_aspory11_eg124646;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	85423	17181	.	-	d37	ID=gene_aspory11_d371367;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	90591	13826	.	+	.	ID=gene_aspory11_eg124996;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	91867	12925	.	+	.	ID=gene_aspory11_eg124652;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	92937	7853	.	-	nlr	ID=gene_aspory11_nlr27458;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	98700	4534	.	-	tyr	ID=gene_aspory11_tyr2274;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	101740	662	.	-	cap	ID=gene_aspory11_tyr2275;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	gene	104989	0	.	-	insert	ID=gene_aspory11_tyr2275|aspory8_JABULI020000001.1|up;Description=aspory11_s02199;parent=aspory11_CM030965.1
+aspory11_CM030965.1	bed	RNA	1	104988	.	-	ID=rna_aspory11_tyr2275|aspory8_JABULI020000001.1|down;Description=;parent=gene_aspory11_tyr2275|aspory8_JABULI020000001.1|down
+aspory11_CM030965.1	bed	RNA	2087	102105	.	-	ID=rna_aspory11_eg125070;Description=;parent=gene_aspory11_eg125070
+aspory11_CM030965.1	bed	RNA	10348	93025	.	+	ID=rna_aspory11_eg125006;Description=;parent=gene_aspory11_eg125006
+aspory11_CM030965.1	bed	RNA	12511	90973	.	+	ID=rna_aspory11_eg124658;Description=;parent=gene_aspory11_eg124658
+aspory11_CM030965.1	bed	RNA	18304	85846	.	-	ID=rna_aspory11_eg124804;Description=;parent=gene_aspory11_eg124804
+aspory11_CM030965.1	bed	RNA	19990	84478	.	+	ID=rna_aspory11_eg124648;Description=;parent=gene_aspory11_eg124648
+aspory11_CM030965.1	bed	RNA	35869	66925	.	+	ID=rna_aspory11_eg124818;Description=;parent=gene_aspory11_eg124818
+aspory11_CM030965.1	bed	RNA	40455	63698	.	-	ID=rna_aspory11_eg124636;Description=;parent=gene_aspory11_eg124636
+aspory11_CM030965.1	bed	RNA	42009	62555	.	-	ID=rna_aspory11_eg125054;Description=;parent=gene_aspory11_eg125054
+aspory11_CM030965.1	bed	RNA	69836	31655	.	+	ID=rna_aspory11_plp2038;Description=;parent=gene_aspory11_plp2038
+aspory11_CM030965.1	bed	RNA	73698	28915	.	+	ID=rna_aspory11_fre3318;Description=;parent=gene_aspory11_fre3318
+aspory11_CM030965.1	bed	RNA	78424	24799	.	+	ID=rna_aspory11_eg124643;Description=;parent=gene_aspory11_eg124643
+aspory11_CM030965.1	bed	RNA	80950	22913	.	+	ID=rna_aspory11_eg125026;Description=;parent=gene_aspory11_eg125026
+aspory11_CM030965.1	bed	RNA	83949	20197	.	+	ID=rna_aspory11_eg124646;Description=;parent=gene_aspory11_eg124646
+aspory11_CM030965.1	bed	RNA	85423	17181	.	-	ID=rna_aspory11_d371367;Description=;parent=gene_aspory11_d371367
+aspory11_CM030965.1	bed	RNA	90591	13826	.	+	ID=rna_aspory11_eg124996;Description=;parent=gene_aspory11_eg124996
+aspory11_CM030965.1	bed	RNA	91867	12925	.	+	ID=rna_aspory11_eg124652;Description=;parent=gene_aspory11_eg124652
+aspory11_CM030965.1	bed	RNA	92937	7853	.	-	ID=rna_aspory11_nlr27458;Description=;parent=gene_aspory11_nlr27458
+aspory11_CM030965.1	bed	RNA	98700	4534	.	-	ID=rna_aspory11_tyr2274;Description=;parent=gene_aspory11_tyr2274
+aspory11_CM030965.1	bed	RNA	101740	662	.	-	ID=rna_aspory11_tyr2275;Description=;parent=gene_aspory11_tyr2275
+aspory11_CM030965.1	bed	RNA	104989	0	.	-	ID=rna_aspory11_tyr2275|aspory8_JABULI020000001.1|up;Description=;parent=gene_aspory11_tyr2275|aspory8_JABULI020000001.1|up
+aspory11_CM030965.1	bed	CDS	1	104988	.	-	ID=cds_aspory11_tyr2275|aspory8_JABULI020000001.1|down;Description=;parent=rna_aspory11_tyr2275|aspory8_JABULI020000001.1|down
+aspory11_CM030965.1	bed	CDS	2087	102105	.	-	ID=cds_aspory11_eg125070;Description=;parent=rna_aspory11_eg125070
+aspory11_CM030965.1	bed	CDS	10348	93025	.	+	ID=cds_aspory11_eg125006;Description=;parent=rna_aspory11_eg125006
+aspory11_CM030965.1	bed	CDS	12511	90973	.	+	ID=cds_aspory11_eg124658;Description=;parent=rna_aspory11_eg124658
+aspory11_CM030965.1	bed	CDS	18304	85846	.	-	ID=cds_aspory11_eg124804;Description=;parent=rna_aspory11_eg124804
+aspory11_CM030965.1	bed	CDS	19990	84478	.	+	ID=cds_aspory11_eg124648;Description=;parent=rna_aspory11_eg124648
+aspory11_CM030965.1	bed	CDS	35869	66925	.	+	ID=cds_aspory11_eg124818;Description=;parent=rna_aspory11_eg124818
+aspory11_CM030965.1	bed	CDS	40455	63698	.	-	ID=cds_aspory11_eg124636;Description=;parent=rna_aspory11_eg124636
+aspory11_CM030965.1	bed	CDS	42009	62555	.	-	ID=cds_aspory11_eg125054;Description=;parent=rna_aspory11_eg125054
+aspory11_CM030965.1	bed	CDS	69836	31655	.	+	ID=cds_aspory11_plp2038;Description=;parent=rna_aspory11_plp2038
+aspory11_CM030965.1	bed	CDS	73698	28915	.	+	ID=cds_aspory11_fre3318;Description=;parent=rna_aspory11_fre3318
+aspory11_CM030965.1	bed	CDS	78424	24799	.	+	ID=cds_aspory11_eg124643;Description=;parent=rna_aspory11_eg124643
+aspory11_CM030965.1	bed	CDS	80950	22913	.	+	ID=cds_aspory11_eg125026;Description=;parent=rna_aspory11_eg125026
+aspory11_CM030965.1	bed	CDS	83949	20197	.	+	ID=cds_aspory11_eg124646;Description=;parent=rna_aspory11_eg124646
+aspory11_CM030965.1	bed	CDS	85423	17181	.	-	ID=cds_aspory11_d371367;Description=;parent=rna_aspory11_d371367
+aspory11_CM030965.1	bed	CDS	90591	13826	.	+	ID=cds_aspory11_eg124996;Description=;parent=rna_aspory11_eg124996
+aspory11_CM030965.1	bed	CDS	91867	12925	.	+	ID=cds_aspory11_eg124652;Description=;parent=rna_aspory11_eg124652
+aspory11_CM030965.1	bed	CDS	92937	7853	.	-	ID=cds_aspory11_nlr27458;Description=;parent=rna_aspory11_nlr27458
+aspory11_CM030965.1	bed	CDS	98700	4534	.	-	ID=cds_aspory11_tyr2274;Description=;parent=rna_aspory11_tyr2274
+aspory11_CM030965.1	bed	CDS	101740	662	.	-	ID=cds_aspory11_tyr2275;Description=;parent=rna_aspory11_tyr2275
+aspory11_CM030965.1	bed	CDS	104989	0	.	-	ID=cds_aspory11_tyr2275|aspory8_JABULI020000001.1|up;Description=;parent=rna_aspory11_tyr2275|aspory8_JABULI020000001.1|up

@@ -1,0 +1,92 @@
+aspfla7_CP047254.1	bed	region	1	112276	.	+	flank	ID=gene_aspfla7_tyr1216|DR|up;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	351	109311	.	+	cap	ID=gene_aspfla7_tyr1216;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	5910	103960	.	+	.	ID=gene_aspfla7_eg67166;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	12779	95304	.	+	nlr	ID=gene_aspfla7_nlr21517;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	18651	93061	.	-	.	ID=gene_aspfla7_eg67252;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	21801	88098	.	+	d37	ID=gene_aspfla7_d37727;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	24817	86624	.	-	.	ID=gene_aspfla7_eg66930;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	27537	83893	.	-	.	ID=gene_aspfla7_eg67291;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	29420	81098	.	-	.	ID=gene_aspfla7_eg66929;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	33536	76372	.	-	fre	ID=gene_aspfla7_fre2019;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	36276	72510	.	-	plp	ID=gene_aspfla7_plp1398;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	51600	59252	.	+	nlr	ID=gene_aspfla7_nlr21527;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	58209	52939	.	-	.	ID=gene_aspfla7_eg67049;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	63636	47079	.	+	.	ID=gene_aspfla7_eg66872;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	66261	45718	.	+	.	ID=gene_aspfla7_eg67302;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	67296	43714	.	-	tyr	ID=gene_aspfla7_tyr1217;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	69734	40376	.	-	.	ID=gene_aspfla7_eg67083;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	73050	38863	.	-	.	ID=gene_aspfla7_eg67276;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	77024	34787	.	+	.	ID=gene_aspfla7_eg66934;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	78601	33384	.	-	.	ID=gene_aspfla7_eg67354;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	79200	32659	.	-	.	ID=gene_aspfla7_eg66933;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	81384	30652	.	-	.	ID=gene_aspfla7_eg67360;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	86394	25369	.	-	.	ID=gene_aspfla7_eg66932;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	87761	23684	.	+	.	ID=gene_aspfla7_eg67072;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	92714	18734	.	-	.	ID=gene_aspfla7_eg66920;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	93686	17942	.	-	.	ID=gene_aspfla7_eg67277;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	94799	17279	.	-	.	ID=gene_aspfla7_eg67316;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	95198	15821	.	-	.	ID=gene_aspfla7_eg67262;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	102621	8047	.	+	.	ID=gene_aspfla7_eg67261;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	104784	5995	.	+	.	ID=gene_aspfla7_eg66944;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	gene	109394	2093	.	+	.	ID=gene_aspfla7_eg67362;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	region	112277	0	.	+	flank	ID=gene_aspfla7_tyr1216|DR|down;Description=aspfla7_s01132;parent=aspfla7_CP047254.1
+aspfla7_CP047254.1	bed	RNA	351	109311	.	+	ID=rna_aspfla7_tyr1216;Description=;parent=gene_aspfla7_tyr1216
+aspfla7_CP047254.1	bed	RNA	5910	103960	.	+	ID=rna_aspfla7_eg67166;Description=;parent=gene_aspfla7_eg67166
+aspfla7_CP047254.1	bed	RNA	12779	95304	.	+	ID=rna_aspfla7_nlr21517;Description=;parent=gene_aspfla7_nlr21517
+aspfla7_CP047254.1	bed	RNA	18651	93061	.	-	ID=rna_aspfla7_eg67252;Description=;parent=gene_aspfla7_eg67252
+aspfla7_CP047254.1	bed	RNA	21801	88098	.	+	ID=rna_aspfla7_d37727;Description=;parent=gene_aspfla7_d37727
+aspfla7_CP047254.1	bed	RNA	24817	86624	.	-	ID=rna_aspfla7_eg66930;Description=;parent=gene_aspfla7_eg66930
+aspfla7_CP047254.1	bed	RNA	27537	83893	.	-	ID=rna_aspfla7_eg67291;Description=;parent=gene_aspfla7_eg67291
+aspfla7_CP047254.1	bed	RNA	29420	81098	.	-	ID=rna_aspfla7_eg66929;Description=;parent=gene_aspfla7_eg66929
+aspfla7_CP047254.1	bed	RNA	33536	76372	.	-	ID=rna_aspfla7_fre2019;Description=;parent=gene_aspfla7_fre2019
+aspfla7_CP047254.1	bed	RNA	36276	72510	.	-	ID=rna_aspfla7_plp1398;Description=;parent=gene_aspfla7_plp1398
+aspfla7_CP047254.1	bed	RNA	51600	59252	.	+	ID=rna_aspfla7_nlr21527;Description=;parent=gene_aspfla7_nlr21527
+aspfla7_CP047254.1	bed	RNA	58209	52939	.	-	ID=rna_aspfla7_eg67049;Description=;parent=gene_aspfla7_eg67049
+aspfla7_CP047254.1	bed	RNA	63636	47079	.	+	ID=rna_aspfla7_eg66872;Description=;parent=gene_aspfla7_eg66872
+aspfla7_CP047254.1	bed	RNA	66261	45718	.	+	ID=rna_aspfla7_eg67302;Description=;parent=gene_aspfla7_eg67302
+aspfla7_CP047254.1	bed	RNA	67296	43714	.	-	ID=rna_aspfla7_tyr1217;Description=;parent=gene_aspfla7_tyr1217
+aspfla7_CP047254.1	bed	RNA	69734	40376	.	-	ID=rna_aspfla7_eg67083;Description=;parent=gene_aspfla7_eg67083
+aspfla7_CP047254.1	bed	RNA	73050	38863	.	-	ID=rna_aspfla7_eg67276;Description=;parent=gene_aspfla7_eg67276
+aspfla7_CP047254.1	bed	RNA	77024	34787	.	+	ID=rna_aspfla7_eg66934;Description=;parent=gene_aspfla7_eg66934
+aspfla7_CP047254.1	bed	RNA	78601	33384	.	-	ID=rna_aspfla7_eg67354;Description=;parent=gene_aspfla7_eg67354
+aspfla7_CP047254.1	bed	RNA	79200	32659	.	-	ID=rna_aspfla7_eg66933;Description=;parent=gene_aspfla7_eg66933
+aspfla7_CP047254.1	bed	RNA	81384	30652	.	-	ID=rna_aspfla7_eg67360;Description=;parent=gene_aspfla7_eg67360
+aspfla7_CP047254.1	bed	RNA	86394	25369	.	-	ID=rna_aspfla7_eg66932;Description=;parent=gene_aspfla7_eg66932
+aspfla7_CP047254.1	bed	RNA	87761	23684	.	+	ID=rna_aspfla7_eg67072;Description=;parent=gene_aspfla7_eg67072
+aspfla7_CP047254.1	bed	RNA	92714	18734	.	-	ID=rna_aspfla7_eg66920;Description=;parent=gene_aspfla7_eg66920
+aspfla7_CP047254.1	bed	RNA	93686	17942	.	-	ID=rna_aspfla7_eg67277;Description=;parent=gene_aspfla7_eg67277
+aspfla7_CP047254.1	bed	RNA	94799	17279	.	-	ID=rna_aspfla7_eg67316;Description=;parent=gene_aspfla7_eg67316
+aspfla7_CP047254.1	bed	RNA	95198	15821	.	-	ID=rna_aspfla7_eg67262;Description=;parent=gene_aspfla7_eg67262
+aspfla7_CP047254.1	bed	RNA	102621	8047	.	+	ID=rna_aspfla7_eg67261;Description=;parent=gene_aspfla7_eg67261
+aspfla7_CP047254.1	bed	RNA	104784	5995	.	+	ID=rna_aspfla7_eg66944;Description=;parent=gene_aspfla7_eg66944
+aspfla7_CP047254.1	bed	RNA	109394	2093	.	+	ID=rna_aspfla7_eg67362;Description=;parent=gene_aspfla7_eg67362
+aspfla7_CP047254.1	bed	CDS	351	109311	.	+	ID=cds_aspfla7_tyr1216;Description=;parent=rna_aspfla7_tyr1216
+aspfla7_CP047254.1	bed	CDS	5910	103960	.	+	ID=cds_aspfla7_eg67166;Description=;parent=rna_aspfla7_eg67166
+aspfla7_CP047254.1	bed	CDS	12779	95304	.	+	ID=cds_aspfla7_nlr21517;Description=;parent=rna_aspfla7_nlr21517
+aspfla7_CP047254.1	bed	CDS	18651	93061	.	-	ID=cds_aspfla7_eg67252;Description=;parent=rna_aspfla7_eg67252
+aspfla7_CP047254.1	bed	CDS	21801	88098	.	+	ID=cds_aspfla7_d37727;Description=;parent=rna_aspfla7_d37727
+aspfla7_CP047254.1	bed	CDS	24817	86624	.	-	ID=cds_aspfla7_eg66930;Description=;parent=rna_aspfla7_eg66930
+aspfla7_CP047254.1	bed	CDS	27537	83893	.	-	ID=cds_aspfla7_eg67291;Description=;parent=rna_aspfla7_eg67291
+aspfla7_CP047254.1	bed	CDS	29420	81098	.	-	ID=cds_aspfla7_eg66929;Description=;parent=rna_aspfla7_eg66929
+aspfla7_CP047254.1	bed	CDS	33536	76372	.	-	ID=cds_aspfla7_fre2019;Description=;parent=rna_aspfla7_fre2019
+aspfla7_CP047254.1	bed	CDS	36276	72510	.	-	ID=cds_aspfla7_plp1398;Description=;parent=rna_aspfla7_plp1398
+aspfla7_CP047254.1	bed	CDS	51600	59252	.	+	ID=cds_aspfla7_nlr21527;Description=;parent=rna_aspfla7_nlr21527
+aspfla7_CP047254.1	bed	CDS	58209	52939	.	-	ID=cds_aspfla7_eg67049;Description=;parent=rna_aspfla7_eg67049
+aspfla7_CP047254.1	bed	CDS	63636	47079	.	+	ID=cds_aspfla7_eg66872;Description=;parent=rna_aspfla7_eg66872
+aspfla7_CP047254.1	bed	CDS	66261	45718	.	+	ID=cds_aspfla7_eg67302;Description=;parent=rna_aspfla7_eg67302
+aspfla7_CP047254.1	bed	CDS	67296	43714	.	-	ID=cds_aspfla7_tyr1217;Description=;parent=rna_aspfla7_tyr1217
+aspfla7_CP047254.1	bed	CDS	69734	40376	.	-	ID=cds_aspfla7_eg67083;Description=;parent=rna_aspfla7_eg67083
+aspfla7_CP047254.1	bed	CDS	73050	38863	.	-	ID=cds_aspfla7_eg67276;Description=;parent=rna_aspfla7_eg67276
+aspfla7_CP047254.1	bed	CDS	77024	34787	.	+	ID=cds_aspfla7_eg66934;Description=;parent=rna_aspfla7_eg66934
+aspfla7_CP047254.1	bed	CDS	78601	33384	.	-	ID=cds_aspfla7_eg67354;Description=;parent=rna_aspfla7_eg67354
+aspfla7_CP047254.1	bed	CDS	79200	32659	.	-	ID=cds_aspfla7_eg66933;Description=;parent=rna_aspfla7_eg66933
+aspfla7_CP047254.1	bed	CDS	81384	30652	.	-	ID=cds_aspfla7_eg67360;Description=;parent=rna_aspfla7_eg67360
+aspfla7_CP047254.1	bed	CDS	86394	25369	.	-	ID=cds_aspfla7_eg66932;Description=;parent=rna_aspfla7_eg66932
+aspfla7_CP047254.1	bed	CDS	87761	23684	.	+	ID=cds_aspfla7_eg67072;Description=;parent=rna_aspfla7_eg67072
+aspfla7_CP047254.1	bed	CDS	92714	18734	.	-	ID=cds_aspfla7_eg66920;Description=;parent=rna_aspfla7_eg66920
+aspfla7_CP047254.1	bed	CDS	93686	17942	.	-	ID=cds_aspfla7_eg67277;Description=;parent=rna_aspfla7_eg67277
+aspfla7_CP047254.1	bed	CDS	94799	17279	.	-	ID=cds_aspfla7_eg67316;Description=;parent=rna_aspfla7_eg67316
+aspfla7_CP047254.1	bed	CDS	95198	15821	.	-	ID=cds_aspfla7_eg67262;Description=;parent=rna_aspfla7_eg67262
+aspfla7_CP047254.1	bed	CDS	102621	8047	.	+	ID=cds_aspfla7_eg67261;Description=;parent=rna_aspfla7_eg67261
+aspfla7_CP047254.1	bed	CDS	104784	5995	.	+	ID=cds_aspfla7_eg66944;Description=;parent=rna_aspfla7_eg66944
+aspfla7_CP047254.1	bed	CDS	109394	2093	.	+	ID=cds_aspfla7_eg67362;Description=;parent=rna_aspfla7_eg67362

@@ -1,0 +1,27 @@
+asptra2_scaffold77	bed	gene	1	18360	.	-	insert	ID=gene_asptra2_548066|aspnov1_scaffold183|down;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	gene	1022	15121	.	-	.	ID=gene_asptra2_591289;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	gene	4861	11336	.	-	.	ID=gene_asptra2_548052;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	gene	7324	8973	.	-	.	ID=gene_asptra2_580546;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	gene	9409	8575	.	+	.	ID=gene_asptra2_548061;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	gene	12499	3313	.	-	cap	ID=gene_asptra2_548066;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	gene	15161	2459	.	-	.	ID=gene_asptra2_548067;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	gene	15936	382	.	-	.	ID=gene_asptra2_591291;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	gene	18361	0	.	-	insert	ID=gene_asptra2_548066|aspnov1_scaffold183|up;Description=asptra2_s02803;parent=asptra2_scaffold77
+asptra2_scaffold77	bed	RNA	1	18360	.	-	ID=rna_asptra2_548066|aspnov1_scaffold183|down;Description=;parent=gene_asptra2_548066|aspnov1_scaffold183|down
+asptra2_scaffold77	bed	RNA	1022	15121	.	-	ID=rna_asptra2_591289;Description=;parent=gene_asptra2_591289
+asptra2_scaffold77	bed	RNA	4861	11336	.	-	ID=rna_asptra2_548052;Description=;parent=gene_asptra2_548052
+asptra2_scaffold77	bed	RNA	7324	8973	.	-	ID=rna_asptra2_580546;Description=;parent=gene_asptra2_580546
+asptra2_scaffold77	bed	RNA	9409	8575	.	+	ID=rna_asptra2_548061;Description=;parent=gene_asptra2_548061
+asptra2_scaffold77	bed	RNA	12499	3313	.	-	ID=rna_asptra2_548066;Description=;parent=gene_asptra2_548066
+asptra2_scaffold77	bed	RNA	15161	2459	.	-	ID=rna_asptra2_548067;Description=;parent=gene_asptra2_548067
+asptra2_scaffold77	bed	RNA	15936	382	.	-	ID=rna_asptra2_591291;Description=;parent=gene_asptra2_591291
+asptra2_scaffold77	bed	RNA	18361	0	.	-	ID=rna_asptra2_548066|aspnov1_scaffold183|up;Description=;parent=gene_asptra2_548066|aspnov1_scaffold183|up
+asptra2_scaffold77	bed	CDS	1	18360	.	-	ID=cds_asptra2_548066|aspnov1_scaffold183|down;Description=;parent=rna_asptra2_548066|aspnov1_scaffold183|down
+asptra2_scaffold77	bed	CDS	1022	15121	.	-	ID=cds_asptra2_591289;Description=;parent=rna_asptra2_591289
+asptra2_scaffold77	bed	CDS	4861	11336	.	-	ID=cds_asptra2_548052;Description=;parent=rna_asptra2_548052
+asptra2_scaffold77	bed	CDS	7324	8973	.	-	ID=cds_asptra2_580546;Description=;parent=rna_asptra2_580546
+asptra2_scaffold77	bed	CDS	9409	8575	.	+	ID=cds_asptra2_548061;Description=;parent=rna_asptra2_548061
+asptra2_scaffold77	bed	CDS	12499	3313	.	-	ID=cds_asptra2_548066;Description=;parent=rna_asptra2_548066
+asptra2_scaffold77	bed	CDS	15161	2459	.	-	ID=cds_asptra2_548067;Description=;parent=rna_asptra2_548067
+asptra2_scaffold77	bed	CDS	15936	382	.	-	ID=cds_asptra2_591291;Description=;parent=rna_asptra2_591291
+asptra2_scaffold77	bed	CDS	18361	0	.	-	ID=cds_asptra2_548066|aspnov1_scaffold183|up;Description=;parent=rna_asptra2_548066|aspnov1_scaffold183|up

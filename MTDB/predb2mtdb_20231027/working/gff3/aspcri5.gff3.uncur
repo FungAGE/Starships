@@ -1,0 +1,12 @@
+aspcri5_JAIWPM010000190.1	bed	gene	1	16289	.	+	insert	ID=gene_aspcri5_tyr1026|aspche1_BCIE01000015.1|up;Description=aspcri5_s00973;parent=aspcri5_JAIWPM010000190.1
+aspcri5_JAIWPM010000190.1	bed	gene	7354	6366	.	+	cap	ID=gene_aspcri5_tyr1026;Description=aspcri5_s00973;parent=aspcri5_JAIWPM010000190.1
+aspcri5_JAIWPM010000190.1	bed	gene	10270	3868	.	-	.	ID=gene_aspcri5_eg44710;Description=aspcri5_s00973;parent=aspcri5_JAIWPM010000190.1
+aspcri5_JAIWPM010000190.1	bed	gene	16290	0	.	+	insert	ID=gene_aspcri5_tyr1026|aspche1_BCIE01000015.1|down;Description=aspcri5_s00973;parent=aspcri5_JAIWPM010000190.1
+aspcri5_JAIWPM010000190.1	bed	RNA	1	16289	.	+	ID=rna_aspcri5_tyr1026|aspche1_BCIE01000015.1|up;Description=;parent=gene_aspcri5_tyr1026|aspche1_BCIE01000015.1|up
+aspcri5_JAIWPM010000190.1	bed	RNA	7354	6366	.	+	ID=rna_aspcri5_tyr1026;Description=;parent=gene_aspcri5_tyr1026
+aspcri5_JAIWPM010000190.1	bed	RNA	10270	3868	.	-	ID=rna_aspcri5_eg44710;Description=;parent=gene_aspcri5_eg44710
+aspcri5_JAIWPM010000190.1	bed	RNA	16290	0	.	+	ID=rna_aspcri5_tyr1026|aspche1_BCIE01000015.1|down;Description=;parent=gene_aspcri5_tyr1026|aspche1_BCIE01000015.1|down
+aspcri5_JAIWPM010000190.1	bed	CDS	1	16289	.	+	ID=cds_aspcri5_tyr1026|aspche1_BCIE01000015.1|up;Description=;parent=rna_aspcri5_tyr1026|aspche1_BCIE01000015.1|up
+aspcri5_JAIWPM010000190.1	bed	CDS	7354	6366	.	+	ID=cds_aspcri5_tyr1026;Description=;parent=rna_aspcri5_tyr1026
+aspcri5_JAIWPM010000190.1	bed	CDS	10270	3868	.	-	ID=cds_aspcri5_eg44710;Description=;parent=rna_aspcri5_eg44710
+aspcri5_JAIWPM010000190.1	bed	CDS	16290	0	.	+	ID=cds_aspcri5_tyr1026|aspche1_BCIE01000015.1|down;Description=;parent=rna_aspcri5_tyr1026|aspche1_BCIE01000015.1|down

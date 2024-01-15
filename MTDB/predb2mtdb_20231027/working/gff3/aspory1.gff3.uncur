@@ -1,0 +1,179 @@
+aspory1_Chr8AoryzaeRIB40	bed	region	1	253757	.	+	flank	ID=gene_aspory1_11754:11755:11753|DR|up;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	594	249558	.	+	cap	ID=gene_aspory1_11754:11755:11753;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	5203	247026	.	-	.	ID=gene_aspory1_eg129489;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	10185	242369	.	-	.	ID=gene_aspory1_11756;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	23057	228226	.	+	nlr	ID=gene_aspory1_11757;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	25704	227025	.	+	.	ID=gene_aspory1_11758;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	28241	221616	.	-	.	ID=gene_aspory1_11759;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	41842	211271	.	-	.	ID=gene_aspory1_11760;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	42793	207527	.	+	d37	ID=gene_aspory1_11761:11762;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	47156	204851	.	-	fre	ID=gene_aspory1_11763;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	52926	200182	.	-	.	ID=gene_aspory1_eg129509;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	54700	198528	.	+	.	ID=gene_aspory1_eg129483;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	57317	193053	.	-	.	ID=gene_aspory1_11764;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	65880	186064	.	+	.	ID=gene_aspory1_11765;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	69154	180841	.	-	.	ID=gene_aspory1_11766;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	76557	174822	.	+	nlr	ID=gene_aspory1_11767;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	80886	169109	.	+	.	ID=gene_aspory1_11768;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	85891	167338	.	+	.	ID=gene_aspory1_11769;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	87186	165890	.	-	.	ID=gene_aspory1_11770;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	91169	161505	.	-	.	ID=gene_aspory1_11771;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	92861	159738	.	-	.	ID=gene_aspory1_11772;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	94261	158884	.	-	.	ID=gene_aspory1_11773;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	95110	158242	.	+	.	ID=gene_aspory1_11774;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	99903	153197	.	+	.	ID=gene_aspory1_eg129876;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	104659	148035	.	-	.	ID=gene_aspory1_11775;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	108285	144391	.	+	.	ID=gene_aspory1_11776;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	110710	138269	.	-	plp	ID=gene_aspory1_11777:11778:11779;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	116405	135503	.	+	.	ID=gene_aspory1_11780;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	122934	130430	.	+	.	ID=gene_aspory1_eg129888;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	125414	126180	.	-	.	ID=gene_aspory1_11781;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	129807	123054	.	+	.	ID=gene_aspory1_11782;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	131902	120954	.	+	.	ID=gene_aspory1_11783;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	133348	119505	.	-	.	ID=gene_aspory1_11784;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	135800	116628	.	-	.	ID=gene_aspory1_eg129382;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	139776	113151	.	-	.	ID=gene_aspory1_11785;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	141433	110976	.	+	.	ID=gene_aspory1_11786;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	150248	102330	.	-	.	ID=gene_aspory1_11787;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	151689	100055	.	-	nlr	ID=gene_aspory1_11788;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	158043	93895	.	+	.	ID=gene_aspory1_11789;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	165188	86720	.	-	.	ID=gene_aspory1_11790;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	167954	81025	.	+	plp	ID=gene_aspory1_11791:11792:11793;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	174076	78600	.	-	.	ID=gene_aspory1_11794;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	177720	74974	.	+	.	ID=gene_aspory1_11795;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	183160	69466	.	-	.	ID=gene_aspory1_eg129582;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	184654	65679	.	-	.	ID=gene_aspory1_11796;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	189422	63582	.	+	.	ID=gene_aspory1_11797;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	195672	56934	.	-	.	ID=gene_aspory1_11798;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	200960	52013	.	-	.	ID=gene_aspory1_11799;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	204309	47903	.	+	.	ID=gene_aspory1_11800;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	210950	42370	.	+	.	ID=gene_aspory1_11801;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	212840	40408	.	+	.	ID=gene_aspory1_11802;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	217476	33093	.	+	.	ID=gene_aspory1_11803;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	221990	31091	.	-	.	ID=gene_aspory1_11804;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	225295	28032	.	-	.	ID=gene_aspory1_11805;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	230779	20407	.	+	.	ID=gene_aspory1_11806;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	235274	17685	.	-	.	ID=gene_aspory1_11807;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	236770	16271	.	-	.	ID=gene_aspory1_11808;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	246328	6920	.	-	.	ID=gene_aspory1_11809;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	247619	5005	.	-	.	ID=gene_aspory1_11810;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	gene	249684	3050	.	-	.	ID=gene_aspory1_11811;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	region	253758	0	.	+	flank	ID=gene_aspory1_11754:11755:11753|DR|down;Description=aspory1_s02143;parent=aspory1_Chr8AoryzaeRIB40
+aspory1_Chr8AoryzaeRIB40	bed	RNA	594	249558	.	+	ID=rna_aspory1_11754:11755:11753;Description=;parent=gene_aspory1_11754:11755:11753
+aspory1_Chr8AoryzaeRIB40	bed	RNA	5203	247026	.	-	ID=rna_aspory1_eg129489;Description=;parent=gene_aspory1_eg129489
+aspory1_Chr8AoryzaeRIB40	bed	RNA	10185	242369	.	-	ID=rna_aspory1_11756;Description=;parent=gene_aspory1_11756
+aspory1_Chr8AoryzaeRIB40	bed	RNA	23057	228226	.	+	ID=rna_aspory1_11757;Description=;parent=gene_aspory1_11757
+aspory1_Chr8AoryzaeRIB40	bed	RNA	25704	227025	.	+	ID=rna_aspory1_11758;Description=;parent=gene_aspory1_11758
+aspory1_Chr8AoryzaeRIB40	bed	RNA	28241	221616	.	-	ID=rna_aspory1_11759;Description=;parent=gene_aspory1_11759
+aspory1_Chr8AoryzaeRIB40	bed	RNA	41842	211271	.	-	ID=rna_aspory1_11760;Description=;parent=gene_aspory1_11760
+aspory1_Chr8AoryzaeRIB40	bed	RNA	42793	207527	.	+	ID=rna_aspory1_11761:11762;Description=;parent=gene_aspory1_11761:11762
+aspory1_Chr8AoryzaeRIB40	bed	RNA	47156	204851	.	-	ID=rna_aspory1_11763;Description=;parent=gene_aspory1_11763
+aspory1_Chr8AoryzaeRIB40	bed	RNA	52926	200182	.	-	ID=rna_aspory1_eg129509;Description=;parent=gene_aspory1_eg129509
+aspory1_Chr8AoryzaeRIB40	bed	RNA	54700	198528	.	+	ID=rna_aspory1_eg129483;Description=;parent=gene_aspory1_eg129483
+aspory1_Chr8AoryzaeRIB40	bed	RNA	57317	193053	.	-	ID=rna_aspory1_11764;Description=;parent=gene_aspory1_11764
+aspory1_Chr8AoryzaeRIB40	bed	RNA	65880	186064	.	+	ID=rna_aspory1_11765;Description=;parent=gene_aspory1_11765
+aspory1_Chr8AoryzaeRIB40	bed	RNA	69154	180841	.	-	ID=rna_aspory1_11766;Description=;parent=gene_aspory1_11766
+aspory1_Chr8AoryzaeRIB40	bed	RNA	76557	174822	.	+	ID=rna_aspory1_11767;Description=;parent=gene_aspory1_11767
+aspory1_Chr8AoryzaeRIB40	bed	RNA	80886	169109	.	+	ID=rna_aspory1_11768;Description=;parent=gene_aspory1_11768
+aspory1_Chr8AoryzaeRIB40	bed	RNA	85891	167338	.	+	ID=rna_aspory1_11769;Description=;parent=gene_aspory1_11769
+aspory1_Chr8AoryzaeRIB40	bed	RNA	87186	165890	.	-	ID=rna_aspory1_11770;Description=;parent=gene_aspory1_11770
+aspory1_Chr8AoryzaeRIB40	bed	RNA	91169	161505	.	-	ID=rna_aspory1_11771;Description=;parent=gene_aspory1_11771
+aspory1_Chr8AoryzaeRIB40	bed	RNA	92861	159738	.	-	ID=rna_aspory1_11772;Description=;parent=gene_aspory1_11772
+aspory1_Chr8AoryzaeRIB40	bed	RNA	94261	158884	.	-	ID=rna_aspory1_11773;Description=;parent=gene_aspory1_11773
+aspory1_Chr8AoryzaeRIB40	bed	RNA	95110	158242	.	+	ID=rna_aspory1_11774;Description=;parent=gene_aspory1_11774
+aspory1_Chr8AoryzaeRIB40	bed	RNA	99903	153197	.	+	ID=rna_aspory1_eg129876;Description=;parent=gene_aspory1_eg129876
+aspory1_Chr8AoryzaeRIB40	bed	RNA	104659	148035	.	-	ID=rna_aspory1_11775;Description=;parent=gene_aspory1_11775
+aspory1_Chr8AoryzaeRIB40	bed	RNA	108285	144391	.	+	ID=rna_aspory1_11776;Description=;parent=gene_aspory1_11776
+aspory1_Chr8AoryzaeRIB40	bed	RNA	110710	138269	.	-	ID=rna_aspory1_11777:11778:11779;Description=;parent=gene_aspory1_11777:11778:11779
+aspory1_Chr8AoryzaeRIB40	bed	RNA	116405	135503	.	+	ID=rna_aspory1_11780;Description=;parent=gene_aspory1_11780
+aspory1_Chr8AoryzaeRIB40	bed	RNA	122934	130430	.	+	ID=rna_aspory1_eg129888;Description=;parent=gene_aspory1_eg129888
+aspory1_Chr8AoryzaeRIB40	bed	RNA	125414	126180	.	-	ID=rna_aspory1_11781;Description=;parent=gene_aspory1_11781
+aspory1_Chr8AoryzaeRIB40	bed	RNA	129807	123054	.	+	ID=rna_aspory1_11782;Description=;parent=gene_aspory1_11782
+aspory1_Chr8AoryzaeRIB40	bed	RNA	131902	120954	.	+	ID=rna_aspory1_11783;Description=;parent=gene_aspory1_11783
+aspory1_Chr8AoryzaeRIB40	bed	RNA	133348	119505	.	-	ID=rna_aspory1_11784;Description=;parent=gene_aspory1_11784
+aspory1_Chr8AoryzaeRIB40	bed	RNA	135800	116628	.	-	ID=rna_aspory1_eg129382;Description=;parent=gene_aspory1_eg129382
+aspory1_Chr8AoryzaeRIB40	bed	RNA	139776	113151	.	-	ID=rna_aspory1_11785;Description=;parent=gene_aspory1_11785
+aspory1_Chr8AoryzaeRIB40	bed	RNA	141433	110976	.	+	ID=rna_aspory1_11786;Description=;parent=gene_aspory1_11786
+aspory1_Chr8AoryzaeRIB40	bed	RNA	150248	102330	.	-	ID=rna_aspory1_11787;Description=;parent=gene_aspory1_11787
+aspory1_Chr8AoryzaeRIB40	bed	RNA	151689	100055	.	-	ID=rna_aspory1_11788;Description=;parent=gene_aspory1_11788
+aspory1_Chr8AoryzaeRIB40	bed	RNA	158043	93895	.	+	ID=rna_aspory1_11789;Description=;parent=gene_aspory1_11789
+aspory1_Chr8AoryzaeRIB40	bed	RNA	165188	86720	.	-	ID=rna_aspory1_11790;Description=;parent=gene_aspory1_11790
+aspory1_Chr8AoryzaeRIB40	bed	RNA	167954	81025	.	+	ID=rna_aspory1_11791:11792:11793;Description=;parent=gene_aspory1_11791:11792:11793
+aspory1_Chr8AoryzaeRIB40	bed	RNA	174076	78600	.	-	ID=rna_aspory1_11794;Description=;parent=gene_aspory1_11794
+aspory1_Chr8AoryzaeRIB40	bed	RNA	177720	74974	.	+	ID=rna_aspory1_11795;Description=;parent=gene_aspory1_11795
+aspory1_Chr8AoryzaeRIB40	bed	RNA	183160	69466	.	-	ID=rna_aspory1_eg129582;Description=;parent=gene_aspory1_eg129582
+aspory1_Chr8AoryzaeRIB40	bed	RNA	184654	65679	.	-	ID=rna_aspory1_11796;Description=;parent=gene_aspory1_11796
+aspory1_Chr8AoryzaeRIB40	bed	RNA	189422	63582	.	+	ID=rna_aspory1_11797;Description=;parent=gene_aspory1_11797
+aspory1_Chr8AoryzaeRIB40	bed	RNA	195672	56934	.	-	ID=rna_aspory1_11798;Description=;parent=gene_aspory1_11798
+aspory1_Chr8AoryzaeRIB40	bed	RNA	200960	52013	.	-	ID=rna_aspory1_11799;Description=;parent=gene_aspory1_11799
+aspory1_Chr8AoryzaeRIB40	bed	RNA	204309	47903	.	+	ID=rna_aspory1_11800;Description=;parent=gene_aspory1_11800
+aspory1_Chr8AoryzaeRIB40	bed	RNA	210950	42370	.	+	ID=rna_aspory1_11801;Description=;parent=gene_aspory1_11801
+aspory1_Chr8AoryzaeRIB40	bed	RNA	212840	40408	.	+	ID=rna_aspory1_11802;Description=;parent=gene_aspory1_11802
+aspory1_Chr8AoryzaeRIB40	bed	RNA	217476	33093	.	+	ID=rna_aspory1_11803;Description=;parent=gene_aspory1_11803
+aspory1_Chr8AoryzaeRIB40	bed	RNA	221990	31091	.	-	ID=rna_aspory1_11804;Description=;parent=gene_aspory1_11804
+aspory1_Chr8AoryzaeRIB40	bed	RNA	225295	28032	.	-	ID=rna_aspory1_11805;Description=;parent=gene_aspory1_11805
+aspory1_Chr8AoryzaeRIB40	bed	RNA	230779	20407	.	+	ID=rna_aspory1_11806;Description=;parent=gene_aspory1_11806
+aspory1_Chr8AoryzaeRIB40	bed	RNA	235274	17685	.	-	ID=rna_aspory1_11807;Description=;parent=gene_aspory1_11807
+aspory1_Chr8AoryzaeRIB40	bed	RNA	236770	16271	.	-	ID=rna_aspory1_11808;Description=;parent=gene_aspory1_11808
+aspory1_Chr8AoryzaeRIB40	bed	RNA	246328	6920	.	-	ID=rna_aspory1_11809;Description=;parent=gene_aspory1_11809
+aspory1_Chr8AoryzaeRIB40	bed	RNA	247619	5005	.	-	ID=rna_aspory1_11810;Description=;parent=gene_aspory1_11810
+aspory1_Chr8AoryzaeRIB40	bed	RNA	249684	3050	.	-	ID=rna_aspory1_11811;Description=;parent=gene_aspory1_11811
+aspory1_Chr8AoryzaeRIB40	bed	CDS	594	249558	.	+	ID=cds_aspory1_11754:11755:11753;Description=;parent=rna_aspory1_11754:11755:11753
+aspory1_Chr8AoryzaeRIB40	bed	CDS	5203	247026	.	-	ID=cds_aspory1_eg129489;Description=;parent=rna_aspory1_eg129489
+aspory1_Chr8AoryzaeRIB40	bed	CDS	10185	242369	.	-	ID=cds_aspory1_11756;Description=;parent=rna_aspory1_11756
+aspory1_Chr8AoryzaeRIB40	bed	CDS	23057	228226	.	+	ID=cds_aspory1_11757;Description=;parent=rna_aspory1_11757
+aspory1_Chr8AoryzaeRIB40	bed	CDS	25704	227025	.	+	ID=cds_aspory1_11758;Description=;parent=rna_aspory1_11758
+aspory1_Chr8AoryzaeRIB40	bed	CDS	28241	221616	.	-	ID=cds_aspory1_11759;Description=;parent=rna_aspory1_11759
+aspory1_Chr8AoryzaeRIB40	bed	CDS	41842	211271	.	-	ID=cds_aspory1_11760;Description=;parent=rna_aspory1_11760
+aspory1_Chr8AoryzaeRIB40	bed	CDS	42793	207527	.	+	ID=cds_aspory1_11761:11762;Description=;parent=rna_aspory1_11761:11762
+aspory1_Chr8AoryzaeRIB40	bed	CDS	47156	204851	.	-	ID=cds_aspory1_11763;Description=;parent=rna_aspory1_11763
+aspory1_Chr8AoryzaeRIB40	bed	CDS	52926	200182	.	-	ID=cds_aspory1_eg129509;Description=;parent=rna_aspory1_eg129509
+aspory1_Chr8AoryzaeRIB40	bed	CDS	54700	198528	.	+	ID=cds_aspory1_eg129483;Description=;parent=rna_aspory1_eg129483
+aspory1_Chr8AoryzaeRIB40	bed	CDS	57317	193053	.	-	ID=cds_aspory1_11764;Description=;parent=rna_aspory1_11764
+aspory1_Chr8AoryzaeRIB40	bed	CDS	65880	186064	.	+	ID=cds_aspory1_11765;Description=;parent=rna_aspory1_11765
+aspory1_Chr8AoryzaeRIB40	bed	CDS	69154	180841	.	-	ID=cds_aspory1_11766;Description=;parent=rna_aspory1_11766
+aspory1_Chr8AoryzaeRIB40	bed	CDS	76557	174822	.	+	ID=cds_aspory1_11767;Description=;parent=rna_aspory1_11767
+aspory1_Chr8AoryzaeRIB40	bed	CDS	80886	169109	.	+	ID=cds_aspory1_11768;Description=;parent=rna_aspory1_11768
+aspory1_Chr8AoryzaeRIB40	bed	CDS	85891	167338	.	+	ID=cds_aspory1_11769;Description=;parent=rna_aspory1_11769
+aspory1_Chr8AoryzaeRIB40	bed	CDS	87186	165890	.	-	ID=cds_aspory1_11770;Description=;parent=rna_aspory1_11770
+aspory1_Chr8AoryzaeRIB40	bed	CDS	91169	161505	.	-	ID=cds_aspory1_11771;Description=;parent=rna_aspory1_11771
+aspory1_Chr8AoryzaeRIB40	bed	CDS	92861	159738	.	-	ID=cds_aspory1_11772;Description=;parent=rna_aspory1_11772
+aspory1_Chr8AoryzaeRIB40	bed	CDS	94261	158884	.	-	ID=cds_aspory1_11773;Description=;parent=rna_aspory1_11773
+aspory1_Chr8AoryzaeRIB40	bed	CDS	95110	158242	.	+	ID=cds_aspory1_11774;Description=;parent=rna_aspory1_11774
+aspory1_Chr8AoryzaeRIB40	bed	CDS	99903	153197	.	+	ID=cds_aspory1_eg129876;Description=;parent=rna_aspory1_eg129876
+aspory1_Chr8AoryzaeRIB40	bed	CDS	104659	148035	.	-	ID=cds_aspory1_11775;Description=;parent=rna_aspory1_11775
+aspory1_Chr8AoryzaeRIB40	bed	CDS	108285	144391	.	+	ID=cds_aspory1_11776;Description=;parent=rna_aspory1_11776
+aspory1_Chr8AoryzaeRIB40	bed	CDS	110710	138269	.	-	ID=cds_aspory1_11777:11778:11779;Description=;parent=rna_aspory1_11777:11778:11779
+aspory1_Chr8AoryzaeRIB40	bed	CDS	116405	135503	.	+	ID=cds_aspory1_11780;Description=;parent=rna_aspory1_11780
+aspory1_Chr8AoryzaeRIB40	bed	CDS	122934	130430	.	+	ID=cds_aspory1_eg129888;Description=;parent=rna_aspory1_eg129888
+aspory1_Chr8AoryzaeRIB40	bed	CDS	125414	126180	.	-	ID=cds_aspory1_11781;Description=;parent=rna_aspory1_11781
+aspory1_Chr8AoryzaeRIB40	bed	CDS	129807	123054	.	+	ID=cds_aspory1_11782;Description=;parent=rna_aspory1_11782
+aspory1_Chr8AoryzaeRIB40	bed	CDS	131902	120954	.	+	ID=cds_aspory1_11783;Description=;parent=rna_aspory1_11783
+aspory1_Chr8AoryzaeRIB40	bed	CDS	133348	119505	.	-	ID=cds_aspory1_11784;Description=;parent=rna_aspory1_11784
+aspory1_Chr8AoryzaeRIB40	bed	CDS	135800	116628	.	-	ID=cds_aspory1_eg129382;Description=;parent=rna_aspory1_eg129382
+aspory1_Chr8AoryzaeRIB40	bed	CDS	139776	113151	.	-	ID=cds_aspory1_11785;Description=;parent=rna_aspory1_11785
+aspory1_Chr8AoryzaeRIB40	bed	CDS	141433	110976	.	+	ID=cds_aspory1_11786;Description=;parent=rna_aspory1_11786
+aspory1_Chr8AoryzaeRIB40	bed	CDS	150248	102330	.	-	ID=cds_aspory1_11787;Description=;parent=rna_aspory1_11787
+aspory1_Chr8AoryzaeRIB40	bed	CDS	151689	100055	.	-	ID=cds_aspory1_11788;Description=;parent=rna_aspory1_11788
+aspory1_Chr8AoryzaeRIB40	bed	CDS	158043	93895	.	+	ID=cds_aspory1_11789;Description=;parent=rna_aspory1_11789
+aspory1_Chr8AoryzaeRIB40	bed	CDS	165188	86720	.	-	ID=cds_aspory1_11790;Description=;parent=rna_aspory1_11790
+aspory1_Chr8AoryzaeRIB40	bed	CDS	167954	81025	.	+	ID=cds_aspory1_11791:11792:11793;Description=;parent=rna_aspory1_11791:11792:11793
+aspory1_Chr8AoryzaeRIB40	bed	CDS	174076	78600	.	-	ID=cds_aspory1_11794;Description=;parent=rna_aspory1_11794
+aspory1_Chr8AoryzaeRIB40	bed	CDS	177720	74974	.	+	ID=cds_aspory1_11795;Description=;parent=rna_aspory1_11795
+aspory1_Chr8AoryzaeRIB40	bed	CDS	183160	69466	.	-	ID=cds_aspory1_eg129582;Description=;parent=rna_aspory1_eg129582
+aspory1_Chr8AoryzaeRIB40	bed	CDS	184654	65679	.	-	ID=cds_aspory1_11796;Description=;parent=rna_aspory1_11796
+aspory1_Chr8AoryzaeRIB40	bed	CDS	189422	63582	.	+	ID=cds_aspory1_11797;Description=;parent=rna_aspory1_11797
+aspory1_Chr8AoryzaeRIB40	bed	CDS	195672	56934	.	-	ID=cds_aspory1_11798;Description=;parent=rna_aspory1_11798
+aspory1_Chr8AoryzaeRIB40	bed	CDS	200960	52013	.	-	ID=cds_aspory1_11799;Description=;parent=rna_aspory1_11799
+aspory1_Chr8AoryzaeRIB40	bed	CDS	204309	47903	.	+	ID=cds_aspory1_11800;Description=;parent=rna_aspory1_11800
+aspory1_Chr8AoryzaeRIB40	bed	CDS	210950	42370	.	+	ID=cds_aspory1_11801;Description=;parent=rna_aspory1_11801
+aspory1_Chr8AoryzaeRIB40	bed	CDS	212840	40408	.	+	ID=cds_aspory1_11802;Description=;parent=rna_aspory1_11802
+aspory1_Chr8AoryzaeRIB40	bed	CDS	217476	33093	.	+	ID=cds_aspory1_11803;Description=;parent=rna_aspory1_11803
+aspory1_Chr8AoryzaeRIB40	bed	CDS	221990	31091	.	-	ID=cds_aspory1_11804;Description=;parent=rna_aspory1_11804
+aspory1_Chr8AoryzaeRIB40	bed	CDS	225295	28032	.	-	ID=cds_aspory1_11805;Description=;parent=rna_aspory1_11805
+aspory1_Chr8AoryzaeRIB40	bed	CDS	230779	20407	.	+	ID=cds_aspory1_11806;Description=;parent=rna_aspory1_11806
+aspory1_Chr8AoryzaeRIB40	bed	CDS	235274	17685	.	-	ID=cds_aspory1_11807;Description=;parent=rna_aspory1_11807
+aspory1_Chr8AoryzaeRIB40	bed	CDS	236770	16271	.	-	ID=cds_aspory1_11808;Description=;parent=rna_aspory1_11808
+aspory1_Chr8AoryzaeRIB40	bed	CDS	246328	6920	.	-	ID=cds_aspory1_11809;Description=;parent=rna_aspory1_11809
+aspory1_Chr8AoryzaeRIB40	bed	CDS	247619	5005	.	-	ID=cds_aspory1_11810;Description=;parent=rna_aspory1_11810
+aspory1_Chr8AoryzaeRIB40	bed	CDS	249684	3050	.	-	ID=cds_aspory1_11811;Description=;parent=rna_aspory1_11811

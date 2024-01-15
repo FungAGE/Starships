@@ -1,0 +1,82 @@
+fuscom1_scaffold8	bed	region	1	85677	.	+	flank	ID=gene_fuscom1_510842|DR|up;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	region	41	85629	.	+	flank	ID=gene_fuscom1_510842|TIR|up;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	487	82562	.	+	cap	ID=gene_fuscom1_510842;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	3359	81522	.	-	.	ID=gene_fuscom1_510501;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	7980	74185	.	-	nlr	ID=gene_fuscom1_577564;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	15766	66446	.	-	nlr	ID=gene_fuscom1_511866:536377:611821;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	21568	61663	.	-	nlr	ID=gene_fuscom1_457578:611837;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	29151	53059	.	-	nlr	ID=gene_fuscom1_536384:611858;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	32819	51921	.	-	.	ID=gene_fuscom1_eg202028;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	34458	50735	.	-	.	ID=gene_fuscom1_eg202283;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	36501	45779	.	-	.	ID=gene_fuscom1_560503;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	40115	43801	.	+	.	ID=gene_fuscom1_eg202046;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	42244	39894	.	+	nlr	ID=gene_fuscom1_387733;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	46433	37638	.	+	.	ID=gene_fuscom1_387625;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	52449	29822	.	-	.	ID=gene_fuscom1_511909;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	57518	26544	.	-	.	ID=gene_fuscom1_387891;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	59113	24996	.	+	.	ID=gene_fuscom1_387897;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	62956	22003	.	-	.	ID=gene_fuscom1_387961;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	65382	18572	.	-	.	ID=gene_fuscom1_663438;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	67201	17551	.	-	.	ID=gene_fuscom1_611890;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	68824	15326	.	+	.	ID=gene_fuscom1_388109;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	70279	13955	.	-	.	ID=gene_fuscom1_627739;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	72343	10679	.	+	.	ID=gene_fuscom1_637912;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	75420	9337	.	+	.	ID=gene_fuscom1_577581;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	78481	6784	.	+	nlr	ID=gene_fuscom1_511898;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	80165	3557	.	-	.	ID=gene_fuscom1_388380;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	82360	1594	.	-	.	ID=gene_fuscom1_510325;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	gene	84475	524	.	-	.	ID=gene_fuscom1_611919;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	region	85637	32	.	+	flank	ID=gene_fuscom1_510842|TIR|down;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	region	85677	0	.	+	flank	ID=gene_fuscom1_510842|DR|down;Description=fuscom1_s05121;parent=fuscom1_scaffold8
+fuscom1_scaffold8	bed	RNA	487	82562	.	+	ID=rna_fuscom1_510842;Description=;parent=gene_fuscom1_510842
+fuscom1_scaffold8	bed	RNA	3359	81522	.	-	ID=rna_fuscom1_510501;Description=;parent=gene_fuscom1_510501
+fuscom1_scaffold8	bed	RNA	7980	74185	.	-	ID=rna_fuscom1_577564;Description=;parent=gene_fuscom1_577564
+fuscom1_scaffold8	bed	RNA	15766	66446	.	-	ID=rna_fuscom1_511866:536377:611821;Description=;parent=gene_fuscom1_511866:536377:611821
+fuscom1_scaffold8	bed	RNA	21568	61663	.	-	ID=rna_fuscom1_457578:611837;Description=;parent=gene_fuscom1_457578:611837
+fuscom1_scaffold8	bed	RNA	29151	53059	.	-	ID=rna_fuscom1_536384:611858;Description=;parent=gene_fuscom1_536384:611858
+fuscom1_scaffold8	bed	RNA	32819	51921	.	-	ID=rna_fuscom1_eg202028;Description=;parent=gene_fuscom1_eg202028
+fuscom1_scaffold8	bed	RNA	34458	50735	.	-	ID=rna_fuscom1_eg202283;Description=;parent=gene_fuscom1_eg202283
+fuscom1_scaffold8	bed	RNA	36501	45779	.	-	ID=rna_fuscom1_560503;Description=;parent=gene_fuscom1_560503
+fuscom1_scaffold8	bed	RNA	40115	43801	.	+	ID=rna_fuscom1_eg202046;Description=;parent=gene_fuscom1_eg202046
+fuscom1_scaffold8	bed	RNA	42244	39894	.	+	ID=rna_fuscom1_387733;Description=;parent=gene_fuscom1_387733
+fuscom1_scaffold8	bed	RNA	46433	37638	.	+	ID=rna_fuscom1_387625;Description=;parent=gene_fuscom1_387625
+fuscom1_scaffold8	bed	RNA	52449	29822	.	-	ID=rna_fuscom1_511909;Description=;parent=gene_fuscom1_511909
+fuscom1_scaffold8	bed	RNA	57518	26544	.	-	ID=rna_fuscom1_387891;Description=;parent=gene_fuscom1_387891
+fuscom1_scaffold8	bed	RNA	59113	24996	.	+	ID=rna_fuscom1_387897;Description=;parent=gene_fuscom1_387897
+fuscom1_scaffold8	bed	RNA	62956	22003	.	-	ID=rna_fuscom1_387961;Description=;parent=gene_fuscom1_387961
+fuscom1_scaffold8	bed	RNA	65382	18572	.	-	ID=rna_fuscom1_663438;Description=;parent=gene_fuscom1_663438
+fuscom1_scaffold8	bed	RNA	67201	17551	.	-	ID=rna_fuscom1_611890;Description=;parent=gene_fuscom1_611890
+fuscom1_scaffold8	bed	RNA	68824	15326	.	+	ID=rna_fuscom1_388109;Description=;parent=gene_fuscom1_388109
+fuscom1_scaffold8	bed	RNA	70279	13955	.	-	ID=rna_fuscom1_627739;Description=;parent=gene_fuscom1_627739
+fuscom1_scaffold8	bed	RNA	72343	10679	.	+	ID=rna_fuscom1_637912;Description=;parent=gene_fuscom1_637912
+fuscom1_scaffold8	bed	RNA	75420	9337	.	+	ID=rna_fuscom1_577581;Description=;parent=gene_fuscom1_577581
+fuscom1_scaffold8	bed	RNA	78481	6784	.	+	ID=rna_fuscom1_511898;Description=;parent=gene_fuscom1_511898
+fuscom1_scaffold8	bed	RNA	80165	3557	.	-	ID=rna_fuscom1_388380;Description=;parent=gene_fuscom1_388380
+fuscom1_scaffold8	bed	RNA	82360	1594	.	-	ID=rna_fuscom1_510325;Description=;parent=gene_fuscom1_510325
+fuscom1_scaffold8	bed	RNA	84475	524	.	-	ID=rna_fuscom1_611919;Description=;parent=gene_fuscom1_611919
+fuscom1_scaffold8	bed	CDS	487	82562	.	+	ID=cds_fuscom1_510842;Description=;parent=rna_fuscom1_510842
+fuscom1_scaffold8	bed	CDS	3359	81522	.	-	ID=cds_fuscom1_510501;Description=;parent=rna_fuscom1_510501
+fuscom1_scaffold8	bed	CDS	7980	74185	.	-	ID=cds_fuscom1_577564;Description=;parent=rna_fuscom1_577564
+fuscom1_scaffold8	bed	CDS	15766	66446	.	-	ID=cds_fuscom1_511866:536377:611821;Description=;parent=rna_fuscom1_511866:536377:611821
+fuscom1_scaffold8	bed	CDS	21568	61663	.	-	ID=cds_fuscom1_457578:611837;Description=;parent=rna_fuscom1_457578:611837
+fuscom1_scaffold8	bed	CDS	29151	53059	.	-	ID=cds_fuscom1_536384:611858;Description=;parent=rna_fuscom1_536384:611858
+fuscom1_scaffold8	bed	CDS	32819	51921	.	-	ID=cds_fuscom1_eg202028;Description=;parent=rna_fuscom1_eg202028
+fuscom1_scaffold8	bed	CDS	34458	50735	.	-	ID=cds_fuscom1_eg202283;Description=;parent=rna_fuscom1_eg202283
+fuscom1_scaffold8	bed	CDS	36501	45779	.	-	ID=cds_fuscom1_560503;Description=;parent=rna_fuscom1_560503
+fuscom1_scaffold8	bed	CDS	40115	43801	.	+	ID=cds_fuscom1_eg202046;Description=;parent=rna_fuscom1_eg202046
+fuscom1_scaffold8	bed	CDS	42244	39894	.	+	ID=cds_fuscom1_387733;Description=;parent=rna_fuscom1_387733
+fuscom1_scaffold8	bed	CDS	46433	37638	.	+	ID=cds_fuscom1_387625;Description=;parent=rna_fuscom1_387625
+fuscom1_scaffold8	bed	CDS	52449	29822	.	-	ID=cds_fuscom1_511909;Description=;parent=rna_fuscom1_511909
+fuscom1_scaffold8	bed	CDS	57518	26544	.	-	ID=cds_fuscom1_387891;Description=;parent=rna_fuscom1_387891
+fuscom1_scaffold8	bed	CDS	59113	24996	.	+	ID=cds_fuscom1_387897;Description=;parent=rna_fuscom1_387897
+fuscom1_scaffold8	bed	CDS	62956	22003	.	-	ID=cds_fuscom1_387961;Description=;parent=rna_fuscom1_387961
+fuscom1_scaffold8	bed	CDS	65382	18572	.	-	ID=cds_fuscom1_663438;Description=;parent=rna_fuscom1_663438
+fuscom1_scaffold8	bed	CDS	67201	17551	.	-	ID=cds_fuscom1_611890;Description=;parent=rna_fuscom1_611890
+fuscom1_scaffold8	bed	CDS	68824	15326	.	+	ID=cds_fuscom1_388109;Description=;parent=rna_fuscom1_388109
+fuscom1_scaffold8	bed	CDS	70279	13955	.	-	ID=cds_fuscom1_627739;Description=;parent=rna_fuscom1_627739
+fuscom1_scaffold8	bed	CDS	72343	10679	.	+	ID=cds_fuscom1_637912;Description=;parent=rna_fuscom1_637912
+fuscom1_scaffold8	bed	CDS	75420	9337	.	+	ID=cds_fuscom1_577581;Description=;parent=rna_fuscom1_577581
+fuscom1_scaffold8	bed	CDS	78481	6784	.	+	ID=cds_fuscom1_511898;Description=;parent=rna_fuscom1_511898
+fuscom1_scaffold8	bed	CDS	80165	3557	.	-	ID=cds_fuscom1_388380;Description=;parent=rna_fuscom1_388380
+fuscom1_scaffold8	bed	CDS	82360	1594	.	-	ID=cds_fuscom1_510325;Description=;parent=rna_fuscom1_510325
+fuscom1_scaffold8	bed	CDS	84475	524	.	-	ID=cds_fuscom1_611919;Description=;parent=rna_fuscom1_611919

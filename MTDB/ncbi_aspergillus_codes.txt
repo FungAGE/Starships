@@ -1,0 +1,228 @@
+Executing command: /home/emile/scripts/glofish//bin/format-ncbi -r aspergillus_ncbi_notMycodb.txt -a aspergillus_assembly_paths.txt -c ../20211215.pub.genome_codes.txt
+aspter2	GCA_000149615.1	Aspergillus terreus NIH2624
+aspory4	GCA_000184455.3	Aspergillus oryzae RIB40
+aspsoj1	GCA_000226655.2	Aspergillus sojae NBRC 4239
+aspscl5	GCA_000530345.1	Aspergillus sclerotiorum
+aspnom4	GCA_000531055.1	Aspergillus nomiae
+aspram3	GCA_000986645.1	Aspergillus rambellii
+aspoch3	GCA_000986665.1	Aspergillus ochraceoroseus
+aspasp1	GCA_001044295.1	Aspergillus sp. Z5
+aspuda2	GCA_001078395.2	Aspergillus udagawae
+aspwes1	GCA_001307345.1	Aspergillus westerdijkiae
+asplen1	GCA_001445615.2	Aspergillus lentulus
+aspcal3	GCA_001511075.1	Aspergillus calidoustus
+asppar6	GCA_001576805.1	Aspergillus parasiticus
+aspawa2	GCA_001599415.1	Aspergillus awamori var. piceus
+aspche1	GCA_001599875.1	Aspergillus chevalieri
+aspluc4	GCA_001602395.1	Aspergillus luchuensis
+aspter3	GCA_001630395.1	Aspergillus terreus
+aspcri2	GCA_001693355.1	Aspergillus cristatus
+aspfum8	GCA_001715275.2	Aspergillus fumigatus
+aspcri3	GCA_001717485.1	Aspergillus cristatus
+aspnig10	GCA_001741905.1	Aspergillus niger
+aspnig11	GCA_001741915.1	Aspergillus niger
+aspbom2	GCA_001792695.1	Aspergillus bombycis
+aspsyd2	GCA_001890705.1	Aspergillus sydowii CBS 593.65
+aspaff1	GCA_001931935.1	Aspergillus aff. floccosus IMV 01167
+aspcar1	GCA_001990825.1	Aspergillus carbonarius ITEM 5010
+aspory5	GCA_002007945.1	Aspergillus oryzae
+aspory6	GCA_002214955.1	Aspergillus oryzae
+aspory7	GCA_002214965.1	Aspergillus oryzae
+aspper1	GCA_002215965.1	Aspergillus persii
+asptur1	GCA_002234965.2	Aspergillus turcosus
+asptur2	GCA_002234975.2	Aspergillus turcosus
+aspthe1	GCA_002237265.2	Aspergillus thermomutatus
+aspara2	GCA_002749805.1	Aspergillus arachidicola
+aspter4	GCA_002749855.1	Aspergillus terreus
+aspoch4	GCA_002846915.2	Aspergillus ochraceoroseus IBT 24754
+aspcan3	GCA_002847045.1	Aspergillus candidus
+aspnov3	GCA_002847465.1	Aspergillus novofumigatus IBT 16806
+aspcam2	GCA_002847485.1	Aspergillus campestris IBT 28561
+aspste4	GCA_002849105.1	Aspergillus steynii IBT 23096
+asptai2	GCA_002850765.1	Aspergillus taichungensis
+aspasp2	GCA_002894705.1	Aspergillus sp. ATCC 12892
+asppse12	GCA_002927005.1	Aspergillus pseudoterreus
+aspfum9	GCA_003069565.1	Aspergillus fumigatus
+aspneo8	GCA_003116565.1	Aspergillus neoellipticus
+aspasp3	GCA_003138005.1	Aspergillus sp. MA 6041
+aspasp4	GCA_003138035.1	Aspergillus sp. MA 6037
+aspscl6	GCA_003184525.1	Aspergillus sclerotioniger CBS 115572
+aspeuc2	GCA_003184535.1	Aspergillus eucalypticola CBS 122712
+asphet3	GCA_003184545.1	Aspergillus heteromorphus CBS 117.55
+aspsac2	GCA_003184585.1	Aspergillus saccharolyticus JOP 1030-1
+aspneo9	GCA_003184625.1	Aspergillus neoniger CBS 115656
+aspscl7	GCA_003184635.1	Aspergillus sclerotiicarbonarius CBS 121057
+aspell2	GCA_003184645.1	Aspergillus ellipticus CBS 707.79
+aspind3	GCA_003184685.1	Aspergillus indologenus CBS 114.80
+aspbru2	GCA_003184695.1	Aspergillus brunneoviolaceus CBS 621.78
+aspvio2	GCA_003184705.1	Aspergillus violaceofuscus CBS 115571
+aspuva2	GCA_003184745.1	Aspergillus uvarum CBS 121591
+asppip2	GCA_003184755.1	Aspergillus piperis CBS 112811
+aspacu3	GCA_003184765.1	Aspergillus aculeatinus CBS 121060
+aspjap2	GCA_003184785.1	Aspergillus japonicus CBS 114.51
+aspfij2	GCA_003184825.1	Aspergillus fijiensis CBS 313.89
+aspcos3	GCA_003184835.1	Aspergillus costaricaensis CBS 115574
+aspibe2	GCA_003184845.1	Aspergillus ibericus CBS 121593
+asphom2	GCA_003184865.1	Aspergillus homomorphus CBS 101889
+aspvad2	GCA_003184925.1	Aspergillus vadensis CBS 113365
+aspung1	GCA_003324175.1	Aspergillus unguis
+aspwel2	GCA_003344945.1	Aspergillus welwitschiae
+aspspi1	GCA_003574815.1	Aspergillus spinulosporus
+aspinc1	GCA_003719405.1	Aspergillus incahuasiensis
+aspoli1	GCA_003719415.1	Aspergillus olivimuriae
+aspvir1	GCA_004368095.1	Aspergillus viridinutans
+aspcej1	GCA_004769165.1	Aspergillus cejpii
+asptan1	GCA_004798825.1	Aspergillus tanneri
+aspoch5	GCA_004849945.1	Aspergillus ochraceus
+aspfum10	GCA_005768625.2	Aspergillus fumigatus
+aspoch6	GCA_005784425.1	Aspergillus ochraceus
+aspsoj2	GCA_008274985.1	Aspergillus sojae
+aspfis3	GCA_008711165.1	Aspergillus fischeri
+aspfis4	GCA_008711225.1	Aspergillus fischeri
+asptam2	GCA_008973505.1	Aspergillus tamarii
+asptam3	GCA_008973515.1	Aspergillus tamarii
+aspter5	GCA_009014675.2	Aspergillus terreus
+aspfla6	GCA_009017415.1	Aspergillus flavus
+asplep2	GCA_009176345.1	Aspergillus leporis
+aspall2	GCA_009176365.1	Aspergillus alliaceus
+asppar7	GCA_009176385.1	Aspergillus parasiticus
+aspnov4	GCA_009176405.1	Aspergillus novoparasiticus
+aspmin2	GCA_009176455.1	Aspergillus minisclerotigenes
+asppse13	GCA_009193445.1	Aspergillus pseudotamarii
+aspave2	GCA_009193465.1	Aspergillus avenaceus
+asptam4	GCA_009193485.1	Aspergillus tamarii
+asptra3	GCA_009193505.1	Aspergillus transmontanensis
+aspser2	GCA_009193525.1	Aspergillus sergii
+aspara3	GCA_009193545.1	Aspergillus arachidicola
+aspcor3	GCA_009193565.1	Aspergillus coremiiformis
+aspcae2	GCA_009193585.1	Aspergillus caelatus
+aspall3	GCA_009193605.1	Aspergillus alliaceus
+asppse14	GCA_009193665.1	Aspergillus pseudocaelatus
+aspsyd3	GCA_009193685.1	Aspergillus sydowii
+aspsoj3	GCA_009687765.1	Aspergillus sojae
+aspsoj4	GCA_009687785.1	Aspergillus sojae
+aspsoj5	GCA_009687805.1	Aspergillus sojae
+aspwel3	GCA_009761105.1	Aspergillus welwitschiae
+aspnig12	GCA_009812365.1	Aspergillus niger
+asptri1	GCA_009812425.1	Aspergillus tritici
+aspamo1	GCA_009812435.1	Aspergillus amoenus
+aspsyd4	GCA_009828905.1	Aspergillus sydowii
+aspter6	GCA_009834425.1	Aspergillus terreus
+aspfla7	GCA_009856665.1	Aspergillus flavus
+aspter7	GCA_009932835.1	Aspergillus terreus
+asptub2	GCA_010614855.1	Aspergillus tubingensis
+aspuda3	GCA_010723835.1	Aspergillus udagawae
+asplen2	GCA_010723975.1	Aspergillus lentulus
+aspuda4	GCA_010724135.1	Aspergillus udagawae
+aspuda5	GCA_010724255.1	Aspergillus udagawae
+aspuda6	GCA_010724335.1	Aspergillus udagawae
+asplen3	GCA_010724455.1	Aspergillus lentulus
+asplen4	GCA_010724575.1	Aspergillus lentulus
+asplen5	GCA_010724635.1	Aspergillus lentulus
+aspuda7	GCA_010724795.1	Aspergillus udagawae
+asplen6	GCA_010724915.1	Aspergillus lentulus
+aspnid3	GCA_011074995.1	Aspergillus nidulans
+aspnid4	GCA_011075025.1	Aspergillus nidulans
+aspnig13	GCA_011316255.1	Aspergillus niger
+aspflo1	GCA_012184565.1	Aspergillus floridensis
+aspwel4	GCA_012275225.1	Aspergillus welwitschiae
+aspwel5	GCA_012365075.1	Aspergillus welwitschiae
+aspfum11	GCA_012656225.1	Aspergillus fumigatiaffinis
+aspfum12	GCA_012656285.1	Aspergillus fumigatiaffinis
+aspfum13	GCA_012656295.1	Aspergillus fumigatiaffinis
+aspfum14	GCA_012656325.1	Aspergillus fumigatiaffinis
+asplen7	GCA_012656335.1	Aspergillus lentulus
+asplen8	GCA_012656375.1	Aspergillus lentulus
+asplen9	GCA_012656435.1	Aspergillus lentulus
+asplen10	GCA_012656445.1	Aspergillus lentulus
+aspfla8	GCA_012896415.1	Aspergillus flavus
+aspfla9	GCA_012896875.1	Aspergillus flavus
+aspfla10	GCA_012896995.1	Aspergillus flavus
+asppar8	GCA_012897115.1	Aspergillus parasiticus
+asppar9	GCA_013145845.1	Aspergillus parasiticus
+asppar10	GCA_013145875.1	Aspergillus parasiticus
+asppar11	GCA_013145995.1	Aspergillus parasiticus
+asppar12	GCA_013146005.1	Aspergillus parasiticus
+asppar13	GCA_013146145.1	Aspergillus parasiticus
+aspspi2	GCA_013305485.1	Aspergillus spinulosporus
+aspqua1	GCA_013305525.1	Aspergillus quadrilineatus
+asplat1	GCA_013305935.1	Aspergillus latus
+asplat2	GCA_013305975.1	Aspergillus latus
+asplat3	GCA_013305995.1	Aspergillus latus
+asplat4	GCA_013306175.1	Aspergillus latus
+asplat5	GCA_013306195.1	Aspergillus latus
+asplat6	GCA_013306215.1	Aspergillus latus
+asplat7	GCA_013306895.1	Aspergillus latus
+asptub3	GCA_013340325.1	Aspergillus tubingensis
+aspory8	GCA_013407045.2	Aspergillus oryzae
+aspnig14	GCA_013618955.1	Aspergillus niger
+aspfla11	GCA_014117465.1	Aspergillus flavus NRRL3357
+aspfla12	GCA_014117485.1	Aspergillus flavus
+aspoer1	GCA_014250555.1	Aspergillus oerlinghausenensis
+aspfis5	GCA_014250575.1	Aspergillus fischeri
+asphir1	GCA_014281905.1	Aspergillus hiratsukae
+asphir2	GCA_014281935.1	Aspergillus hiratsukae
+aspfla13	GCA_014784225.2	Aspergillus flavus
+aspter8	GCA_015266375.1	Aspergillus terreus
+aspter9	GCA_015333565.1	Aspergillus terreus
+aspfum15	GCA_015572005.1	Aspergillus fumigatus
+aspfum16	GCA_015572015.1	Aspergillus fumigatus
+aspfum17	GCA_015572025.1	Aspergillus fumigatus
+aspfum18	GCA_015586125.1	Aspergillus fumigatus
+aspung2	GCA_015586375.1	Aspergillus unguis
+aspele1	GCA_016097275.1	Aspergillus elegans
+aspmel1	GCA_016097325.1	Aspergillus melleus
+aspasp5	GCA_016162245.1	Aspergillus sp. A31
+aspacu4	GCA_016748025.1	Aspergillus aculeatinus
+aspjap3	GCA_016808025.1	Aspergillus japonicus
+aspter10	GCA_016808415.1	Aspergillus terreus
+aspluc5	GCA_016860305.1	Aspergillus luchuensis
+aspluc6	GCA_016860325.1	Aspergillus luchuensis
+aspluc7	GCA_016860345.1	Aspergillus luchuensis
+aspluc8	GCA_016860365.1	Aspergillus luchuensis
+aspluc9	GCA_016860385.1	Aspergillus luchuensis
+aspluc10	GCA_016860425.1	Aspergillus luchuensis
+aspluc11	GCA_016860445.1	Aspergillus luchuensis
+aspluc12	GCA_016861625.1	Aspergillus luchuensis
+aspche2	GCA_016861735.1	Aspergillus chevalieri
+asppuu1	GCA_016861865.1	Aspergillus puulaauensis
+aspluc13	GCA_016865315.1	Aspergillus luchuensis
+aspasp6	GCA_016880755.1	Aspergillus sp. 2663
+aspory9	GCA_018140735.1	Aspergillus oryzae
+aspory10	GCA_018140755.1	Aspergillus oryzae
+aspory11	GCA_018140865.1	Aspergillus oryzae
+aspasp7	GCA_018167545.1	Aspergillus sp. MCCF 102
+asppse15	GCA_018340605.1	Aspergillus pseudoviridinutans
+aspvir2	GCA_018404265.1	Aspergillus viridinutans
+aspung3	GCA_018408605.1	Aspergillus unguis
+aspung4	GCA_018408615.1	Aspergillus unguis
+aspory12	GCA_019097755.1	Aspergillus oryzae
+aspasp8	GCA_019176365.1	Aspergillus sp. GbtcF1
+aspasp9	GCA_019176375.1	Aspergillus sp. GbtcF2
+aspnig15	GCA_019288275.1	Aspergillus niger
+asppar14	GCA_019419805.1	Aspergillus parasiticus
+aspasp10	GCA_019721355.1	Aspergillus sp. MEXU 27854
+aspasp11	GCA_019775315.1	Aspergillus sp. JS3-R5
+asptub4	GCA_019805365.1	Aspergillus tubingensis
+asptub5	GCA_019827425.1	Aspergillus tubingensis
+asptub6	GCA_019827445.1	Aspergillus tubingensis
+asptub7	GCA_019827465.1	Aspergillus tubingensis
+asptub8	GCA_019827565.1	Aspergillus tubingensis
+asptub9	GCA_019828785.1	Aspergillus tubingensis
+aspcro1	GCA_019828945.1	Aspergillus croceus
+aspnig16	GCA_019843515.1	Aspergillus niger
+aspfla14	GCA_019880445.1	Aspergillus flavus
+aspasp12	GCA_019976455.1	Aspergillus sp. 'subgen. Cremei'
+aspwes2	GCA_019976475.1	Aspergillus westerdijkiae
+aspver2	GCA_020284045.1	Aspergillus versicolor
+aspbru3	GCA_020284055.1	Aspergillus brunneus
+aspbru4	GCA_020284075.1	Aspergillus brunneus
+aspcri4	GCA_020465965.1	Aspergillus cristatus
+aspcri5	GCA_020466005.1	Aspergillus cristatus
+aspfum19	GCA_020500845.1	Aspergillus fumigatus
+aspasp13	GCA_020615375.1	Aspergillus sp. ADI1
+aspmon1	GCA_020826735.1	Aspergillus montevidensis
+aspcre1	GCA_021436935.1	Aspergillus creber
+asppro1	GCA_021436995.1	Aspergillus protuberus
+aspjen1	GCA_021437015.1	Aspergillus jensenii
+asptub10	GCA_900163765.1	Aspergillus tubingensis

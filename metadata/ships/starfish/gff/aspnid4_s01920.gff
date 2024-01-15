@@ -1,0 +1,30 @@
+aspnid4_JAAFYM010000014.1	bed	gene	1	24742	.	+	insert	ID=gene_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|up;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	503	22762	.	+	.	ID=gene_aspnid4_eg101897;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	3080	20837	.	+	.	ID=gene_aspnid4_eg102064;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	4866	17595	.	-	.	ID=gene_aspnid4_eg101995;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	9924	13611	.	+	cap	ID=gene_aspnid4_tyr2030;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	18314	5339	.	+	.	ID=gene_aspnid4_eg101813;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	21043	3434	.	-	.	ID=gene_aspnid4_eg102060;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	22098	1580	.	-	.	ID=gene_aspnid4_eg102008;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	23412	1074	.	-	.	ID=gene_aspnid4_eg101823;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	gene	24743	0	.	+	insert	ID=gene_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|down;Description=aspnid4_s01920;parent=aspnid4_JAAFYM010000014.1
+aspnid4_JAAFYM010000014.1	bed	RNA	1	24742	.	+	ID=rna_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|up;Description=;parent=gene_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|up
+aspnid4_JAAFYM010000014.1	bed	RNA	503	22762	.	+	ID=rna_aspnid4_eg101897;Description=;parent=gene_aspnid4_eg101897
+aspnid4_JAAFYM010000014.1	bed	RNA	3080	20837	.	+	ID=rna_aspnid4_eg102064;Description=;parent=gene_aspnid4_eg102064
+aspnid4_JAAFYM010000014.1	bed	RNA	4866	17595	.	-	ID=rna_aspnid4_eg101995;Description=;parent=gene_aspnid4_eg101995
+aspnid4_JAAFYM010000014.1	bed	RNA	9924	13611	.	+	ID=rna_aspnid4_tyr2030;Description=;parent=gene_aspnid4_tyr2030
+aspnid4_JAAFYM010000014.1	bed	RNA	18314	5339	.	+	ID=rna_aspnid4_eg101813;Description=;parent=gene_aspnid4_eg101813
+aspnid4_JAAFYM010000014.1	bed	RNA	21043	3434	.	-	ID=rna_aspnid4_eg102060;Description=;parent=gene_aspnid4_eg102060
+aspnid4_JAAFYM010000014.1	bed	RNA	22098	1580	.	-	ID=rna_aspnid4_eg102008;Description=;parent=gene_aspnid4_eg102008
+aspnid4_JAAFYM010000014.1	bed	RNA	23412	1074	.	-	ID=rna_aspnid4_eg101823;Description=;parent=gene_aspnid4_eg101823
+aspnid4_JAAFYM010000014.1	bed	RNA	24743	0	.	+	ID=rna_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|down;Description=;parent=gene_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|down
+aspnid4_JAAFYM010000014.1	bed	CDS	1	24742	.	+	ID=cds_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|up;Description=;parent=rna_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|up
+aspnid4_JAAFYM010000014.1	bed	CDS	503	22762	.	+	ID=cds_aspnid4_eg101897;Description=;parent=rna_aspnid4_eg101897
+aspnid4_JAAFYM010000014.1	bed	CDS	3080	20837	.	+	ID=cds_aspnid4_eg102064;Description=;parent=rna_aspnid4_eg102064
+aspnid4_JAAFYM010000014.1	bed	CDS	4866	17595	.	-	ID=cds_aspnid4_eg101995;Description=;parent=rna_aspnid4_eg101995
+aspnid4_JAAFYM010000014.1	bed	CDS	9924	13611	.	+	ID=cds_aspnid4_tyr2030;Description=;parent=rna_aspnid4_tyr2030
+aspnid4_JAAFYM010000014.1	bed	CDS	18314	5339	.	+	ID=cds_aspnid4_eg101813;Description=;parent=rna_aspnid4_eg101813
+aspnid4_JAAFYM010000014.1	bed	CDS	21043	3434	.	-	ID=cds_aspnid4_eg102060;Description=;parent=rna_aspnid4_eg102060
+aspnid4_JAAFYM010000014.1	bed	CDS	22098	1580	.	-	ID=cds_aspnid4_eg102008;Description=;parent=rna_aspnid4_eg102008
+aspnid4_JAAFYM010000014.1	bed	CDS	23412	1074	.	-	ID=cds_aspnid4_eg101823;Description=;parent=rna_aspnid4_eg101823
+aspnid4_JAAFYM010000014.1	bed	CDS	24743	0	.	+	ID=cds_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|down;Description=;parent=rna_aspnid4_tyr2030|aspqua1_JAAXYA010000111.1|down

@@ -1,0 +1,21 @@
+tubmel2_scaffold54	bed	gene	1	23133	.	+	insert	ID=gene_tubmel2_tyr10610|tubind1_scaffold37|up;Description=tubmel2_s10149;parent=tubmel2_scaffold54
+tubmel2_scaffold54	bed	gene	8605	12039	.	+	cap	ID=gene_tubmel2_tyr10610;Description=tubmel2_s10149;parent=tubmel2_scaffold54
+tubmel2_scaffold54	bed	gene	15231	6891	.	-	.	ID=gene_tubmel2_7531;Description=tubmel2_s10149;parent=tubmel2_scaffold54
+tubmel2_scaffold54	bed	gene	15889	6891	.	-	.	ID=gene_tubmel2_7532;Description=tubmel2_s10149;parent=tubmel2_scaffold54
+tubmel2_scaffold54	bed	gene	17040	5762	.	+	.	ID=gene_tubmel2_eg365961;Description=tubmel2_s10149;parent=tubmel2_scaffold54
+tubmel2_scaffold54	bed	gene	19853	1412	.	+	.	ID=gene_tubmel2_7533;Description=tubmel2_s10149;parent=tubmel2_scaffold54
+tubmel2_scaffold54	bed	gene	23134	0	.	+	insert	ID=gene_tubmel2_tyr10610|tubind1_scaffold37|down;Description=tubmel2_s10149;parent=tubmel2_scaffold54
+tubmel2_scaffold54	bed	RNA	1	23133	.	+	ID=rna_tubmel2_tyr10610|tubind1_scaffold37|up;Description=;parent=gene_tubmel2_tyr10610|tubind1_scaffold37|up
+tubmel2_scaffold54	bed	RNA	8605	12039	.	+	ID=rna_tubmel2_tyr10610;Description=;parent=gene_tubmel2_tyr10610
+tubmel2_scaffold54	bed	RNA	15231	6891	.	-	ID=rna_tubmel2_7531;Description=;parent=gene_tubmel2_7531
+tubmel2_scaffold54	bed	RNA	15889	6891	.	-	ID=rna_tubmel2_7532;Description=;parent=gene_tubmel2_7532
+tubmel2_scaffold54	bed	RNA	17040	5762	.	+	ID=rna_tubmel2_eg365961;Description=;parent=gene_tubmel2_eg365961
+tubmel2_scaffold54	bed	RNA	19853	1412	.	+	ID=rna_tubmel2_7533;Description=;parent=gene_tubmel2_7533
+tubmel2_scaffold54	bed	RNA	23134	0	.	+	ID=rna_tubmel2_tyr10610|tubind1_scaffold37|down;Description=;parent=gene_tubmel2_tyr10610|tubind1_scaffold37|down
+tubmel2_scaffold54	bed	CDS	1	23133	.	+	ID=cds_tubmel2_tyr10610|tubind1_scaffold37|up;Description=;parent=rna_tubmel2_tyr10610|tubind1_scaffold37|up
+tubmel2_scaffold54	bed	CDS	8605	12039	.	+	ID=cds_tubmel2_tyr10610;Description=;parent=rna_tubmel2_tyr10610
+tubmel2_scaffold54	bed	CDS	15231	6891	.	-	ID=cds_tubmel2_7531;Description=;parent=rna_tubmel2_7531
+tubmel2_scaffold54	bed	CDS	15889	6891	.	-	ID=cds_tubmel2_7532;Description=;parent=rna_tubmel2_7532
+tubmel2_scaffold54	bed	CDS	17040	5762	.	+	ID=cds_tubmel2_eg365961;Description=;parent=rna_tubmel2_eg365961
+tubmel2_scaffold54	bed	CDS	19853	1412	.	+	ID=cds_tubmel2_7533;Description=;parent=rna_tubmel2_7533
+tubmel2_scaffold54	bed	CDS	23134	0	.	+	ID=cds_tubmel2_tyr10610|tubind1_scaffold37|down;Description=;parent=rna_tubmel2_tyr10610|tubind1_scaffold37|down

@@ -1,0 +1,28 @@
+aspfum17_JADLZP010000246.1	bed	region	1	47520	.	-	flank	ID=gene_aspfum17_tyr1329|DR|down;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	region	36	47480	.	-	flank	ID=gene_aspfum17_tyr1329|TIR|down;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	gene	9759	36940	.	+	.	ID=gene_aspfum17_eg74460;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	gene	11995	35250	.	+	.	ID=gene_aspfum17_eg74487;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	gene	18594	28432	.	+	.	ID=gene_aspfum17_eg74455;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	gene	24456	21778	.	+	.	ID=gene_aspfum17_eg74481;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	gene	30835	16059	.	+	.	ID=gene_aspfum17_eg74476;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	gene	31904	14813	.	+	.	ID=gene_aspfum17_eg74489;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	gene	38810	7815	.	+	.	ID=gene_aspfum17_eg74474;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	gene	44565	308	.	-	cap	ID=gene_aspfum17_tyr1329;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	region	47484	34	.	-	flank	ID=gene_aspfum17_tyr1329|TIR|up;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	region	47519	0	.	-	flank	ID=gene_aspfum17_tyr1329|DR|up;Description=aspfum17_s01344;parent=aspfum17_JADLZP010000246.1
+aspfum17_JADLZP010000246.1	bed	RNA	9759	36940	.	+	ID=rna_aspfum17_eg74460;Description=;parent=gene_aspfum17_eg74460
+aspfum17_JADLZP010000246.1	bed	RNA	11995	35250	.	+	ID=rna_aspfum17_eg74487;Description=;parent=gene_aspfum17_eg74487
+aspfum17_JADLZP010000246.1	bed	RNA	18594	28432	.	+	ID=rna_aspfum17_eg74455;Description=;parent=gene_aspfum17_eg74455
+aspfum17_JADLZP010000246.1	bed	RNA	24456	21778	.	+	ID=rna_aspfum17_eg74481;Description=;parent=gene_aspfum17_eg74481
+aspfum17_JADLZP010000246.1	bed	RNA	30835	16059	.	+	ID=rna_aspfum17_eg74476;Description=;parent=gene_aspfum17_eg74476
+aspfum17_JADLZP010000246.1	bed	RNA	31904	14813	.	+	ID=rna_aspfum17_eg74489;Description=;parent=gene_aspfum17_eg74489
+aspfum17_JADLZP010000246.1	bed	RNA	38810	7815	.	+	ID=rna_aspfum17_eg74474;Description=;parent=gene_aspfum17_eg74474
+aspfum17_JADLZP010000246.1	bed	RNA	44565	308	.	-	ID=rna_aspfum17_tyr1329;Description=;parent=gene_aspfum17_tyr1329
+aspfum17_JADLZP010000246.1	bed	CDS	9759	36940	.	+	ID=cds_aspfum17_eg74460;Description=;parent=rna_aspfum17_eg74460
+aspfum17_JADLZP010000246.1	bed	CDS	11995	35250	.	+	ID=cds_aspfum17_eg74487;Description=;parent=rna_aspfum17_eg74487
+aspfum17_JADLZP010000246.1	bed	CDS	18594	28432	.	+	ID=cds_aspfum17_eg74455;Description=;parent=rna_aspfum17_eg74455
+aspfum17_JADLZP010000246.1	bed	CDS	24456	21778	.	+	ID=cds_aspfum17_eg74481;Description=;parent=rna_aspfum17_eg74481
+aspfum17_JADLZP010000246.1	bed	CDS	30835	16059	.	+	ID=cds_aspfum17_eg74476;Description=;parent=rna_aspfum17_eg74476
+aspfum17_JADLZP010000246.1	bed	CDS	31904	14813	.	+	ID=cds_aspfum17_eg74489;Description=;parent=rna_aspfum17_eg74489
+aspfum17_JADLZP010000246.1	bed	CDS	38810	7815	.	+	ID=cds_aspfum17_eg74474;Description=;parent=rna_aspfum17_eg74474
+aspfum17_JADLZP010000246.1	bed	CDS	44565	308	.	-	ID=cds_aspfum17_tyr1329;Description=;parent=rna_aspfum17_tyr1329

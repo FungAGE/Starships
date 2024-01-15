@@ -1,0 +1,85 @@
+aspfum6_DS499598.1	bed	region	1	92513	.	+	flank	ID=gene_aspfum6_EDP50805.1|DR|up;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	region	42	92461	.	+	flank	ID=gene_aspfum6_EDP50805.1|TIR|up;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	631	89300	.	+	cap	ID=gene_aspfum6_EDP50805.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	5219	86469	.	+	.	ID=gene_aspfum6_EDP50806.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	9854	81885	.	+	.	ID=gene_aspfum6_EDP50807.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	16124	74818	.	+	.	ID=gene_aspfum6_EDP50808.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	20008	70603	.	-	.	ID=gene_aspfum6_EDP50809.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	23167	69204	.	+	.	ID=gene_aspfum6_eg86088;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	24233	66941	.	-	.	ID=gene_aspfum6_EDP50810.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	26060	65453	.	+	.	ID=gene_aspfum6_EDP50811.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	27790	63858	.	-	.	ID=gene_aspfum6_EDP50812.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	30073	61947	.	+	.	ID=gene_aspfum6_eg86147;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	32471	59094	.	-	.	ID=gene_aspfum6_EDP50813.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	33626	56337	.	-	.	ID=gene_aspfum6_EDP50814.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	36416	54442	.	+	.	ID=gene_aspfum6_EDP50815.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	38622	52720	.	+	.	ID=gene_aspfum6_EDP50816.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	39891	51442	.	-	.	ID=gene_aspfum6_EDP50817.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	58266	34048	.	-	.	ID=gene_aspfum6_eg86154;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	60086	31480	.	+	.	ID=gene_aspfum6_EDP50818.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	68359	22150	.	-	.	ID=gene_aspfum6_EDP50819.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	72314	19437	.	-	.	ID=gene_aspfum6_eg86142;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	74045	18039	.	+	.	ID=gene_aspfum6_eg86355;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	76111	15882	.	-	.	ID=gene_aspfum6_eg86343;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	77184	13950	.	+	.	ID=gene_aspfum6_EDP50820.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	79636	12400	.	-	.	ID=gene_aspfum6_EDP50821.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	81012	10009	.	+	.	ID=gene_aspfum6_EDP50822.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	83388	8479	.	-	.	ID=gene_aspfum6_eg86327;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	85107	4529	.	+	nlr	ID=gene_aspfum6_EDP50823.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	gene	88897	2076	.	-	.	ID=gene_aspfum6_EDP50824.1;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	region	92483	22	.	+	flank	ID=gene_aspfum6_EDP50805.1|TIR|down;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	region	92514	0	.	+	flank	ID=gene_aspfum6_EDP50805.1|DR|down;Description=aspfum6_s01218;parent=aspfum6_DS499598.1
+aspfum6_DS499598.1	bed	RNA	631	89300	.	+	ID=rna_aspfum6_EDP50805.1;Description=;parent=gene_aspfum6_EDP50805.1
+aspfum6_DS499598.1	bed	RNA	5219	86469	.	+	ID=rna_aspfum6_EDP50806.1;Description=;parent=gene_aspfum6_EDP50806.1
+aspfum6_DS499598.1	bed	RNA	9854	81885	.	+	ID=rna_aspfum6_EDP50807.1;Description=;parent=gene_aspfum6_EDP50807.1
+aspfum6_DS499598.1	bed	RNA	16124	74818	.	+	ID=rna_aspfum6_EDP50808.1;Description=;parent=gene_aspfum6_EDP50808.1
+aspfum6_DS499598.1	bed	RNA	20008	70603	.	-	ID=rna_aspfum6_EDP50809.1;Description=;parent=gene_aspfum6_EDP50809.1
+aspfum6_DS499598.1	bed	RNA	23167	69204	.	+	ID=rna_aspfum6_eg86088;Description=;parent=gene_aspfum6_eg86088
+aspfum6_DS499598.1	bed	RNA	24233	66941	.	-	ID=rna_aspfum6_EDP50810.1;Description=;parent=gene_aspfum6_EDP50810.1
+aspfum6_DS499598.1	bed	RNA	26060	65453	.	+	ID=rna_aspfum6_EDP50811.1;Description=;parent=gene_aspfum6_EDP50811.1
+aspfum6_DS499598.1	bed	RNA	27790	63858	.	-	ID=rna_aspfum6_EDP50812.1;Description=;parent=gene_aspfum6_EDP50812.1
+aspfum6_DS499598.1	bed	RNA	30073	61947	.	+	ID=rna_aspfum6_eg86147;Description=;parent=gene_aspfum6_eg86147
+aspfum6_DS499598.1	bed	RNA	32471	59094	.	-	ID=rna_aspfum6_EDP50813.1;Description=;parent=gene_aspfum6_EDP50813.1
+aspfum6_DS499598.1	bed	RNA	33626	56337	.	-	ID=rna_aspfum6_EDP50814.1;Description=;parent=gene_aspfum6_EDP50814.1
+aspfum6_DS499598.1	bed	RNA	36416	54442	.	+	ID=rna_aspfum6_EDP50815.1;Description=;parent=gene_aspfum6_EDP50815.1
+aspfum6_DS499598.1	bed	RNA	38622	52720	.	+	ID=rna_aspfum6_EDP50816.1;Description=;parent=gene_aspfum6_EDP50816.1
+aspfum6_DS499598.1	bed	RNA	39891	51442	.	-	ID=rna_aspfum6_EDP50817.1;Description=;parent=gene_aspfum6_EDP50817.1
+aspfum6_DS499598.1	bed	RNA	58266	34048	.	-	ID=rna_aspfum6_eg86154;Description=;parent=gene_aspfum6_eg86154
+aspfum6_DS499598.1	bed	RNA	60086	31480	.	+	ID=rna_aspfum6_EDP50818.1;Description=;parent=gene_aspfum6_EDP50818.1
+aspfum6_DS499598.1	bed	RNA	68359	22150	.	-	ID=rna_aspfum6_EDP50819.1;Description=;parent=gene_aspfum6_EDP50819.1
+aspfum6_DS499598.1	bed	RNA	72314	19437	.	-	ID=rna_aspfum6_eg86142;Description=;parent=gene_aspfum6_eg86142
+aspfum6_DS499598.1	bed	RNA	74045	18039	.	+	ID=rna_aspfum6_eg86355;Description=;parent=gene_aspfum6_eg86355
+aspfum6_DS499598.1	bed	RNA	76111	15882	.	-	ID=rna_aspfum6_eg86343;Description=;parent=gene_aspfum6_eg86343
+aspfum6_DS499598.1	bed	RNA	77184	13950	.	+	ID=rna_aspfum6_EDP50820.1;Description=;parent=gene_aspfum6_EDP50820.1
+aspfum6_DS499598.1	bed	RNA	79636	12400	.	-	ID=rna_aspfum6_EDP50821.1;Description=;parent=gene_aspfum6_EDP50821.1
+aspfum6_DS499598.1	bed	RNA	81012	10009	.	+	ID=rna_aspfum6_EDP50822.1;Description=;parent=gene_aspfum6_EDP50822.1
+aspfum6_DS499598.1	bed	RNA	83388	8479	.	-	ID=rna_aspfum6_eg86327;Description=;parent=gene_aspfum6_eg86327
+aspfum6_DS499598.1	bed	RNA	85107	4529	.	+	ID=rna_aspfum6_EDP50823.1;Description=;parent=gene_aspfum6_EDP50823.1
+aspfum6_DS499598.1	bed	RNA	88897	2076	.	-	ID=rna_aspfum6_EDP50824.1;Description=;parent=gene_aspfum6_EDP50824.1
+aspfum6_DS499598.1	bed	CDS	631	89300	.	+	ID=cds_aspfum6_EDP50805.1;Description=;parent=rna_aspfum6_EDP50805.1
+aspfum6_DS499598.1	bed	CDS	5219	86469	.	+	ID=cds_aspfum6_EDP50806.1;Description=;parent=rna_aspfum6_EDP50806.1
+aspfum6_DS499598.1	bed	CDS	9854	81885	.	+	ID=cds_aspfum6_EDP50807.1;Description=;parent=rna_aspfum6_EDP50807.1
+aspfum6_DS499598.1	bed	CDS	16124	74818	.	+	ID=cds_aspfum6_EDP50808.1;Description=;parent=rna_aspfum6_EDP50808.1
+aspfum6_DS499598.1	bed	CDS	20008	70603	.	-	ID=cds_aspfum6_EDP50809.1;Description=;parent=rna_aspfum6_EDP50809.1
+aspfum6_DS499598.1	bed	CDS	23167	69204	.	+	ID=cds_aspfum6_eg86088;Description=;parent=rna_aspfum6_eg86088
+aspfum6_DS499598.1	bed	CDS	24233	66941	.	-	ID=cds_aspfum6_EDP50810.1;Description=;parent=rna_aspfum6_EDP50810.1
+aspfum6_DS499598.1	bed	CDS	26060	65453	.	+	ID=cds_aspfum6_EDP50811.1;Description=;parent=rna_aspfum6_EDP50811.1
+aspfum6_DS499598.1	bed	CDS	27790	63858	.	-	ID=cds_aspfum6_EDP50812.1;Description=;parent=rna_aspfum6_EDP50812.1
+aspfum6_DS499598.1	bed	CDS	30073	61947	.	+	ID=cds_aspfum6_eg86147;Description=;parent=rna_aspfum6_eg86147
+aspfum6_DS499598.1	bed	CDS	32471	59094	.	-	ID=cds_aspfum6_EDP50813.1;Description=;parent=rna_aspfum6_EDP50813.1
+aspfum6_DS499598.1	bed	CDS	33626	56337	.	-	ID=cds_aspfum6_EDP50814.1;Description=;parent=rna_aspfum6_EDP50814.1
+aspfum6_DS499598.1	bed	CDS	36416	54442	.	+	ID=cds_aspfum6_EDP50815.1;Description=;parent=rna_aspfum6_EDP50815.1
+aspfum6_DS499598.1	bed	CDS	38622	52720	.	+	ID=cds_aspfum6_EDP50816.1;Description=;parent=rna_aspfum6_EDP50816.1
+aspfum6_DS499598.1	bed	CDS	39891	51442	.	-	ID=cds_aspfum6_EDP50817.1;Description=;parent=rna_aspfum6_EDP50817.1
+aspfum6_DS499598.1	bed	CDS	58266	34048	.	-	ID=cds_aspfum6_eg86154;Description=;parent=rna_aspfum6_eg86154
+aspfum6_DS499598.1	bed	CDS	60086	31480	.	+	ID=cds_aspfum6_EDP50818.1;Description=;parent=rna_aspfum6_EDP50818.1
+aspfum6_DS499598.1	bed	CDS	68359	22150	.	-	ID=cds_aspfum6_EDP50819.1;Description=;parent=rna_aspfum6_EDP50819.1
+aspfum6_DS499598.1	bed	CDS	72314	19437	.	-	ID=cds_aspfum6_eg86142;Description=;parent=rna_aspfum6_eg86142
+aspfum6_DS499598.1	bed	CDS	74045	18039	.	+	ID=cds_aspfum6_eg86355;Description=;parent=rna_aspfum6_eg86355
+aspfum6_DS499598.1	bed	CDS	76111	15882	.	-	ID=cds_aspfum6_eg86343;Description=;parent=rna_aspfum6_eg86343
+aspfum6_DS499598.1	bed	CDS	77184	13950	.	+	ID=cds_aspfum6_EDP50820.1;Description=;parent=rna_aspfum6_EDP50820.1
+aspfum6_DS499598.1	bed	CDS	79636	12400	.	-	ID=cds_aspfum6_EDP50821.1;Description=;parent=rna_aspfum6_EDP50821.1
+aspfum6_DS499598.1	bed	CDS	81012	10009	.	+	ID=cds_aspfum6_EDP50822.1;Description=;parent=rna_aspfum6_EDP50822.1
+aspfum6_DS499598.1	bed	CDS	83388	8479	.	-	ID=cds_aspfum6_eg86327;Description=;parent=rna_aspfum6_eg86327
+aspfum6_DS499598.1	bed	CDS	85107	4529	.	+	ID=cds_aspfum6_EDP50823.1;Description=;parent=rna_aspfum6_EDP50823.1
+aspfum6_DS499598.1	bed	CDS	88897	2076	.	-	ID=cds_aspfum6_EDP50824.1;Description=;parent=rna_aspfum6_EDP50824.1

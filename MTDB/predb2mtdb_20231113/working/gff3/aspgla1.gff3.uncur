@@ -1,0 +1,30 @@
+aspgla1_KV878902.1	bed	gene	1	25810	.	+	insert	ID=gene_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|up;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	1973	22371	.	+	cap	ID=gene_aspgla1_OJJ82561.1;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	4724	19894	.	+	.	ID=gene_aspgla1_OJJ82562.1;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	9200	15144	.	+	.	ID=gene_aspgla1_OJJ82563.1;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	11410	12543	.	-	.	ID=gene_aspgla1_OJJ82564.1;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	13812	9148	.	-	.	ID=gene_aspgla1_OJJ82565.1;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	16974	4521	.	+	.	ID=gene_aspgla1_OJJ82566.1;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	21892	2818	.	-	.	ID=gene_aspgla1_OJJ82567.1;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	23833	460	.	-	.	ID=gene_aspgla1_OJJ82568.1;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	gene	25811	0	.	+	insert	ID=gene_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|down;Description=aspgla1_s01378;parent=aspgla1_KV878902.1
+aspgla1_KV878902.1	bed	RNA	1	25810	.	+	ID=rna_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|up;Description=;parent=gene_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|up
+aspgla1_KV878902.1	bed	RNA	1973	22371	.	+	ID=rna_aspgla1_OJJ82561.1;Description=;parent=gene_aspgla1_OJJ82561.1
+aspgla1_KV878902.1	bed	RNA	4724	19894	.	+	ID=rna_aspgla1_OJJ82562.1;Description=;parent=gene_aspgla1_OJJ82562.1
+aspgla1_KV878902.1	bed	RNA	9200	15144	.	+	ID=rna_aspgla1_OJJ82563.1;Description=;parent=gene_aspgla1_OJJ82563.1
+aspgla1_KV878902.1	bed	RNA	11410	12543	.	-	ID=rna_aspgla1_OJJ82564.1;Description=;parent=gene_aspgla1_OJJ82564.1
+aspgla1_KV878902.1	bed	RNA	13812	9148	.	-	ID=rna_aspgla1_OJJ82565.1;Description=;parent=gene_aspgla1_OJJ82565.1
+aspgla1_KV878902.1	bed	RNA	16974	4521	.	+	ID=rna_aspgla1_OJJ82566.1;Description=;parent=gene_aspgla1_OJJ82566.1
+aspgla1_KV878902.1	bed	RNA	21892	2818	.	-	ID=rna_aspgla1_OJJ82567.1;Description=;parent=gene_aspgla1_OJJ82567.1
+aspgla1_KV878902.1	bed	RNA	23833	460	.	-	ID=rna_aspgla1_OJJ82568.1;Description=;parent=gene_aspgla1_OJJ82568.1
+aspgla1_KV878902.1	bed	RNA	25811	0	.	+	ID=rna_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|down;Description=;parent=gene_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|down
+aspgla1_KV878902.1	bed	CDS	1	25810	.	+	ID=cds_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|up;Description=;parent=rna_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|up
+aspgla1_KV878902.1	bed	CDS	1973	22371	.	+	ID=cds_aspgla1_OJJ82561.1;Description=;parent=rna_aspgla1_OJJ82561.1
+aspgla1_KV878902.1	bed	CDS	4724	19894	.	+	ID=cds_aspgla1_OJJ82562.1;Description=;parent=rna_aspgla1_OJJ82562.1
+aspgla1_KV878902.1	bed	CDS	9200	15144	.	+	ID=cds_aspgla1_OJJ82563.1;Description=;parent=rna_aspgla1_OJJ82563.1
+aspgla1_KV878902.1	bed	CDS	11410	12543	.	-	ID=cds_aspgla1_OJJ82564.1;Description=;parent=rna_aspgla1_OJJ82564.1
+aspgla1_KV878902.1	bed	CDS	13812	9148	.	-	ID=cds_aspgla1_OJJ82565.1;Description=;parent=rna_aspgla1_OJJ82565.1
+aspgla1_KV878902.1	bed	CDS	16974	4521	.	+	ID=cds_aspgla1_OJJ82566.1;Description=;parent=rna_aspgla1_OJJ82566.1
+aspgla1_KV878902.1	bed	CDS	21892	2818	.	-	ID=cds_aspgla1_OJJ82567.1;Description=;parent=rna_aspgla1_OJJ82567.1
+aspgla1_KV878902.1	bed	CDS	23833	460	.	-	ID=cds_aspgla1_OJJ82568.1;Description=;parent=rna_aspgla1_OJJ82568.1
+aspgla1_KV878902.1	bed	CDS	25811	0	.	+	ID=cds_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|down;Description=;parent=rna_aspgla1_OJJ82561.1|aspcri3_JXNT01000009.1|down

@@ -1,0 +1,177 @@
+fusoxy30_Scaffold23	bed	gene	1	92642	.	+	insert	ID=gene_fusoxy30_14434|fusoxy25_supercont16|up;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	1760	89561	.	+	cap	ID=gene_fusoxy30_14434;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	5323	86573	.	+	.	ID=gene_fusoxy30_14435;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	6764	85739	.	-	.	ID=gene_fusoxy30_14436;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	7367	83996	.	+	.	ID=gene_fusoxy30_14437;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	8557	83645	.	-	.	ID=gene_fusoxy30_14438;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	9459	83032	.	-	.	ID=gene_fusoxy30_14439;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	10494	81286	.	+	.	ID=gene_fusoxy30_14440;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	11442	80525	.	+	.	ID=gene_fusoxy30_14441;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	12106	80056	.	-	.	ID=gene_fusoxy30_14442;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	13060	78222	.	+	.	ID=gene_fusoxy30_14443;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	14408	77328	.	-	.	ID=gene_fusoxy30_14444;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	15719	76282	.	+	.	ID=gene_fusoxy30_14445;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	16191	75514	.	-	.	ID=gene_fusoxy30_14446;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	17484	74381	.	-	.	ID=gene_fusoxy30_14447;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	18478	73102	.	+	.	ID=gene_fusoxy30_14448;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	19822	72233	.	+	.	ID=gene_fusoxy30_14449;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	20802	71082	.	+	.	ID=gene_fusoxy30_14450;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	21792	70183	.	+	.	ID=gene_fusoxy30_14451;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	22616	67502	.	-	d37	ID=gene_fusoxy30_14452;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	25406	64812	.	+	.	ID=gene_fusoxy30_14453;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	31342	60708	.	-	.	ID=gene_fusoxy30_14454;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	32107	60263	.	-	.	ID=gene_fusoxy30_14455;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	32403	58203	.	+	.	ID=gene_fusoxy30_14456;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	34794	56089	.	+	.	ID=gene_fusoxy30_14457;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	37642	54037	.	-	.	ID=gene_fusoxy30_14458;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	38615	50965	.	-	.	ID=gene_fusoxy30_14459;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	42202	49258	.	-	.	ID=gene_fusoxy30_14460;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	42202	49412	.	-	.	ID=gene_fusoxy30_14461;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	44322	47239	.	+	.	ID=gene_fusoxy30_14462;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	47267	45283	.	-	.	ID=gene_fusoxy30_14463;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	47983	44567	.	-	.	ID=gene_fusoxy30_14464;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	48630	43822	.	+	.	ID=gene_fusoxy30_14465;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	48928	43254	.	+	.	ID=gene_fusoxy30_14466;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	49471	42732	.	-	.	ID=gene_fusoxy30_14467;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	50150	42098	.	-	.	ID=gene_fusoxy30_14468;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	51553	40366	.	-	.	ID=gene_fusoxy30_14469;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	53778	37807	.	-	.	ID=gene_fusoxy30_14470;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	53778	37807	.	-	.	ID=gene_fusoxy30_14471;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	55161	35688	.	-	.	ID=gene_fusoxy30_14472;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	55479	35446	.	+	.	ID=gene_fusoxy30_14473;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	57260	34774	.	+	.	ID=gene_fusoxy30_14474;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	58361	33670	.	+	.	ID=gene_fusoxy30_14475;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	59050	32742	.	-	.	ID=gene_fusoxy30_14476;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	60016	32295	.	-	.	ID=gene_fusoxy30_14477;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	61561	29088	.	-	.	ID=gene_fusoxy30_14478;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	64263	27939	.	+	.	ID=gene_fusoxy30_14479;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	64703	27383	.	-	.	ID=gene_fusoxy30_14480;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	67041	24910	.	+	.	ID=gene_fusoxy30_14481;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	68542	23151	.	+	.	ID=gene_fusoxy30_14482;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	70750	20975	.	+	.	ID=gene_fusoxy30_14483;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	71860	19287	.	-	.	ID=gene_fusoxy30_14484;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	73872	15973	.	+	.	ID=gene_fusoxy30_14485;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	78137	10970	.	-	nlr	ID=gene_fusoxy30_14486:14487;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	83553	9024	.	-	.	ID=gene_fusoxy30_14488;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	84094	7548	.	-	.	ID=gene_fusoxy30_14489;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	87432	4963	.	-	.	ID=gene_fusoxy30_eg247726;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	88782	1143	.	-	nlr	ID=gene_fusoxy30_14490:14491;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	gene	92643	0	.	+	insert	ID=gene_fusoxy30_14434|fusoxy25_supercont16|down;Description=fusoxy30_s05975;parent=fusoxy30_Scaffold23
+fusoxy30_Scaffold23	bed	RNA	1	92642	.	+	ID=rna_fusoxy30_14434|fusoxy25_supercont16|up;Description=;parent=gene_fusoxy30_14434|fusoxy25_supercont16|up
+fusoxy30_Scaffold23	bed	RNA	1760	89561	.	+	ID=rna_fusoxy30_14434;Description=;parent=gene_fusoxy30_14434
+fusoxy30_Scaffold23	bed	RNA	5323	86573	.	+	ID=rna_fusoxy30_14435;Description=;parent=gene_fusoxy30_14435
+fusoxy30_Scaffold23	bed	RNA	6764	85739	.	-	ID=rna_fusoxy30_14436;Description=;parent=gene_fusoxy30_14436
+fusoxy30_Scaffold23	bed	RNA	7367	83996	.	+	ID=rna_fusoxy30_14437;Description=;parent=gene_fusoxy30_14437
+fusoxy30_Scaffold23	bed	RNA	8557	83645	.	-	ID=rna_fusoxy30_14438;Description=;parent=gene_fusoxy30_14438
+fusoxy30_Scaffold23	bed	RNA	9459	83032	.	-	ID=rna_fusoxy30_14439;Description=;parent=gene_fusoxy30_14439
+fusoxy30_Scaffold23	bed	RNA	10494	81286	.	+	ID=rna_fusoxy30_14440;Description=;parent=gene_fusoxy30_14440
+fusoxy30_Scaffold23	bed	RNA	11442	80525	.	+	ID=rna_fusoxy30_14441;Description=;parent=gene_fusoxy30_14441
+fusoxy30_Scaffold23	bed	RNA	12106	80056	.	-	ID=rna_fusoxy30_14442;Description=;parent=gene_fusoxy30_14442
+fusoxy30_Scaffold23	bed	RNA	13060	78222	.	+	ID=rna_fusoxy30_14443;Description=;parent=gene_fusoxy30_14443
+fusoxy30_Scaffold23	bed	RNA	14408	77328	.	-	ID=rna_fusoxy30_14444;Description=;parent=gene_fusoxy30_14444
+fusoxy30_Scaffold23	bed	RNA	15719	76282	.	+	ID=rna_fusoxy30_14445;Description=;parent=gene_fusoxy30_14445
+fusoxy30_Scaffold23	bed	RNA	16191	75514	.	-	ID=rna_fusoxy30_14446;Description=;parent=gene_fusoxy30_14446
+fusoxy30_Scaffold23	bed	RNA	17484	74381	.	-	ID=rna_fusoxy30_14447;Description=;parent=gene_fusoxy30_14447
+fusoxy30_Scaffold23	bed	RNA	18478	73102	.	+	ID=rna_fusoxy30_14448;Description=;parent=gene_fusoxy30_14448
+fusoxy30_Scaffold23	bed	RNA	19822	72233	.	+	ID=rna_fusoxy30_14449;Description=;parent=gene_fusoxy30_14449
+fusoxy30_Scaffold23	bed	RNA	20802	71082	.	+	ID=rna_fusoxy30_14450;Description=;parent=gene_fusoxy30_14450
+fusoxy30_Scaffold23	bed	RNA	21792	70183	.	+	ID=rna_fusoxy30_14451;Description=;parent=gene_fusoxy30_14451
+fusoxy30_Scaffold23	bed	RNA	22616	67502	.	-	ID=rna_fusoxy30_14452;Description=;parent=gene_fusoxy30_14452
+fusoxy30_Scaffold23	bed	RNA	25406	64812	.	+	ID=rna_fusoxy30_14453;Description=;parent=gene_fusoxy30_14453
+fusoxy30_Scaffold23	bed	RNA	31342	60708	.	-	ID=rna_fusoxy30_14454;Description=;parent=gene_fusoxy30_14454
+fusoxy30_Scaffold23	bed	RNA	32107	60263	.	-	ID=rna_fusoxy30_14455;Description=;parent=gene_fusoxy30_14455
+fusoxy30_Scaffold23	bed	RNA	32403	58203	.	+	ID=rna_fusoxy30_14456;Description=;parent=gene_fusoxy30_14456
+fusoxy30_Scaffold23	bed	RNA	34794	56089	.	+	ID=rna_fusoxy30_14457;Description=;parent=gene_fusoxy30_14457
+fusoxy30_Scaffold23	bed	RNA	37642	54037	.	-	ID=rna_fusoxy30_14458;Description=;parent=gene_fusoxy30_14458
+fusoxy30_Scaffold23	bed	RNA	38615	50965	.	-	ID=rna_fusoxy30_14459;Description=;parent=gene_fusoxy30_14459
+fusoxy30_Scaffold23	bed	RNA	42202	49258	.	-	ID=rna_fusoxy30_14460;Description=;parent=gene_fusoxy30_14460
+fusoxy30_Scaffold23	bed	RNA	42202	49412	.	-	ID=rna_fusoxy30_14461;Description=;parent=gene_fusoxy30_14461
+fusoxy30_Scaffold23	bed	RNA	44322	47239	.	+	ID=rna_fusoxy30_14462;Description=;parent=gene_fusoxy30_14462
+fusoxy30_Scaffold23	bed	RNA	47267	45283	.	-	ID=rna_fusoxy30_14463;Description=;parent=gene_fusoxy30_14463
+fusoxy30_Scaffold23	bed	RNA	47983	44567	.	-	ID=rna_fusoxy30_14464;Description=;parent=gene_fusoxy30_14464
+fusoxy30_Scaffold23	bed	RNA	48630	43822	.	+	ID=rna_fusoxy30_14465;Description=;parent=gene_fusoxy30_14465
+fusoxy30_Scaffold23	bed	RNA	48928	43254	.	+	ID=rna_fusoxy30_14466;Description=;parent=gene_fusoxy30_14466
+fusoxy30_Scaffold23	bed	RNA	49471	42732	.	-	ID=rna_fusoxy30_14467;Description=;parent=gene_fusoxy30_14467
+fusoxy30_Scaffold23	bed	RNA	50150	42098	.	-	ID=rna_fusoxy30_14468;Description=;parent=gene_fusoxy30_14468
+fusoxy30_Scaffold23	bed	RNA	51553	40366	.	-	ID=rna_fusoxy30_14469;Description=;parent=gene_fusoxy30_14469
+fusoxy30_Scaffold23	bed	RNA	53778	37807	.	-	ID=rna_fusoxy30_14470;Description=;parent=gene_fusoxy30_14470
+fusoxy30_Scaffold23	bed	RNA	53778	37807	.	-	ID=rna_fusoxy30_14471;Description=;parent=gene_fusoxy30_14471
+fusoxy30_Scaffold23	bed	RNA	55161	35688	.	-	ID=rna_fusoxy30_14472;Description=;parent=gene_fusoxy30_14472
+fusoxy30_Scaffold23	bed	RNA	55479	35446	.	+	ID=rna_fusoxy30_14473;Description=;parent=gene_fusoxy30_14473
+fusoxy30_Scaffold23	bed	RNA	57260	34774	.	+	ID=rna_fusoxy30_14474;Description=;parent=gene_fusoxy30_14474
+fusoxy30_Scaffold23	bed	RNA	58361	33670	.	+	ID=rna_fusoxy30_14475;Description=;parent=gene_fusoxy30_14475
+fusoxy30_Scaffold23	bed	RNA	59050	32742	.	-	ID=rna_fusoxy30_14476;Description=;parent=gene_fusoxy30_14476
+fusoxy30_Scaffold23	bed	RNA	60016	32295	.	-	ID=rna_fusoxy30_14477;Description=;parent=gene_fusoxy30_14477
+fusoxy30_Scaffold23	bed	RNA	61561	29088	.	-	ID=rna_fusoxy30_14478;Description=;parent=gene_fusoxy30_14478
+fusoxy30_Scaffold23	bed	RNA	64263	27939	.	+	ID=rna_fusoxy30_14479;Description=;parent=gene_fusoxy30_14479
+fusoxy30_Scaffold23	bed	RNA	64703	27383	.	-	ID=rna_fusoxy30_14480;Description=;parent=gene_fusoxy30_14480
+fusoxy30_Scaffold23	bed	RNA	67041	24910	.	+	ID=rna_fusoxy30_14481;Description=;parent=gene_fusoxy30_14481
+fusoxy30_Scaffold23	bed	RNA	68542	23151	.	+	ID=rna_fusoxy30_14482;Description=;parent=gene_fusoxy30_14482
+fusoxy30_Scaffold23	bed	RNA	70750	20975	.	+	ID=rna_fusoxy30_14483;Description=;parent=gene_fusoxy30_14483
+fusoxy30_Scaffold23	bed	RNA	71860	19287	.	-	ID=rna_fusoxy30_14484;Description=;parent=gene_fusoxy30_14484
+fusoxy30_Scaffold23	bed	RNA	73872	15973	.	+	ID=rna_fusoxy30_14485;Description=;parent=gene_fusoxy30_14485
+fusoxy30_Scaffold23	bed	RNA	78137	10970	.	-	ID=rna_fusoxy30_14486:14487;Description=;parent=gene_fusoxy30_14486:14487
+fusoxy30_Scaffold23	bed	RNA	83553	9024	.	-	ID=rna_fusoxy30_14488;Description=;parent=gene_fusoxy30_14488
+fusoxy30_Scaffold23	bed	RNA	84094	7548	.	-	ID=rna_fusoxy30_14489;Description=;parent=gene_fusoxy30_14489
+fusoxy30_Scaffold23	bed	RNA	87432	4963	.	-	ID=rna_fusoxy30_eg247726;Description=;parent=gene_fusoxy30_eg247726
+fusoxy30_Scaffold23	bed	RNA	88782	1143	.	-	ID=rna_fusoxy30_14490:14491;Description=;parent=gene_fusoxy30_14490:14491
+fusoxy30_Scaffold23	bed	RNA	92643	0	.	+	ID=rna_fusoxy30_14434|fusoxy25_supercont16|down;Description=;parent=gene_fusoxy30_14434|fusoxy25_supercont16|down
+fusoxy30_Scaffold23	bed	CDS	1	92642	.	+	ID=cds_fusoxy30_14434|fusoxy25_supercont16|up;Description=;parent=rna_fusoxy30_14434|fusoxy25_supercont16|up
+fusoxy30_Scaffold23	bed	CDS	1760	89561	.	+	ID=cds_fusoxy30_14434;Description=;parent=rna_fusoxy30_14434
+fusoxy30_Scaffold23	bed	CDS	5323	86573	.	+	ID=cds_fusoxy30_14435;Description=;parent=rna_fusoxy30_14435
+fusoxy30_Scaffold23	bed	CDS	6764	85739	.	-	ID=cds_fusoxy30_14436;Description=;parent=rna_fusoxy30_14436
+fusoxy30_Scaffold23	bed	CDS	7367	83996	.	+	ID=cds_fusoxy30_14437;Description=;parent=rna_fusoxy30_14437
+fusoxy30_Scaffold23	bed	CDS	8557	83645	.	-	ID=cds_fusoxy30_14438;Description=;parent=rna_fusoxy30_14438
+fusoxy30_Scaffold23	bed	CDS	9459	83032	.	-	ID=cds_fusoxy30_14439;Description=;parent=rna_fusoxy30_14439
+fusoxy30_Scaffold23	bed	CDS	10494	81286	.	+	ID=cds_fusoxy30_14440;Description=;parent=rna_fusoxy30_14440
+fusoxy30_Scaffold23	bed	CDS	11442	80525	.	+	ID=cds_fusoxy30_14441;Description=;parent=rna_fusoxy30_14441
+fusoxy30_Scaffold23	bed	CDS	12106	80056	.	-	ID=cds_fusoxy30_14442;Description=;parent=rna_fusoxy30_14442
+fusoxy30_Scaffold23	bed	CDS	13060	78222	.	+	ID=cds_fusoxy30_14443;Description=;parent=rna_fusoxy30_14443
+fusoxy30_Scaffold23	bed	CDS	14408	77328	.	-	ID=cds_fusoxy30_14444;Description=;parent=rna_fusoxy30_14444
+fusoxy30_Scaffold23	bed	CDS	15719	76282	.	+	ID=cds_fusoxy30_14445;Description=;parent=rna_fusoxy30_14445
+fusoxy30_Scaffold23	bed	CDS	16191	75514	.	-	ID=cds_fusoxy30_14446;Description=;parent=rna_fusoxy30_14446
+fusoxy30_Scaffold23	bed	CDS	17484	74381	.	-	ID=cds_fusoxy30_14447;Description=;parent=rna_fusoxy30_14447
+fusoxy30_Scaffold23	bed	CDS	18478	73102	.	+	ID=cds_fusoxy30_14448;Description=;parent=rna_fusoxy30_14448
+fusoxy30_Scaffold23	bed	CDS	19822	72233	.	+	ID=cds_fusoxy30_14449;Description=;parent=rna_fusoxy30_14449
+fusoxy30_Scaffold23	bed	CDS	20802	71082	.	+	ID=cds_fusoxy30_14450;Description=;parent=rna_fusoxy30_14450
+fusoxy30_Scaffold23	bed	CDS	21792	70183	.	+	ID=cds_fusoxy30_14451;Description=;parent=rna_fusoxy30_14451
+fusoxy30_Scaffold23	bed	CDS	22616	67502	.	-	ID=cds_fusoxy30_14452;Description=;parent=rna_fusoxy30_14452
+fusoxy30_Scaffold23	bed	CDS	25406	64812	.	+	ID=cds_fusoxy30_14453;Description=;parent=rna_fusoxy30_14453
+fusoxy30_Scaffold23	bed	CDS	31342	60708	.	-	ID=cds_fusoxy30_14454;Description=;parent=rna_fusoxy30_14454
+fusoxy30_Scaffold23	bed	CDS	32107	60263	.	-	ID=cds_fusoxy30_14455;Description=;parent=rna_fusoxy30_14455
+fusoxy30_Scaffold23	bed	CDS	32403	58203	.	+	ID=cds_fusoxy30_14456;Description=;parent=rna_fusoxy30_14456
+fusoxy30_Scaffold23	bed	CDS	34794	56089	.	+	ID=cds_fusoxy30_14457;Description=;parent=rna_fusoxy30_14457
+fusoxy30_Scaffold23	bed	CDS	37642	54037	.	-	ID=cds_fusoxy30_14458;Description=;parent=rna_fusoxy30_14458
+fusoxy30_Scaffold23	bed	CDS	38615	50965	.	-	ID=cds_fusoxy30_14459;Description=;parent=rna_fusoxy30_14459
+fusoxy30_Scaffold23	bed	CDS	42202	49258	.	-	ID=cds_fusoxy30_14460;Description=;parent=rna_fusoxy30_14460
+fusoxy30_Scaffold23	bed	CDS	42202	49412	.	-	ID=cds_fusoxy30_14461;Description=;parent=rna_fusoxy30_14461
+fusoxy30_Scaffold23	bed	CDS	44322	47239	.	+	ID=cds_fusoxy30_14462;Description=;parent=rna_fusoxy30_14462
+fusoxy30_Scaffold23	bed	CDS	47267	45283	.	-	ID=cds_fusoxy30_14463;Description=;parent=rna_fusoxy30_14463
+fusoxy30_Scaffold23	bed	CDS	47983	44567	.	-	ID=cds_fusoxy30_14464;Description=;parent=rna_fusoxy30_14464
+fusoxy30_Scaffold23	bed	CDS	48630	43822	.	+	ID=cds_fusoxy30_14465;Description=;parent=rna_fusoxy30_14465
+fusoxy30_Scaffold23	bed	CDS	48928	43254	.	+	ID=cds_fusoxy30_14466;Description=;parent=rna_fusoxy30_14466
+fusoxy30_Scaffold23	bed	CDS	49471	42732	.	-	ID=cds_fusoxy30_14467;Description=;parent=rna_fusoxy30_14467
+fusoxy30_Scaffold23	bed	CDS	50150	42098	.	-	ID=cds_fusoxy30_14468;Description=;parent=rna_fusoxy30_14468
+fusoxy30_Scaffold23	bed	CDS	51553	40366	.	-	ID=cds_fusoxy30_14469;Description=;parent=rna_fusoxy30_14469
+fusoxy30_Scaffold23	bed	CDS	53778	37807	.	-	ID=cds_fusoxy30_14470;Description=;parent=rna_fusoxy30_14470
+fusoxy30_Scaffold23	bed	CDS	53778	37807	.	-	ID=cds_fusoxy30_14471;Description=;parent=rna_fusoxy30_14471
+fusoxy30_Scaffold23	bed	CDS	55161	35688	.	-	ID=cds_fusoxy30_14472;Description=;parent=rna_fusoxy30_14472
+fusoxy30_Scaffold23	bed	CDS	55479	35446	.	+	ID=cds_fusoxy30_14473;Description=;parent=rna_fusoxy30_14473
+fusoxy30_Scaffold23	bed	CDS	57260	34774	.	+	ID=cds_fusoxy30_14474;Description=;parent=rna_fusoxy30_14474
+fusoxy30_Scaffold23	bed	CDS	58361	33670	.	+	ID=cds_fusoxy30_14475;Description=;parent=rna_fusoxy30_14475
+fusoxy30_Scaffold23	bed	CDS	59050	32742	.	-	ID=cds_fusoxy30_14476;Description=;parent=rna_fusoxy30_14476
+fusoxy30_Scaffold23	bed	CDS	60016	32295	.	-	ID=cds_fusoxy30_14477;Description=;parent=rna_fusoxy30_14477
+fusoxy30_Scaffold23	bed	CDS	61561	29088	.	-	ID=cds_fusoxy30_14478;Description=;parent=rna_fusoxy30_14478
+fusoxy30_Scaffold23	bed	CDS	64263	27939	.	+	ID=cds_fusoxy30_14479;Description=;parent=rna_fusoxy30_14479
+fusoxy30_Scaffold23	bed	CDS	64703	27383	.	-	ID=cds_fusoxy30_14480;Description=;parent=rna_fusoxy30_14480
+fusoxy30_Scaffold23	bed	CDS	67041	24910	.	+	ID=cds_fusoxy30_14481;Description=;parent=rna_fusoxy30_14481
+fusoxy30_Scaffold23	bed	CDS	68542	23151	.	+	ID=cds_fusoxy30_14482;Description=;parent=rna_fusoxy30_14482
+fusoxy30_Scaffold23	bed	CDS	70750	20975	.	+	ID=cds_fusoxy30_14483;Description=;parent=rna_fusoxy30_14483
+fusoxy30_Scaffold23	bed	CDS	71860	19287	.	-	ID=cds_fusoxy30_14484;Description=;parent=rna_fusoxy30_14484
+fusoxy30_Scaffold23	bed	CDS	73872	15973	.	+	ID=cds_fusoxy30_14485;Description=;parent=rna_fusoxy30_14485
+fusoxy30_Scaffold23	bed	CDS	78137	10970	.	-	ID=cds_fusoxy30_14486:14487;Description=;parent=rna_fusoxy30_14486:14487
+fusoxy30_Scaffold23	bed	CDS	83553	9024	.	-	ID=cds_fusoxy30_14488;Description=;parent=rna_fusoxy30_14488
+fusoxy30_Scaffold23	bed	CDS	84094	7548	.	-	ID=cds_fusoxy30_14489;Description=;parent=rna_fusoxy30_14489
+fusoxy30_Scaffold23	bed	CDS	87432	4963	.	-	ID=cds_fusoxy30_eg247726;Description=;parent=rna_fusoxy30_eg247726
+fusoxy30_Scaffold23	bed	CDS	88782	1143	.	-	ID=cds_fusoxy30_14490:14491;Description=;parent=rna_fusoxy30_14490:14491
+fusoxy30_Scaffold23	bed	CDS	92643	0	.	+	ID=cds_fusoxy30_14434|fusoxy25_supercont16|down;Description=;parent=rna_fusoxy30_14434|fusoxy25_supercont16|down

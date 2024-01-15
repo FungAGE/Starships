@@ -1,0 +1,155 @@
+fussol1_scaffold5	bed	region	1	128385	.	-	flank	ID=gene_fussol1_232585|DR|down;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	1097	125765	.	+	.	ID=gene_fussol1_486914;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	5758	121965	.	+	.	ID=gene_fussol1_486919;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	6961	117820	.	-	.	ID=gene_fussol1_232089;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	11736	114155	.	-	.	ID=gene_fussol1_523198;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	16854	110827	.	+	.	ID=gene_fussol1_592162;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	18618	106730	.	-	nlr	ID=gene_fussol1_510518;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	22638	104607	.	+	.	ID=gene_fussol1_486932;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	23772	103105	.	-	.	ID=gene_fussol1_232163;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	27306	98318	.	+	nlr	ID=gene_fussol1_419177;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	30847	95937	.	-	.	ID=gene_fussol1_486940;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	32995	94567	.	+	.	ID=gene_fussol1_545565;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	34281	93314	.	-	.	ID=gene_fussol1_510506;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	35216	91513	.	+	.	ID=gene_fussol1_232196;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	36742	89053	.	-	.	ID=gene_fussol1_232273;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	39496	87577	.	-	.	ID=gene_fussol1_486959;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	44543	82626	.	-	.	ID=gene_fussol1_462716;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	47314	79302	.	-	.	ID=gene_fussol1_579024;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	49481	78294	.	+	.	ID=gene_fussol1_545573;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	50146	75778	.	-	.	ID=gene_fussol1_579026;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	52860	73968	.	+	d37	ID=gene_fussol1_523209;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	55688	72211	.	-	.	ID=gene_fussol1_579036;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	57560	69913	.	-	.	ID=gene_fussol1_545577;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	58746	69111	.	+	.	ID=gene_fussol1_545578;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	60092	67700	.	+	.	ID=gene_fussol1_579047;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	60755	67079	.	-	.	ID=gene_fussol1_486968;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	61870	65158	.	-	.	ID=gene_fussol1_579050;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	64583	62008	.	+	.	ID=gene_fussol1_232370;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	67528	60086	.	-	.	ID=gene_fussol1_462730;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	69110	58505	.	+	.	ID=gene_fussol1_486970;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	70163	57432	.	-	.	ID=gene_fussol1_579051;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	72918	54605	.	+	.	ID=gene_fussol1_441867;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	74433	52840	.	+	.	ID=gene_fussol1_462733;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	77891	49617	.	-	.	ID=gene_fussol1_579063;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	80538	44192	.	-	.	ID=gene_fussol1_592176;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	84376	40979	.	-	.	ID=gene_fussol1_592177;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	87633	40018	.	-	.	ID=gene_fussol1_579066;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	88797	38930	.	-	.	ID=gene_fussol1_523217;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	90595	37221	.	-	.	ID=gene_fussol1_232401;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	91559	35787	.	+	.	ID=gene_fussol1_232412;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	92402	34999	.	-	.	ID=gene_fussol1_232404;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	93795	33087	.	+	.	ID=gene_fussol1_232421;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	96398	30857	.	+	.	ID=gene_fussol1_486986;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	98993	27868	.	-	.	ID=gene_fussol1_486992;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	100525	24936	.	-	.	ID=gene_fussol1_441874;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	103727	23468	.	+	.	ID=gene_fussol1_486999;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	106881	20018	.	+	.	ID=gene_fussol1_487001;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	109317	18178	.	-	.	ID=gene_fussol1_487004;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	111792	13545	.	+	nlr	ID=gene_fussol1_232628;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	116306	10168	.	+	.	ID=gene_fussol1_533957;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	120991	3928	.	+	nlr	ID=gene_fussol1_441888;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	gene	125139	710	.	-	cap	ID=gene_fussol1_232585;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	region	128386	0	.	-	flank	ID=gene_fussol1_232585|DR|up;Description=fussol1_s06317;parent=fussol1_scaffold5
+fussol1_scaffold5	bed	RNA	1097	125765	.	+	ID=rna_fussol1_486914;Description=;parent=gene_fussol1_486914
+fussol1_scaffold5	bed	RNA	5758	121965	.	+	ID=rna_fussol1_486919;Description=;parent=gene_fussol1_486919
+fussol1_scaffold5	bed	RNA	6961	117820	.	-	ID=rna_fussol1_232089;Description=;parent=gene_fussol1_232089
+fussol1_scaffold5	bed	RNA	11736	114155	.	-	ID=rna_fussol1_523198;Description=;parent=gene_fussol1_523198
+fussol1_scaffold5	bed	RNA	16854	110827	.	+	ID=rna_fussol1_592162;Description=;parent=gene_fussol1_592162
+fussol1_scaffold5	bed	RNA	18618	106730	.	-	ID=rna_fussol1_510518;Description=;parent=gene_fussol1_510518
+fussol1_scaffold5	bed	RNA	22638	104607	.	+	ID=rna_fussol1_486932;Description=;parent=gene_fussol1_486932
+fussol1_scaffold5	bed	RNA	23772	103105	.	-	ID=rna_fussol1_232163;Description=;parent=gene_fussol1_232163
+fussol1_scaffold5	bed	RNA	27306	98318	.	+	ID=rna_fussol1_419177;Description=;parent=gene_fussol1_419177
+fussol1_scaffold5	bed	RNA	30847	95937	.	-	ID=rna_fussol1_486940;Description=;parent=gene_fussol1_486940
+fussol1_scaffold5	bed	RNA	32995	94567	.	+	ID=rna_fussol1_545565;Description=;parent=gene_fussol1_545565
+fussol1_scaffold5	bed	RNA	34281	93314	.	-	ID=rna_fussol1_510506;Description=;parent=gene_fussol1_510506
+fussol1_scaffold5	bed	RNA	35216	91513	.	+	ID=rna_fussol1_232196;Description=;parent=gene_fussol1_232196
+fussol1_scaffold5	bed	RNA	36742	89053	.	-	ID=rna_fussol1_232273;Description=;parent=gene_fussol1_232273
+fussol1_scaffold5	bed	RNA	39496	87577	.	-	ID=rna_fussol1_486959;Description=;parent=gene_fussol1_486959
+fussol1_scaffold5	bed	RNA	44543	82626	.	-	ID=rna_fussol1_462716;Description=;parent=gene_fussol1_462716
+fussol1_scaffold5	bed	RNA	47314	79302	.	-	ID=rna_fussol1_579024;Description=;parent=gene_fussol1_579024
+fussol1_scaffold5	bed	RNA	49481	78294	.	+	ID=rna_fussol1_545573;Description=;parent=gene_fussol1_545573
+fussol1_scaffold5	bed	RNA	50146	75778	.	-	ID=rna_fussol1_579026;Description=;parent=gene_fussol1_579026
+fussol1_scaffold5	bed	RNA	52860	73968	.	+	ID=rna_fussol1_523209;Description=;parent=gene_fussol1_523209
+fussol1_scaffold5	bed	RNA	55688	72211	.	-	ID=rna_fussol1_579036;Description=;parent=gene_fussol1_579036
+fussol1_scaffold5	bed	RNA	57560	69913	.	-	ID=rna_fussol1_545577;Description=;parent=gene_fussol1_545577
+fussol1_scaffold5	bed	RNA	58746	69111	.	+	ID=rna_fussol1_545578;Description=;parent=gene_fussol1_545578
+fussol1_scaffold5	bed	RNA	60092	67700	.	+	ID=rna_fussol1_579047;Description=;parent=gene_fussol1_579047
+fussol1_scaffold5	bed	RNA	60755	67079	.	-	ID=rna_fussol1_486968;Description=;parent=gene_fussol1_486968
+fussol1_scaffold5	bed	RNA	61870	65158	.	-	ID=rna_fussol1_579050;Description=;parent=gene_fussol1_579050
+fussol1_scaffold5	bed	RNA	64583	62008	.	+	ID=rna_fussol1_232370;Description=;parent=gene_fussol1_232370
+fussol1_scaffold5	bed	RNA	67528	60086	.	-	ID=rna_fussol1_462730;Description=;parent=gene_fussol1_462730
+fussol1_scaffold5	bed	RNA	69110	58505	.	+	ID=rna_fussol1_486970;Description=;parent=gene_fussol1_486970
+fussol1_scaffold5	bed	RNA	70163	57432	.	-	ID=rna_fussol1_579051;Description=;parent=gene_fussol1_579051
+fussol1_scaffold5	bed	RNA	72918	54605	.	+	ID=rna_fussol1_441867;Description=;parent=gene_fussol1_441867
+fussol1_scaffold5	bed	RNA	74433	52840	.	+	ID=rna_fussol1_462733;Description=;parent=gene_fussol1_462733
+fussol1_scaffold5	bed	RNA	77891	49617	.	-	ID=rna_fussol1_579063;Description=;parent=gene_fussol1_579063
+fussol1_scaffold5	bed	RNA	80538	44192	.	-	ID=rna_fussol1_592176;Description=;parent=gene_fussol1_592176
+fussol1_scaffold5	bed	RNA	84376	40979	.	-	ID=rna_fussol1_592177;Description=;parent=gene_fussol1_592177
+fussol1_scaffold5	bed	RNA	87633	40018	.	-	ID=rna_fussol1_579066;Description=;parent=gene_fussol1_579066
+fussol1_scaffold5	bed	RNA	88797	38930	.	-	ID=rna_fussol1_523217;Description=;parent=gene_fussol1_523217
+fussol1_scaffold5	bed	RNA	90595	37221	.	-	ID=rna_fussol1_232401;Description=;parent=gene_fussol1_232401
+fussol1_scaffold5	bed	RNA	91559	35787	.	+	ID=rna_fussol1_232412;Description=;parent=gene_fussol1_232412
+fussol1_scaffold5	bed	RNA	92402	34999	.	-	ID=rna_fussol1_232404;Description=;parent=gene_fussol1_232404
+fussol1_scaffold5	bed	RNA	93795	33087	.	+	ID=rna_fussol1_232421;Description=;parent=gene_fussol1_232421
+fussol1_scaffold5	bed	RNA	96398	30857	.	+	ID=rna_fussol1_486986;Description=;parent=gene_fussol1_486986
+fussol1_scaffold5	bed	RNA	98993	27868	.	-	ID=rna_fussol1_486992;Description=;parent=gene_fussol1_486992
+fussol1_scaffold5	bed	RNA	100525	24936	.	-	ID=rna_fussol1_441874;Description=;parent=gene_fussol1_441874
+fussol1_scaffold5	bed	RNA	103727	23468	.	+	ID=rna_fussol1_486999;Description=;parent=gene_fussol1_486999
+fussol1_scaffold5	bed	RNA	106881	20018	.	+	ID=rna_fussol1_487001;Description=;parent=gene_fussol1_487001
+fussol1_scaffold5	bed	RNA	109317	18178	.	-	ID=rna_fussol1_487004;Description=;parent=gene_fussol1_487004
+fussol1_scaffold5	bed	RNA	111792	13545	.	+	ID=rna_fussol1_232628;Description=;parent=gene_fussol1_232628
+fussol1_scaffold5	bed	RNA	116306	10168	.	+	ID=rna_fussol1_533957;Description=;parent=gene_fussol1_533957
+fussol1_scaffold5	bed	RNA	120991	3928	.	+	ID=rna_fussol1_441888;Description=;parent=gene_fussol1_441888
+fussol1_scaffold5	bed	RNA	125139	710	.	-	ID=rna_fussol1_232585;Description=;parent=gene_fussol1_232585
+fussol1_scaffold5	bed	CDS	1097	125765	.	+	ID=cds_fussol1_486914;Description=;parent=rna_fussol1_486914
+fussol1_scaffold5	bed	CDS	5758	121965	.	+	ID=cds_fussol1_486919;Description=;parent=rna_fussol1_486919
+fussol1_scaffold5	bed	CDS	6961	117820	.	-	ID=cds_fussol1_232089;Description=;parent=rna_fussol1_232089
+fussol1_scaffold5	bed	CDS	11736	114155	.	-	ID=cds_fussol1_523198;Description=;parent=rna_fussol1_523198
+fussol1_scaffold5	bed	CDS	16854	110827	.	+	ID=cds_fussol1_592162;Description=;parent=rna_fussol1_592162
+fussol1_scaffold5	bed	CDS	18618	106730	.	-	ID=cds_fussol1_510518;Description=;parent=rna_fussol1_510518
+fussol1_scaffold5	bed	CDS	22638	104607	.	+	ID=cds_fussol1_486932;Description=;parent=rna_fussol1_486932
+fussol1_scaffold5	bed	CDS	23772	103105	.	-	ID=cds_fussol1_232163;Description=;parent=rna_fussol1_232163
+fussol1_scaffold5	bed	CDS	27306	98318	.	+	ID=cds_fussol1_419177;Description=;parent=rna_fussol1_419177
+fussol1_scaffold5	bed	CDS	30847	95937	.	-	ID=cds_fussol1_486940;Description=;parent=rna_fussol1_486940
+fussol1_scaffold5	bed	CDS	32995	94567	.	+	ID=cds_fussol1_545565;Description=;parent=rna_fussol1_545565
+fussol1_scaffold5	bed	CDS	34281	93314	.	-	ID=cds_fussol1_510506;Description=;parent=rna_fussol1_510506
+fussol1_scaffold5	bed	CDS	35216	91513	.	+	ID=cds_fussol1_232196;Description=;parent=rna_fussol1_232196
+fussol1_scaffold5	bed	CDS	36742	89053	.	-	ID=cds_fussol1_232273;Description=;parent=rna_fussol1_232273
+fussol1_scaffold5	bed	CDS	39496	87577	.	-	ID=cds_fussol1_486959;Description=;parent=rna_fussol1_486959
+fussol1_scaffold5	bed	CDS	44543	82626	.	-	ID=cds_fussol1_462716;Description=;parent=rna_fussol1_462716
+fussol1_scaffold5	bed	CDS	47314	79302	.	-	ID=cds_fussol1_579024;Description=;parent=rna_fussol1_579024
+fussol1_scaffold5	bed	CDS	49481	78294	.	+	ID=cds_fussol1_545573;Description=;parent=rna_fussol1_545573
+fussol1_scaffold5	bed	CDS	50146	75778	.	-	ID=cds_fussol1_579026;Description=;parent=rna_fussol1_579026
+fussol1_scaffold5	bed	CDS	52860	73968	.	+	ID=cds_fussol1_523209;Description=;parent=rna_fussol1_523209
+fussol1_scaffold5	bed	CDS	55688	72211	.	-	ID=cds_fussol1_579036;Description=;parent=rna_fussol1_579036
+fussol1_scaffold5	bed	CDS	57560	69913	.	-	ID=cds_fussol1_545577;Description=;parent=rna_fussol1_545577
+fussol1_scaffold5	bed	CDS	58746	69111	.	+	ID=cds_fussol1_545578;Description=;parent=rna_fussol1_545578
+fussol1_scaffold5	bed	CDS	60092	67700	.	+	ID=cds_fussol1_579047;Description=;parent=rna_fussol1_579047
+fussol1_scaffold5	bed	CDS	60755	67079	.	-	ID=cds_fussol1_486968;Description=;parent=rna_fussol1_486968
+fussol1_scaffold5	bed	CDS	61870	65158	.	-	ID=cds_fussol1_579050;Description=;parent=rna_fussol1_579050
+fussol1_scaffold5	bed	CDS	64583	62008	.	+	ID=cds_fussol1_232370;Description=;parent=rna_fussol1_232370
+fussol1_scaffold5	bed	CDS	67528	60086	.	-	ID=cds_fussol1_462730;Description=;parent=rna_fussol1_462730
+fussol1_scaffold5	bed	CDS	69110	58505	.	+	ID=cds_fussol1_486970;Description=;parent=rna_fussol1_486970
+fussol1_scaffold5	bed	CDS	70163	57432	.	-	ID=cds_fussol1_579051;Description=;parent=rna_fussol1_579051
+fussol1_scaffold5	bed	CDS	72918	54605	.	+	ID=cds_fussol1_441867;Description=;parent=rna_fussol1_441867
+fussol1_scaffold5	bed	CDS	74433	52840	.	+	ID=cds_fussol1_462733;Description=;parent=rna_fussol1_462733
+fussol1_scaffold5	bed	CDS	77891	49617	.	-	ID=cds_fussol1_579063;Description=;parent=rna_fussol1_579063
+fussol1_scaffold5	bed	CDS	80538	44192	.	-	ID=cds_fussol1_592176;Description=;parent=rna_fussol1_592176
+fussol1_scaffold5	bed	CDS	84376	40979	.	-	ID=cds_fussol1_592177;Description=;parent=rna_fussol1_592177
+fussol1_scaffold5	bed	CDS	87633	40018	.	-	ID=cds_fussol1_579066;Description=;parent=rna_fussol1_579066
+fussol1_scaffold5	bed	CDS	88797	38930	.	-	ID=cds_fussol1_523217;Description=;parent=rna_fussol1_523217
+fussol1_scaffold5	bed	CDS	90595	37221	.	-	ID=cds_fussol1_232401;Description=;parent=rna_fussol1_232401
+fussol1_scaffold5	bed	CDS	91559	35787	.	+	ID=cds_fussol1_232412;Description=;parent=rna_fussol1_232412
+fussol1_scaffold5	bed	CDS	92402	34999	.	-	ID=cds_fussol1_232404;Description=;parent=rna_fussol1_232404
+fussol1_scaffold5	bed	CDS	93795	33087	.	+	ID=cds_fussol1_232421;Description=;parent=rna_fussol1_232421
+fussol1_scaffold5	bed	CDS	96398	30857	.	+	ID=cds_fussol1_486986;Description=;parent=rna_fussol1_486986
+fussol1_scaffold5	bed	CDS	98993	27868	.	-	ID=cds_fussol1_486992;Description=;parent=rna_fussol1_486992
+fussol1_scaffold5	bed	CDS	100525	24936	.	-	ID=cds_fussol1_441874;Description=;parent=rna_fussol1_441874
+fussol1_scaffold5	bed	CDS	103727	23468	.	+	ID=cds_fussol1_486999;Description=;parent=rna_fussol1_486999
+fussol1_scaffold5	bed	CDS	106881	20018	.	+	ID=cds_fussol1_487001;Description=;parent=rna_fussol1_487001
+fussol1_scaffold5	bed	CDS	109317	18178	.	-	ID=cds_fussol1_487004;Description=;parent=rna_fussol1_487004
+fussol1_scaffold5	bed	CDS	111792	13545	.	+	ID=cds_fussol1_232628;Description=;parent=rna_fussol1_232628
+fussol1_scaffold5	bed	CDS	116306	10168	.	+	ID=cds_fussol1_533957;Description=;parent=rna_fussol1_533957
+fussol1_scaffold5	bed	CDS	120991	3928	.	+	ID=cds_fussol1_441888;Description=;parent=rna_fussol1_441888
+fussol1_scaffold5	bed	CDS	125139	710	.	-	ID=cds_fussol1_232585;Description=;parent=rna_fussol1_232585

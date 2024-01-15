@@ -1,0 +1,35 @@
+hiscap1_Supercontig1	bed	region	1	35634	.	-	flank	ID=gene_hiscap1_tyr7389|DR|down;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	3565	31414	.	+	.	ID=gene_hiscap1_274;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	5638	28753	.	-	.	ID=gene_hiscap1_275;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	7213	26495	.	+	.	ID=gene_hiscap1_eg326842;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	10819	24305	.	+	.	ID=gene_hiscap1_eg326609;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	11561	21721	.	-	.	ID=gene_hiscap1_eg326983;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	16943	16900	.	-	.	ID=gene_hiscap1_eg326615;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	19481	13842	.	-	.	ID=gene_hiscap1_eg326794;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	27871	7553	.	-	.	ID=gene_hiscap1_eg327037;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	29495	5569	.	+	.	ID=gene_hiscap1_276;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	30414	4428	.	-	.	ID=gene_hiscap1_277;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	gene	32150	990	.	-	cap	ID=gene_hiscap1_tyr7389;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	region	35637	0	.	-	flank	ID=gene_hiscap1_tyr7389|DR|up;Description=hiscap1_s07002;parent=hiscap1_Supercontig1
+hiscap1_Supercontig1	bed	RNA	3565	31414	.	+	ID=rna_hiscap1_274;Description=;parent=gene_hiscap1_274
+hiscap1_Supercontig1	bed	RNA	5638	28753	.	-	ID=rna_hiscap1_275;Description=;parent=gene_hiscap1_275
+hiscap1_Supercontig1	bed	RNA	7213	26495	.	+	ID=rna_hiscap1_eg326842;Description=;parent=gene_hiscap1_eg326842
+hiscap1_Supercontig1	bed	RNA	10819	24305	.	+	ID=rna_hiscap1_eg326609;Description=;parent=gene_hiscap1_eg326609
+hiscap1_Supercontig1	bed	RNA	11561	21721	.	-	ID=rna_hiscap1_eg326983;Description=;parent=gene_hiscap1_eg326983
+hiscap1_Supercontig1	bed	RNA	16943	16900	.	-	ID=rna_hiscap1_eg326615;Description=;parent=gene_hiscap1_eg326615
+hiscap1_Supercontig1	bed	RNA	19481	13842	.	-	ID=rna_hiscap1_eg326794;Description=;parent=gene_hiscap1_eg326794
+hiscap1_Supercontig1	bed	RNA	27871	7553	.	-	ID=rna_hiscap1_eg327037;Description=;parent=gene_hiscap1_eg327037
+hiscap1_Supercontig1	bed	RNA	29495	5569	.	+	ID=rna_hiscap1_276;Description=;parent=gene_hiscap1_276
+hiscap1_Supercontig1	bed	RNA	30414	4428	.	-	ID=rna_hiscap1_277;Description=;parent=gene_hiscap1_277
+hiscap1_Supercontig1	bed	RNA	32150	990	.	-	ID=rna_hiscap1_tyr7389;Description=;parent=gene_hiscap1_tyr7389
+hiscap1_Supercontig1	bed	CDS	3565	31414	.	+	ID=cds_hiscap1_274;Description=;parent=rna_hiscap1_274
+hiscap1_Supercontig1	bed	CDS	5638	28753	.	-	ID=cds_hiscap1_275;Description=;parent=rna_hiscap1_275
+hiscap1_Supercontig1	bed	CDS	7213	26495	.	+	ID=cds_hiscap1_eg326842;Description=;parent=rna_hiscap1_eg326842
+hiscap1_Supercontig1	bed	CDS	10819	24305	.	+	ID=cds_hiscap1_eg326609;Description=;parent=rna_hiscap1_eg326609
+hiscap1_Supercontig1	bed	CDS	11561	21721	.	-	ID=cds_hiscap1_eg326983;Description=;parent=rna_hiscap1_eg326983
+hiscap1_Supercontig1	bed	CDS	16943	16900	.	-	ID=cds_hiscap1_eg326615;Description=;parent=rna_hiscap1_eg326615
+hiscap1_Supercontig1	bed	CDS	19481	13842	.	-	ID=cds_hiscap1_eg326794;Description=;parent=rna_hiscap1_eg326794
+hiscap1_Supercontig1	bed	CDS	27871	7553	.	-	ID=cds_hiscap1_eg327037;Description=;parent=rna_hiscap1_eg327037
+hiscap1_Supercontig1	bed	CDS	29495	5569	.	+	ID=cds_hiscap1_276;Description=;parent=rna_hiscap1_276
+hiscap1_Supercontig1	bed	CDS	30414	4428	.	-	ID=cds_hiscap1_277;Description=;parent=rna_hiscap1_277
+hiscap1_Supercontig1	bed	CDS	32150	990	.	-	ID=cds_hiscap1_tyr7389;Description=;parent=rna_hiscap1_tyr7389

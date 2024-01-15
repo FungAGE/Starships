@@ -1,0 +1,79 @@
+altcon1_BCGG01000003.1	bed	region	1	129348	.	+	flank	ID=gene_altcon1_tyr150|DR|up;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	region	20	129319	.	+	flank	ID=gene_altcon1_tyr150|TIR|up;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	257	126303	.	+	cap	ID=gene_altcon1_tyr150;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	14910	113378	.	+	.	ID=gene_altcon1_eg8257;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	16881	111503	.	+	.	ID=gene_altcon1_eg8241;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	18246	109868	.	-	.	ID=gene_altcon1_eg8292;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	33832	93888	.	-	fre	ID=gene_altcon1_fre483;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	36819	90549	.	-	d37	ID=gene_altcon1_d37140;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	39254	89685	.	-	d37	ID=gene_altcon1_d37139;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	39900	86348	.	+	plp	ID=gene_altcon1_plp420;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	49113	78148	.	-	.	ID=gene_altcon1_eg8081;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	55409	73023	.	-	.	ID=gene_altcon1_eg8022;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	64425	61940	.	+	nlr	ID=gene_altcon1_nlr7457;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	69051	59169	.	+	tyr	ID=gene_altcon1_tyr152;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	72477	56417	.	-	.	ID=gene_altcon1_eg8347;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	74317	53244	.	+	.	ID=gene_altcon1_eg8026;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	76536	49220	.	+	.	ID=gene_altcon1_eg8042;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	80345	48393	.	-	.	ID=gene_altcon1_eg7912;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	82595	46527	.	+	.	ID=gene_altcon1_eg8357;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	95799	32399	.	-	.	ID=gene_altcon1_eg8371;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	103094	23775	.	+	nlr	ID=gene_altcon1_nlr7460;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	107759	19060	.	+	nlr	ID=gene_altcon1_nlr7454;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	114256	14638	.	+	.	ID=gene_altcon1_eg8346;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	120103	8120	.	-	.	ID=gene_altcon1_eg8365;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	122851	5383	.	+	.	ID=gene_altcon1_eg8329;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	125216	3588	.	+	.	ID=gene_altcon1_eg7985;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	gene	126892	652	.	-	tyr	ID=gene_altcon1_tyr151;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	region	129325	12	.	+	flank	ID=gene_altcon1_tyr150|TIR|down;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	region	129349	0	.	+	flank	ID=gene_altcon1_tyr150|DR|down;Description=altcon1_s00140;parent=altcon1_BCGG01000003.1
+altcon1_BCGG01000003.1	bed	RNA	257	126303	.	+	ID=rna_altcon1_tyr150;Description=;parent=gene_altcon1_tyr150
+altcon1_BCGG01000003.1	bed	RNA	14910	113378	.	+	ID=rna_altcon1_eg8257;Description=;parent=gene_altcon1_eg8257
+altcon1_BCGG01000003.1	bed	RNA	16881	111503	.	+	ID=rna_altcon1_eg8241;Description=;parent=gene_altcon1_eg8241
+altcon1_BCGG01000003.1	bed	RNA	18246	109868	.	-	ID=rna_altcon1_eg8292;Description=;parent=gene_altcon1_eg8292
+altcon1_BCGG01000003.1	bed	RNA	33832	93888	.	-	ID=rna_altcon1_fre483;Description=;parent=gene_altcon1_fre483
+altcon1_BCGG01000003.1	bed	RNA	36819	90549	.	-	ID=rna_altcon1_d37140;Description=;parent=gene_altcon1_d37140
+altcon1_BCGG01000003.1	bed	RNA	39254	89685	.	-	ID=rna_altcon1_d37139;Description=;parent=gene_altcon1_d37139
+altcon1_BCGG01000003.1	bed	RNA	39900	86348	.	+	ID=rna_altcon1_plp420;Description=;parent=gene_altcon1_plp420
+altcon1_BCGG01000003.1	bed	RNA	49113	78148	.	-	ID=rna_altcon1_eg8081;Description=;parent=gene_altcon1_eg8081
+altcon1_BCGG01000003.1	bed	RNA	55409	73023	.	-	ID=rna_altcon1_eg8022;Description=;parent=gene_altcon1_eg8022
+altcon1_BCGG01000003.1	bed	RNA	64425	61940	.	+	ID=rna_altcon1_nlr7457;Description=;parent=gene_altcon1_nlr7457
+altcon1_BCGG01000003.1	bed	RNA	69051	59169	.	+	ID=rna_altcon1_tyr152;Description=;parent=gene_altcon1_tyr152
+altcon1_BCGG01000003.1	bed	RNA	72477	56417	.	-	ID=rna_altcon1_eg8347;Description=;parent=gene_altcon1_eg8347
+altcon1_BCGG01000003.1	bed	RNA	74317	53244	.	+	ID=rna_altcon1_eg8026;Description=;parent=gene_altcon1_eg8026
+altcon1_BCGG01000003.1	bed	RNA	76536	49220	.	+	ID=rna_altcon1_eg8042;Description=;parent=gene_altcon1_eg8042
+altcon1_BCGG01000003.1	bed	RNA	80345	48393	.	-	ID=rna_altcon1_eg7912;Description=;parent=gene_altcon1_eg7912
+altcon1_BCGG01000003.1	bed	RNA	82595	46527	.	+	ID=rna_altcon1_eg8357;Description=;parent=gene_altcon1_eg8357
+altcon1_BCGG01000003.1	bed	RNA	95799	32399	.	-	ID=rna_altcon1_eg8371;Description=;parent=gene_altcon1_eg8371
+altcon1_BCGG01000003.1	bed	RNA	103094	23775	.	+	ID=rna_altcon1_nlr7460;Description=;parent=gene_altcon1_nlr7460
+altcon1_BCGG01000003.1	bed	RNA	107759	19060	.	+	ID=rna_altcon1_nlr7454;Description=;parent=gene_altcon1_nlr7454
+altcon1_BCGG01000003.1	bed	RNA	114256	14638	.	+	ID=rna_altcon1_eg8346;Description=;parent=gene_altcon1_eg8346
+altcon1_BCGG01000003.1	bed	RNA	120103	8120	.	-	ID=rna_altcon1_eg8365;Description=;parent=gene_altcon1_eg8365
+altcon1_BCGG01000003.1	bed	RNA	122851	5383	.	+	ID=rna_altcon1_eg8329;Description=;parent=gene_altcon1_eg8329
+altcon1_BCGG01000003.1	bed	RNA	125216	3588	.	+	ID=rna_altcon1_eg7985;Description=;parent=gene_altcon1_eg7985
+altcon1_BCGG01000003.1	bed	RNA	126892	652	.	-	ID=rna_altcon1_tyr151;Description=;parent=gene_altcon1_tyr151
+altcon1_BCGG01000003.1	bed	CDS	257	126303	.	+	ID=cds_altcon1_tyr150;Description=;parent=rna_altcon1_tyr150
+altcon1_BCGG01000003.1	bed	CDS	14910	113378	.	+	ID=cds_altcon1_eg8257;Description=;parent=rna_altcon1_eg8257
+altcon1_BCGG01000003.1	bed	CDS	16881	111503	.	+	ID=cds_altcon1_eg8241;Description=;parent=rna_altcon1_eg8241
+altcon1_BCGG01000003.1	bed	CDS	18246	109868	.	-	ID=cds_altcon1_eg8292;Description=;parent=rna_altcon1_eg8292
+altcon1_BCGG01000003.1	bed	CDS	33832	93888	.	-	ID=cds_altcon1_fre483;Description=;parent=rna_altcon1_fre483
+altcon1_BCGG01000003.1	bed	CDS	36819	90549	.	-	ID=cds_altcon1_d37140;Description=;parent=rna_altcon1_d37140
+altcon1_BCGG01000003.1	bed	CDS	39254	89685	.	-	ID=cds_altcon1_d37139;Description=;parent=rna_altcon1_d37139
+altcon1_BCGG01000003.1	bed	CDS	39900	86348	.	+	ID=cds_altcon1_plp420;Description=;parent=rna_altcon1_plp420
+altcon1_BCGG01000003.1	bed	CDS	49113	78148	.	-	ID=cds_altcon1_eg8081;Description=;parent=rna_altcon1_eg8081
+altcon1_BCGG01000003.1	bed	CDS	55409	73023	.	-	ID=cds_altcon1_eg8022;Description=;parent=rna_altcon1_eg8022
+altcon1_BCGG01000003.1	bed	CDS	64425	61940	.	+	ID=cds_altcon1_nlr7457;Description=;parent=rna_altcon1_nlr7457
+altcon1_BCGG01000003.1	bed	CDS	69051	59169	.	+	ID=cds_altcon1_tyr152;Description=;parent=rna_altcon1_tyr152
+altcon1_BCGG01000003.1	bed	CDS	72477	56417	.	-	ID=cds_altcon1_eg8347;Description=;parent=rna_altcon1_eg8347
+altcon1_BCGG01000003.1	bed	CDS	74317	53244	.	+	ID=cds_altcon1_eg8026;Description=;parent=rna_altcon1_eg8026
+altcon1_BCGG01000003.1	bed	CDS	76536	49220	.	+	ID=cds_altcon1_eg8042;Description=;parent=rna_altcon1_eg8042
+altcon1_BCGG01000003.1	bed	CDS	80345	48393	.	-	ID=cds_altcon1_eg7912;Description=;parent=rna_altcon1_eg7912
+altcon1_BCGG01000003.1	bed	CDS	82595	46527	.	+	ID=cds_altcon1_eg8357;Description=;parent=rna_altcon1_eg8357
+altcon1_BCGG01000003.1	bed	CDS	95799	32399	.	-	ID=cds_altcon1_eg8371;Description=;parent=rna_altcon1_eg8371
+altcon1_BCGG01000003.1	bed	CDS	103094	23775	.	+	ID=cds_altcon1_nlr7460;Description=;parent=rna_altcon1_nlr7460
+altcon1_BCGG01000003.1	bed	CDS	107759	19060	.	+	ID=cds_altcon1_nlr7454;Description=;parent=rna_altcon1_nlr7454
+altcon1_BCGG01000003.1	bed	CDS	114256	14638	.	+	ID=cds_altcon1_eg8346;Description=;parent=rna_altcon1_eg8346
+altcon1_BCGG01000003.1	bed	CDS	120103	8120	.	-	ID=cds_altcon1_eg8365;Description=;parent=rna_altcon1_eg8365
+altcon1_BCGG01000003.1	bed	CDS	122851	5383	.	+	ID=cds_altcon1_eg8329;Description=;parent=rna_altcon1_eg8329
+altcon1_BCGG01000003.1	bed	CDS	125216	3588	.	+	ID=cds_altcon1_eg7985;Description=;parent=rna_altcon1_eg7985
+altcon1_BCGG01000003.1	bed	CDS	126892	652	.	-	ID=cds_altcon1_tyr151;Description=;parent=rna_altcon1_tyr151

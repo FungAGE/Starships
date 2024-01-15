@@ -1,0 +1,64 @@
+aspasp11_JACWGA010000001.1	bed	region	1	113031	.	+	flank	ID=gene_aspasp11_tyr517|DR|up;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	region	14	113014	.	+	flank	ID=gene_aspasp11_tyr517|TIR|up;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	502	110517	.	+	cap	ID=gene_aspasp11_tyr517;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	2714	108699	.	-	.	ID=gene_aspasp11_eg17709;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	8484	104183	.	+	.	ID=gene_aspasp11_eg17730;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	9459	102556	.	-	.	ID=gene_aspasp11_eg17584;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	10998	101321	.	+	.	ID=gene_aspasp11_eg17728;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	12116	100482	.	-	.	ID=gene_aspasp11_eg17572;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	14620	96421	.	-	tyr	ID=gene_aspasp11_tyr518;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	24804	84638	.	+	.	ID=gene_aspasp11_eg17866;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	31507	80824	.	+	.	ID=gene_aspasp11_eg17661;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	37399	72974	.	-	tyr	ID=gene_aspasp11_tyr519;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	44422	65900	.	-	d37	ID=gene_aspasp11_d37415;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	47413	64743	.	+	.	ID=gene_aspasp11_eg17828;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	54777	57761	.	-	.	ID=gene_aspasp11_eg17859;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	56064	56594	.	-	.	ID=gene_aspasp11_eg17743;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	62616	48173	.	+	plp	ID=gene_aspasp11_plp1030;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	84049	28702	.	-	.	ID=gene_aspasp11_eg17863;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	90014	22725	.	+	.	ID=gene_aspasp11_eg17825;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	91281	20141	.	+	.	ID=gene_aspasp11_eg17764;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	104555	6644	.	+	.	ID=gene_aspasp11_eg17782;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	gene	107746	4105	.	+	.	ID=gene_aspasp11_eg17807;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	region	113015	14	.	+	flank	ID=gene_aspasp11_tyr517|TIR|down;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	region	113033	0	.	+	flank	ID=gene_aspasp11_tyr517|DR|down;Description=aspasp11_s00573;parent=aspasp11_JACWGA010000001.1
+aspasp11_JACWGA010000001.1	bed	RNA	502	110517	.	+	ID=rna_aspasp11_tyr517;Description=;parent=gene_aspasp11_tyr517
+aspasp11_JACWGA010000001.1	bed	RNA	2714	108699	.	-	ID=rna_aspasp11_eg17709;Description=;parent=gene_aspasp11_eg17709
+aspasp11_JACWGA010000001.1	bed	RNA	8484	104183	.	+	ID=rna_aspasp11_eg17730;Description=;parent=gene_aspasp11_eg17730
+aspasp11_JACWGA010000001.1	bed	RNA	9459	102556	.	-	ID=rna_aspasp11_eg17584;Description=;parent=gene_aspasp11_eg17584
+aspasp11_JACWGA010000001.1	bed	RNA	10998	101321	.	+	ID=rna_aspasp11_eg17728;Description=;parent=gene_aspasp11_eg17728
+aspasp11_JACWGA010000001.1	bed	RNA	12116	100482	.	-	ID=rna_aspasp11_eg17572;Description=;parent=gene_aspasp11_eg17572
+aspasp11_JACWGA010000001.1	bed	RNA	14620	96421	.	-	ID=rna_aspasp11_tyr518;Description=;parent=gene_aspasp11_tyr518
+aspasp11_JACWGA010000001.1	bed	RNA	24804	84638	.	+	ID=rna_aspasp11_eg17866;Description=;parent=gene_aspasp11_eg17866
+aspasp11_JACWGA010000001.1	bed	RNA	31507	80824	.	+	ID=rna_aspasp11_eg17661;Description=;parent=gene_aspasp11_eg17661
+aspasp11_JACWGA010000001.1	bed	RNA	37399	72974	.	-	ID=rna_aspasp11_tyr519;Description=;parent=gene_aspasp11_tyr519
+aspasp11_JACWGA010000001.1	bed	RNA	44422	65900	.	-	ID=rna_aspasp11_d37415;Description=;parent=gene_aspasp11_d37415
+aspasp11_JACWGA010000001.1	bed	RNA	47413	64743	.	+	ID=rna_aspasp11_eg17828;Description=;parent=gene_aspasp11_eg17828
+aspasp11_JACWGA010000001.1	bed	RNA	54777	57761	.	-	ID=rna_aspasp11_eg17859;Description=;parent=gene_aspasp11_eg17859
+aspasp11_JACWGA010000001.1	bed	RNA	56064	56594	.	-	ID=rna_aspasp11_eg17743;Description=;parent=gene_aspasp11_eg17743
+aspasp11_JACWGA010000001.1	bed	RNA	62616	48173	.	+	ID=rna_aspasp11_plp1030;Description=;parent=gene_aspasp11_plp1030
+aspasp11_JACWGA010000001.1	bed	RNA	84049	28702	.	-	ID=rna_aspasp11_eg17863;Description=;parent=gene_aspasp11_eg17863
+aspasp11_JACWGA010000001.1	bed	RNA	90014	22725	.	+	ID=rna_aspasp11_eg17825;Description=;parent=gene_aspasp11_eg17825
+aspasp11_JACWGA010000001.1	bed	RNA	91281	20141	.	+	ID=rna_aspasp11_eg17764;Description=;parent=gene_aspasp11_eg17764
+aspasp11_JACWGA010000001.1	bed	RNA	104555	6644	.	+	ID=rna_aspasp11_eg17782;Description=;parent=gene_aspasp11_eg17782
+aspasp11_JACWGA010000001.1	bed	RNA	107746	4105	.	+	ID=rna_aspasp11_eg17807;Description=;parent=gene_aspasp11_eg17807
+aspasp11_JACWGA010000001.1	bed	CDS	502	110517	.	+	ID=cds_aspasp11_tyr517;Description=;parent=rna_aspasp11_tyr517
+aspasp11_JACWGA010000001.1	bed	CDS	2714	108699	.	-	ID=cds_aspasp11_eg17709;Description=;parent=rna_aspasp11_eg17709
+aspasp11_JACWGA010000001.1	bed	CDS	8484	104183	.	+	ID=cds_aspasp11_eg17730;Description=;parent=rna_aspasp11_eg17730
+aspasp11_JACWGA010000001.1	bed	CDS	9459	102556	.	-	ID=cds_aspasp11_eg17584;Description=;parent=rna_aspasp11_eg17584
+aspasp11_JACWGA010000001.1	bed	CDS	10998	101321	.	+	ID=cds_aspasp11_eg17728;Description=;parent=rna_aspasp11_eg17728
+aspasp11_JACWGA010000001.1	bed	CDS	12116	100482	.	-	ID=cds_aspasp11_eg17572;Description=;parent=rna_aspasp11_eg17572
+aspasp11_JACWGA010000001.1	bed	CDS	14620	96421	.	-	ID=cds_aspasp11_tyr518;Description=;parent=rna_aspasp11_tyr518
+aspasp11_JACWGA010000001.1	bed	CDS	24804	84638	.	+	ID=cds_aspasp11_eg17866;Description=;parent=rna_aspasp11_eg17866
+aspasp11_JACWGA010000001.1	bed	CDS	31507	80824	.	+	ID=cds_aspasp11_eg17661;Description=;parent=rna_aspasp11_eg17661
+aspasp11_JACWGA010000001.1	bed	CDS	37399	72974	.	-	ID=cds_aspasp11_tyr519;Description=;parent=rna_aspasp11_tyr519
+aspasp11_JACWGA010000001.1	bed	CDS	44422	65900	.	-	ID=cds_aspasp11_d37415;Description=;parent=rna_aspasp11_d37415
+aspasp11_JACWGA010000001.1	bed	CDS	47413	64743	.	+	ID=cds_aspasp11_eg17828;Description=;parent=rna_aspasp11_eg17828
+aspasp11_JACWGA010000001.1	bed	CDS	54777	57761	.	-	ID=cds_aspasp11_eg17859;Description=;parent=rna_aspasp11_eg17859
+aspasp11_JACWGA010000001.1	bed	CDS	56064	56594	.	-	ID=cds_aspasp11_eg17743;Description=;parent=rna_aspasp11_eg17743
+aspasp11_JACWGA010000001.1	bed	CDS	62616	48173	.	+	ID=cds_aspasp11_plp1030;Description=;parent=rna_aspasp11_plp1030
+aspasp11_JACWGA010000001.1	bed	CDS	84049	28702	.	-	ID=cds_aspasp11_eg17863;Description=;parent=rna_aspasp11_eg17863
+aspasp11_JACWGA010000001.1	bed	CDS	90014	22725	.	+	ID=cds_aspasp11_eg17825;Description=;parent=rna_aspasp11_eg17825
+aspasp11_JACWGA010000001.1	bed	CDS	91281	20141	.	+	ID=cds_aspasp11_eg17764;Description=;parent=rna_aspasp11_eg17764
+aspasp11_JACWGA010000001.1	bed	CDS	104555	6644	.	+	ID=cds_aspasp11_eg17782;Description=;parent=rna_aspasp11_eg17782
+aspasp11_JACWGA010000001.1	bed	CDS	107746	4105	.	+	ID=cds_aspasp11_eg17807;Description=;parent=rna_aspasp11_eg17807

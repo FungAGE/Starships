@@ -1,0 +1,30 @@
+fusvir7_JAJHJC010000023.1	bed	gene	1	76594	.	-	insert	ID=gene_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|down;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	8917	67130	.	+	.	ID=gene_fusvir7_eg322691;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	12374	63080	.	+	.	ID=gene_fusvir7_eg322690;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	14082	60576	.	-	.	ID=gene_fusvir7_eg322695;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	22673	53482	.	-	.	ID=gene_fusvir7_eg322686;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	64661	10774	.	+	.	ID=gene_fusvir7_eg322685;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	68264	7375	.	+	.	ID=gene_fusvir7_eg322687;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	70435	3917	.	+	nlr	ID=gene_fusvir7_nlr175770;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	73651	726	.	-	cap	ID=gene_fusvir7_tyr6940;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	gene	76595	0	.	-	insert	ID=gene_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|up;Description=fusvir7_s06641;parent=fusvir7_JAJHJC010000023.1
+fusvir7_JAJHJC010000023.1	bed	RNA	1	76594	.	-	ID=rna_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|down;Description=;parent=gene_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|down
+fusvir7_JAJHJC010000023.1	bed	RNA	8917	67130	.	+	ID=rna_fusvir7_eg322691;Description=;parent=gene_fusvir7_eg322691
+fusvir7_JAJHJC010000023.1	bed	RNA	12374	63080	.	+	ID=rna_fusvir7_eg322690;Description=;parent=gene_fusvir7_eg322690
+fusvir7_JAJHJC010000023.1	bed	RNA	14082	60576	.	-	ID=rna_fusvir7_eg322695;Description=;parent=gene_fusvir7_eg322695
+fusvir7_JAJHJC010000023.1	bed	RNA	22673	53482	.	-	ID=rna_fusvir7_eg322686;Description=;parent=gene_fusvir7_eg322686
+fusvir7_JAJHJC010000023.1	bed	RNA	64661	10774	.	+	ID=rna_fusvir7_eg322685;Description=;parent=gene_fusvir7_eg322685
+fusvir7_JAJHJC010000023.1	bed	RNA	68264	7375	.	+	ID=rna_fusvir7_eg322687;Description=;parent=gene_fusvir7_eg322687
+fusvir7_JAJHJC010000023.1	bed	RNA	70435	3917	.	+	ID=rna_fusvir7_nlr175770;Description=;parent=gene_fusvir7_nlr175770
+fusvir7_JAJHJC010000023.1	bed	RNA	73651	726	.	-	ID=rna_fusvir7_tyr6940;Description=;parent=gene_fusvir7_tyr6940
+fusvir7_JAJHJC010000023.1	bed	RNA	76595	0	.	-	ID=rna_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|up;Description=;parent=gene_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|up
+fusvir7_JAJHJC010000023.1	bed	CDS	1	76594	.	-	ID=cds_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|down;Description=;parent=rna_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|down
+fusvir7_JAJHJC010000023.1	bed	CDS	8917	67130	.	+	ID=cds_fusvir7_eg322691;Description=;parent=rna_fusvir7_eg322691
+fusvir7_JAJHJC010000023.1	bed	CDS	12374	63080	.	+	ID=cds_fusvir7_eg322690;Description=;parent=rna_fusvir7_eg322690
+fusvir7_JAJHJC010000023.1	bed	CDS	14082	60576	.	-	ID=cds_fusvir7_eg322695;Description=;parent=rna_fusvir7_eg322695
+fusvir7_JAJHJC010000023.1	bed	CDS	22673	53482	.	-	ID=cds_fusvir7_eg322686;Description=;parent=rna_fusvir7_eg322686
+fusvir7_JAJHJC010000023.1	bed	CDS	64661	10774	.	+	ID=cds_fusvir7_eg322685;Description=;parent=rna_fusvir7_eg322685
+fusvir7_JAJHJC010000023.1	bed	CDS	68264	7375	.	+	ID=cds_fusvir7_eg322687;Description=;parent=rna_fusvir7_eg322687
+fusvir7_JAJHJC010000023.1	bed	CDS	70435	3917	.	+	ID=cds_fusvir7_nlr175770;Description=;parent=rna_fusvir7_nlr175770
+fusvir7_JAJHJC010000023.1	bed	CDS	73651	726	.	-	ID=cds_fusvir7_tyr6940;Description=;parent=rna_fusvir7_tyr6940
+fusvir7_JAJHJC010000023.1	bed	CDS	76595	0	.	-	ID=cds_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|up;Description=;parent=rna_fusvir7_tyr6940|fusvir9_JAJGQB010000022.1|up

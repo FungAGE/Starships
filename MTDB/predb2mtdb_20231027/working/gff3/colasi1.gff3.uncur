@@ -1,0 +1,120 @@
+colasi1_WOWK01000007.1	bed	gene	1	80284	.	+	insert	ID=gene_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|up;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	918	76804	.	+	cap	ID=gene_colasi1_KAF0330480.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	4364	75298	.	-	.	ID=gene_colasi1_KAF0330481.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	5607	73653	.	-	.	ID=gene_colasi1_KAF0330482.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	8456	69967	.	-	.	ID=gene_colasi1_KAF0330483.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	10646	67927	.	+	.	ID=gene_colasi1_KAF0330484.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	13510	66280	.	+	.	ID=gene_colasi1_KAF0330485.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	15059	64366	.	-	.	ID=gene_colasi1_KAF0330486.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	17084	62599	.	+	.	ID=gene_colasi1_eg190226;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	20135	59592	.	+	.	ID=gene_colasi1_KAF0330487.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	20755	58988	.	-	.	ID=gene_colasi1_KAF0330488.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	23347	56085	.	+	.	ID=gene_colasi1_KAF0330489.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	25232	53886	.	+	.	ID=gene_colasi1_KAF0330490.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	27114	52944	.	+	.	ID=gene_colasi1_KAF0330491.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	28693	49933	.	+	.	ID=gene_colasi1_KAF0330492.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	31555	47603	.	+	.	ID=gene_colasi1_KAF0330493.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	34968	44907	.	+	.	ID=gene_colasi1_KAF0330494.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	35568	43725	.	-	.	ID=gene_colasi1_KAF0330495.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	37117	42529	.	-	.	ID=gene_colasi1_KAF0330496.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	38403	41191	.	+	.	ID=gene_colasi1_KAF0330497.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	39475	39797	.	+	.	ID=gene_colasi1_KAF0330498.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	40664	37885	.	+	.	ID=gene_colasi1_KAF0330499.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	43255	35257	.	-	.	ID=gene_colasi1_KAF0330500.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	45541	34052	.	-	.	ID=gene_colasi1_KAF0330501.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	46760	31702	.	-	.	ID=gene_colasi1_KAF0330502.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	48916	30294	.	+	.	ID=gene_colasi1_KAF0330503.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	50226	29623	.	+	.	ID=gene_colasi1_KAF0330504.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	51534	26964	.	+	.	ID=gene_colasi1_KAF0330505.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	54506	25222	.	+	.	ID=gene_colasi1_KAF0330506.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	57598	22025	.	+	.	ID=gene_colasi1_KAF0330507.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	58322	21397	.	-	.	ID=gene_colasi1_KAF0330508.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	59777	19564	.	-	.	ID=gene_colasi1_KAF0330509.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	61616	17500	.	+	d37	ID=gene_colasi1_KAF0330510.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	64063	14574	.	-	.	ID=gene_colasi1_KAF0330511.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	65993	13549	.	+	.	ID=gene_colasi1_KAF0330512.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	70537	6649	.	-	.	ID=gene_colasi1_KAF0330513.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	75829	4190	.	-	.	ID=gene_colasi1_KAF0330514.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	76897	1901	.	+	.	ID=gene_colasi1_KAF0330515.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	78448	1445	.	-	.	ID=gene_colasi1_KAF0330516.1;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	gene	80285	0	.	+	insert	ID=gene_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|down;Description=colasi1_s04032;parent=colasi1_WOWK01000007.1
+colasi1_WOWK01000007.1	bed	RNA	1	80284	.	+	ID=rna_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|up;Description=;parent=gene_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|up
+colasi1_WOWK01000007.1	bed	RNA	918	76804	.	+	ID=rna_colasi1_KAF0330480.1;Description=;parent=gene_colasi1_KAF0330480.1
+colasi1_WOWK01000007.1	bed	RNA	4364	75298	.	-	ID=rna_colasi1_KAF0330481.1;Description=;parent=gene_colasi1_KAF0330481.1
+colasi1_WOWK01000007.1	bed	RNA	5607	73653	.	-	ID=rna_colasi1_KAF0330482.1;Description=;parent=gene_colasi1_KAF0330482.1
+colasi1_WOWK01000007.1	bed	RNA	8456	69967	.	-	ID=rna_colasi1_KAF0330483.1;Description=;parent=gene_colasi1_KAF0330483.1
+colasi1_WOWK01000007.1	bed	RNA	10646	67927	.	+	ID=rna_colasi1_KAF0330484.1;Description=;parent=gene_colasi1_KAF0330484.1
+colasi1_WOWK01000007.1	bed	RNA	13510	66280	.	+	ID=rna_colasi1_KAF0330485.1;Description=;parent=gene_colasi1_KAF0330485.1
+colasi1_WOWK01000007.1	bed	RNA	15059	64366	.	-	ID=rna_colasi1_KAF0330486.1;Description=;parent=gene_colasi1_KAF0330486.1
+colasi1_WOWK01000007.1	bed	RNA	17084	62599	.	+	ID=rna_colasi1_eg190226;Description=;parent=gene_colasi1_eg190226
+colasi1_WOWK01000007.1	bed	RNA	20135	59592	.	+	ID=rna_colasi1_KAF0330487.1;Description=;parent=gene_colasi1_KAF0330487.1
+colasi1_WOWK01000007.1	bed	RNA	20755	58988	.	-	ID=rna_colasi1_KAF0330488.1;Description=;parent=gene_colasi1_KAF0330488.1
+colasi1_WOWK01000007.1	bed	RNA	23347	56085	.	+	ID=rna_colasi1_KAF0330489.1;Description=;parent=gene_colasi1_KAF0330489.1
+colasi1_WOWK01000007.1	bed	RNA	25232	53886	.	+	ID=rna_colasi1_KAF0330490.1;Description=;parent=gene_colasi1_KAF0330490.1
+colasi1_WOWK01000007.1	bed	RNA	27114	52944	.	+	ID=rna_colasi1_KAF0330491.1;Description=;parent=gene_colasi1_KAF0330491.1
+colasi1_WOWK01000007.1	bed	RNA	28693	49933	.	+	ID=rna_colasi1_KAF0330492.1;Description=;parent=gene_colasi1_KAF0330492.1
+colasi1_WOWK01000007.1	bed	RNA	31555	47603	.	+	ID=rna_colasi1_KAF0330493.1;Description=;parent=gene_colasi1_KAF0330493.1
+colasi1_WOWK01000007.1	bed	RNA	34968	44907	.	+	ID=rna_colasi1_KAF0330494.1;Description=;parent=gene_colasi1_KAF0330494.1
+colasi1_WOWK01000007.1	bed	RNA	35568	43725	.	-	ID=rna_colasi1_KAF0330495.1;Description=;parent=gene_colasi1_KAF0330495.1
+colasi1_WOWK01000007.1	bed	RNA	37117	42529	.	-	ID=rna_colasi1_KAF0330496.1;Description=;parent=gene_colasi1_KAF0330496.1
+colasi1_WOWK01000007.1	bed	RNA	38403	41191	.	+	ID=rna_colasi1_KAF0330497.1;Description=;parent=gene_colasi1_KAF0330497.1
+colasi1_WOWK01000007.1	bed	RNA	39475	39797	.	+	ID=rna_colasi1_KAF0330498.1;Description=;parent=gene_colasi1_KAF0330498.1
+colasi1_WOWK01000007.1	bed	RNA	40664	37885	.	+	ID=rna_colasi1_KAF0330499.1;Description=;parent=gene_colasi1_KAF0330499.1
+colasi1_WOWK01000007.1	bed	RNA	43255	35257	.	-	ID=rna_colasi1_KAF0330500.1;Description=;parent=gene_colasi1_KAF0330500.1
+colasi1_WOWK01000007.1	bed	RNA	45541	34052	.	-	ID=rna_colasi1_KAF0330501.1;Description=;parent=gene_colasi1_KAF0330501.1
+colasi1_WOWK01000007.1	bed	RNA	46760	31702	.	-	ID=rna_colasi1_KAF0330502.1;Description=;parent=gene_colasi1_KAF0330502.1
+colasi1_WOWK01000007.1	bed	RNA	48916	30294	.	+	ID=rna_colasi1_KAF0330503.1;Description=;parent=gene_colasi1_KAF0330503.1
+colasi1_WOWK01000007.1	bed	RNA	50226	29623	.	+	ID=rna_colasi1_KAF0330504.1;Description=;parent=gene_colasi1_KAF0330504.1
+colasi1_WOWK01000007.1	bed	RNA	51534	26964	.	+	ID=rna_colasi1_KAF0330505.1;Description=;parent=gene_colasi1_KAF0330505.1
+colasi1_WOWK01000007.1	bed	RNA	54506	25222	.	+	ID=rna_colasi1_KAF0330506.1;Description=;parent=gene_colasi1_KAF0330506.1
+colasi1_WOWK01000007.1	bed	RNA	57598	22025	.	+	ID=rna_colasi1_KAF0330507.1;Description=;parent=gene_colasi1_KAF0330507.1
+colasi1_WOWK01000007.1	bed	RNA	58322	21397	.	-	ID=rna_colasi1_KAF0330508.1;Description=;parent=gene_colasi1_KAF0330508.1
+colasi1_WOWK01000007.1	bed	RNA	59777	19564	.	-	ID=rna_colasi1_KAF0330509.1;Description=;parent=gene_colasi1_KAF0330509.1
+colasi1_WOWK01000007.1	bed	RNA	61616	17500	.	+	ID=rna_colasi1_KAF0330510.1;Description=;parent=gene_colasi1_KAF0330510.1
+colasi1_WOWK01000007.1	bed	RNA	64063	14574	.	-	ID=rna_colasi1_KAF0330511.1;Description=;parent=gene_colasi1_KAF0330511.1
+colasi1_WOWK01000007.1	bed	RNA	65993	13549	.	+	ID=rna_colasi1_KAF0330512.1;Description=;parent=gene_colasi1_KAF0330512.1
+colasi1_WOWK01000007.1	bed	RNA	70537	6649	.	-	ID=rna_colasi1_KAF0330513.1;Description=;parent=gene_colasi1_KAF0330513.1
+colasi1_WOWK01000007.1	bed	RNA	75829	4190	.	-	ID=rna_colasi1_KAF0330514.1;Description=;parent=gene_colasi1_KAF0330514.1
+colasi1_WOWK01000007.1	bed	RNA	76897	1901	.	+	ID=rna_colasi1_KAF0330515.1;Description=;parent=gene_colasi1_KAF0330515.1
+colasi1_WOWK01000007.1	bed	RNA	78448	1445	.	-	ID=rna_colasi1_KAF0330516.1;Description=;parent=gene_colasi1_KAF0330516.1
+colasi1_WOWK01000007.1	bed	RNA	80285	0	.	+	ID=rna_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|down;Description=;parent=gene_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|down
+colasi1_WOWK01000007.1	bed	CDS	1	80284	.	+	ID=cds_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|up;Description=;parent=rna_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|up
+colasi1_WOWK01000007.1	bed	CDS	918	76804	.	+	ID=cds_colasi1_KAF0330480.1;Description=;parent=rna_colasi1_KAF0330480.1
+colasi1_WOWK01000007.1	bed	CDS	4364	75298	.	-	ID=cds_colasi1_KAF0330481.1;Description=;parent=rna_colasi1_KAF0330481.1
+colasi1_WOWK01000007.1	bed	CDS	5607	73653	.	-	ID=cds_colasi1_KAF0330482.1;Description=;parent=rna_colasi1_KAF0330482.1
+colasi1_WOWK01000007.1	bed	CDS	8456	69967	.	-	ID=cds_colasi1_KAF0330483.1;Description=;parent=rna_colasi1_KAF0330483.1
+colasi1_WOWK01000007.1	bed	CDS	10646	67927	.	+	ID=cds_colasi1_KAF0330484.1;Description=;parent=rna_colasi1_KAF0330484.1
+colasi1_WOWK01000007.1	bed	CDS	13510	66280	.	+	ID=cds_colasi1_KAF0330485.1;Description=;parent=rna_colasi1_KAF0330485.1
+colasi1_WOWK01000007.1	bed	CDS	15059	64366	.	-	ID=cds_colasi1_KAF0330486.1;Description=;parent=rna_colasi1_KAF0330486.1
+colasi1_WOWK01000007.1	bed	CDS	17084	62599	.	+	ID=cds_colasi1_eg190226;Description=;parent=rna_colasi1_eg190226
+colasi1_WOWK01000007.1	bed	CDS	20135	59592	.	+	ID=cds_colasi1_KAF0330487.1;Description=;parent=rna_colasi1_KAF0330487.1
+colasi1_WOWK01000007.1	bed	CDS	20755	58988	.	-	ID=cds_colasi1_KAF0330488.1;Description=;parent=rna_colasi1_KAF0330488.1
+colasi1_WOWK01000007.1	bed	CDS	23347	56085	.	+	ID=cds_colasi1_KAF0330489.1;Description=;parent=rna_colasi1_KAF0330489.1
+colasi1_WOWK01000007.1	bed	CDS	25232	53886	.	+	ID=cds_colasi1_KAF0330490.1;Description=;parent=rna_colasi1_KAF0330490.1
+colasi1_WOWK01000007.1	bed	CDS	27114	52944	.	+	ID=cds_colasi1_KAF0330491.1;Description=;parent=rna_colasi1_KAF0330491.1
+colasi1_WOWK01000007.1	bed	CDS	28693	49933	.	+	ID=cds_colasi1_KAF0330492.1;Description=;parent=rna_colasi1_KAF0330492.1
+colasi1_WOWK01000007.1	bed	CDS	31555	47603	.	+	ID=cds_colasi1_KAF0330493.1;Description=;parent=rna_colasi1_KAF0330493.1
+colasi1_WOWK01000007.1	bed	CDS	34968	44907	.	+	ID=cds_colasi1_KAF0330494.1;Description=;parent=rna_colasi1_KAF0330494.1
+colasi1_WOWK01000007.1	bed	CDS	35568	43725	.	-	ID=cds_colasi1_KAF0330495.1;Description=;parent=rna_colasi1_KAF0330495.1
+colasi1_WOWK01000007.1	bed	CDS	37117	42529	.	-	ID=cds_colasi1_KAF0330496.1;Description=;parent=rna_colasi1_KAF0330496.1
+colasi1_WOWK01000007.1	bed	CDS	38403	41191	.	+	ID=cds_colasi1_KAF0330497.1;Description=;parent=rna_colasi1_KAF0330497.1
+colasi1_WOWK01000007.1	bed	CDS	39475	39797	.	+	ID=cds_colasi1_KAF0330498.1;Description=;parent=rna_colasi1_KAF0330498.1
+colasi1_WOWK01000007.1	bed	CDS	40664	37885	.	+	ID=cds_colasi1_KAF0330499.1;Description=;parent=rna_colasi1_KAF0330499.1
+colasi1_WOWK01000007.1	bed	CDS	43255	35257	.	-	ID=cds_colasi1_KAF0330500.1;Description=;parent=rna_colasi1_KAF0330500.1
+colasi1_WOWK01000007.1	bed	CDS	45541	34052	.	-	ID=cds_colasi1_KAF0330501.1;Description=;parent=rna_colasi1_KAF0330501.1
+colasi1_WOWK01000007.1	bed	CDS	46760	31702	.	-	ID=cds_colasi1_KAF0330502.1;Description=;parent=rna_colasi1_KAF0330502.1
+colasi1_WOWK01000007.1	bed	CDS	48916	30294	.	+	ID=cds_colasi1_KAF0330503.1;Description=;parent=rna_colasi1_KAF0330503.1
+colasi1_WOWK01000007.1	bed	CDS	50226	29623	.	+	ID=cds_colasi1_KAF0330504.1;Description=;parent=rna_colasi1_KAF0330504.1
+colasi1_WOWK01000007.1	bed	CDS	51534	26964	.	+	ID=cds_colasi1_KAF0330505.1;Description=;parent=rna_colasi1_KAF0330505.1
+colasi1_WOWK01000007.1	bed	CDS	54506	25222	.	+	ID=cds_colasi1_KAF0330506.1;Description=;parent=rna_colasi1_KAF0330506.1
+colasi1_WOWK01000007.1	bed	CDS	57598	22025	.	+	ID=cds_colasi1_KAF0330507.1;Description=;parent=rna_colasi1_KAF0330507.1
+colasi1_WOWK01000007.1	bed	CDS	58322	21397	.	-	ID=cds_colasi1_KAF0330508.1;Description=;parent=rna_colasi1_KAF0330508.1
+colasi1_WOWK01000007.1	bed	CDS	59777	19564	.	-	ID=cds_colasi1_KAF0330509.1;Description=;parent=rna_colasi1_KAF0330509.1
+colasi1_WOWK01000007.1	bed	CDS	61616	17500	.	+	ID=cds_colasi1_KAF0330510.1;Description=;parent=rna_colasi1_KAF0330510.1
+colasi1_WOWK01000007.1	bed	CDS	64063	14574	.	-	ID=cds_colasi1_KAF0330511.1;Description=;parent=rna_colasi1_KAF0330511.1
+colasi1_WOWK01000007.1	bed	CDS	65993	13549	.	+	ID=cds_colasi1_KAF0330512.1;Description=;parent=rna_colasi1_KAF0330512.1
+colasi1_WOWK01000007.1	bed	CDS	70537	6649	.	-	ID=cds_colasi1_KAF0330513.1;Description=;parent=rna_colasi1_KAF0330513.1
+colasi1_WOWK01000007.1	bed	CDS	75829	4190	.	-	ID=cds_colasi1_KAF0330514.1;Description=;parent=rna_colasi1_KAF0330514.1
+colasi1_WOWK01000007.1	bed	CDS	76897	1901	.	+	ID=cds_colasi1_KAF0330515.1;Description=;parent=rna_colasi1_KAF0330515.1
+colasi1_WOWK01000007.1	bed	CDS	78448	1445	.	-	ID=cds_colasi1_KAF0330516.1;Description=;parent=rna_colasi1_KAF0330516.1
+colasi1_WOWK01000007.1	bed	CDS	80285	0	.	+	ID=cds_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|down;Description=;parent=rna_colasi1_KAF0330480.1|colvin1_QPMQ01000012.1|down

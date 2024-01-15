@@ -1,0 +1,43 @@
+aspjen1_JAJAED010000003.1	bed	region	1	80558	.	+	flank	ID=gene_aspjen1_tyr1568|DR|up;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	region	42	80516	.	+	flank	ID=gene_aspjen1_tyr1568|TIR|up;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	3700	74401	.	+	cap	ID=gene_aspjen1_tyr1568;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	12743	67670	.	+	.	ID=gene_aspjen1_eg88823;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	12745	67665	.	-	.	ID=gene_aspjen1_eg88704;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	14106	63895	.	+	nlr	ID=gene_aspjen1_nlr23055;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	22245	57579	.	+	.	ID=gene_aspjen1_eg88827;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	38840	41033	.	+	.	ID=gene_aspjen1_eg88638;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	39821	39100	.	-	.	ID=gene_aspjen1_eg88783;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	42645	36802	.	-	.	ID=gene_aspjen1_eg88645;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	47566	31986	.	+	.	ID=gene_aspjen1_eg88642;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	49547	29070	.	-	.	ID=gene_aspjen1_eg88790;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	57792	20725	.	+	.	ID=gene_aspjen1_eg88767;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	70063	9133	.	+	.	ID=gene_aspjen1_eg88777;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	gene	72123	7936	.	+	.	ID=gene_aspjen1_eg88803;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	region	80531	25	.	+	flank	ID=gene_aspjen1_tyr1568|TIR|down;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	region	80558	0	.	+	flank	ID=gene_aspjen1_tyr1568|DR|down;Description=aspjen1_s01486;parent=aspjen1_JAJAED010000003.1
+aspjen1_JAJAED010000003.1	bed	RNA	3700	74401	.	+	ID=rna_aspjen1_tyr1568;Description=;parent=gene_aspjen1_tyr1568
+aspjen1_JAJAED010000003.1	bed	RNA	12743	67670	.	+	ID=rna_aspjen1_eg88823;Description=;parent=gene_aspjen1_eg88823
+aspjen1_JAJAED010000003.1	bed	RNA	12745	67665	.	-	ID=rna_aspjen1_eg88704;Description=;parent=gene_aspjen1_eg88704
+aspjen1_JAJAED010000003.1	bed	RNA	14106	63895	.	+	ID=rna_aspjen1_nlr23055;Description=;parent=gene_aspjen1_nlr23055
+aspjen1_JAJAED010000003.1	bed	RNA	22245	57579	.	+	ID=rna_aspjen1_eg88827;Description=;parent=gene_aspjen1_eg88827
+aspjen1_JAJAED010000003.1	bed	RNA	38840	41033	.	+	ID=rna_aspjen1_eg88638;Description=;parent=gene_aspjen1_eg88638
+aspjen1_JAJAED010000003.1	bed	RNA	39821	39100	.	-	ID=rna_aspjen1_eg88783;Description=;parent=gene_aspjen1_eg88783
+aspjen1_JAJAED010000003.1	bed	RNA	42645	36802	.	-	ID=rna_aspjen1_eg88645;Description=;parent=gene_aspjen1_eg88645
+aspjen1_JAJAED010000003.1	bed	RNA	47566	31986	.	+	ID=rna_aspjen1_eg88642;Description=;parent=gene_aspjen1_eg88642
+aspjen1_JAJAED010000003.1	bed	RNA	49547	29070	.	-	ID=rna_aspjen1_eg88790;Description=;parent=gene_aspjen1_eg88790
+aspjen1_JAJAED010000003.1	bed	RNA	57792	20725	.	+	ID=rna_aspjen1_eg88767;Description=;parent=gene_aspjen1_eg88767
+aspjen1_JAJAED010000003.1	bed	RNA	70063	9133	.	+	ID=rna_aspjen1_eg88777;Description=;parent=gene_aspjen1_eg88777
+aspjen1_JAJAED010000003.1	bed	RNA	72123	7936	.	+	ID=rna_aspjen1_eg88803;Description=;parent=gene_aspjen1_eg88803
+aspjen1_JAJAED010000003.1	bed	CDS	3700	74401	.	+	ID=cds_aspjen1_tyr1568;Description=;parent=rna_aspjen1_tyr1568
+aspjen1_JAJAED010000003.1	bed	CDS	12743	67670	.	+	ID=cds_aspjen1_eg88823;Description=;parent=rna_aspjen1_eg88823
+aspjen1_JAJAED010000003.1	bed	CDS	12745	67665	.	-	ID=cds_aspjen1_eg88704;Description=;parent=rna_aspjen1_eg88704
+aspjen1_JAJAED010000003.1	bed	CDS	14106	63895	.	+	ID=cds_aspjen1_nlr23055;Description=;parent=rna_aspjen1_nlr23055
+aspjen1_JAJAED010000003.1	bed	CDS	22245	57579	.	+	ID=cds_aspjen1_eg88827;Description=;parent=rna_aspjen1_eg88827
+aspjen1_JAJAED010000003.1	bed	CDS	38840	41033	.	+	ID=cds_aspjen1_eg88638;Description=;parent=rna_aspjen1_eg88638
+aspjen1_JAJAED010000003.1	bed	CDS	39821	39100	.	-	ID=cds_aspjen1_eg88783;Description=;parent=rna_aspjen1_eg88783
+aspjen1_JAJAED010000003.1	bed	CDS	42645	36802	.	-	ID=cds_aspjen1_eg88645;Description=;parent=rna_aspjen1_eg88645
+aspjen1_JAJAED010000003.1	bed	CDS	47566	31986	.	+	ID=cds_aspjen1_eg88642;Description=;parent=rna_aspjen1_eg88642
+aspjen1_JAJAED010000003.1	bed	CDS	49547	29070	.	-	ID=cds_aspjen1_eg88790;Description=;parent=rna_aspjen1_eg88790
+aspjen1_JAJAED010000003.1	bed	CDS	57792	20725	.	+	ID=cds_aspjen1_eg88767;Description=;parent=rna_aspjen1_eg88767
+aspjen1_JAJAED010000003.1	bed	CDS	70063	9133	.	+	ID=cds_aspjen1_eg88777;Description=;parent=rna_aspjen1_eg88777
+aspjen1_JAJAED010000003.1	bed	CDS	72123	7936	.	+	ID=cds_aspjen1_eg88803;Description=;parent=rna_aspjen1_eg88803

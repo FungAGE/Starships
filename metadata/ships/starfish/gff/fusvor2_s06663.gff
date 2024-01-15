@@ -1,0 +1,30 @@
+fusvor2_JAGDUL010000044.1	bed	gene	1	45847	.	+	insert	ID=gene_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|up;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	1741	42827	.	+	cap	ID=gene_fusvor2_tyr6966;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	15724	29543	.	+	.	ID=gene_fusvor2_eg325055;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	18829	25868	.	+	.	ID=gene_fusvor2_eg325087;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	20876	23011	.	-	.	ID=gene_fusvor2_eg325065;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	24962	18811	.	+	.	ID=gene_fusvor2_eg325058;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	28347	16593	.	+	.	ID=gene_fusvor2_eg325037;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	37150	8267	.	-	.	ID=gene_fusvor2_eg325101;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	42861	408	.	+	.	ID=gene_fusvor2_eg325104;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	gene	45848	0	.	+	insert	ID=gene_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|down;Description=fusvor2_s06663;parent=fusvor2_JAGDUL010000044.1
+fusvor2_JAGDUL010000044.1	bed	RNA	1	45847	.	+	ID=rna_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|up;Description=;parent=gene_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|up
+fusvor2_JAGDUL010000044.1	bed	RNA	1741	42827	.	+	ID=rna_fusvor2_tyr6966;Description=;parent=gene_fusvor2_tyr6966
+fusvor2_JAGDUL010000044.1	bed	RNA	15724	29543	.	+	ID=rna_fusvor2_eg325055;Description=;parent=gene_fusvor2_eg325055
+fusvor2_JAGDUL010000044.1	bed	RNA	18829	25868	.	+	ID=rna_fusvor2_eg325087;Description=;parent=gene_fusvor2_eg325087
+fusvor2_JAGDUL010000044.1	bed	RNA	20876	23011	.	-	ID=rna_fusvor2_eg325065;Description=;parent=gene_fusvor2_eg325065
+fusvor2_JAGDUL010000044.1	bed	RNA	24962	18811	.	+	ID=rna_fusvor2_eg325058;Description=;parent=gene_fusvor2_eg325058
+fusvor2_JAGDUL010000044.1	bed	RNA	28347	16593	.	+	ID=rna_fusvor2_eg325037;Description=;parent=gene_fusvor2_eg325037
+fusvor2_JAGDUL010000044.1	bed	RNA	37150	8267	.	-	ID=rna_fusvor2_eg325101;Description=;parent=gene_fusvor2_eg325101
+fusvor2_JAGDUL010000044.1	bed	RNA	42861	408	.	+	ID=rna_fusvor2_eg325104;Description=;parent=gene_fusvor2_eg325104
+fusvor2_JAGDUL010000044.1	bed	RNA	45848	0	.	+	ID=rna_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|down;Description=;parent=gene_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|down
+fusvor2_JAGDUL010000044.1	bed	CDS	1	45847	.	+	ID=cds_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|up;Description=;parent=rna_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|up
+fusvor2_JAGDUL010000044.1	bed	CDS	1741	42827	.	+	ID=cds_fusvor2_tyr6966;Description=;parent=rna_fusvor2_tyr6966
+fusvor2_JAGDUL010000044.1	bed	CDS	15724	29543	.	+	ID=cds_fusvor2_eg325055;Description=;parent=rna_fusvor2_eg325055
+fusvor2_JAGDUL010000044.1	bed	CDS	18829	25868	.	+	ID=cds_fusvor2_eg325087;Description=;parent=rna_fusvor2_eg325087
+fusvor2_JAGDUL010000044.1	bed	CDS	20876	23011	.	-	ID=cds_fusvor2_eg325065;Description=;parent=rna_fusvor2_eg325065
+fusvor2_JAGDUL010000044.1	bed	CDS	24962	18811	.	+	ID=cds_fusvor2_eg325058;Description=;parent=rna_fusvor2_eg325058
+fusvor2_JAGDUL010000044.1	bed	CDS	28347	16593	.	+	ID=cds_fusvor2_eg325037;Description=;parent=rna_fusvor2_eg325037
+fusvor2_JAGDUL010000044.1	bed	CDS	37150	8267	.	-	ID=cds_fusvor2_eg325101;Description=;parent=rna_fusvor2_eg325101
+fusvor2_JAGDUL010000044.1	bed	CDS	42861	408	.	+	ID=cds_fusvor2_eg325104;Description=;parent=rna_fusvor2_eg325104
+fusvor2_JAGDUL010000044.1	bed	CDS	45848	0	.	+	ID=cds_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|down;Description=;parent=rna_fusvor2_tyr6966|fusfus54_JAGDUJ010000056.1|down

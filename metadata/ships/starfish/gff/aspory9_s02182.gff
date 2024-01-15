@@ -1,0 +1,14 @@
+aspory9_CM030947.1	bed	region	1	57218	.	-	flank	ID=gene_aspory9_tyr2342|DR|down;Description=aspory9_s02182;parent=aspory9_CM030947.1
+aspory9_CM030947.1	bed	gene	10218	46600	.	-	.	ID=gene_aspory9_eg139635;Description=aspory9_s02182;parent=aspory9_CM030947.1
+aspory9_CM030947.1	bed	gene	45483	11539	.	+	.	ID=gene_aspory9_eg139947;Description=aspory9_s02182;parent=aspory9_CM030947.1
+aspory9_CM030947.1	bed	gene	48387	8474	.	+	.	ID=gene_aspory9_eg139907;Description=aspory9_s02182;parent=aspory9_CM030947.1
+aspory9_CM030947.1	bed	gene	51226	3618	.	-	cap	ID=gene_aspory9_tyr2342;Description=aspory9_s02182;parent=aspory9_CM030947.1
+aspory9_CM030947.1	bed	region	57219	0	.	-	flank	ID=gene_aspory9_tyr2342|DR|up;Description=aspory9_s02182;parent=aspory9_CM030947.1
+aspory9_CM030947.1	bed	RNA	10218	46600	.	-	ID=rna_aspory9_eg139635;Description=;parent=gene_aspory9_eg139635
+aspory9_CM030947.1	bed	RNA	45483	11539	.	+	ID=rna_aspory9_eg139947;Description=;parent=gene_aspory9_eg139947
+aspory9_CM030947.1	bed	RNA	48387	8474	.	+	ID=rna_aspory9_eg139907;Description=;parent=gene_aspory9_eg139907
+aspory9_CM030947.1	bed	RNA	51226	3618	.	-	ID=rna_aspory9_tyr2342;Description=;parent=gene_aspory9_tyr2342
+aspory9_CM030947.1	bed	CDS	10218	46600	.	-	ID=cds_aspory9_eg139635;Description=;parent=rna_aspory9_eg139635
+aspory9_CM030947.1	bed	CDS	45483	11539	.	+	ID=cds_aspory9_eg139947;Description=;parent=rna_aspory9_eg139947
+aspory9_CM030947.1	bed	CDS	48387	8474	.	+	ID=cds_aspory9_eg139907;Description=;parent=rna_aspory9_eg139907
+aspory9_CM030947.1	bed	CDS	51226	3618	.	-	ID=cds_aspory9_tyr2342;Description=;parent=rna_aspory9_tyr2342

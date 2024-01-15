@@ -1,23 +1,14 @@
 # Database of Starship Elements and Starship-associated Genes
 
-## Repo structure
+## Main structure
 
-```
-.
-├── captain
-│   └── tyr
-├── cargo
-│   ├── duf3723
-│   ├── fre
-│   ├── nlr
-│   └── plp
-├── family
-└── ships
-    ├── manual-annotations
-    └── mycodb
-```
+- `ships`: full Starship sequences
+- `captain`:`tyr` gene
+- `cargo`: `nlr`, `fre`, `plp`, and `duf3723` genes
 
-## TODO:
+Each folder contains:
 
-- [ ] repo should also contain code for any preprocessing of sequences
-  - i.e. not anything that is created/manipulated for `starbase` purposes...
+- blast databases for BLAST and HMMER searches
+  - a `combined` nucleotide database for `ships`
+  - individual nucleotide and protein databases for each `captain` and `cargo` gene
+- multiple sequence alignments used to build phylogenetic trees

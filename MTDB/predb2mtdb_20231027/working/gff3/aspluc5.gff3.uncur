@@ -1,0 +1,43 @@
+aspluc5_BJBM01000018.1	bed	region	1	51871	.	-	flank	ID=gene_aspluc5_tyr1892|DR|down;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	region	14	51850	.	-	flank	ID=gene_aspluc5_tyr1892|TIR|down;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	4749	45908	.	-	.	ID=gene_aspluc5_eg93290;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	8776	42869	.	+	.	ID=gene_aspluc5_eg93344;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	9000	41774	.	-	.	ID=gene_aspluc5_eg93321;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	11596	39944	.	+	.	ID=gene_aspluc5_eg93347;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	12860	36829	.	+	.	ID=gene_aspluc5_eg93245;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	15662	35989	.	-	.	ID=gene_aspluc5_eg93168;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	25637	25390	.	+	.	ID=gene_aspluc5_eg93363;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	30729	20653	.	+	.	ID=gene_aspluc5_eg93371;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	35916	14163	.	+	fre	ID=gene_aspluc5_fre2830;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	39198	11547	.	+	.	ID=gene_aspluc5_eg93167;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	40852	9868	.	-	.	ID=gene_aspluc5_eg93335;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	42280	6439	.	+	d37	ID=gene_aspluc5_d371122;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	gene	48524	529	.	-	cap	ID=gene_aspluc5_tyr1892;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	region	51825	38	.	-	flank	ID=gene_aspluc5_tyr1892|TIR|up;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	region	51872	0	.	-	flank	ID=gene_aspluc5_tyr1892|DR|up;Description=aspluc5_s01764;parent=aspluc5_BJBM01000018.1
+aspluc5_BJBM01000018.1	bed	RNA	4749	45908	.	-	ID=rna_aspluc5_eg93290;Description=;parent=gene_aspluc5_eg93290
+aspluc5_BJBM01000018.1	bed	RNA	8776	42869	.	+	ID=rna_aspluc5_eg93344;Description=;parent=gene_aspluc5_eg93344
+aspluc5_BJBM01000018.1	bed	RNA	9000	41774	.	-	ID=rna_aspluc5_eg93321;Description=;parent=gene_aspluc5_eg93321
+aspluc5_BJBM01000018.1	bed	RNA	11596	39944	.	+	ID=rna_aspluc5_eg93347;Description=;parent=gene_aspluc5_eg93347
+aspluc5_BJBM01000018.1	bed	RNA	12860	36829	.	+	ID=rna_aspluc5_eg93245;Description=;parent=gene_aspluc5_eg93245
+aspluc5_BJBM01000018.1	bed	RNA	15662	35989	.	-	ID=rna_aspluc5_eg93168;Description=;parent=gene_aspluc5_eg93168
+aspluc5_BJBM01000018.1	bed	RNA	25637	25390	.	+	ID=rna_aspluc5_eg93363;Description=;parent=gene_aspluc5_eg93363
+aspluc5_BJBM01000018.1	bed	RNA	30729	20653	.	+	ID=rna_aspluc5_eg93371;Description=;parent=gene_aspluc5_eg93371
+aspluc5_BJBM01000018.1	bed	RNA	35916	14163	.	+	ID=rna_aspluc5_fre2830;Description=;parent=gene_aspluc5_fre2830
+aspluc5_BJBM01000018.1	bed	RNA	39198	11547	.	+	ID=rna_aspluc5_eg93167;Description=;parent=gene_aspluc5_eg93167
+aspluc5_BJBM01000018.1	bed	RNA	40852	9868	.	-	ID=rna_aspluc5_eg93335;Description=;parent=gene_aspluc5_eg93335
+aspluc5_BJBM01000018.1	bed	RNA	42280	6439	.	+	ID=rna_aspluc5_d371122;Description=;parent=gene_aspluc5_d371122
+aspluc5_BJBM01000018.1	bed	RNA	48524	529	.	-	ID=rna_aspluc5_tyr1892;Description=;parent=gene_aspluc5_tyr1892
+aspluc5_BJBM01000018.1	bed	CDS	4749	45908	.	-	ID=cds_aspluc5_eg93290;Description=;parent=rna_aspluc5_eg93290
+aspluc5_BJBM01000018.1	bed	CDS	8776	42869	.	+	ID=cds_aspluc5_eg93344;Description=;parent=rna_aspluc5_eg93344
+aspluc5_BJBM01000018.1	bed	CDS	9000	41774	.	-	ID=cds_aspluc5_eg93321;Description=;parent=rna_aspluc5_eg93321
+aspluc5_BJBM01000018.1	bed	CDS	11596	39944	.	+	ID=cds_aspluc5_eg93347;Description=;parent=rna_aspluc5_eg93347
+aspluc5_BJBM01000018.1	bed	CDS	12860	36829	.	+	ID=cds_aspluc5_eg93245;Description=;parent=rna_aspluc5_eg93245
+aspluc5_BJBM01000018.1	bed	CDS	15662	35989	.	-	ID=cds_aspluc5_eg93168;Description=;parent=rna_aspluc5_eg93168
+aspluc5_BJBM01000018.1	bed	CDS	25637	25390	.	+	ID=cds_aspluc5_eg93363;Description=;parent=rna_aspluc5_eg93363
+aspluc5_BJBM01000018.1	bed	CDS	30729	20653	.	+	ID=cds_aspluc5_eg93371;Description=;parent=rna_aspluc5_eg93371
+aspluc5_BJBM01000018.1	bed	CDS	35916	14163	.	+	ID=cds_aspluc5_fre2830;Description=;parent=rna_aspluc5_fre2830
+aspluc5_BJBM01000018.1	bed	CDS	39198	11547	.	+	ID=cds_aspluc5_eg93167;Description=;parent=rna_aspluc5_eg93167
+aspluc5_BJBM01000018.1	bed	CDS	40852	9868	.	-	ID=cds_aspluc5_eg93335;Description=;parent=rna_aspluc5_eg93335
+aspluc5_BJBM01000018.1	bed	CDS	42280	6439	.	+	ID=cds_aspluc5_d371122;Description=;parent=rna_aspluc5_d371122
+aspluc5_BJBM01000018.1	bed	CDS	48524	529	.	-	ID=cds_aspluc5_tyr1892;Description=;parent=rna_aspluc5_tyr1892

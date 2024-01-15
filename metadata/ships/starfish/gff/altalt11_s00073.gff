@@ -1,0 +1,41 @@
+altalt11_CP061882.1	bed	region	1	87474	.	+	flank	ID=gene_altalt11_tyr67|DR|up;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	617	85734	.	+	cap	ID=gene_altalt11_tyr67;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	10574	73936	.	+	nlr	ID=gene_altalt11_nlr2457;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	13550	73495	.	+	.	ID=gene_altalt11_eg762;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	15299	71255	.	-	.	ID=gene_altalt11_eg668;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	17184	69354	.	+	.	ID=gene_altalt11_eg674;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	18474	66612	.	+	nlr	ID=gene_altalt11_nlr2447;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	25662	60714	.	+	.	ID=gene_altalt11_eg815;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	41080	43306	.	-	plp	ID=gene_altalt11_plp157;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	45279	40225	.	+	d37	ID=gene_altalt11_d3755;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	48880	36946	.	+	fre	ID=gene_altalt11_fre202;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	61747	20680	.	-	nlr	ID=gene_altalt11_nlr2458;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	67475	19738	.	-	.	ID=gene_altalt11_eg807;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	gene	75006	12135	.	+	.	ID=gene_altalt11_eg802;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	region	87473	0	.	+	flank	ID=gene_altalt11_tyr67|DR|down;Description=altalt11_s00073;parent=altalt11_CP061882.1
+altalt11_CP061882.1	bed	RNA	617	85734	.	+	ID=rna_altalt11_tyr67;Description=;parent=gene_altalt11_tyr67
+altalt11_CP061882.1	bed	RNA	10574	73936	.	+	ID=rna_altalt11_nlr2457;Description=;parent=gene_altalt11_nlr2457
+altalt11_CP061882.1	bed	RNA	13550	73495	.	+	ID=rna_altalt11_eg762;Description=;parent=gene_altalt11_eg762
+altalt11_CP061882.1	bed	RNA	15299	71255	.	-	ID=rna_altalt11_eg668;Description=;parent=gene_altalt11_eg668
+altalt11_CP061882.1	bed	RNA	17184	69354	.	+	ID=rna_altalt11_eg674;Description=;parent=gene_altalt11_eg674
+altalt11_CP061882.1	bed	RNA	18474	66612	.	+	ID=rna_altalt11_nlr2447;Description=;parent=gene_altalt11_nlr2447
+altalt11_CP061882.1	bed	RNA	25662	60714	.	+	ID=rna_altalt11_eg815;Description=;parent=gene_altalt11_eg815
+altalt11_CP061882.1	bed	RNA	41080	43306	.	-	ID=rna_altalt11_plp157;Description=;parent=gene_altalt11_plp157
+altalt11_CP061882.1	bed	RNA	45279	40225	.	+	ID=rna_altalt11_d3755;Description=;parent=gene_altalt11_d3755
+altalt11_CP061882.1	bed	RNA	48880	36946	.	+	ID=rna_altalt11_fre202;Description=;parent=gene_altalt11_fre202
+altalt11_CP061882.1	bed	RNA	61747	20680	.	-	ID=rna_altalt11_nlr2458;Description=;parent=gene_altalt11_nlr2458
+altalt11_CP061882.1	bed	RNA	67475	19738	.	-	ID=rna_altalt11_eg807;Description=;parent=gene_altalt11_eg807
+altalt11_CP061882.1	bed	RNA	75006	12135	.	+	ID=rna_altalt11_eg802;Description=;parent=gene_altalt11_eg802
+altalt11_CP061882.1	bed	CDS	617	85734	.	+	ID=cds_altalt11_tyr67;Description=;parent=rna_altalt11_tyr67
+altalt11_CP061882.1	bed	CDS	10574	73936	.	+	ID=cds_altalt11_nlr2457;Description=;parent=rna_altalt11_nlr2457
+altalt11_CP061882.1	bed	CDS	13550	73495	.	+	ID=cds_altalt11_eg762;Description=;parent=rna_altalt11_eg762
+altalt11_CP061882.1	bed	CDS	15299	71255	.	-	ID=cds_altalt11_eg668;Description=;parent=rna_altalt11_eg668
+altalt11_CP061882.1	bed	CDS	17184	69354	.	+	ID=cds_altalt11_eg674;Description=;parent=rna_altalt11_eg674
+altalt11_CP061882.1	bed	CDS	18474	66612	.	+	ID=cds_altalt11_nlr2447;Description=;parent=rna_altalt11_nlr2447
+altalt11_CP061882.1	bed	CDS	25662	60714	.	+	ID=cds_altalt11_eg815;Description=;parent=rna_altalt11_eg815
+altalt11_CP061882.1	bed	CDS	41080	43306	.	-	ID=cds_altalt11_plp157;Description=;parent=rna_altalt11_plp157
+altalt11_CP061882.1	bed	CDS	45279	40225	.	+	ID=cds_altalt11_d3755;Description=;parent=rna_altalt11_d3755
+altalt11_CP061882.1	bed	CDS	48880	36946	.	+	ID=cds_altalt11_fre202;Description=;parent=rna_altalt11_fre202
+altalt11_CP061882.1	bed	CDS	61747	20680	.	-	ID=cds_altalt11_nlr2458;Description=;parent=rna_altalt11_nlr2458
+altalt11_CP061882.1	bed	CDS	67475	19738	.	-	ID=cds_altalt11_eg807;Description=;parent=rna_altalt11_eg807
+altalt11_CP061882.1	bed	CDS	75006	12135	.	+	ID=cds_altalt11_eg802;Description=;parent=rna_altalt11_eg802
