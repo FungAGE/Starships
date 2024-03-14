@@ -1,8 +1,0 @@
-aspasp13_JAHXQV010000001.1	bed	region	1	37732	.	+	flank	ID=gene_aspasp13_tyr531|DR|up;Description=aspasp13_s00586;parent=aspasp13_JAHXQV010000001.1
-aspasp13_JAHXQV010000001.1	bed	gene	2878	33163	.	+	cap	ID=gene_aspasp13_tyr531;Description=aspasp13_s00586;parent=aspasp13_JAHXQV010000001.1
-aspasp13_JAHXQV010000001.1	bed	gene	27516	10003	.	+	.	ID=gene_aspasp13_eg18678;Description=aspasp13_s00586;parent=aspasp13_JAHXQV010000001.1
-aspasp13_JAHXQV010000001.1	bed	region	37734	0	.	+	flank	ID=gene_aspasp13_tyr531|DR|down;Description=aspasp13_s00586;parent=aspasp13_JAHXQV010000001.1
-aspasp13_JAHXQV010000001.1	bed	RNA	2878	33163	.	+	ID=rna_aspasp13_tyr531;Description=;parent=gene_aspasp13_tyr531
-aspasp13_JAHXQV010000001.1	bed	RNA	27516	10003	.	+	ID=rna_aspasp13_eg18678;Description=;parent=gene_aspasp13_eg18678
-aspasp13_JAHXQV010000001.1	bed	CDS	2878	33163	.	+	ID=cds_aspasp13_tyr531;Description=;parent=rna_aspasp13_tyr531
-aspasp13_JAHXQV010000001.1	bed	CDS	27516	10003	.	+	ID=cds_aspasp13_eg18678;Description=;parent=rna_aspasp13_eg18678
