@@ -14,6 +14,7 @@
 ./captain/tyr/fna/blastdb/**
 ./captain/tyr/faa/blastdb/**
 ./ships/fna/blastdb/**
+./ships/fna/blastdb/concatenated.fa
 ./captain/tyr/fna/tree/**
 ./captain/tyr/faa/tree/**
 ./captain/tyr/fna/alignments/**
@@ -23,3 +24,4 @@ metadata/ships/starfish/gff/**
 
 SQL/**
 MTDB/**
+Starships/metadata/ships/*.csv
