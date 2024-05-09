@@ -17,6 +17,10 @@ Rscript prep-mtdb.R
 # make sure you are not linked to a mtdb already
 mtdb -u
 
+# generate protein from gff3
+
+gff2seq -g /home/adrian/Systematics/Starship_Database/starbase/Starships/metadata/ships/starfish/gff/altals1_s00058.gff -a /home/adrian/Systematics/Starship_Database/starbase/Starships/ships/fna/starfish/altals1_s00058.fna -p
+
 # Create a mycotoolsdb from a predb file:
 mtdb predb2mtdb ships_predb.tsv -s
 

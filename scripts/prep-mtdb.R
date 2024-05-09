@@ -7,7 +7,7 @@ mycodb_df_extra<-read_tsv("MTDB/mycodb2899.ome2species.txt",col_names=c("ome","t
     genus=gsub(" (.+)","",taxa)) %>%
   select(-taxa)
 
-mycodb_df<-read_tsv("MTDB/20211215.pub.dedup.db",c('ome', 'genus', 'species', 'strain', 'version', 'biosample','fna', 'faa', 'gff3','taxonomy','missing1', 'missing2','genomeSource','published','assembly_acc','acquisition_date'),na=c("","NA","Unknown","unknown"),show_col_types = FALSE) %>% 
+mycodb_df<-read_tsv("Starships/MTDB/20211215.pub.dedup.db",c('ome', 'genus', 'species', 'strain', 'version', 'biosample','fna', 'faa', 'gff3','taxonomy','missing1', 'missing2','genomeSource','published','assembly_acc','acquisition_date'),na=c("","NA","Unknown","unknown"),show_col_types = FALSE) %>% 
   separate_rows(taxonomy,sep=",") %>%
   mutate(taxonomy=gsub(c("\\{|\\}|\\'"),"",trimws(taxonomy))) %>%
   separate(taxonomy,sep=": ",into=c("rank","name")) %>%
@@ -131,7 +131,7 @@ joined_ships %>%
     genomeSource=ifelse(is.na(genomeSource)| genomeSource == "slot","ncbi",genomeSource),
     faa=NA) %>%
   select(ome,genus,species,strain,version,source,biosample,assembly_acc,published,acquisition_date,fna,faa,gff3) %>%
-  left_join(read_tsv("MTDB/20211215.pub.dedup.db",c('ome', 'genus', 'species', 'strain', 'version', 'biosample','fna', 'faa', 'gff3','taxonomy','missing1', 'missing2','genomeSource','published','assembly_acc','acquisition_date'),na=c("","NA","Unknown","unknown"),show_col_types = FALSE) %>% select(ome,taxonomy,assembly_acc)) %>%
+  left_join(read_tsv("Starships/MTDB/20211215.pub.dedup.db",c('ome', 'genus', 'species', 'strain', 'version', 'biosample','fna', 'faa', 'gff3','taxonomy','missing1', 'missing2','genomeSource','published','assembly_acc','acquisition_date'),na=c("","NA","Unknown","unknown"),show_col_types = FALSE) %>% select(ome,taxonomy,assembly_acc)) %>%
   select(ome,genus,species,strain,taxonomy,version,source,biosample,assembly_acc,published,acquisition_date,fna,faa,gff3) %>%
   filter(!is.na(taxonomy)) %>% 
   write_tsv(file="MTDB/ships.mtdb",col_names=NULL)

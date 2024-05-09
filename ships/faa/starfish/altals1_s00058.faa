@@ -1,0 +1,2471 @@
+>altals1_s00058_ORF.1 [102-183](+) type:complete length:81 frame:1 start:CTG stop:TAA
+LLFFPGYPFQSSRLCCRAPTTTAPNDH
+>altals1_s00058_ORF.2 [228-522](+) type:complete length:294 frame:1 start:CTG stop:TAA
+LHSKRAVLTWLPLAQVLLATCSLSYLLPSLFNKVILRPIQIIPLTMAPKKRSKVDLSHLRAL
+VQLEKEPAPLTNEDVKALLIPSSYKSYEYTMALWAE
+>altals1_s00058_ORF.3 [540-681](+) type:complete length:141 frame:1 start:ATG stop:TAG
+MSERITNRSGSLNPSSTNPRILRSDKHRVCIVSSCSFAGSPKLGLVS
+>altals1_s00058_ORF.4 [753-858](+) type:complete length:105 frame:1 start:CTG stop:TAG
+LVASTTQRRTRTWRFSLLKTLRRTERLQRELILSR
+>altals1_s00058_ORF.5 [957-969](+) type:complete length:12 frame:1 start:CTG stop:TGA
+LSYS
+>altals1_s00058_ORF.6 [990-1053](+) type:complete length:63 frame:1 start:CTG stop:TAG
+LESSLNRQPGSTATKDFYTVT
+>altals1_s00058_ORF.7 [1074-1155](+) type:complete length:81 frame:1 start:ATG stop:TAG
+MARTWASFFICGCGIGRDTETTRNTRK
+>altals1_s00058_ORF.8 [1296-1317](+) type:complete length:21 frame:1 start:ATG stop:TGA
+MHFVPRH
+>altals1_s00058_ORF.9 [1515-1536](+) type:complete length:21 frame:1 start:CTG stop:TAA
+LLSSDLC
+>altals1_s00058_ORF.10 [1569-1650](+) type:complete length:81 frame:1 start:CTG stop:TGA
+LILRPPLTIDRNGNSCTEKIANGAPQR
+>altals1_s00058_ORF.11 [2103-2142](+) type:complete length:39 frame:1 start:TTG stop:TGA
+LRYGSREFRGYWC
+>altals1_s00058_ORF.12 [2265-2298](+) type:complete length:33 frame:1 start:CTG stop:TGA
+LRRVRETVYQE
+>altals1_s00058_ORF.13 [2388-2568](+) type:complete length:180 frame:1 start:ATG stop:TAG
+MCPQRTHTGSTKTYDGPIQRYSPLCLERLQFQLPRKILRYKLSPRNEASPRYTYSPMPMG
+>altals1_s00058_ORF.14 [2571-2637](+) type:complete length:66 frame:1 start:TTG stop:TAA
+LPSDLRESREACLSCLKQTPSP
+>altals1_s00058_ORF.15 [2688-2724](+) type:complete length:36 frame:1 start:ATG stop:TAA
+MVPVRTAVGTTS
+>altals1_s00058_ORF.16 [2757-2823](+) type:complete length:66 frame:1 start:TTG stop:TAG
+LRINSTRWCGCSGRALRLISGR
+>altals1_s00058_ORF.17 [2928-3198](+) type:complete length:270 frame:1 start:CTG stop:TAA
+LSVHTLTAKTCLAPKTSFGVMQKPSMACRPSVLADRQESAKRQKSWRIWERARTTIACETRP
+MVMMMHQVGLRRERVMRLLALRMWRYQR
+>altals1_s00058_ORF.18 [3267-3333](+) type:complete length:66 frame:1 start:ATG stop:TGA
+MRTCEYIDNLVLLNTCIYCLIP
+>altals1_s00058_ORF.19 [3369-4074](+) type:complete length:705 frame:1 start:ATG stop:TAG
+MNVSERSERRRAKLRKRTARNLSPLPMTTPSRSPSPLLVPSRSPSPLVLPSPLQLELEQQAQ
+LNIDFERLRQQSPLLYSPSHPPQLFERFPPLTEQAERSLLELQLHSTLKQLDEAGPDFVSTR
+LESQARDILRLLDGLPSPCPQHPDEAFAPIGVTADSSRTVAQYNRTAADGSRVVADDNRIVV
+DNNRVMLELVCSLILLLSFDEAYQLCRIPEDLLHTHTSRLRTINPVSTP
+>altals1_s00058_ORF.20 [4140-4191](+) type:complete length:51 frame:1 start:ATG stop:TAA
+MGVFTSSILSIRLLEWH
+>altals1_s00058_ORF.21 [4233-4269](+) type:complete length:36 frame:1 start:CTG stop:TAG
+LTLCRRVRRLST
+>altals1_s00058_ORF.22 [4323-4452](+) type:complete length:129 frame:1 start:ATG stop:TAG
+MLEKSDVLEVGIYSISCVMYLNTYVYPIVSSLDLHSKHITLPR
+>altals1_s00058_ORF.23 [4518-4611](+) type:complete length:93 frame:1 start:CTG stop:TAA
+LRSFCGVDVDIWRSRRKAKKKVISAEFGSDI
+>altals1_s00058_ORF.24 [4755-4779](+) type:complete length:24 frame:1 start:CTG stop:TAG
+LHMGNGIR
+>altals1_s00058_ORF.25 [4782-4839](+) type:complete length:57 frame:1 start:TTG stop:TAA
+LSPKAIHCTCLNVRDPSYK
+>altals1_s00058_ORF.26 [4899-4950](+) type:complete length:51 frame:1 start:ATG stop:TAG
+MSTQGCDKGIVVSNAEA
+>altals1_s00058_ORF.27 [4974-4998](+) type:complete length:24 frame:1 start:TTG stop:TAA
+LLQAAATG
+>altals1_s00058_ORF.28 [5007-5151](+) type:complete length:144 frame:1 start:CTG stop:TGA
+LHMRSGPLSQAALTQPVGYDHLDPGPVEVTAPQAIYRSLSILHIPMVR
+>altals1_s00058_ORF.29 [5160-5250](+) type:complete length:90 frame:1 start:TTG stop:TGA
+LVRSACADMTRYSSHVSIFANCKIRGIVPW
+>altals1_s00058_ORF.30 [5430-5511](+) type:complete length:81 frame:1 start:CTG stop:TGA
+LPTAGLVCAVCKSPCIQGIPIRHIYTY
+>altals1_s00058_ORF.31 [5535-5565](+) type:complete length:30 frame:1 start:TTG stop:TAA
+LKWLLWVSQG
+>altals1_s00058_ORF.32 [5583-6012](+) type:complete length:429 frame:1 start:ATG stop:TGA
+MYDRFQHITMLRKLIRKSSPQQVEYEEIKAILEPYWHLFNSALEYERKRCILYLTTTRHFIY
+GPSVITQHLDPTVENGRYIARAGALAYPTGTPETIRRQSDKYDQCDTSIRVFLIYLLPALKM
+IGAKIEWHTVISNSKVVFL
+>altals1_s00058_ORF.33 [6033-6099](+) type:complete length:66 frame:1 start:CTG stop:TGA
+LRYRYRLVLRRILKELSSLPEG
+>altals1_s00058_ORF.34 [6111-6183](+) type:complete length:72 frame:1 start:ATG stop:TAG
+MSRDRGWCRPSVPRRVPGSSPVCG
+>altals1_s00058_ORF.35 [6198-6231](+) type:complete length:33 frame:1 start:ATG stop:TGA
+MEHRDNSPPLS
+>altals1_s00058_ORF.36 [6267-6294](+) type:complete length:27 frame:1 start:ATG stop:TAA
+MLNAIPAPL
+>altals1_s00058_ORF.37 [6417-6432](+) type:complete length:15 frame:1 start:ATG stop:TAG
+MLLAL
+>altals1_s00058_ORF.38 [6576-6672](+) type:complete length:96 frame:1 start:TTG stop:TAA
+LLCLRLYSKAGGKASLRLRRPFRHVRARGERV
+>altals1_s00058_ORF.39 [6933-6948](+) type:complete length:15 frame:1 start:TTG stop:TAG
+LPRLL
+>altals1_s00058_ORF.40 [7071-7113](+) type:complete length:42 frame:1 start:TTG stop:TAA
+LYRLILSSAALLTC
+>altals1_s00058_ORF.41 [7122-7191](+) type:complete length:69 frame:1 start:TTG stop:TAG
+LLITLPVRASTPLRIVAIIIVKR
+>altals1_s00058_ORF.42 [7284-7320](+) type:complete length:36 frame:1 start:CTG stop:TAA
+LLKLSARLQSLR
+>altals1_s00058_ORF.43 [7539-7551](+) type:complete length:12 frame:1 start:TTG stop:TAA
+LRCS
+>altals1_s00058_ORF.44 [7671-7716](+) type:complete length:45 frame:1 start:TTG stop:TAG
+LSYFYSTSLTTVRLI
+>altals1_s00058_ORF.45 [7746-7758](+) type:complete length:12 frame:1 start:CTG stop:TAA
+LLSF
+>altals1_s00058_ORF.46 [7800-7848](+) type:complete length:48 frame:1 start:TTG stop:TAG
+LSLCCTVSAAYLGYVL
+>altals1_s00058_ORF.47 [8391-8406](+) type:complete length:15 frame:1 start:CTG stop:TAG
+LLLQF
+>altals1_s00058_ORF.48 [8517-8529](+) type:complete length:12 frame:1 start:CTG stop:TAA
+LPMY
+>altals1_s00058_ORF.49 [8637-8682](+) type:complete length:45 frame:1 start:CTG stop:TAA
+LLFYLPVCLEVERSA
+>altals1_s00058_ORF.50 [8793-8865](+) type:complete length:72 frame:1 start:TTG stop:TAA
+LLEQDVSNTLGCYCLYYREVVDVL
+>altals1_s00058_ORF.51 [9048-9084](+) type:complete length:36 frame:1 start:CTG stop:TAG
+LLDIFTNVALNV
+>altals1_s00058_ORF.52 [9393-9462](+) type:complete length:69 frame:1 start:TTG stop:TAA
+LRSFMRKAIRGEVFTIKVLQKSL
+>altals1_s00058_ORF.53 [9720-9732](+) type:complete length:12 frame:1 start:TTG stop:TAG
+LLEG
+>altals1_s00058_ORF.54 [9759-9801](+) type:complete length:42 frame:1 start:TTG stop:TAA
+LLSNLEALRVVRSL
+>altals1_s00058_ORF.55 [10425-10449](+) type:complete length:24 frame:1 start:CTG stop:TAG
+LLIEVIEL
+>altals1_s00058_ORF.56 [10803-10884](+) type:complete length:81 frame:1 start:ATG stop:TAG
+MPVLSLKSYLLFILLLDLKLIIGVTKI
+>altals1_s00058_ORF.57 [11079-11103](+) type:complete length:24 frame:1 start:TTG stop:TAG
+LRCSEIFL
+>altals1_s00058_ORF.58 [11211-11235](+) type:complete length:24 frame:1 start:CTG stop:TAG
+LCLLLAKG
+>altals1_s00058_ORF.59 [12003-12141](+) type:complete length:138 frame:1 start:TTG stop:TAG
+LYNLKANKVYLCSRVVESLERHRSAIRELYLYINSDAKLPLIRVLL
+>altals1_s00058_ORF.60 [12333-12351](+) type:complete length:18 frame:1 start:CTG stop:TAG
+LRVEEY
+>altals1_s00058_ORF.61 [12381-12408](+) type:complete length:27 frame:1 start:CTG stop:TAA
+LLLERLREV
+>altals1_s00058_ORF.62 [12477-12513](+) type:complete length:36 frame:1 start:TTG stop:TAA
+LPCCLTELLDLP
+>altals1_s00058_ORF.63 [12636-12654](+) type:complete length:18 frame:1 start:ATG stop:TAA
+MSRILA
+>altals1_s00058_ORF.64 [12711-12780](+) type:complete length:69 frame:1 start:CTG stop:TAG
+LRRSNNSLLLSCSKKVFTKLVSF
+>altals1_s00058_ORF.65 [12810-12834](+) type:complete length:24 frame:1 start:TTG stop:TAA
+LYFVRKGS
+>altals1_s00058_ORF.66 [12843-12864](+) type:complete length:21 frame:1 start:TTG stop:TAA
+LRFLFLT
+>altals1_s00058_ORF.67 [12885-12915](+) type:complete length:30 frame:1 start:CTG stop:TAG
+LSLNRCISSS
+>altals1_s00058_ORF.68 [13047-13071](+) type:complete length:24 frame:1 start:TTG stop:TAA
+LLVSPSLG
+>altals1_s00058_ORF.69 [13125-13161](+) type:complete length:36 frame:1 start:CTG stop:TGA
+LLSLPVASLTTA
+>altals1_s00058_ORF.70 [13233-13248](+) type:complete length:15 frame:1 start:CTG stop:TAG
+LSSAS
+>altals1_s00058_ORF.71 [13287-13320](+) type:complete length:33 frame:1 start:CTG stop:TAG
+LAARVQTSDGL
+>altals1_s00058_ORF.72 [13341-13368](+) type:complete length:27 frame:1 start:CTG stop:TAG
+LLLLLPVPL
+>altals1_s00058_ORF.73 [13503-13518](+) type:complete length:15 frame:1 start:CTG stop:TAG
+LRAFL
+>altals1_s00058_ORF.74 [13533-13560](+) type:complete length:27 frame:1 start:TTG stop:TAG
+LCKGCSSSL
+>altals1_s00058_ORF.75 [13644-13674](+) type:complete length:30 frame:1 start:TTG stop:TAG
+LRKTPLGVLR
+>altals1_s00058_ORF.76 [13737-13779](+) type:complete length:42 frame:1 start:TTG stop:TAA
+LATLRSLSRDVLVT
+>altals1_s00058_ORF.77 [13794-13836](+) type:complete length:42 frame:1 start:TTG stop:TAA
+LPRVLRKELISLRL
+>altals1_s00058_ORF.78 [13848-13863](+) type:complete length:15 frame:1 start:TTG stop:TAA
+LQRSV
+>altals1_s00058_ORF.79 [13893-13941](+) type:complete length:48 frame:1 start:CTG stop:TAG
+LSVQQGVRRIRIVRSN
+>altals1_s00058_ORF.80 [14016-14037](+) type:complete length:21 frame:1 start:ATG stop:TAA
+MIYTYVT
+>altals1_s00058_ORF.81 [14040-14052](+) type:complete length:12 frame:1 start:TTG stop:TAG
+LWLV
+>altals1_s00058_ORF.82 [14094-14127](+) type:complete length:33 frame:1 start:CTG stop:TGA
+LWLEPCNNRTL
+>altals1_s00058_ORF.83 [14433-14481](+) type:complete length:48 frame:1 start:TTG stop:TAG
+LLRQLVLYIDSYSLEA
+>altals1_s00058_ORF.84 [14505-14559](+) type:complete length:54 frame:1 start:TTG stop:TAG
+LYTKAFAPRSVAPYSAES
+>altals1_s00058_ORF.85 [14769-14946](+) type:complete length:177 frame:1 start:CTG stop:TAA
+LLTLMHSLQVNIEVLHVENQGLKDAVSTKQKHKKKNKPLDLQQRKEFRSKAVFWGPARI
+>altals1_s00058_ORF.86 [15384-15426](+) type:complete length:42 frame:1 start:ATG stop:TGA
+MFVDLVKLVEWFIG
+>altals1_s00058_ORF.87 [15453-15534](+) type:complete length:81 frame:1 start:CTG stop:TAG
+LYLDLGSNSVGRPCTCRRCPSLSSLLD
+>altals1_s00058_ORF.88 [15600-15708](+) type:complete length:108 frame:1 start:TTG stop:TGA
+LKLTTRVDVHYHGTLRGCCRKSLGLRHMPAMSAKAP
+>altals1_s00058_ORF.89 [15774-16119](+) type:complete length:345 frame:1 start:ATG stop:TGA
+MFLIIPPKEDTPSLRQEQESAVAAAGNEDQPEEIRSRVRKACNRCRLRKVKCNGRIPCTRCE
+RDHATCKIDSNMVGLKNLSRRYSKFAPSKIILTYVCAATSRLLRNSRFPFLAP
+>altals1_s00058_ORF.90 [16146-16170](+) type:complete length:24 frame:1 start:ATG stop:TAG
+MIASSATQ
+>altals1_s00058_ORF.91 [16257-16395](+) type:complete length:138 frame:1 start:CTG stop:TAG
+LSKARLYDQLPSLGTTTRSPWTIYSRFCSSLLHHRLSQTFCGTSGM
+>altals1_s00058_ORF.92 [16446-16761](+) type:complete length:315 frame:1 start:TTG stop:TGA
+LIIATLAQHSKRTLSQRWSQCQISTSIQCRFPLVSPIQTQLPKTRVILKNHASPGSSRPRTA
+PCPQFASTLLQYPTSGCTLPHVRHDTDFQTSGVQCPTRRSDRQ
+>altals1_s00058_ORF.93 [16830-16851](+) type:complete length:21 frame:1 start:TTG stop:TGA
+LLHQSLQ
+>altals1_s00058_ORF.94 [16986-17094](+) type:complete length:108 frame:1 start:ATG stop:TGA
+MSKPASRPARMGPPTVRQGTVQGSHSTASPKLQRQN
+>altals1_s00058_ORF.95 [17106-17121](+) type:complete length:15 frame:1 start:CTG stop:TGA
+LSFSA
+>altals1_s00058_ORF.96 [17172-17190](+) type:complete length:18 frame:1 start:CTG stop:TGA
+LDQCRS
+>altals1_s00058_ORF.97 [17211-17328](+) type:complete length:117 frame:1 start:TTG stop:TGA
+LLRSLLPIGQALRVESRSVEKNHPHRQRLSLSRVTSAHA
+>altals1_s00058_ORF.98 [17331-17355](+) type:complete length:24 frame:1 start:CTG stop:TGA
+LYDPLRLT
+>altals1_s00058_ORF.99 [17367-17391](+) type:complete length:24 frame:1 start:CTG stop:TGA
+LLHDDSFE
+>altals1_s00058_ORF.100 [17394-17538](+) type:complete length:144 frame:1 start:TTG stop:TGA
+LIDLRTHPDGLSHAVGANRRNHELLESHCIAGMHTSIEDIEERHGHDV
+>altals1_s00058_ORF.101 [17541-17646](+) type:complete length:105 frame:1 start:CTG stop:TGA
+LLGAARLLQELVKRHSLHLSLARNASEQQGCGNRI
+>altals1_s00058_ORF.102 [17682-17706](+) type:complete length:24 frame:1 start:CTG stop:TGA
+LRLSIQPY
+>altals1_s00058_ORF.103 [17772-17820](+) type:complete length:48 frame:1 start:ATG stop:TGA
+MHRSCARLLEAGSSCR
+>altals1_s00058_ORF.104 [17856-18174](+) type:complete length:318 frame:1 start:CTG stop:TAG
+LRQVLLGHDTPFRSHHGVRQLHSRLWMRRTVQSIEKYLRSICQYGNEELREKSTCPCRCEDR
+LVQLGCRVNPNAGMRRSKVWSSSWILLVSVARCNARIRLVLYQL
+>altals1_s00058_ORF.105 [18219-18255](+) type:complete length:36 frame:1 start:ATG stop:TAG
+MTSEPPDTLMAF
+>altals1_s00058_ORF.106 [18318-18408](+) type:complete length:90 frame:1 start:ATG stop:TAA
+MPCEAGEGGKLGSGTFNIRMAHLMVLSIAR
+>altals1_s00058_ORF.107 [18429-18573](+) type:complete length:144 frame:1 start:TTG stop:TGA
+LMSRKELADNQEVAIPEQRPDLHLEIPLVAFQRSFHCLAPVVSSFEQD
+>altals1_s00058_ORF.108 [18591-18711](+) type:complete length:120 frame:1 start:CTG stop:TGA
+LPKMSGSTMPPLHVCQLKWNISANRSRKRTKGTDYYQQKL
+>altals1_s00058_ORF.109 [18738-18882](+) type:complete length:144 frame:1 start:CTG stop:TAG
+LPCCRTVELYRAGWYGCCARQGARIFASLLTVFLYEDQSSSFHWHLRW
+>altals1_s00058_ORF.110 [18960-18972](+) type:complete length:12 frame:1 start:ATG stop:TGA
+MVLS
+>altals1_s00058_ORF.111 [19077-19209](+) type:complete length:132 frame:1 start:CTG stop:TGA
+LRMREIRRSGCRNYCGDWLLLLARTRPRKTLYQREEVQPWSASP
+>altals1_s00058_ORF.112 [19212-19248](+) type:complete length:36 frame:1 start:TTG stop:TGA
+LVLRCIVETAWL
+>altals1_s00058_ORF.113 [19266-19287](+) type:complete length:21 frame:1 start:TTG stop:TGA
+LLIVCTL
+>altals1_s00058_ORF.114 [19329-19464](+) type:complete length:135 frame:1 start:ATG stop:TAA
+MYVQFLPTDRGRDRLGLDASCSRPSPLVSSKEFGIRMVWFEARAR
+>altals1_s00058_ORF.115 [19581-19701](+) type:complete length:120 frame:1 start:ATG stop:TAG
+MLVGMKMPDVPVWKPCSTHTWFLLVPRVQQVTEGFNIPSK
+>altals1_s00058_ORF.116 [19737-19803](+) type:complete length:66 frame:1 start:TTG stop:TGA
+LIVNVPASVSPPVRTAQKQPPT
+>altals1_s00058_ORF.117 [19821-19893](+) type:complete length:72 frame:1 start:TTG stop:TAG
+LVSSGRLSDTIWARGSAPEDIDAR
+>altals1_s00058_ORF.118 [19926-20037](+) type:complete length:111 frame:1 start:CTG stop:TAA
+LQLGLGGLMDRSIRQEPSASIPFSSHGPYALHFPLLA
+>altals1_s00058_ORF.119 [20079-20109](+) type:complete length:30 frame:1 start:CTG stop:TAA
+LRARRDVRVR
+>altals1_s00058_ORF.120 [20292-20382](+) type:complete length:90 frame:1 start:TTG stop:TGA
+LAQSRKRQESVNRECNTSGMAAQRRRNPIY
+>altals1_s00058_ORF.121 [20481-20823](+) type:complete length:342 frame:1 start:CTG stop:TAG
+LFFPVVSGGDHKSFLSSSCSGSPTCKWELSGRWIPTTDTETICRRHAFPKFVSQRRNSELKS
+LIQFCERPVKSSVHYTVSQSLLRIASTWMALIARVDMLAGLNNPNLQWMREY
+>altals1_s00058_ORF.122 [20859-20913](+) type:complete length:54 frame:1 start:TTG stop:TAG
+LRKLTYQCLCLLARQLTT
+>altals1_s00058_ORF.123 [20955-21009](+) type:complete length:54 frame:1 start:CTG stop:TAG
+LEEHVVEKLPCSPYEDHQ
+>altals1_s00058_ORF.124 [21030-21111](+) type:complete length:81 frame:1 start:CTG stop:TAG
+LDRYAFRVASIACMAFALLSGGYLRQD
+>altals1_s00058_ORF.125 [21114-21153](+) type:complete length:39 frame:1 start:CTG stop:TAG
+LTTCLGCPQQLAL
+>altals1_s00058_ORF.126 [21168-21183](+) type:complete length:15 frame:1 start:CTG stop:TGA
+LIYHR
+>altals1_s00058_ORF.127 [21261-21336](+) type:complete length:75 frame:1 start:ATG stop:TGA
+MIISQVPPIEFVSLARAMEVWFLQF
+>altals1_s00058_ORF.128 [21369-21393](+) type:complete length:24 frame:1 start:CTG stop:TGA
+LYNELWAW
+>altals1_s00058_ORF.129 [21399-21426](+) type:complete length:27 frame:1 start:ATG stop:TAA
+MHYSSVATR
+>altals1_s00058_ORF.130 [21435-21498](+) type:complete length:63 frame:1 start:ATG stop:TGA
+MSTPFHAVPLTRSRWLTGVPA
+>altals1_s00058_ORF.131 [21504-21528](+) type:complete length:24 frame:1 start:ATG stop:TAA
+MTLRQTCS
+>altals1_s00058_ORF.132 [21606-21663](+) type:complete length:57 frame:1 start:CTG stop:TAG
+LGKMFEQRLKPVGNRPYIN
+>altals1_s00058_ORF.133 [21759-21786](+) type:complete length:27 frame:1 start:ATG stop:TGA
+MITGDLRGN
+>altals1_s00058_ORF.134 [21789-21816](+) type:complete length:27 frame:1 start:CTG stop:TAA
+LRAKELWTE
+>altals1_s00058_ORF.135 [21840-21879](+) type:complete length:39 frame:1 start:CTG stop:TGA
+LLHPRAHSSTMVR
+>altals1_s00058_ORF.136 [21882-22065](+) type:complete length:183 frame:1 start:ATG stop:TGA
+MMIKAVETICLHSQAYSAVPSVLDYTTGVVPVTFADQYLDYGPFRYIPMSDKDRVNWNLCK
+>altals1_s00058_ORF.137 [22236-22335](+) type:complete length:99 frame:1 start:CTG stop:TAG
+LNISDETMTSCNYGLVFLHRSGSYRHAGAKVRN
+>altals1_s00058_ORF.138 [22347-22485](+) type:complete length:138 frame:1 start:ATG stop:TAG
+MRLKCKTHYAFSDQSVSSSDSTRPVRFGFLQARFGASCTARVVRLR
+>altals1_s00058_ORF.139 [22533-23991](+) type:complete length:1458 frame:1 start:CTG stop:TGA
+LHHTNVLKSRSQSTHPQNMAPSVINEEAEDSALEDYDQFEEVRKPSPQSARQPNEDNLDKAE
+SELLNENVDEGVDGLDELAVPAPDENPDEERTEYHRSLEEEREIGSRRSAIHEHTRQATERP
+SLQQRLLIQLYTHSWLVLFSILGTLARLGVEWMTYYRNAPVTTNVLWANFGGSLVLGFLQED
+RALFAEKRGRHLLSTTHSSSSGDDTDEKGQRDSQADQTARKKSIPLYIGLAVGFCGSFTSYS
+SFMRDLFLGLSDELIGKDQVKNARSAGWSAASVLGMVITEVTVSLSALSFGAHLAIALLPLL
+SSIPRMNMGKITNPLGVFLGLGCWFGAVCLAIWPPHGAWRGQVVFAIVFAPMGTIVRYWLSV
+QLNRCIKSFPIGTFSANMLGTALLAMAYDLQHTNLQGNIVGGSIIGCQVLAGITEGFCGCLT
+TVSTWVAELKSLRKRHAYLYGVTSIAIGFSLMIVIVGALQWTSGLRAPVCKV
+>altals1_s00058_ORF.140 [23994-24018](+) type:complete length:24 frame:1 start:TTG stop:TAG
+LPCRDRTV
+>altals1_s00058_ORF.141 [24036-24084](+) type:complete length:48 frame:1 start:ATG stop:TAG
+MLSNAVHTRMPMIVHK
+>altals1_s00058_ORF.142 [24120-24144](+) type:complete length:24 frame:1 start:ATG stop:TGA
+MWIKLILS
+>altals1_s00058_ORF.143 [24168-24186](+) type:complete length:18 frame:1 start:TTG stop:TGA
+LTHITS
+>altals1_s00058_ORF.144 [24204-24249](+) type:complete length:45 frame:1 start:ATG stop:TGA
+MLSWPNAAKCKDFKG
+>altals1_s00058_ORF.145 [24303-24471](+) type:complete length:168 frame:1 start:ATG stop:TGA
+MIRTSVERIIFPSSVYMPSPSFVRNRTVTLCYSWPQWVSSKPSQFCGRLVIQDSIS
+>altals1_s00058_ORF.146 [24723-24804](+) type:complete length:81 frame:1 start:CTG stop:TAA
+LCVKDTCRGNVNRWFGPDLRLRTTATS
+>altals1_s00058_ORF.147 [24858-24945](+) type:complete length:87 frame:1 start:TTG stop:TAG
+LVSLRYSKPIQSAGVNHVSKGNLRPETTS
+>altals1_s00058_ORF.148 [24963-25083](+) type:complete length:120 frame:1 start:ATG stop:TGA
+MAYTSSAPNSCELDQSQRSRCKASRVVTFISCCISRLPAC
+>altals1_s00058_ORF.149 [25119-25230](+) type:complete length:111 frame:1 start:TTG stop:TGA
+LQVPGVSDESLTLTWQLIKGRLSFAFPTMVPAVVYQP
+>altals1_s00058_ORF.150 [25242-25578](+) type:complete length:336 frame:1 start:CTG stop:TAG
+LRKTHLIPMHLPENASAKVIADSRHRVALSLHTLIIGLRSPSLTWKSLRTWLQRCLKCLPIS
+AVCDRPSPETMPTCALLIQLRYVCKAANCPLANGLPAPCRTSILRRKGWT
+>altals1_s00058_ORF.151 [25584-25596](+) type:complete length:12 frame:1 start:TTG stop:TGA
+LKSL
+>altals1_s00058_ORF.152 [25788-25884](+) type:complete length:96 frame:1 start:ATG stop:TGA
+MEYFECYACLARSTRALMIMRCACAPIRIRCS
+>altals1_s00058_ORF.153 [25893-26073](+) type:complete length:180 frame:1 start:ATG stop:TAG
+MESTMAYPRSPMHHIFDLCIYIKPAYHKLRSQRLPHRCDQGTSASASRFVASLFGPQEAI
+>altals1_s00058_ORF.154 [26160-26466](+) type:complete length:306 frame:1 start:CTG stop:TAA
+LITMDPSAAELGQPQQTQHHDISLHPPNDVAVEHIRQFRNKRGWRKVVVNLTPAWFSVTMGM
+LRTSIYSTAYATPTKWKAHANLLLVIQSNYTYYFMPLHRF
+>altals1_s00058_ORF.155 [26523-26589](+) type:complete length:66 frame:1 start:ATG stop:TGA
+MRHGYTGSQSSSSQRMCSYSRC
+>altals1_s00058_ORF.156 [26637-26763](+) type:complete length:126 frame:1 start:CTG stop:TGA
+LRCLHIQFSPYSSVSRKYIVWRRSSADTKQALFQWVFQPSST
+>altals1_s00058_ORF.157 [26850-26931](+) type:complete length:81 frame:1 start:TTG stop:TAA
+LVRTYFCPSSLYINMRYVRLPMLTLHC
+>altals1_s00058_ORF.158 [26991-27141](+) type:complete length:150 frame:1 start:TTG stop:TGA
+LRPSLLLQPAESWLVFSPIRTPYGRSSSATFCGGAVFLWPCSPWSYTFTD
+>altals1_s00058_ORF.159 [27174-27228](+) type:complete length:54 frame:1 start:TTG stop:TGA
+LFQCFYLLDQLVKERSAS
+>altals1_s00058_ORF.160 [27273-27330](+) type:complete length:57 frame:1 start:CTG stop:TGA
+LFLPPWTTWLADFSMPMDS
+>altals1_s00058_ORF.161 [27444-27468](+) type:complete length:24 frame:1 start:TTG stop:TAG
+LVCTQLRP
+>altals1_s00058_ORF.162 [27510-27690](+) type:complete length:180 frame:1 start:TTG stop:TAA
+LEQFSRYQSCYCGWLSASEPFEKSSRARCLSHLASRDGRHNVQRKSNAQELVSRASEQWN
+>altals1_s00058_ORF.163 [27729-27792](+) type:complete length:63 frame:1 start:TTG stop:TAA
+LDWLNFNLSLVTRKRIQSSVF
+>altals1_s00058_ORF.164 [27849-27882](+) type:complete length:33 frame:1 start:ATG stop:TAA
+MKASIITTLTL
+>altals1_s00058_ORF.165 [28044-28146](+) type:complete length:102 frame:1 start:ATG stop:TAA
+MRWHGCGILSVPGSVRRDLRHTVSLISPPTFHQM
+>altals1_s00058_ORF.166 [28161-28212](+) type:complete length:51 frame:1 start:CTG stop:TAG
+LSSANVAPTDDTDVGTH
+>altals1_s00058_ORF.167 [28224-28245](+) type:complete length:21 frame:1 start:CTG stop:TGA
+LSLLSLS
+>altals1_s00058_ORF.168 [28296-28341](+) type:complete length:45 frame:1 start:CTG stop:TAA
+LVKTLRLLSTWLGRL
+>altals1_s00058_ORF.169 [28398-28860](+) type:complete length:462 frame:1 start:TTG stop:TAG
+LHITLSLCSTWTHFFRSTNLYTRSLEYHLLQLESGSSSLSIYCQSTVNLLSSTLSNYYTYTP
+TPTPTHTYTYTYTHTRTHTHTYTHTYTHIHTHIHTHTYTHTYTHIYTHIHTHIHPHTHTHPH
+RVKELRSASNYGSLASSLLLHISASACTLR
+>altals1_s00058_ORF.170 [28908-29010](+) type:complete length:102 frame:1 start:ATG stop:TAA
+MVVVTGELSTSSATSLAGGLWIPSLSPLGGKFAQ
+>altals1_s00058_ORF.171 [29022-29061](+) type:complete length:39 frame:1 start:ATG stop:TGA
+MLVDGQLLTKISA
+>altals1_s00058_ORF.172 [29112-29127](+) type:complete length:15 frame:1 start:ATG stop:TGA
+MPVYT
+>altals1_s00058_ORF.173 [29145-29178](+) type:complete length:33 frame:1 start:ATG stop:TAA
+MRALSPHRYFY
+>altals1_s00058_ORF.174 [29181-29343](+) type:complete length:162 frame:1 start:ATG stop:TGA
+MVVYVHLGFLVYYALVFAGSVLACIRTIWNRSPSLRRTNEHSSLKLIYFPRSSE
+>altals1_s00058_ORF.175 [29475-29529](+) type:complete length:54 frame:1 start:ATG stop:TAA
+MELIRLSMRAWFSPLPHH
+>altals1_s00058_ORF.176 [29580-29649](+) type:complete length:69 frame:1 start:TTG stop:TGA
+LPGWSYNQTKKLVFRLVAQSINP
+>altals1_s00058_ORF.177 [30072-30207](+) type:complete length:135 frame:1 start:CTG stop:TAG
+LGRLVRDRDSRGVATLPKSEISDNQVKSRQSQLPHDTSICNQDNP
+>altals1_s00058_ORF.178 [30264-30333](+) type:complete length:69 frame:1 start:TTG stop:TAA
+LLRSLGIERLKWISKAVDSSQRH
+>altals1_s00058_ORF.179 [30447-30468](+) type:complete length:21 frame:1 start:TTG stop:TAA
+LQSSINT
+>altals1_s00058_ORF.180 [30525-30798](+) type:complete length:273 frame:1 start:TTG stop:TAA
+LHSFSSAARRPIATMCVNRPAYGTACRLTASVMLLLNACFFLADALPHPHQSMTRSPAPALV
+ADLSTINPDQSHQSSCDNLYCKSSQSSIS
+>altals1_s00058_ORF.181 [30846-30897](+) type:complete length:51 frame:1 start:TTG stop:TAG
+LIRLIGFGPYVRLLGFL
+>altals1_s00058_ORF.182 [31005-31116](+) type:complete length:111 frame:1 start:CTG stop:TAG
+LLRFKPLKRFRIVLVPQGAKHRTARPSIGRAVLCFAP
+>altals1_s00058_ORF.183 [31161-31215](+) type:complete length:54 frame:1 start:CTG stop:TAG
+LVSLVELSISVILLYILL
+>altals1_s00058_ORF.184 [31323-31698](+) type:complete length:375 frame:1 start:TTG stop:TAG
+LSLSLSAYPTLAIASMPPKRRVHDVVGTSRKRQKGVPLPRGTLSQPIPIKSPPSSPCRSPRL
+SPRKALVEASQALSFKARLRETQVEEAIVPPVVGSEEATITITNNKDTKVFEESFADDFDGI
+N
+>altals1_s00058_ORF.185 [31707-31755](+) type:complete length:48 frame:1 start:CTG stop:TAG
+LPRYIKPMASQRSRKS
+>altals1_s00058_ORF.186 [31908-32172](+) type:complete length:264 frame:1 start:CTG stop:TAG
+LGERRRGYGYQPPSKSTQSISPSVLHQILTGNRVSQTVANELSSFNIQRFRLAAVGWLVEAN
+LPLSTFESLAFQQLISTVNPQAEAAL
+>altals1_s00058_ORF.187 [32211-32259](+) type:complete length:48 frame:1 start:CTG stop:TAG
+LYDYIKPRVVKDLLHA
+>altals1_s00058_ORF.188 [32379-32433](+) type:complete length:54 frame:1 start:CTG stop:TAG
+LPQLTGTYSGESMASVVI
+>altals1_s00058_ORF.189 [32583-32682](+) type:complete length:99 frame:1 start:CTG stop:TAG
+LNLVGQILLWGKDSSSYDNDPAEFAVESEYISE
+>altals1_s00058_ORF.190 [33420-33624](+) type:complete length:204 frame:1 start:TTG stop:TAG
+LWALYNTPTAVVQRTKPVSNDIDDAIDGLIDPTTASNSAIVDDEFTQWKQCKRRVEKDTEDA
+NNLIKY
+>altals1_s00058_ORF.191 [33630-33768](+) type:complete length:138 frame:1 start:TTG stop:TAG
+LLQDRYPRLSKLALNVLSILALSCECERMFSELGDLLEPRRRAIRP
+>altals1_s00058_ORF.192 [33873-33948](+) type:complete length:75 frame:1 start:TTG stop:TAG
+LYGMDTWDNDIDSDTDGDNETQHYK
+>altals1_s00058_ORF.193 [34227-34269](+) type:complete length:42 frame:1 start:CTG stop:TAA
+LFVHDALIARATYC
+>altals1_s00058_ORF.194 [34446-34509](+) type:complete length:63 frame:1 start:ATG stop:TAA
+MLVAYSAKRLDPEINLGVRYR
+>altals1_s00058_ORF.195 [40-250](+) type:complete length:210 frame:2 start:CTG stop:TAA
+LKISSLVPPVKTRGAGLRSINCCSFPVTLFSRRDSVVAPPLPQPQTTINSHSSSYNQFSGYA
+HCTRSALF
+>altals1_s00058_ORF.196 [280-412](+) type:complete length:132 frame:2 start:TTG stop:TAG
+LPPVHFRISSLLSSTKSFYDPFKLSHSLWRLRREAKLIFRTCAP
+>altals1_s00058_ORF.197 [454-469](+) type:complete length:15 frame:2 start:ATG stop:TAA
+MLRRC
+>altals1_s00058_ORF.198 [544-574](+) type:complete length:30 frame:2 start:CTG stop:TGA
+LNVSLTDQVH
+>altals1_s00058_ORF.199 [652-667](+) type:complete length:15 frame:2 start:CTG stop:TAG
+LARRN
+>altals1_s00058_ORF.200 [1015-1048](+) type:complete length:33 frame:2 start:CTG stop:TGA
+LEAQQRRTSIR
+>altals1_s00058_ORF.201 [1207-1555](+) type:complete length:348 frame:2 start:ATG stop:TAG
+MLLYEEATMRSMCPVTHFMALALADGVFEECTSFQDIEAKELPPGSSLYKYRYKSEAKQRPI
+LRSILSDGSVSENGILTYECFNNMLKGIGQRAGYEDRLSAYCFRRTYAKAVEST
+>altals1_s00058_ORF.202 [1594-2344](+) type:complete length:750 frame:2 start:TTG stop:TAA
+LIETAIPAQRRLLMGHPNDDTVMYYISGIIGVDSQSMVHGRDQRTELIEENTSMMSKRNLLA
+PMPPGSQLTNRGSIAKAIGPDNPVSVVTLSQHTLKEDYALRRQSRTVAYRKQREDFFEGKTT
+PQRATVPASVSAQATPKPLRSPSRYMQALWKFEPERKIIARLMYPDCDTGAESSEDTGVDSA
+TDKIEIPLKDILEPMVNLSNPEKKRYTYASASPTKDRCCGVCGKQFIKNDKKCVPRFAVRCC
+TD
+>altals1_s00058_ORF.203 [2368-3094](+) type:complete length:726 frame:2 start:ATG stop:TAG
+MNEHLLQCARKEHIRGARKHMTDQFNVIHRCAWNDCNSSFRGKSCGINSLHVTRHLRDIRTH
+QCLWDSCHQTFESHEKLAYHVSNKHRVPNEWTVQTRMHYCYEHDGWCQSEQQWVQHLKLHHL
+PELNNFCGLIRLDGVVVVAAHCVLSLGDSHAPLQVRFPQFDNPFDLHKHMKEHLAQLEAPPP
+ICLSTPSLPRHAWLRRQVLESCRNRPWHAALRSSPIDRKAQSARRAGGFGRGHGRR
+>altals1_s00058_ORF.204 [3355-3370](+) type:complete length:15 frame:2 start:TTG stop:TGA
+LLQAR
+>altals1_s00058_ORF.205 [3373-3448](+) type:complete length:75 frame:2 start:ATG stop:TGA
+MFPRGLSVAVPSSESAQPGIYRPCL
+>altals1_s00058_ORF.206 [3538-3577](+) type:complete length:39 frame:2 start:TTG stop:TAA
+LNNKRSSTSILND
+>altals1_s00058_ORF.207 [3649-3775](+) type:complete length:126 frame:2 start:CTG stop:TAG
+LNKLSAHYLNYNCIALSNNWTKLGLTLSPRGSNRKRATFSDC
+>altals1_s00058_ORF.208 [3877-3901](+) type:complete length:24 frame:2 start:CTG stop:TAG
+LQPMAVGL
+>altals1_s00058_ORF.209 [3919-4198](+) type:complete length:279 frame:2 start:TTG stop:TAA
+LLWIITGSCSSWYVHLFCFYLLTKLINFVEFQKTCYTRILPGYEPSIPFQHPSSQSESTLPC
+SRSRSLYVDSYRWAFLRLQFCRSGFSSGIKT
+>altals1_s00058_ORF.210 [4204-4234](+) type:complete length:30 frame:2 start:CTG stop:TGA
+LFLISLARTR
+>altals1_s00058_ORF.211 [4339-4384](+) type:complete length:45 frame:2 start:ATG stop:TAA
+MYWKSVYIAFRVSCT
+>altals1_s00058_ORF.212 [4393-4471](+) type:complete length:78 frame:2 start:ATG stop:TAG
+MSTLLLVLWIYIVSTLHYLGSPMTQR
+>altals1_s00058_ORF.213 [4504-4681](+) type:complete length:177 frame:2 start:TTG stop:TAG
+LEKVFCEVSVGLTWTFGEVDERLKRKSYLRNLVQISKEIHILLRHTYRFVAYCSTAKLY
+>altals1_s00058_ORF.214 [4843-5185](+) type:complete length:342 frame:2 start:CTG stop:TGA
+LRARDGKGTVCLELARHGLCLPKGVIRASWSRTQKHRRKRAMRICCKQRLQANSSCICDRVR
+FLRRRLHSRWGTTIWTRDPLRSQPHKRYTDLCQSYTYLWYDDNLWYEAPAPI
+>altals1_s00058_ORF.215 [5203-5239](+) type:complete length:36 frame:2 start:ATG stop:TAG
+MYLFLRIVRYGE
+>altals1_s00058_ORF.216 [5380-5527](+) type:complete length:147 frame:2 start:CTG stop:TAG
+LPTHSPTISFFKVRRISCQLQDWCAQSVKVRVYREFQSDTYIPIDRLVL
+>altals1_s00058_ORF.217 [5704-5743](+) type:complete length:39 frame:2 start:CTG stop:TAA
+LPSNTSENGAYST
+>altals1_s00058_ORF.218 [5776-5806](+) type:complete length:30 frame:2 start:CTG stop:TAG
+LSLRSTLTPL
+>altals1_s00058_ORF.219 [5812-5947](+) type:complete length:135 frame:2 start:ATG stop:TGA
+MEDTSQGQAPLPTLQAHPKPYEDKATNTISATPASEYFSFISYQP
+>altals1_s00058_ORF.220 [6001-6019](+) type:complete length:18 frame:2 start:TTG stop:TAG
+LCFCEE
+>altals1_s00058_ORF.221 [6022-6034](+) type:complete length:12 frame:2 start:CTG stop:TGA
+LGRH
+>altals1_s00058_ORF.222 [6274-6376](+) type:complete length:102 frame:2 start:ATG stop:TAG
+MRYLPRSKFLMLYISVLLAVLLRLLPISIPRPKR
+>altals1_s00058_ORF.223 [6424-6436](+) type:complete length:12 frame:2 start:TTG stop:TAG
+LHFR
+>altals1_s00058_ORF.224 [6544-6649](+) type:complete length:105 frame:2 start:TTG stop:TAA
+LHYIIKVLSAFCCVCGFTVRRAVRHRCDCGDPLGM
+>altals1_s00058_ORF.225 [6676-6739](+) type:complete length:63 frame:2 start:ATG stop:TAA
+MRCFRTFPASYLYHNNNSSLH
+>altals1_s00058_ORF.226 [6862-6895](+) type:complete length:33 frame:2 start:CTG stop:TAG
+LLILPCCASYF
+>altals1_s00058_ORF.227 [7021-7054](+) type:complete length:33 frame:2 start:TTG stop:TAG
+LYSCKCRILLK
+>altals1_s00058_ORF.228 [7261-7276](+) type:complete length:15 frame:2 start:CTG stop:TAA
+LYRLY
+>altals1_s00058_ORF.229 [7648-7711](+) type:complete length:63 frame:2 start:ATG stop:TAA
+MLSCSKNFCPTSIVLLLLLCV
+>altals1_s00058_ORF.230 [7738-7765](+) type:complete length:27 frame:2 start:TTG stop:TAG
+LRPCSLSNS
+>altals1_s00058_ORF.231 [7822-7834](+) type:complete length:12 frame:2 start:CTG stop:TAG
+LLRT
+>altals1_s00058_ORF.232 [7978-8038](+) type:complete length:60 frame:2 start:CTG stop:TAG
+LCSRIPSTLYLSPAKTSSSI
+>altals1_s00058_ORF.233 [8353-8383](+) type:complete length:30 frame:2 start:TTG stop:TAG
+LLILAYSLSL
+>altals1_s00058_ORF.234 [8602-8632](+) type:complete length:30 frame:2 start:ATG stop:TAA
+MYMRRYVSSS
+>altals1_s00058_ORF.235 [8749-8797](+) type:complete length:48 frame:2 start:CTG stop:TAG
+LSNTSVLGRLIFRKHC
+>altals1_s00058_ORF.236 [8806-8821](+) type:complete length:15 frame:2 start:ATG stop:TAG
+MLATP
+>altals1_s00058_ORF.237 [9016-9034](+) type:complete length:18 frame:2 start:CTG stop:TAA
+LRILFS
+>altals1_s00058_ORF.238 [9070-9091](+) type:complete length:21 frame:2 start:TTG stop:TAG
+LRLTYSY
+>altals1_s00058_ORF.239 [9139-9157](+) type:complete length:18 frame:2 start:CTG stop:TAA
+LLIRLL
+>altals1_s00058_ORF.240 [9220-9310](+) type:complete length:90 frame:2 start:CTG stop:TAA
+LRKMLVGLTFYILAVLFASPSAYRVSALFL
+>altals1_s00058_ORF.241 [9388-9493](+) type:complete length:105 frame:2 start:TTG stop:TAA
+LPCAALCVRLLEERYLLLRFYRSPYNILNSFPLAL
+>altals1_s00058_ORF.242 [9520-9532](+) type:complete length:12 frame:2 start:TTG stop:TAA
+LPIV
+>altals1_s00058_ORF.243 [9652-9697](+) type:complete length:45 frame:2 start:TTG stop:TAG
+LLPYTSRVVLEAIAI
+>altals1_s00058_ORF.244 [9808-9877](+) type:complete length:69 frame:2 start:CTG stop:TAG
+LSARLLALGLYLILKLNLASSSA
+>altals1_s00058_ORF.245 [10297-10321](+) type:complete length:24 frame:2 start:TTG stop:TAA
+LRLFAFFF
+>altals1_s00058_ORF.246 [10462-10624](+) type:complete length:162 frame:2 start:ATG stop:TAA
+MSLYPISSSYSYIVYTYTRSIITPLRVTIKPKNSTNLVKKAHLLALQNNSYCTS
+>altals1_s00058_ORF.247 [10651-10675](+) type:complete length:24 frame:2 start:TTG stop:TAG
+LCSALSLE
+>altals1_s00058_ORF.248 [11053-11119](+) type:complete length:66 frame:2 start:TTG stop:TAG
+LLGLIYPFSCAVARYSCSISSS
+>altals1_s00058_ORF.249 [11224-11245](+) type:complete length:21 frame:2 start:TTG stop:TAA
+LLKASYL
+>altals1_s00058_ORF.250 [11254-11305](+) type:complete length:51 frame:2 start:TTG stop:TAG
+LLRTCFSSLGSSLLSTR
+>altals1_s00058_ORF.251 [11383-11410](+) type:complete length:27 frame:2 start:CTG stop:TAG
+LLNTTTIRR
+>altals1_s00058_ORF.252 [11455-11470](+) type:complete length:15 frame:2 start:ATG stop:TAG
+MHLLR
+>altals1_s00058_ORF.253 [11545-11671](+) type:complete length:126 frame:2 start:TTG stop:TAG
+LSLLSPSCKVKRLGERYSLASLSSFLNYFKIIKHNSPLRYST
+>altals1_s00058_ORF.254 [11692-11725](+) type:complete length:33 frame:2 start:ATG stop:TAG
+MLCSKSLALVI
+>altals1_s00058_ORF.255 [11896-11941](+) type:complete length:45 frame:2 start:CTG stop:TAG
+LYLTVILYSFYSCSS
+>altals1_s00058_ORF.256 [12109-12151](+) type:complete length:42 frame:2 start:ATG stop:TAG
+MQSCLLLEFFSSSN
+>altals1_s00058_ORF.257 [13108-13120](+) type:complete length:12 frame:2 start:ATG stop:TAG
+MLYL
+>altals1_s00058_ORF.258 [13138-13150](+) type:complete length:12 frame:2 start:CTG stop:TAA
+LLPL
+>altals1_s00058_ORF.259 [13156-13168](+) type:complete length:12 frame:2 start:CTG stop:TAA
+LPEL
+>altals1_s00058_ORF.260 [13207-13222](+) type:complete length:15 frame:2 start:TTG stop:TAG
+LLGAP
+>altals1_s00058_ORF.261 [13258-13324](+) type:complete length:66 frame:2 start:TTG stop:TAG
+LLPKLPNLRCWRLGYRQATAYR
+>altals1_s00058_ORF.262 [13336-13378](+) type:complete length:42 frame:2 start:TTG stop:TAG
+LRCCCCYLSPYRKV
+>altals1_s00058_ORF.263 [13390-13489](+) type:complete length:99 frame:2 start:TTG stop:TAA
+LLQHYRGAYAQYEVLSLTRCSREIDPLPLISAT
+>altals1_s00058_ORF.264 [13786-13870](+) type:complete length:84 frame:2 start:CTG stop:TAG
+LLTCLVYCVKSLSPYGFNKNTCSEVFKR
+>altals1_s00058_ORF.265 [14029-14047](+) type:complete length:18 frame:2 start:ATG stop:TAG
+MSRNCG
+>altals1_s00058_ORF.266 [14380-14446](+) type:complete length:66 frame:2 start:CTG stop:TAG
+LRAPSEQRLDAGPCRPNRCLGN
+>altals1_s00058_ORF.267 [14521-14536](+) type:complete length:15 frame:2 start:TTG stop:TAG
+LLHGA
+>altals1_s00058_ORF.268 [14614-14722](+) type:complete length:108 frame:2 start:CTG stop:TAA
+LLYTVTSTSPRLLPPKIKLYKLGSLEIEIVRRTSAV
+>altals1_s00058_ORF.269 [14728-14740](+) type:complete length:12 frame:2 start:ATG stop:TAG
+MLLC
+>altals1_s00058_ORF.270 [14803-14833](+) type:complete length:30 frame:2 start:TTG stop:TGA
+LRSYTSKIKV
+>altals1_s00058_ORF.271 [15196-15295](+) type:complete length:99 frame:2 start:TTG stop:TAA
+LGDVDGNVARLPPPQPPPKHTTRGRQIKVPNFF
+>altals1_s00058_ORF.272 [15388-15400](+) type:complete length:12 frame:2 start:TTG stop:TGA
+LLTS
+>altals1_s00058_ORF.273 [15442-15544](+) type:complete length:102 frame:2 start:ATG stop:TAG
+MRKHCILTSEAIRLVGHAHAGVVPACPACSISML
+>altals1_s00058_ORF.274 [15622-15643](+) type:complete length:21 frame:2 start:ATG stop:TGA
+MCTIMAR
+>altals1_s00058_ORF.275 [15667-15781](+) type:complete length:114 frame:2 start:TTG stop:TGA
+LAYVICPQCLPKRRDGLALADSLTSLSLLPFYLSTPCF
+>altals1_s00058_ORF.276 [15847-16003](+) type:complete length:156 frame:2 start:CTG stop:TAA
+LETKTSQRRYAVALGRHATAAAFAKLNATAAYRVQDVSAIMQPARSTPTWSV
+>altals1_s00058_ORF.277 [16033-16054](+) type:complete length:21 frame:2 start:TTG stop:TGA
+LLLVRSY
+>altals1_s00058_ORF.278 [16060-16087](+) type:complete length:27 frame:2 start:ATG stop:TGA
+MYVQLHRVS
+>altals1_s00058_ORF.279 [16159-16201](+) type:complete length:42 frame:2 start:CTG stop:TGA
+LRHNRSATAQRLRY
+>altals1_s00058_ORF.280 [16294-16447](+) type:complete length:153 frame:2 start:TTG stop:TGA
+LGLQPDLHGRYTVASAAACYTTGCLRPFVALRGCSKSGSHSEPNAIDAFAS
+>altals1_s00058_ORF.281 [16597-17107](+) type:complete length:510 frame:2 start:ATG stop:TGA
+MLHPEVLARVQRLVPNSHQLFFNIQQAVVLCHTFATTRTSRLQVSSAQPDGQIGNEVVSRFS
+RAMRHKNRPAVTVRLFCCINRFSDSTDLVDLEQQSVAGFFLMGLLNAPPVRREEIIADQLDG
+AICIERCPSRPVVLPEWVLQQYDRVLFKDLIVQLRQSFSVKIDTLL
+>altals1_s00058_ORF.282 [17164-17233](+) type:complete length:69 frame:2 start:TTG stop:TAG
+LRRWINADLDLPSVPACFDRCYQ
+>altals1_s00058_ORF.283 [17323-17395](+) type:complete length:72 frame:2 start:ATG stop:TGA
+MPDCMIHSALPDGPYCFTMTPLSD
+>altals1_s00058_ORF.284 [17416-17575](+) type:complete length:159 frame:2 start:CTG stop:TAA
+LTASVMLSAPTGAIMNSWKAIVLPECTPPLRTLKNGTGMTYDCWVPQDCCRNW
+>altals1_s00058_ORF.285 [17611-17713](+) type:complete length:102 frame:2 start:ATG stop:TAG
+MRLSNKGAGIAFEAIFFQTYFRRSCGSPYSHTDS
+>altals1_s00058_ORF.286 [17746-18001](+) type:complete length:255 frame:2 start:TTG stop:TGA
+LSSIELYHKCIDLAHVFWKLEVLVDDLGCENPCDVLDCAKYSLAMILLFVPITEFGSFIVAF
+GCAGRYNRSKSTCAQYVSMEMRS
+>altals1_s00058_ORF.287 [18043-18064](+) type:complete length:21 frame:2 start:TTG stop:TGA
+LYSWVAA
+>altals1_s00058_ORF.288 [18076-18124](+) type:complete length:48 frame:2 start:CTG stop:TAA
+LGCVDRKYGRHHGYCL
+>altals1_s00058_ORF.289 [18130-18151](+) type:complete length:21 frame:2 start:TTG stop:TAA
+LLAAMLE
+>altals1_s00058_ORF.290 [18259-18385](+) type:complete length:126 frame:2 start:TTG stop:TGA
+LPETPDPSLPLRVFRDLVAVCPVRRARGGNLVQGHSTSEWRI
+>altals1_s00058_ORF.291 [18400-18430](+) type:complete length:30 frame:2 start:TTG stop:TGA
+LHGNFKAHDN
+>altals1_s00058_ORF.292 [18475-18511](+) type:complete length:36 frame:2 start:CTG stop:TAG
+LSSAQISTWRFR
+>altals1_s00058_ORF.293 [18514-18601](+) type:complete length:87 frame:2 start:TTG stop:TGA
+LRSRDPFIVSLQLYHLSSRTDNLYRDCQR
+>altals1_s00058_ORF.294 [18781-18826](+) type:complete length:45 frame:2 start:ATG stop:TGA
+MVVAPGKVLVSLLLC
+>altals1_s00058_ORF.295 [18901-18934](+) type:complete length:33 frame:2 start:ATG stop:TGA
+MGRAEHSALET
+>altals1_s00058_ORF.296 [18997-19030](+) type:complete length:33 frame:2 start:CTG stop:TGA
+LEGNPQEDGRL
+>altals1_s00058_ORF.297 [19042-19078](+) type:complete length:36 frame:2 start:TTG stop:TGA
+LFREPYDLRLVR
+>altals1_s00058_ORF.298 [19228-19270](+) type:complete length:42 frame:2 start:TTG stop:TGA
+LSKRPGCDVPSDAC
+>altals1_s00058_ORF.299 [19294-19588](+) type:complete length:294 frame:2 start:CTG stop:TAG
+LCEDLVIGRVKVCTSNFCRRIEAVIGLVLTRVAPDRLRWYRPRNLEYEWYGLKRGPGNSISC
+RLMPRRPRLKTLYLQQELPLSAPLPELPYRPPTRCS
+>altals1_s00058_ORF.300 [19606-19651](+) type:complete length:45 frame:2 start:ATG stop:TAG
+MSLSGSHVRHTPGFC
+>altals1_s00058_ORF.301 [19726-19738](+) type:complete length:12 frame:2 start:TTG stop:TGA
+LSLV
+>altals1_s00058_ORF.302 [19753-20080](+) type:complete length:327 frame:2 start:CTG stop:TGA
+LPAYRHLCEPHKSSHRLEPDVHIWYPQEGSVTQSGPEVRRQKTSTLVSSGAALRRVPVCNLG
+WVVLWIAQSAKSLPRVYRSALMAHTLYIFPCWLKNEKGNLNSDQGSS
+>altals1_s00058_ORF.303 [20224-20659](+) type:complete length:435 frame:2 start:TTG stop:TGA
+LSLEPLLSTAPTMSHGPSIAPSDWRRAVSAKRASTANAIPPAWRLSDDEIPSTEILKDLTAF
+ITRFLSPLEQQITTAPVSVLTSNICSFQWSAAEITRAFCHRAALAHQLVSGSFPDAGYRRPI
+LRLYADAMPFRNLFRKGGTAS
+>altals1_s00058_ORF.304 [20965-21061](+) type:complete length:96 frame:2 start:ATG stop:TAG
+MWWRSCLARPTRITNRVGHRHRWIDTHSVWLQ
+>altals1_s00058_ORF.305 [21211-21262](+) type:complete length:51 frame:2 start:TTG stop:TGA
+LQRVARRHRDNRHALEG
+>altals1_s00058_ORF.306 [21292-21355](+) type:complete length:63 frame:2 start:TTG stop:TAA
+LSAWPEQWKSGFCNSEQRRRG
+>altals1_s00058_ORF.307 [21451-21463](+) type:complete length:12 frame:2 start:ATG stop:TGA
+MLFH
+>altals1_s00058_ORF.308 [21484-21505](+) type:complete length:21 frame:2 start:CTG stop:TGA
+LESRLET
+>altals1_s00058_ORF.309 [21532-21631](+) type:complete length:99 frame:2 start:TTG stop:TGA
+LPFDQNMHKYCDADETPVSNTRIDGWEKCSSSD
+>altals1_s00058_ORF.310 [21715-21760](+) type:complete length:45 frame:2 start:CTG stop:TGA
+LGSLCMEKAVSEAVS
+>altals1_s00058_ORF.311 [21766-21883](+) type:complete length:117 frame:2 start:CTG stop:TGA
+LEIYEGIDCEQKSCGRSNHANRSSHCCTRGLIQVLWYVE
+>altals1_s00058_ORF.312 [21895-21967](+) type:complete length:72 frame:2 start:CTG stop:TAG
+LSKQFAYILKHTLQFLAYWITRPG
+>altals1_s00058_ORF.313 [21982-22027](+) type:complete length:45 frame:2 start:TTG stop:TGA
+LLISILTTDRFDTYL
+>altals1_s00058_ORF.314 [22156-22237](+) type:complete length:81 frame:2 start:ATG stop:TGA
+MGQRLQEEKVLAMMSAVNDSLQQYQPL
+>altals1_s00058_ORF.315 [22279-22339](+) type:complete length:60 frame:2 start:TTG stop:TAG
+LSSYIDLAATDMRALKCEIR
+>altals1_s00058_ORF.316 [22372-22513](+) type:complete length:141 frame:2 start:ATG stop:TGA
+MRSPINPSRAQILPGPCGSGSYKRDSVPHARHGWCGCASPKEEMTYL
+>altals1_s00058_ORF.317 [22606-22705](+) type:complete length:99 frame:2 start:ATG stop:TAG
+MKRLKTAHSRTTINSRKSANLHHSPQGNPTKTI
+>altals1_s00058_ORF.318 [22744-22924](+) type:complete length:180 frame:2 start:ATG stop:TGA
+MKAWMDLMSLLYPLQMRTPTRSGPSTTEALKKNERLAVDEVRSMNIHAKRPNDLPYSKGF
+>altals1_s00058_ORF.319 [22951-22987](+) type:complete length:36 frame:2 start:TTG stop:TAG
+LCSSRFLARWQD
+>altals1_s00058_ORF.320 [23053-23065](+) type:complete length:12 frame:2 start:TTG stop:TAG
+LEDP
+>altals1_s00058_ORF.321 [23071-23317](+) type:complete length:246 frame:2 start:TTG stop:TGA
+LGSCKKIAPCSPRKEVATYSRPRTPAPVVTTPTKRGSGTLKPTRLPGKSPYHYTLGWQLASA
+DHSHPTHPSCVIFSSGCPMS
+>altals1_s00058_ORF.322 [23320-23437](+) type:complete length:117 frame:2 start:TTG stop:TAG
+LAKTRLRTLGALVGVPHQSWVWSSPRSQSRFPPSHLALT
+>altals1_s00058_ORF.323 [23443-23479](+) type:complete length:36 frame:2 start:TTG stop:TGA
+LLSYLYFRAFPE
+>altals1_s00058_ORF.324 [23536-23626](+) type:complete length:90 frame:2 start:TTG stop:TAG
+LVQYALPSGLRTVRGVDKLSSPSSSHLWAL
+>altals1_s00058_ORF.325 [23644-23779](+) type:complete length:135 frame:2 start:CTG stop:TAA
+LCNSIDALSHFPSVHSLRICWVPHFLLWLTICNIQTFRETLWAEV
+>altals1_s00058_ORF.326 [23854-23926](+) type:complete length:72 frame:2 start:CTG stop:TGA
+LSSKVCERGMLICMVSQASQLAFL
+>altals1_s00058_ORF.327 [23938-23968](+) type:complete length:30 frame:2 start:TTG stop:TGA
+LWELFNGRQD
+>altals1_s00058_ORF.328 [24046-24070](+) type:complete length:24 frame:2 start:ATG stop:TGA
+MLCTPGCQ
+>altals1_s00058_ORF.329 [24073-24133](+) type:complete length:60 frame:2 start:TTG stop:TGA
+LCTSSNCHDLDMTGGRCGLS
+>altals1_s00058_ORF.330 [24220-24268](+) type:complete length:48 frame:2 start:ATG stop:TAA
+MPQNAKTSRADSAAFS
+>altals1_s00058_ORF.331 [24274-24304](+) type:complete length:30 frame:2 start:CTG stop:TGA
+LCKMLMSNTI
+>altals1_s00058_ORF.332 [24343-24385](+) type:complete length:42 frame:2 start:CTG stop:TGA
+LSICRAHLLCETGL
+>altals1_s00058_ORF.333 [24511-24526](+) type:complete length:15 frame:2 start:CTG stop:TGA
+LRKPL
+>altals1_s00058_ORF.334 [24607-24730](+) type:complete length:123 frame:2 start:ATG stop:TGA
+MAQALKQTSFDPCRSGLDLASSPPCDRSLKDNTDRVLPLCA
+>altals1_s00058_ORF.335 [24766-24778](+) type:complete length:12 frame:2 start:TTG stop:TGA
+LVPT
+>altals1_s00058_ORF.336 [24793-24868](+) type:complete length:75 frame:2 start:CTG stop:TGA
+LPPAKVQRFPKYRCHNLHCNGIWCL
+>altals1_s00058_ORF.337 [24907-25042](+) type:complete length:135 frame:2 start:ATG stop:TAA
+MFRRVICVPRRHHSNGEVQWRTRLRLQILASWTNRSEVVARRPAS
+>altals1_s00058_ORF.338 [25099-25150](+) type:complete length:51 frame:2 start:CTG stop:TGA
+LHAMQGSCKFQGYRTSH
+>altals1_s00058_ORF.339 [25189-25234](+) type:complete length:45 frame:2 start:TTG stop:TAA
+LRFPRWSLRSYISLE
+>altals1_s00058_ORF.340 [25276-25300](+) type:complete length:24 frame:2 start:CTG stop:TAG
+LRMRLQRL
+>altals1_s00058_ORF.341 [25426-25477](+) type:complete length:51 frame:2 start:CTG stop:TAA
+LQSVTDLRQRPCPHVLC
+>altals1_s00058_ORF.342 [25534-25585](+) type:complete length:51 frame:2 start:CTG stop:TGA
+LRLAGPQFFAGKAGRRC
+>altals1_s00058_ORF.343 [25663-25837](+) type:complete length:174 frame:2 start:CTG stop:TGA
+LAVVWRSESTETERRDALGSAEQTFRYIILIIGTQKINQTALWNTLNVMLVLPAVPVR
+>altals1_s00058_ORF.344 [26104-26161](+) type:complete length:57 frame:2 start:ATG stop:TGA
+MYLDLVSEGLLTFAANAQY
+>altals1_s00058_ORF.345 [26191-26254](+) type:complete length:63 frame:2 start:TTG stop:TAG
+LASRSKHNITIFHCIHRTTLL
+>altals1_s00058_ORF.346 [26317-26332](+) type:complete length:15 frame:2 start:CTG stop:TAA
+LHGSA
+>altals1_s00058_ORF.347 [26368-26521](+) type:complete length:153 frame:2 start:CTG stop:TAA
+LPMPPPPSGRHTQICSLSFNQTILTTSCHCTVFNVPARYRYYLYTPTQSPI
+>altals1_s00058_ORF.348 [26530-26677](+) type:complete length:147 frame:2 start:ATG stop:TAA
+MAILDLSRHLRSECAHIHAVDSAEHPEIYPVLRHLVCDACTSSSVPIPR
+>altals1_s00058_ORF.349 [26713-26887](+) type:complete length:174 frame:2 start:CTG stop:TAA
+LTPNRHYSNGSFNHHQHDRFRLRASLGPLGCNISLDTLVDRRRTLAWYEPTSALHRYI
+>altals1_s00058_ORF.350 [27058-27661](+) type:complete length:603 frame:2 start:ATG stop:TAG
+MDDHRQLHSVGVRCSFGHVHHGHILSPIDDAFSSAARSHCFSVFTSWTNWSRSVRHHDSGTR
+CLEGLRSNRYCSCRHGRPGWQTFLCQWTHDWDDYVGFWYSLAIFRHRRYHTIQVSLQPGMVG
+IYISAWCVRNCDRSHLSGATVSLFQGAWNNFLVISRVIVDGCQHRNHSKNHQGRDVCRTLRQ
+GMGGTTYRESPMRRS
+>altals1_s00058_ORF.351 [27676-27739](+) type:complete length:63 frame:2 start:CTG stop:TAA
+LSSGTKSRLRALKLSFRLWIG
+>altals1_s00058_ORF.352 [27928-28117](+) type:complete length:189 frame:2 start:ATG stop:TGA
+MCVEMLGIRCRESFQRSLVLYVQHSLTGAADLLSGYNAGCGGMAVVYCPFLVVCEETFGIRC
+R
+>altals1_s00058_ORF.353 [28156-28225](+) type:complete length:69 frame:2 start:ATG stop:TGA
+MFCPLQMLHLPMTLTLARTRDAA
+>altals1_s00058_ORF.354 [28330-28363](+) type:complete length:33 frame:2 start:TTG stop:TAG
+LGASNSHKSII
+>altals1_s00058_ORF.355 [28534-28783](+) type:complete length:249 frame:2 start:CTG stop:TAA
+LSIYCHRRCPIITPTHPHPHPPTPTPTPTPTHAHIHTHIHTHTPTYTHTYTHTHTHTHTHTY
+THTYTHTYTHIHTHTHTELKN
+>altals1_s00058_ORF.356 [28801-29029](+) type:complete length:228 frame:2 start:ATG stop:TAG
+MGLWLQVYFFISRLALARFVSMYPDRILRKYREVLLWLLLLASYLLPQQLVLLEVFGFLAYL
+RSEGNLHNKAHKCS
+>altals1_s00058_ORF.357 [29101-29254](+) type:complete length:153 frame:2 start:TTG stop:TAA
+LTVLCLFTPEDMRSACVPYLLIGIFTKWSFMFIWGSWSIMLLFLRVVFWLV
+>altals1_s00058_ORF.358 [29296-29311](+) type:complete length:15 frame:2 start:ATG stop:TGA
+MNTLL
+>altals1_s00058_ORF.359 [29359-29482](+) type:complete length:123 frame:2 start:TTG stop:TGA
+LRLTATLLGRSMAMSLISPKRSPLALLYLIKVAPDKATGWS
+>altals1_s00058_ORF.360 [29668-29704](+) type:complete length:36 frame:2 start:TTG stop:TGA
+LMRLCRCSRGGG
+>altals1_s00058_ORF.361 [29788-30223](+) type:complete length:435 frame:2 start:ATG stop:TAA
+MPPQSQKKRSGAPTNAAEAAKRLCLSQRSLSPREALASQATESPSEPAWETQFLESQPEAEI
+PAPTEGIETYSGDGDSSESFTDDLLARKYDIYNWADSLEIVTLGEWLHYQNLKFLTIKSSQD
+NLNCLTTPQSAIKTIRRAALA
+>altals1_s00058_ORF.362 [30310-30433](+) type:complete length:123 frame:2 start:CTG stop:TAG
+LLTRHNATNNTPAALDLKTSSDGDLIDLEGRGELLHEIFTL
+>altals1_s00058_ORF.363 [30472-30505](+) type:complete length:33 frame:2 start:TTG stop:TAG
+LYLQEEGKTTV
+>altals1_s00058_ORF.364 [30541-30574](+) type:complete length:33 frame:2 start:CTG stop:TGA
+LQPGAQLQQCV
+>altals1_s00058_ORF.365 [30595-30619](+) type:complete length:24 frame:2 start:CTG stop:TAA
+LRADSPHP
+>altals1_s00058_ORF.366 [30652-30682](+) type:complete length:30 frame:2 start:CTG stop:TGA
+LMRYPIHINQ
+>altals1_s00058_ORF.367 [30694-30706](+) type:complete length:12 frame:2 start:CTG stop:TAG
+LLQL
+>altals1_s00058_ORF.368 [31072-31087](+) type:complete length:15 frame:2 start:CTG stop:TAG
+LPDPV
+>altals1_s00058_ORF.369 [31123-31156](+) type:complete length:33 frame:2 start:CTG stop:TAA
+LGRSLAIVHLY
+>altals1_s00058_ORF.370 [31228-31450](+) type:complete length:222 frame:2 start:TTG stop:TAA
+LQYAKTRQALYYNPNTTKLQHLFNLNLYALVYCRYPYPPILLSRSQVCHRKDASTTLLARQE
+SARRACPCLAVL
+>altals1_s00058_ORF.371 [31528-31546](+) type:complete length:18 frame:2 start:TTG stop:TAA
+LKRPRR
+>altals1_s00058_ORF.372 [31600-31627](+) type:complete length:27 frame:2 start:CTG stop:TAA
+LLLAARRQQ
+>altals1_s00058_ORF.373 [31660-31720](+) type:complete length:60 frame:2 start:TTG stop:TAA
+LKRALRTTLMALIRVVCRDI
+>altals1_s00058_ORF.374 [31846-32083](+) type:complete length:237 frame:2 start:TTG stop:TAG
+LTLVLPKYTRQHAQHQQLSDTWERDDAAMAISHLAKAPSPSAPASSIKYLLATGLARRSRTS
+SLASIYSALDSLLLAGL
+>altals1_s00058_ORF.375 [32236-32275](+) type:complete length:39 frame:2 start:TTG stop:TAA
+LSRTCYTPRARYT
+>altals1_s00058_ORF.376 [32281-32320](+) type:complete length:39 frame:2 start:TTG stop:TAG
+LTAGRRRAASVAT
+>altals1_s00058_ORF.377 [32326-32389](+) type:complete length:63 frame:2 start:TTG stop:TAA
+LLRTTLTATAVLLTFLLRCRS
+>altals1_s00058_ORF.378 [32494-32536](+) type:complete length:42 frame:2 start:CTG stop:TAG
+LATTTPRLRQSRSK
+>altals1_s00058_ORF.379 [32545-32584](+) type:complete length:39 frame:2 start:ATG stop:TGA
+MLSIAASVVLPIR
+>altals1_s00058_ORF.380 [32647-32674](+) type:complete length:27 frame:2 start:CTG stop:TAA
+LSLLSRASI
+>altals1_s00058_ORF.381 [32689-32701](+) type:complete length:12 frame:2 start:ATG stop:TAG
+MTGL
+>altals1_s00058_ORF.382 [32758-32836](+) type:complete length:78 frame:2 start:TTG stop:TAA
+LLTSSALPIASYPSTRPPINARSSSL
+>altals1_s00058_ORF.383 [32845-32932](+) type:complete length:87 frame:2 start:TTG stop:TAA
+LLPARTPTTPALSALYSYSQLLTPTPITI
+>altals1_s00058_ORF.384 [32947-33004](+) type:complete length:57 frame:2 start:ATG stop:TAA
+MRIRTQKPAATSYPMRRGG
+>altals1_s00058_ORF.385 [33079-33139](+) type:complete length:60 frame:2 start:CTG stop:TGA
+LLQSALKGVARAAGLGLSLR
+>altals1_s00058_ORF.386 [33229-33295](+) type:complete length:66 frame:2 start:CTG stop:TAG
+LRIISLSIYAQRGQKPTSTTPN
+>altals1_s00058_ORF.387 [33361-33484](+) type:complete length:123 frame:2 start:CTG stop:TAG
+LPGVLTSLTSFQRIIATSAPCGLYTIPLRLLYNARNPYRTI
+>altals1_s00058_ORF.388 [33664-33688](+) type:complete length:24 frame:2 start:TTG stop:TAG
+LRLTYCLS
+>altals1_s00058_ORF.389 [33853-33865](+) type:complete length:12 frame:2 start:TTG stop:TAG
+LTAI
+>altals1_s00058_ORF.390 [34102-34132](+) type:complete length:30 frame:2 start:TTG stop:TAG
+LIGLIVDKSV
+>altals1_s00058_ORF.391 [34231-34246](+) type:complete length:15 frame:2 start:TTG stop:TGA
+LYMTR
+>altals1_s00058_ORF.392 [34294-34360](+) type:complete length:66 frame:2 start:ATG stop:TAG
+MLLSSVAINVGVSLRMLVRARA
+>altals1_s00058_ORF.393 [34369-34474](+) type:complete length:105 frame:2 start:ATG stop:TAG
+MSRCFRGNLSASTAVFRSFRSSAELSCWWLTPLSD
+>altals1_s00058_ORF.394 [34492-34519](+) type:complete length:27 frame:2 start:TTG stop:TAA
+LAYGTGNVC
+>altals1_s00058_ORF.395 [143-371](+) type:complete length:228 frame:3 start:CTG stop:TAA
+LLSRPHYHSPKRPLTVIHHPTISFPVTPTALEARCFNMAASSSGTPCHLFTFVSPPFSLQQS
+HFTTHSNYPTHYGA
+>altals1_s00058_ORF.396 [512-527](+) type:complete length:15 frame:3 start:TTG stop:TAA
+LGRVS
+>altals1_s00058_ORF.397 [641-806](+) type:complete length:165 frame:3 start:CTG stop:TAA
+LFLRWLAETRTGQLEENITDTTVRNRLSSLKRNIKLLTGRQYNSAENKDLEIFIT
+>altals1_s00058_ORF.398 [866-917](+) type:complete length:51 frame:3 start:TTG stop:TAA
+LPVAEDLIRFMWACDEY
+>altals1_s00058_ORF.399 [941-1151](+) type:complete length:210 frame:3 start:CTG stop:TAA
+LQLAFSVVLMTLLGSRPGEFIESAAWKHSNEGLLYGDIDLVRYQNGTYVGFLLHLRLRNRKG
+HRNNKKHS
+>altals1_s00058_ORF.400 [1202-1268](+) type:complete length:66 frame:3 start:CTG stop:TAG
+LLCFYTRKLLCDPCAQLHILWR
+>altals1_s00058_ORF.401 [1280-1505](+) type:complete length:225 frame:3 start:ATG stop:TAA
+MGCSKNALRSKTLKRRSCHQAVRCTNIATSQKRNNGLSFEAFSATAQFLKTASSPTNALTTC
+SKGLVNGLGTKTG
+>altals1_s00058_ORF.402 [1532-1595](+) type:complete length:63 frame:3 start:ATG stop:TGA
+MLKRLRVRSVVCSDTPSSTYY
+>altals1_s00058_ORF.403 [1613-1631](+) type:complete length:18 frame:3 start:CTG stop:TAA
+LHREDC
+>altals1_s00058_ORF.404 [1649-1754](+) type:complete length:105 frame:3 start:ATG stop:TGA
+MIPSCTIFPGLLGLTANQWFMGETKEQNSLRKTRL
+>altals1_s00058_ORF.405 [1775-1820](+) type:complete length:45 frame:3 start:TTG stop:TAG
+LHQCLPALSSPIVVA
+>altals1_s00058_ORF.406 [1892-2090](+) type:complete length:198 frame:3 start:ATG stop:TAA
+MHYDGNREQSRIVSSARTSSKGRPRLNVPQYRHQFLHKPHRNPYAPHRDICKPCGNLNRNGK
+SLRD
+>altals1_s00058_ORF.407 [2099-2198](+) type:complete length:99 frame:3 start:CTG stop:TGA
+LIAIREPRVPRILVLTVRPTRSKSHSKISLSQW
+>altals1_s00058_ORF.408 [2240-2369](+) type:complete length:129 frame:3 start:CTG stop:TGA
+LPPPPRTGAAACAGNSLSRMTRSAFPVLLLDAVLTKTEQGRTA
+>altals1_s00058_ORF.409 [2372-2429](+) type:complete length:57 frame:3 start:ATG stop:TGA
+MSTCSNVPAKNTYGEHENI
+>altals1_s00058_ORF.410 [2603-2765](+) type:complete length:162 frame:3 start:TTG stop:TAA
+LPIMSQTNTESLTSGLCRQGCTTAMSTMDGASQNSSGYNILSCTISQNSTIFAD
+>altals1_s00058_ORF.411 [2777-2789](+) type:complete length:12 frame:3 start:ATG stop:TAG
+MVWL
+>altals1_s00058_ORF.412 [2858-2888](+) type:complete length:30 frame:3 start:TTG stop:TGA
+LTTLLTCTST
+>altals1_s00058_ORF.413 [2957-3176](+) type:complete length:219 frame:3 start:ATG stop:TAG
+MLGSEDKFWSHAETVHGMPPFGPRRSTGKRKAPEELEDLGEGTDDDSVRDSPNGDDDASGGI
+EAGAGHATSGA
+>altals1_s00058_ORF.414 [3209-3278](+) type:complete length:69 frame:3 start:CTG stop:TGA
+LVGMIDAGASVTGFTAQGTHANL
+>altals1_s00058_ORF.415 [3311-3350](+) type:complete length:39 frame:3 start:ATG stop:TAA
+MHILPDSLIKLQS
+>altals1_s00058_ORF.416 [3794-3845](+) type:complete length:51 frame:3 start:TTG stop:TAG
+LSSAPGRSIRAHRGYGR
+>altals1_s00058_ORF.417 [3956-3983](+) type:complete length:27 frame:3 start:ATG stop:TGA
+MFTYFAFIF
+>altals1_s00058_ORF.418 [4124-4220](+) type:complete length:96 frame:3 start:ATG stop:TAG
+MLIRIDGRFYVFNSVDPASRVALKPNVCSSYH
+>altals1_s00058_ORF.419 [4289-4337](+) type:complete length:48 frame:3 start:TTG stop:TGA
+LEYEGSGVIGDHAREE
+>altals1_s00058_ORF.420 [4490-4538](+) type:complete length:48 frame:3 start:TTG stop:TGA
+LYCTSWKKFSAKFLWG
+>altals1_s00058_ORF.421 [4550-4571](+) type:complete length:21 frame:3 start:TTG stop:TAA
+LEKSTKG
+>altals1_s00058_ORF.422 [4649-4709](+) type:complete length:60 frame:3 start:TTG stop:TAG
+LSHTVVLLSYIRILNPAQRK
+>altals1_s00058_ORF.423 [4718-4748](+) type:complete length:30 frame:3 start:TTG stop:TAG
+LRSQCKWVRS
+>altals1_s00058_ORF.424 [4802-4916](+) type:complete length:114 frame:3 start:CTG stop:TGA
+LYLFECEGSLVQINCELETEKVLCVWSLPGTAYVYPRV
+>altals1_s00058_ORF.425 [5150-5225](+) type:complete length:75 frame:3 start:ATG stop:TAA
+MIIFGTKRLRRYDSIQLACIYFCEL
+>altals1_s00058_ORF.426 [5246-5426](+) type:complete length:180 frame:3 start:ATG stop:TAA
+MVKVPETGRTTSGSPMCLRTIKTHICDSLLSKEHYEALSDHSWLFCLHIRQPSHSSKCVG
+>altals1_s00058_ORF.427 [5510-5795](+) type:complete length:285 frame:3 start:TTG stop:TGA
+LIDWYYRYFEVVIVGFSRLNTLLKNVRPLSTHYYAAKIDSQILSTAGRIRRDKSHTGAILAS
+LQLCPRIRAKTVHTLLNHDTALYLRSLCHYAAP
+>altals1_s00058_ORF.428 [5972-5996](+) type:complete length:24 frame:3 start:ATG stop:TAA
+MAYRNIKF
+>altals1_s00058_ORF.429 [6098-6119](+) type:complete length:21 frame:3 start:ATG stop:TGA
+MIYTYVT
+>altals1_s00058_ORF.430 [6176-6209](+) type:complete length:33 frame:3 start:CTG stop:TGA
+LWLEPCDNGTS
+>altals1_s00058_ORF.431 [6230-6326](+) type:complete length:96 frame:3 start:TTG stop:TAG
+LRVVPTLATAFCNAKCDTCPALNSSCFTSLCC
+>altals1_s00058_ORF.432 [6506-6518](+) type:complete length:12 frame:3 start:TTG stop:TAA
+LFVV
+>altals1_s00058_ORF.433 [6521-6533](+) type:complete length:12 frame:3 start:CTG stop:TAG
+LSNA
+>altals1_s00058_ORF.434 [6698-6824](+) type:complete length:126 frame:3 start:CTG stop:TAG
+LHPTFITTTIVHYINATITIHAHLIPGSIPSSAIPLYIYNLP
+>altals1_s00058_ORF.435 [7109-7220](+) type:complete length:111 frame:3 start:ATG stop:TAG
+MLMFLVNYATCKSINAFKDSSYNNSKEIDMYNNYKDL
+>altals1_s00058_ORF.436 [7448-7496](+) type:complete length:48 frame:3 start:ATG stop:TAG
+MSSFSKDRSATSCKKR
+>altals1_s00058_ORF.437 [7721-7796](+) type:complete length:75 frame:3 start:TTG stop:TAG
+LLTAFPCVPALFLTLRSNSVLLVLL
+>altals1_s00058_ORF.438 [7811-7853](+) type:complete length:42 frame:3 start:CTG stop:TAG
+LYGFCCVPRIRSLG
+>altals1_s00058_ORF.439 [7964-8042](+) type:complete length:78 frame:3 start:TTG stop:TAA
+LLLCPCALEYLLLCTYLLLRHLLVFR
+>altals1_s00058_ORF.440 [8270-8291](+) type:complete length:21 frame:3 start:CTG stop:TAG
+LQSRAGV
+>altals1_s00058_ORF.441 [8309-8339](+) type:complete length:30 frame:3 start:TTG stop:TAG
+LRLCARLFLD
+>altals1_s00058_ORF.442 [8348-8363](+) type:complete length:15 frame:3 start:CTG stop:TAG
+LRCLY
+>altals1_s00058_ORF.443 [8423-8435](+) type:complete length:12 frame:3 start:CTG stop:TAA
+LPII
+>altals1_s00058_ORF.444 [8558-8576](+) type:complete length:18 frame:3 start:CTG stop:TAA
+LRKVIS
+>altals1_s00058_ORF.445 [8657-8732](+) type:complete length:75 frame:3 start:TTG stop:TAG
+LFRGRTQCLSSSLSLSRSIYLTKTS
+>altals1_s00058_ORF.446 [8825-8843](+) type:complete length:18 frame:3 start:CTG stop:TAG
+LLLSLL
+>altals1_s00058_ORF.447 [9098-9110](+) type:complete length:12 frame:3 start:TTG stop:TAG
+LFLR
+>altals1_s00058_ORF.448 [9176-9197](+) type:complete length:21 frame:3 start:TTG stop:TAG
+LRRVLYL
+>altals1_s00058_ORF.449 [9260-9341](+) type:complete length:81 frame:3 start:CTG stop:TAA
+LSYLPRPLLIALALYSCNRPNYVPKLV
+>altals1_s00058_ORF.450 [9812-9824](+) type:complete length:12 frame:3 start:CTG stop:TAG
+LQGY
+>altals1_s00058_ORF.451 [9872-9890](+) type:complete length:18 frame:3 start:CTG stop:TAG
+LPSVLT
+>altals1_s00058_ORF.452 [10007-10052](+) type:complete length:45 frame:3 start:TTG stop:TAG
+LLIVPCCRCATIVTG
+>altals1_s00058_ORF.453 [10109-10142](+) type:complete length:33 frame:3 start:CTG stop:TAG
+LCLRVRVGLLL
+>altals1_s00058_ORF.454 [10307-10337](+) type:complete length:30 frame:3 start:TTG stop:TAG
+LLFSSNLLLV
+>altals1_s00058_ORF.455 [10499-10526](+) type:complete length:27 frame:3 start:TTG stop:TAA
+LSTLILGLL
+>altals1_s00058_ORF.456 [10757-10778](+) type:complete length:21 frame:3 start:TTG stop:TAA
+LLRRLLD
+>altals1_s00058_ORF.457 [11003-11033](+) type:complete length:30 frame:3 start:TTG stop:TAG
+LCYLTLGQRE
+>altals1_s00058_ORF.458 [11363-11387](+) type:complete length:24 frame:3 start:CTG stop:TAA
+LQHAKGLC
+>altals1_s00058_ORF.459 [11735-11747](+) type:complete length:12 frame:3 start:CTG stop:TAG
+LRRP
+>altals1_s00058_ORF.460 [11843-11870](+) type:complete length:27 frame:3 start:CTG stop:TAG
+LLTRTFKAL
+>altals1_s00058_ORF.461 [12230-12275](+) type:complete length:45 frame:3 start:TTG stop:TAG
+LFLIGLRLLAILTVL
+>altals1_s00058_ORF.462 [12437-12470](+) type:complete length:33 frame:3 start:TTG stop:TAG
+LPLAALVSVGV
+>altals1_s00058_ORF.463 [12482-12518](+) type:complete length:36 frame:3 start:TTG stop:TAG
+LLSNRATRPTLR
+>altals1_s00058_ORF.464 [12614-12641](+) type:complete length:27 frame:3 start:CTG stop:TAG
+LLYFSLYNV
+>altals1_s00058_ORF.465 [12899-12923](+) type:complete length:24 frame:3 start:CTG stop:TAA
+LYKQFLVH
+>altals1_s00058_ORF.466 [13028-13043](+) type:complete length:15 frame:3 start:CTG stop:TAG
+LLGGS
+>altals1_s00058_ORF.467 [13160-13211](+) type:complete length:51 frame:3 start:CTG stop:TAG
+LSCKEEVSSSYSLTESC
+>altals1_s00058_ORF.468 [13415-13439](+) type:complete length:24 frame:3 start:ATG stop:TAA
+MRSTKFCR
+>altals1_s00058_ORF.469 [13544-13571](+) type:complete length:27 frame:3 start:CTG stop:TAG
+LLFFALGGS
+>altals1_s00058_ORF.470 [13691-13760](+) type:complete length:69 frame:3 start:TTG stop:TAG
+LRSSFALGLLLNRGLVGDAAVPV
+>altals1_s00058_ORF.471 [14267-14363](+) type:complete length:96 frame:3 start:ATG stop:TAA
+MAALVPRLPSRGFLSPGFRLLHLVLSHRIRVL
+>altals1_s00058_ORF.472 [14579-14606](+) type:complete length:27 frame:3 start:TTG stop:TAA
+LLTMLVSIS
+>altals1_s00058_ORF.473 [14714-14726](+) type:complete length:12 frame:3 start:CTG stop:TAA
+LQFN
+>altals1_s00058_ORF.474 [14927-14939](+) type:complete length:12 frame:3 start:CTG stop:TAG
+LGSR
+>altals1_s00058_ORF.475 [14954-14981](+) type:complete length:27 frame:3 start:TTG stop:TAA
+LRAQSSTGA
+>altals1_s00058_ORF.476 [15017-15119](+) type:complete length:102 frame:3 start:TTG stop:TAG
+LLRSRRRSARRRLGNVTKIGRESNGKKRLQPRED
+>altals1_s00058_ORF.477 [15161-15206](+) type:complete length:45 frame:3 start:CTG stop:TAG
+LSHRNLRSGVVHWVM
+>altals1_s00058_ORF.478 [15209-15299](+) type:complete length:90 frame:3 start:ATG stop:TAG
+MVTLLDFRRRNPHLNTPRADDKSRFLIFFK
+>altals1_s00058_ORF.479 [15362-15392](+) type:complete length:30 frame:3 start:TTG stop:TGA
+LWMVLQPHVC
+>altals1_s00058_ORF.480 [15428-15461](+) type:complete length:33 frame:3 start:ATG stop:TGA
+MWFIQCANTVS
+>altals1_s00058_ORF.481 [15491-15722](+) type:complete length:231 frame:3 start:ATG stop:TAG
+MHMQALSQLVQLARLACCSTMLALARDIHKQYVLGNIEINNKSRCALSWHVERMLQKKPWLT
+SYARNVCQSAVTAWL
+>altals1_s00058_ORF.482 [15725-15887](+) type:complete length:162 frame:3 start:CTG stop:TAG
+LIPSRHFRYYLSISRRHVSDHTSEGRHAISPTGTRISRRRSWKRRPARGDTQSR
+>altals1_s00058_ORF.483 [15896-15923](+) type:complete length:27 frame:3 start:ATG stop:TAA
+MQPLPPSQS
+>altals1_s00058_ORF.484 [15926-15956](+) type:complete length:30 frame:3 start:ATG stop:TGA
+MQRPHTVYKM
+>altals1_s00058_ORF.485 [15974-16040](+) type:complete length:66 frame:3 start:CTG stop:TAG
+LQDRLQHGRSKESVQKVQQICS
+>altals1_s00058_ORF.486 [16064-16589](+) type:complete length:525 frame:3 start:ATG stop:TAA
+MCSYIASLEEQQISLLSALRELRRQAPNDRVVCDTIDQLQRKGFDIDSLKFKDQHTDLSQSE
+ARTEQSETVRPTSISWDYNQISMDDIQSLLQQPATPQAVSDLLWHFGDVANQDLIQSQTQSM
+PLQVDNSYPGPAFQENIESTMEPMSDFYIDPMPVSFGLTDSNTASKDQSDT
+>altals1_s00058_ORF.487 [16634-16814](+) type:complete length:180 frame:3 start:TTG stop:TAA
+LSPIRINSSSISNKRLYFATRSPRHGLPDFRCPVPNPTVRSAMKSSVVSPERCDTKTDQP
+>altals1_s00058_ORF.488 [16817-16904](+) type:complete length:87 frame:3 start:CTG stop:TGA
+LYACFAASIASVIVPIWLILSNKALQAFS
+>altals1_s00058_ORF.489 [16919-17060](+) type:complete length:141 frame:3 start:ATG stop:TAG
+MRPLFVARRSSPTSSMEQSALKDVQAGQSSCPNGSSNSTTGYCSRIS
+>altals1_s00058_ORF.490 [17093-17141](+) type:complete length:48 frame:3 start:TTG stop:TGA
+LTPCSELFRLNPKSYE
+>altals1_s00058_ORF.491 [17153-17165](+) type:complete length:12 frame:3 start:TTG stop:TGA
+LKNS
+>altals1_s00058_ORF.492 [17180-17336](+) type:complete length:156 frame:3 start:ATG stop:TGA
+MPILTFPACPLASIAVTNRSSPSCGVKIGGEKPPSSPTPIAIASHVSSCLTV
+>altals1_s00058_ORF.493 [17354-17378](+) type:complete length:24 frame:3 start:CTG stop:TGA
+LMVHTASR
+>altals1_s00058_ORF.494 [17477-17504](+) type:complete length:27 frame:3 start:TTG stop:TGA
+LYCRNAHLH
+>altals1_s00058_ORF.495 [17537-17618](+) type:complete length:81 frame:3 start:ATG stop:TGA
+MTAGCRKIVAGTGKAALPASLVSKECV
+>altals1_s00058_ORF.496 [17645-17747](+) type:complete length:102 frame:3 start:TTG stop:TGA
+LRRSFSRHTFAEAAALHTAILIASIALAPSFPLS
+>altals1_s00058_ORF.497 [17783-17879](+) type:complete length:96 frame:3 start:TTG stop:TGA
+LRTSSGSWKFLSMIWGARTLVTFSTAPSTPWP
+>altals1_s00058_ORF.498 [17930-17993](+) type:complete length:63 frame:3 start:TTG stop:TGA
+LDAPDGTIDRKVPALNMSVWK
+>altals1_s00058_ORF.499 [18017-18146](+) type:complete length:129 frame:3 start:TTG stop:TAG
+LPLSVRRQTCTVGLPRESKRWDASIESMVVIMDTACKRCSLQC
+>altals1_s00058_ORF.500 [18422-18437](+) type:complete length:15 frame:3 start:ATG stop:TAG
+MIIDV
+>altals1_s00058_ORF.501 [18536-19064](+) type:complete length:528 frame:3 start:TTG stop:TGA
+LSRSSCIIFRAGLIICTGTAKDEWLDHAPTTRMSIKMEYLSEQVAQKNEGNRLLSAETLIGI
+VVIQEAALLSDSRIVPCGVVWLLRQARCSYLCFSADSISVRRPIFELPLASAMVGMRAKGWV
+AQNTRRWRRELTSNFQSYGIVLSFTSVLMCWKEILRKTVVCDCENCSGSRMT
+>altals1_s00058_ORF.502 [19118-19355](+) type:complete length:237 frame:3 start:TTG stop:TAG
+LRRLALATRTYSPSKDVVSTGGGAAVVGITLIGLEMHCRNGLVVTFLLMLADSVYVMKGCAK
+ILSLAESKYVRPIFADG
+>altals1_s00058_ORF.503 [19388-19448](+) type:complete length:60 frame:3 start:TTG stop:TGA
+LLPTVSAGIVQGIWNTNGMV
+>altals1_s00058_ORF.504 [19553-19658](+) type:complete length:105 frame:3 start:CTG stop:TAG
+LNYRTDHLRDARRHENARCPCLEAMFDTHLVSVST
+>altals1_s00058_ORF.505 [19715-19727](+) type:complete length:12 frame:3 start:TTG stop:TGA
+LTSV
+>altals1_s00058_ORF.506 [19802-19844](+) type:complete length:42 frame:3 start:TTG stop:TGA
+LSRMSTFGILRKAQ
+>altals1_s00058_ORF.507 [19853-20057](+) type:complete length:204 frame:3 start:CTG stop:TGA
+LGQRFGARRHRRSLVAVLLSDEYLSATWVGWSYGSLNPPRAFREYTVQLSWPIRFTFSLAGL
+RTKKVT
+>altals1_s00058_ORF.508 [20189-20216](+) type:complete length:27 frame:3 start:TTG stop:TAA
+LSLCLVREA
+>altals1_s00058_ORF.509 [20231-20306](+) type:complete length:75 frame:3 start:TTG stop:TAA
+LSHCSAQHPPCLMAPPSLLLIGAEP
+>altals1_s00058_ORF.510 [20333-20399](+) type:complete length:66 frame:3 start:ATG stop:TAA
+MQYLRHGGSATTKSHLLKFSRT
+>altals1_s00058_ORF.511 [20462-20555](+) type:complete length:93 frame:3 start:CTG stop:TAA
+LFSQATSVLSSGQRRRSQELSVIELLWLTNL
+>altals1_s00058_ORF.512 [20576-20597](+) type:complete length:21 frame:3 start:CTG stop:TGA
+LDTDDRY
+>altals1_s00058_ORF.513 [20606-21941](+) type:complete length:1335 frame:3 start:ATG stop:TAG
+MQTPCLSEICFAKAEQRAEELDTILRTSGQVVGPLHGIPVSLKDRFHVDGLDSACGYVSWLE
+QPKSAVDEGVLVRRLKEAGAVIFAKTNVPMSMLIGETTNNIVGSTMNPFNRDLSAGGACGGE
+AALLALRGSPIGWGTDIAGSIRIPCGFNSLYGIRPSFGRISATGLADNLSGLPTAASVVGPL
+SSDLPSLIQSMKWIINCNAWQEDIETIDMPWRDDNFAGTSNRICQPGQSNGSLVFAILNNDG
+EVNPHPPVQRALGLVRNALLQRGYEVSRYEHPIPCCSIDKIKVVDWSPGLKHDLATDVLVSC
+RLTRTCTSIVMLTRLQFQILGSTAGKNVRAAIEASGEPPIHQLADLFKRTESKSLPTSQFWD
+LCAWRKQFQRQYHDYWRSTRELTASKRAVDGVIMPIAPHTAAPEGSFKYYGTLNDDQSCRNN
+LLTFSSILCSS
+>altals1_s00058_ORF.514 [22049-22061](+) type:complete length:12 frame:3 start:TTG stop:TAA
+LESL
+>altals1_s00058_ORF.515 [22085-22154](+) type:complete length:69 frame:3 start:ATG stop:TGA
+MIELLTERQMIRNSLTALQLVSR
+>altals1_s00058_ORF.516 [22358-22502](+) type:complete length:144 frame:3 start:ATG stop:TGA
+MQDALCVLRSIRLELRFYQARAVRVLTSEIRCLMHGTGGAVALVPKRR
+>altals1_s00058_ORF.517 [22946-23156](+) type:complete length:210 frame:3 start:CTG stop:TGA
+LACALLDSWHAGKTRSRMDDILSQCPGDYERIVGKFWRIPSSWVLARRSRLVRREKRSPLTL
+DHALQLQW
+>altals1_s00058_ORF.518 [23252-23288](+) type:complete length:36 frame:3 start:CTG stop:TGA
+LRIIHILLILHA
+>altals1_s00058_ORF.519 [23357-23666](+) type:complete length:309 frame:3 start:TTG stop:TAA
+LECRISLGYGHHRGHSLAFRPLIWRSPSDCSLTSTFEHSPNEHGQDHKSLGRLPRIGLLVWC
+SMPCHLASARCVAWTSCLRHRLRTYGHYSALLALCATQSMH
+>altals1_s00058_ORF.520 [23786-23855](+) type:complete length:69 frame:3 start:TTG stop:TGA
+LSGTGGYHRRFLWMFDDSKYMGG
+>altals1_s00058_ORF.521 [23954-23984](+) type:complete length:30 frame:3 start:ATG stop:TAA
+MDVRTEGTGV
+>altals1_s00058_ORF.522 [23990-24002](+) type:complete length:12 frame:3 start:TTG stop:TAG
+LIAL
+>altals1_s00058_ORF.523 [24095-24107](+) type:complete length:12 frame:3 start:ATG stop:TGA
+MTWT
+>altals1_s00058_ORF.524 [24143-24320](+) type:complete length:177 frame:3 start:CTG stop:TGA
+LKPDQKLHFDAYHFLKKVSKHAVLAKCRKMQRLQGLTAQHFHNVCVKCSCRIQYDQNLG
+>altals1_s00058_ORF.525 [24392-24512](+) type:complete length:120 frame:3 start:ATG stop:TGA
+MLLMAPVGVVKTLPILRKTRHPGLDILKVITTVEIFFEPT
+>altals1_s00058_ORF.526 [24560-24620](+) type:complete length:60 frame:3 start:CTG stop:TGA
+LAALVLILFKPNVTEVWRKL
+>altals1_s00058_ORF.527 [24950-25094](+) type:complete length:144 frame:3 start:ATG stop:TAG
+MEKFNGVHVFGSKFLRAGPIAAKSLQGVPRRNLHQLLYLSVASLLIYL
+>altals1_s00058_ORF.528 [25103-25277](+) type:complete length:174 frame:3 start:ATG stop:TGA
+MPCKVLASSRGIGRVTDIDLAIDQGKIVVCVSHDGPCGRISALNNLTEKNSSYPDAFT
+>altals1_s00058_ORF.529 [25373-25436](+) type:complete length:63 frame:3 start:TTG stop:TGA
+LEILENLATTLSKVSAHICSL
+>altals1_s00058_ORF.530 [25466-25499](+) type:complete length:33 frame:3 start:ATG stop:TAA
+MCFANPTSIRL
+>altals1_s00058_ORF.531 [25511-25625](+) type:complete length:114 frame:3 start:CTG stop:TAG
+LSLGERSSCALQDLNSSQERLDVGVEVIVRHFENTMAK
+>altals1_s00058_ORF.532 [25670-25751](+) type:complete length:81 frame:3 start:TTG stop:TAA
+LFGDLKVQRQSGEMLLEALNRHFGTSS
+>altals1_s00058_ORF.533 [25802-26006](+) type:complete length:204 frame:3 start:ATG stop:TGA
+MLCLSCPQYPCADDYEVRLRTNQNTMLMTPHGKHYGVSEVTDASYFRSLHLHQASLSQAPEP
+ATSAQV
+>altals1_s00058_ORF.534 [26093-26135](+) type:complete length:42 frame:3 start:ATG stop:TGA
+MAHICILISFLRDC
+>altals1_s00058_ORF.535 [26141-26681](+) type:complete length:540 frame:3 start:TTG stop:TAG
+LQQTPSTDHNGSFRRRTWPAAANTTSRYFIASTERRCCRTYKAISKQTGLAKSRGEPYACMV
+QRNHGYVANLHLLHCLCHPHQVEGTRKFAPCHSIKLYLLLHATAPFLTFLPGTGITSILLHN
+LPYNATWLYWISVVIFAANVLIFTLLTVLSILRYTLFSGIWSAMLAHPVQSLFLGK
+>altals1_s00058_ORF.536 [26696-26714](+) type:complete length:18 frame:3 start:CTG stop:TGA
+LEKIER
+>altals1_s00058_ORF.537 [26738-26936](+) type:complete length:198 frame:3 start:ATG stop:TAG
+MGLSTIINMIVFVCVPAWGPWAATLAWTLWWIDVVLSLGTNLLLPFIVIYKHEVCEASNADI
+ALLI
+>altals1_s00058_ORF.538 [26963-27677](+) type:complete length:714 frame:3 start:ATG stop:TGA
+MTAVWLLPIVATIVAAATGGIVAGVLPDTHALWTIIVSYILWGCGVPLAMFTMVIYFHRLTM
+HSLPPREVIVSVFLPLGPIGQGAFGIMTLGRDALKVFGRTDTVPAAMDDLAGRLFYANGLMI
+GMIMWGFGIVWLFFAIAAITRSKFPFNLGWWGFTFPLGVYATATVAISQELPSLFFKVLGTI
+FSLSVVLLWMVVSIGTIRKIIKGEMFVAPCVKGWEAQRTEKVQCAGASEQSV
+>altals1_s00058_ORF.539 [27734-28025](+) type:complete length:291 frame:3 start:TTG stop:TAA
+LVKFQPLSRYKKAYSILSVLTLISRVKDGRVVADVVQHNEGVDHYNPYIVILCDVIFSVNHR
+HSKCVWKCSAYGAVKAFSVLWYYTFSTRLQVQLIF
+>altals1_s00058_ORF.540 [28037-28082](+) type:complete length:45 frame:3 start:ATG stop:TAG
+MQDAVAWLWYTVRSW
+>altals1_s00058_ORF.541 [28283-28358](+) type:complete length:75 frame:3 start:CTG stop:TAA
+LKPGAGKNTTSPLHMAWAPLTRTSL
+>altals1_s00058_ORF.542 [28385-28463](+) type:complete length:78 frame:3 start:TTG stop:TAG
+LKSNFAYNSITLLYLDAFFPKHKSLH
+>altals1_s00058_ORF.543 [28523-28775](+) type:complete length:252 frame:3 start:CTG stop:TAA
+LSIYCQSTVIDVVQLLHLHTHTHTHPHLHLHLHPHTHTYTHIYTHIHPHTHTHTHTHIHTHI
+HTHIHTHTHTHTPTYTHTPTQS
+>altals1_s00058_ORF.544 [28847-28949](+) type:complete length:102 frame:3 start:TTG stop:TAG
+LHASLACIRIGSYANIGKCYYGCCYWRAIYFLSN
+>altals1_s00058_ORF.545 [29060-29084](+) type:complete length:24 frame:3 start:CTG stop:TAA
+LMLVTIYR
+>altals1_s00058_ORF.546 [29126-29165](+) type:complete length:39 frame:3 start:CTG stop:TAG
+LKTCGQHACLISS
+>altals1_s00058_ORF.547 [29249-29294](+) type:complete length:45 frame:3 start:TTG stop:TAA
+LYKNNMESKSVFASH
+>altals1_s00058_ORF.548 [29381-29405](+) type:complete length:24 frame:3 start:TTG stop:TAA
+LEDPWPCH
+>altals1_s00058_ORF.549 [29453-29561](+) type:complete length:108 frame:3 start:TTG stop:TGA
+LPPIKLQDGADPTLDARLVFAPSTSLSRVRNNQSGL
+>altals1_s00058_ORF.550 [29783-30086](+) type:complete length:303 frame:3 start:TTG stop:TAG
+LQCLPNLKRSAAAHLQMLLKLLNDCAYRSDRCRPEKPWLARPPSRRLSQRGKRNFWSRNLKL
+RSPRPPRALKRTAATATAARALQTTYWHESTIYTTGQTR
+>altals1_s00058_ORF.551 [30188-30305](+) type:complete length:117 frame:3 start:CTG stop:TAA
+LQSRQSVGLLSPNQVKKSVSDCLDLIAAESGDRASKMDQ
+>altals1_s00058_ORF.552 [30371-30383](+) type:complete length:12 frame:3 start:CTG stop:TGA
+LTGT
+>altals1_s00058_ORF.553 [30770-30803](+) type:complete length:33 frame:3 start:CTG stop:TAG
+LQVKPIQHIVK
+>altals1_s00058_ORF.554 [31142-31316](+) type:complete length:174 frame:3 start:TTG stop:TAG
+LYTSTKPGKLSRVKYKRNITVYIIVGKGSCNTQRRAKHCITTPTQQSYNIFLTSTYTR
+>altals1_s00058_ORF.555 [31490-31517](+) type:complete length:27 frame:3 start:TTG stop:TAA
+LSLPSSISS
+>altals1_s00058_ORF.556 [31817-31838](+) type:complete length:21 frame:3 start:ATG stop:TAA
+MPLLPRA
+>altals1_s00058_ORF.557 [32075-32111](+) type:complete length:36 frame:3 start:CTG stop:TGA
+LACRGKLAAFYV
+>altals1_s00058_ORF.558 [32288-32342](+) type:complete length:54 frame:3 start:CTG stop:TAA
+LDDEGRQAWLPRYCCALR
+>altals1_s00058_ORF.559 [32567-32648](+) type:complete length:81 frame:3 start:TTG stop:TGA
+LCSLYAEPRRSNTPLGQRLQLVRQRPS
+>altals1_s00058_ORF.560 [33353-33374](+) type:complete length:21 frame:3 start:TTG stop:TGA
+LRRCLGY
+>altals1_s00058_ORF.561 [33890-33926](+) type:complete length:36 frame:3 start:ATG stop:TAA
+MGQRYRQRYRRR
+>altals1_s00058_ORF.562 [34115-34157](+) type:complete length:42 frame:3 start:TTG stop:TAG
+LLTSLSSSINVYMF
+>altals1_s00058_ORF.563 [34265-34370](+) type:complete length:105 frame:3 start:CTG stop:TGA
+LLRPRTSNVLCCSLVSRLMLASLSECLCALVRRVG
+>altals1_s00058_ORF.564 [34409-34466](+) type:complete length:57 frame:3 start:CTG stop:TAA
+LFFAAFVVALSCHVGGLLR
+>altals1_s00058_ORF.565 [34511-34577](+) type:complete length:66 frame:3 start:ATG stop:TAA
+MCVNSPHPETALRRSDHRIQEN
+>altals1_s00058_ORF.566 [34521-34557](-) type:complete length:36 frame:-1 start:CTG stop:TAA
+LNGVVLFLDVGY
+>altals1_s00058_ORF.567 [34143-34422](-) type:complete length:279 frame:-1 start:CTG stop:TAA
+LRKTAVLALRFPLKHRLILPYARARTSILRETPTLIATLESNIARCSCAVLTVSGPGYQRVM
+YKQLRETRSFLADALLNLINSPYEPSKTYKR
+>altals1_s00058_ORF.568 [34086-34125](-) type:complete length:39 frame:-1 start:TTG stop:TGA
+LSTIKPINLSTPD
+>altals1_s00058_ORF.569 [34053-34077](-) type:complete length:24 frame:-1 start:TTG stop:TGA
+LTFYSNLA
+>altals1_s00058_ORF.570 [34017-34050](-) type:complete length:33 frame:-1 start:TTG stop:TAA
+LMRLIDQKRLD
+>altals1_s00058_ORF.571 [33987-34005](-) type:complete length:18 frame:-1 start:TTG stop:TAG
+LIGLIV
+>altals1_s00058_ORF.572 [33819-33939](-) type:complete length:120 frame:-1 start:TTG stop:TAA
+LSLVIAVGIAVDIVVPCIHAVQRLYIAVNYRVCTACIIIA
+>altals1_s00058_ORF.573 [33777-33789](-) type:complete length:12 frame:-1 start:CTG stop:TAA
+LYRR
+>altals1_s00058_ORF.574 [33432-33570](-) type:complete length:138 frame:-1 start:CTG stop:TAA
+LFPLSKLVVYYRAVASGCRIDKTVDCVVYIVRYGFRALYNSRRGIV
+>altals1_s00058_ORF.575 [33303-33336](-) type:complete length:33 frame:-1 start:ATG stop:TAG
+MEYCSGVIDGR
+>altals1_s00058_ORF.576 [33075-33240](-) type:complete length:165 frame:-1 start:ATG stop:TAG
+MILRCLVVSVVVDCLVSLDALLVIIKYIFKYWYHLSDRPKPAALATPFKALCSSF
+>altals1_s00058_ORF.577 [32844-32895](-) type:complete length:51 frame:-1 start:CTG stop:TAG
+LYSALKAGVVGVLAGNN
+>altals1_s00058_ORF.578 [32703-32784](-) type:complete length:81 frame:-1 start:ATG stop:TAA
+MGKALEVSKKSVLLWRFNIVDDCYKHT
+>altals1_s00058_ORF.579 [32442-32691](-) type:complete length:249 frame:-1 start:ATG stop:TAA
+MPLFAYILALDSKLSWVVVVRAGVFAPEEYLTDEVQRIGSTTEAAIDSIKAYLLRDCLNRGV
+VVASVIKYEVSHACFINPKVI
+>altals1_s00058_ORF.580 [32322-32388](-) type:complete length:66 frame:-1 start:CTG stop:TAG
+LRQRNRKVNKTAVAVNVVRNNT
+>altals1_s00058_ORF.581 [32121-32157](-) type:complete length:36 frame:-1 start:TTG stop:TAG
+LWVNCRYKLLKS
+>altals1_s00058_ORF.582 [31893-32052](-) type:complete length:159 frame:-1 start:CTG stop:TGA
+LYIEARELVRDRLANPVASKYLMEDAGADGLGAFARWLIAIAASSLSQVSLSC
+>altals1_s00058_ORF.583 [31737-31866](-) type:complete length:129 frame:-1 start:TTG stop:TGA
+LGNTSVNKLMLVAIAAYEVYTRGIFTICDAVAVAIYLAFSRTL
+>altals1_s00058_ORF.584 [31548-31578](-) type:complete length:30 frame:-1 start:CTG stop:TAA
+LRFAQSRFEA
+>altals1_s00058_ORF.585 [31509-31542](-) type:complete length:33 frame:-1 start:CTG stop:TAG
+LGRFNQSFTRR
+>altals1_s00058_ORF.586 [31410-31422](-) type:complete length:12 frame:-1 start:CTG stop:TGA
+LALS
+>altals1_s00058_ORF.587 [31263-31305](-) type:complete length:42 frame:-1 start:TTG stop:TAA
+LRLKRCCSFVVLGL
+>altals1_s00058_ORF.588 [30780-30813](-) type:complete length:33 frame:-1 start:TTG stop:TGA
+LTAILRYAGLA
+>altals1_s00058_ORF.589 [30723-30750](-) type:complete length:27 frame:-1 start:TTG stop:TGA
+LMRLIWIDC
+>altals1_s00058_ORF.590 [30663-30678](-) type:complete length:15 frame:-1 start:TTG stop:TAG
+LMWMG
+>altals1_s00058_ORF.591 [30507-30531](-) type:complete length:24 frame:-1 start:ATG stop:TAG
+MQTLWATP
+>altals1_s00058_ORF.592 [30456-30495](-) type:complete length:39 frame:-1 start:TTG stop:TGA
+LPSSCRYNLSIYA
+>altals1_s00058_ORF.593 [30435-30453](-) type:complete length:18 frame:-1 start:CTG stop:TAA
+LQSRKP
+>altals1_s00058_ORF.594 [30324-30339](-) type:complete length:15 frame:-1 start:TTG stop:TGA
+LLVAL
+>altals1_s00058_ORF.595 [30234-30249](-) type:complete length:15 frame:-1 start:CTG stop:TGA
+LRPIS
+>altals1_s00058_ORF.596 [30186-30198](-) type:complete length:12 frame:-1 start:TTG stop:TGA
+LIAD
+>altals1_s00058_ORF.597 [30156-30168](-) type:complete length:12 frame:-1 start:TTG stop:TGA
+LRLS
+>altals1_s00058_ORF.598 [30120-30147](-) type:complete length:27 frame:-1 start:TTG stop:TAG
+LIVRNFRFW
+>altals1_s00058_ORF.599 [29805-30072](-) type:complete length:267 frame:-1 start:TTG stop:TGA
+LYISYFRASKSSVKLSLLSPSPLYVSMPSVGAGISASGCDSKNCVSHAGSDGDSVAWLARAS
+RGDSDRCDRHSRLAASAAFVGAPLRFF
+>altals1_s00058_ORF.600 [29640-29691](-) type:complete length:51 frame:-1 start:CTG stop:TGA
+LQRHNLINLAIWMSRID
+>altals1_s00058_ORF.601 [29358-29604](-) type:complete length:246 frame:-1 start:TTG stop:TAG
+LIIAPTWQSHKINLTIRIDCCGLCLVMWKGRKPSAHRESDQLHPVALSGATLIKYNKASGER
+FGLINDMAMDLPSNVAVSLK
+>altals1_s00058_ORF.602 [29337-29355](-) type:complete length:18 frame:-1 start:CTG stop:TGA
+LFSSFT
+>altals1_s00058_ORF.603 [29157-29199](-) type:complete length:42 frame:-1 start:ATG stop:TAA
+MNINDHLVKIPMRR
+>altals1_s00058_ORF.604 [28983-29136](-) type:complete length:153 frame:-1 start:ATG stop:TAG
+MSSGVNRHNTVNAIILIICISSPASGTNFSQQLSVYEHLCALLCKFPSERR
+>altals1_s00058_ORF.605 [28824-28890](-) type:complete length:66 frame:-1 start:TTG stop:TAG
+LRKIRSGYMLTKRASASRDMKK
+>altals1_s00058_ORF.606 [28551-28752](-) type:complete length:201 frame:-1 start:ATG stop:TGA
+MWVYVCVYVCVYVCVCVCVCVCVYVCVYVGVCVCICVCMCACVGVGVGVGVGGCGCGCVGVI
+IGQRR
+>altals1_s00058_ORF.607 [28506-28530](-) type:complete length:24 frame:-1 start:TTG stop:TGA
+LTVYAETR
+>altals1_s00058_ORF.608 [28416-28482](-) type:complete length:66 frame:-1 start:ATG stop:TGA
+MVFERSSVEICASEKMRPGRAK
+>altals1_s00058_ORF.609 [28383-28404](-) type:complete length:21 frame:-1 start:ATG stop:TAA
+MQSLISR
+>altals1_s00058_ORF.610 [28311-28353](-) type:complete length:42 frame:-1 start:TTG stop:TAG
+LCELEAPKPCGEET
+>altals1_s00058_ORF.611 [28239-28293](-) type:complete length:54 frame:-1 start:CTG stop:TGA
+LVSVALYSIPRILATSRK
+>altals1_s00058_ORF.612 [28035-28158](-) type:complete length:123 frame:-1 start:ATG stop:TAG
+MFELHLVEGRWRYQRHRMPKVSSHTTRNGQYTTAMPPHPAL
+>altals1_s00058_ORF.613 [27927-27951](-) type:complete length:24 frame:-1 start:ATG stop:TAG
+MPSISTHI
+>altals1_s00058_ORF.614 [27807-27834](-) type:complete length:27 frame:-1 start:CTG stop:TAG
+LPRHDRLSL
+>altals1_s00058_ORF.615 [27741-27780](-) type:complete length:39 frame:-1 start:TTG stop:TAA
+LNTLSCNEREVEI
+>altals1_s00058_ORF.616 [27663-27714](-) type:complete length:51 frame:-1 start:TTG stop:TAG
+LSARSLLLVPLLRRSAH
+>altals1_s00058_ORF.617 [27615-27657](-) type:complete length:42 frame:-1 start:CTG stop:TGA
+LRIGLSLYVVPPIP
+>altals1_s00058_ORF.618 [27504-27534](-) type:complete length:30 frame:-1 start:CTG stop:TGA
+LITRKLFQAP
+>altals1_s00058_ORF.619 [27435-27459](-) type:complete length:24 frame:-1 start:TTG stop:TAA
+LRTHQAEM
+>altals1_s00058_ORF.620 [27228-27270](-) type:complete length:42 frame:-1 start:CTG stop:TGA
+LFDRRPSRHRVPES
+>altals1_s00058_ORF.621 [27174-27204](-) type:complete length:30 frame:-1 start:TTG stop:TGA
+LVQEVKTLKQ
+>altals1_s00058_ORF.622 [26883-27015](-) type:complete length:132 frame:-1 start:TTG stop:TAA
+LQQQRWSQRWAGATRLSFWRAGTVEPILAMQCQHWKPHIPHVYI
+>altals1_s00058_ORF.623 [26760-26811](-) type:complete length:51 frame:-1 start:ATG stop:TGA
+MLQPKGPRLARKRKRSC
+>altals1_s00058_ORF.624 [26733-26751](-) type:complete length:18 frame:-1 start:TTG stop:TAG
+LKDPLE
+>altals1_s00058_ORF.625 [26583-26727](-) type:complete length:144 frame:-1 start:CTG stop:TGA
+LFGVSARSSPDYVLPTYRGIGTELDVQASQTKCLRTGYISGCSALSTA
+>altals1_s00058_ORF.626 [26499-26550](-) type:complete length:51 frame:-1 start:CTG stop:TAG
+LRSSIAMSHYMGDCVGV
+>altals1_s00058_ORF.627 [26430-26481](-) type:complete length:51 frame:-1 start:CTG stop:TGA
+LAGTLKTVQWHEVVSIV
+>altals1_s00058_ORF.628 [26229-26427](-) type:complete length:198 frame:-1 start:TTG stop:TGA
+LNDKEQICVCLPLGGGGIGSGVNGGSQHTHGYAEPCRRKVHHDFSPAPFVSKLPYMFYSNVV
+RWMQ
+>altals1_s00058_ORF.629 [26034-26217](-) type:complete length:183 frame:-1 start:ATG stop:TGA
+MLCLLRLAKFCGGRIHCDQYWAFAAKVNNPSETRSRYIYAPLLCLVMLNCLLRSEQRSDEP
+>altals1_s00058_ORF.630 [25923-26013](-) type:complete length:90 frame:-1 start:TTG stop:TGA
+LVTPVRKSLAPELVIGWLDVNAEIENMMHR
+>altals1_s00058_ORF.631 [25593-25776](-) type:complete length:183 frame:-1 start:TTG stop:TGA
+LIFWVPMIRMMYRNVCSALPRASRRSVSVLSDLQTTASSRVRHCFWSRVPISPWYSRSVSQ
+>altals1_s00058_ORF.632 [25275-25317](-) type:complete length:42 frame:-1 start:ATG stop:TAA
+MSAVCYNLCRRILR
+>altals1_s00058_ORF.633 [25149-25272](-) type:complete length:123 frame:-1 start:ATG stop:TGA
+MHRDKMSFSQSDYSRLIYDRRDHRGKRKRQSSLDQLPSQCQ
+>altals1_s00058_ORF.634 [24963-25125](-) type:complete length:162 frame:-1 start:TTG stop:TGA
+LQEPCMACSATSRSTGWQPRDTTADEGYDAGRLATTSLRLVQLARIWSRRRVRH
+>altals1_s00058_ORF.635 [24846-24909](-) type:complete length:63 frame:-1 start:ATG stop:TGA
+MVHTRRLNRFRISQRHQIPLQ
+>altals1_s00058_ORF.636 [24588-24825](-) type:complete length:237 frame:-1 start:TTG stop:TGA
+LGNRCTLAGGSSAQSQVGTKPPIHISSTCVLHAQRGSTLSVLSFRDRSQGGLDARSNPDRHG
+SKLVCFKACAIPRSRWV
+>altals1_s00058_ORF.637 [24423-24459](-) type:complete length:36 frame:-1 start:CTG stop:TGA
+LDDESSAELGGF
+>altals1_s00058_ORF.638 [24141-24291](-) type:complete length:150 frame:-1 start:ATG stop:TAA
+MSILHRRYENAALSALEVFAFCGIWPRQHALILSSGSDMRQSAASGLVSA
+>altals1_s00058_ORF.639 [24096-24108](-) type:complete length:12 frame:-1 start:ATG stop:TGA
+MSRS
+>altals1_s00058_ORF.640 [24042-24090](-) type:complete length:48 frame:-1 start:TTG stop:TAA
+LLLVHNHWHPGVHSIA
+>altals1_s00058_ORF.641 [23964-24024](-) type:complete length:60 frame:-1 start:TTG stop:TGA
+LLHRSISTRQSNLTHRCPQS
+>altals1_s00058_ORF.642 [23673-23955](-) type:complete length:282 frame:-1 start:TTG stop:TGA
+LKSSHNDDHQRKANCDACDTIQISMPLSQTFELSHPCTYCRQTSTETFCDTRQYLTTDYTSA
+HNVSLKVCMLQIVSHSKKCGTQHIRRECTDGK
+>altals1_s00058_ORF.643 [23520-23652](-) type:complete length:132 frame:-1 start:TTG stop:TAG
+LHREPIAHYSAHRCEDDGEDNLSTPRTVRRPDGKAYCTKPTTQS
+>altals1_s00058_ORF.644 [23277-23334](-) type:complete length:57 frame:-1 start:CTG stop:TGA
+LVFANQLIGQPEEKITHEG
+>altals1_s00058_ORF.645 [23127-23202](-) type:complete length:75 frame:-1 start:CTG stop:TAA
+LVGLRVPLPLFVGVVTTGAGVRGRE
+>altals1_s00058_ORF.646 [23067-23085](-) type:complete length:18 frame:-1 start:TTG stop:TAG
+LQEPKN
+>altals1_s00058_ORF.647 [22911-22932](-) type:complete length:21 frame:-1 start:CTG stop:TAA
+LYQKPLL
+>altals1_s00058_ORF.648 [22707-22890](-) type:complete length:183 frame:-1 start:TTG stop:TAA
+LACMFMDRTSSTANLSFFFKASVVLGPLLVGVLIWSGYSKLIKSIHAFIDVFVEQLGFCFI
+>altals1_s00058_ORF.649 [22671-22689](-) type:complete length:18 frame:-1 start:TTG stop:TGA
+LPCGLW
+>altals1_s00058_ORF.650 [22599-22647](-) type:complete length:48 frame:-1 start:TTG stop:TGA
+LIVVLECAVFSLFIYD
+>altals1_s00058_ORF.651 [22572-22584](-) type:complete length:12 frame:-1 start:CTG stop:TGA
+LWVC
+>altals1_s00058_ORF.652 [22521-22569](-) type:complete length:48 frame:-1 start:TTG stop:TGA
+LGSRLQNIRVVQTGPL
+>altals1_s00058_ORF.653 [22458-22494](-) type:complete length:36 frame:-1 start:TTG stop:TGA
+LGLAQPHHPCRA
+>altals1_s00058_ORF.654 [22356-22389](-) type:complete length:33 frame:-1 start:TTG stop:TAG
+LIGERIVRLAF
+>altals1_s00058_ORF.655 [22290-22314](-) type:complete length:24 frame:-1 start:ATG stop:TAA
+MSVAARSM
+>altals1_s00058_ORF.656 [22164-22194](-) type:complete length:30 frame:-1 start:ATG stop:TGA
+MARTFSSWSR
+>altals1_s00058_ORF.657 [21915-22086](-) type:complete length:171 frame:-1 start:TTG stop:TAA
+LRPLALSLTEIPIDSILVTHRYVSKRSVVKILISKGHGHYPGRVIQYARNCRVCLRM
+>altals1_s00058_ORF.658 [21822-21861](-) type:complete length:39 frame:-1 start:ATG stop:TGA
+MSPRVQQCEERLA
+>altals1_s00058_ORF.659 [21678-21732](-) type:complete length:54 frame:-1 start:ATG stop:TGA
+MHRDPRTVRLAKIYFRSS
+>altals1_s00058_ORF.660 [21474-21669](-) type:complete length:195 frame:-1 start:CTG stop:TGA
+LLVDVWAVPHWLQSLLEHFSQPSIRVFETGVSSASQYLCMFWSNGNLRARLSQGHVSSRDSS
+QPP
+>altals1_s00058_ORF.661 [21357-21453](-) type:complete length:96 frame:-1 start:ATG stop:TAA
+MEWGAHNGLPRSHAGVMHSSPSPKLVVQEDEG
+>altals1_s00058_ORF.662 [21210-21333](-) type:complete length:123 frame:-1 start:TTG stop:TGA
+LQKPDFHCSGQADKFDWRYLRNYHPSKACRLSRCLLATRCN
+>altals1_s00058_ORF.663 [21147-21195](-) type:complete length:48 frame:-1 start:TTG stop:TAG
+LIESTMVDQRRVVLQR
+>altals1_s00058_ORF.664 [21060-21144](-) type:complete length:84 frame:-1 start:CTG stop:TGA
+LLWAAQTSCQLILSQISARKKGECHTSY
+>altals1_s00058_ORF.665 [20940-21024](-) type:complete length:84 frame:-1 start:CTG stop:TAA
+LCPTLLVILVGRARQLLHHMLLQRKDPC
+>altals1_s00058_ORF.666 [20907-20928](-) type:complete length:21 frame:-1 start:TTG stop:TAG
+LLSRLCC
+>altals1_s00058_ORF.667 [20892-20904](-) type:complete length:12 frame:-1 start:TTG stop:TAA
+LSRQ
+>altals1_s00058_ORF.668 [20781-20808](-) type:complete length:27 frame:-1 start:CTG stop:TAA
+LQIWVVQAS
+>altals1_s00058_ORF.669 [20547-20724](-) type:complete length:177 frame:-1 start:CTG stop:TGA
+LGYRVVDRRLDRTFAELYQALQLAVPPLRNKFRKGMASAYSLSIGRRYPASGKLPLTSW
+>altals1_s00058_ORF.670 [20268-20481](-) type:complete length:213 frame:-1 start:ATG stop:TGA
+MLLVRTETGAVVICCSSGERKRVMKAVRSLRISVDGISSSLSRHAGGIAFAVDALLALTALR
+QSEGAMEGP
+>altals1_s00058_ORF.671 [20019-20262](-) type:complete length:243 frame:-1 start:ATG stop:TAA
+MVGAVLSSGSSDNDLKLHVPSTATKEKVGRSLRWGSTGRSGALVQVGTRALAHPNVPSSPQD
+DPWSLFRLPFSFLSQQGKM
+>altals1_s00058_ORF.672 [19962-20004](-) type:complete length:42 frame:-1 start:ATG stop:TGA
+MRAERYTRGRLLAD
+>altals1_s00058_ORF.673 [19833-19932](-) type:complete length:99 frame:-1 start:TTG stop:TGA
+LQTGTRRRAAPLLTSVDVFWRRTSGPDCVTEPS
+>altals1_s00058_ORF.674 [19710-19821](-) type:complete length:111 frame:-1 start:ATG stop:TGA
+MWTSGSSRWLLLCGSHRWRYAGRNVHDQTKLKPTSTG
+>altals1_s00058_ORF.675 [19653-19671](-) type:complete length:18 frame:-1 start:TTG stop:TAA
+LLYPRY
+>altals1_s00058_ORF.676 [19287-19569](-) type:complete length:282 frame:-1 start:CTG stop:TAA
+LYGSSGSGADKGSSCCKYSVLRRGRRGINLQDMLLPGPRFKPYHSYSKFLGRYQRRRSGATR
+VKTKPITASIRRQKLDVHTLTLPMTRSSHSPS
+>altals1_s00058_ORF.677 [19140-19191](-) type:complete length:51 frame:-1 start:CTG stop:TAG
+LHLLPLIQRLSRASTCE
+>altals1_s00058_ORF.678 [18657-18960](-) type:complete length:303 frame:-1 start:ATG stop:TGA
+MIGNLRLAHVSSAECSARPILWLACLPSQMPVEARRLVFVQKYCQQRSKDTSTLPGATTIPP
+RTVQFYCPTTRQPLGLLRYRSKFLLIVVCSLRSFARPVR
+>altals1_s00058_ORF.679 [18627-18639](-) type:complete length:12 frame:-1 start:TTG stop:TAG
+LTYV
+>altals1_s00058_ORF.680 [18558-18570](-) type:complete length:12 frame:-1 start:CTG stop:TGA
+LLER
+>altals1_s00058_ORF.681 [18513-18537](-) type:complete length:24 frame:-1 start:ATG stop:TAG
+MKGSLERN
+>altals1_s00058_ORF.682 [18357-18483](-) type:complete length:126 frame:-1 start:CTG stop:TGA
+LLRNRDLLIIGQLLSRHQLSCALKLPCNRQYHQMRHSDVECP
+>altals1_s00058_ORF.683 [18015-18051](-) type:complete length:36 frame:-1 start:CTG stop:TGA
+LYKSVFAPTRAS
+>altals1_s00058_ORF.684 [17769-17952](-) type:complete length:183 frame:-1 start:TTG stop:TGA
+LYRPAHPKATMKLPNSVMGTKRSIMAKEYLAQSRTSQGFSHPRSSTRTSSFQKTCARSMHL
+>altals1_s00058_ORF.685 [17715-17757](-) type:complete length:42 frame:-1 start:ATG stop:TAG
+MELKIRGNWVPMLY
+>altals1_s00058_ORF.686 [17604-17700](-) type:complete length:96 frame:-1 start:CTG stop:TAA
+LYGEPQLRRKYVWKKIASNAIPAPLLLRRIPC
+>altals1_s00058_ORF.687 [17319-17595](-) type:complete length:276 frame:-1 start:ATG stop:TGA
+MQGVPLYQFLQQSCGTQQSYVMPVPFFNVLNGGVHSGNTMAFQEFMIAPVGADSMTEAVRMG
+AEVYQSLKGVIVKQYGPSGKAEWIIQSGMS
+>altals1_s00058_ORF.688 [17259-17292](-) type:complete length:33 frame:-1 start:TTG stop:TGA
+LAMRVVFLHRS
+>altals1_s00058_ORF.689 [17229-17241](-) type:complete length:12 frame:-1 start:TTG stop:TAA
+LTYW
+>altals1_s00058_ORF.690 [16752-17202](-) type:complete length:450 frame:-1 start:CTG stop:TGA
+LGRSRSALIQRLKSFSMRRITRMTWDSSGKAQSRVSILTLKLWRSCTMRSLNSTLSYCWRTH
+SGRTTGRLGHLSMQIAPSSWSAMISSRRTGGALRRPIKKKPATLCCSRSTRSVLSLKRLMQQ
+NRRTVTAGRFLCRIAREKRLTTSLPI
+>altals1_s00058_ORF.691 [16653-16719](-) type:complete length:66 frame:-1 start:CTG stop:TGA
+LEVRVVANVWQSTTACWILKKS
+>altals1_s00058_ORF.692 [16605-16644](-) type:complete length:39 frame:-1 start:TTG stop:TGA
+LGTRRCTRARTSG
+>altals1_s00058_ORF.693 [16551-16599](-) type:complete length:48 frame:-1 start:ATG stop:TGA
+MILKYHSGLWKLCLNR
+>altals1_s00058_ORF.694 [16413-16530](-) type:complete length:117 frame:-1 start:TTG stop:TGA
+LDRCRNLTLAPSLTQCSLGMLGQGSYYQLAKASIAFGSE
+>altals1_s00058_ORF.695 [16353-16401](-) type:complete length:48 frame:-1 start:TTG stop:TAG
+LLHPRSATKGLRQPVV
+>altals1_s00058_ORF.696 [16218-16284](-) type:complete length:66 frame:-1 start:TTG stop:TGA
+LVVQSRFAQYVLRSGSNPCAGL
+>altals1_s00058_ORF.697 [16113-16209](-) type:complete length:96 frame:-1 start:ATG stop:TAA
+MSQYRSLCAVADLLCRRRRDHLAPVVEALSGR
+>altals1_s00058_ORF.698 [15834-15969](-) type:complete length:135 frame:-1 start:ATG stop:TGA
+MIALTSCTRYAAVAFNFAKAAAVACLPNATAYLLWLVFVSSCGDG
+>altals1_s00058_ORF.699 [15762-15828](-) type:complete length:66 frame:-1 start:TTG stop:TAG
+LFLSERWRVFLRRYDQKHGVER
+>altals1_s00058_ORF.700 [15609-15636](-) type:complete length:27 frame:-1 start:ATG stop:TAA
+MIVHIYSCC
+>altals1_s00058_ORF.701 [15438-15540](-) type:complete length:102 frame:-1 start:ATG stop:TGA
+MLIEQAGQAGTTPACAWPTNRIASEVKIQCLRIG
+>altals1_s00058_ORF.702 [15297-15318](-) type:complete length:21 frame:-1 start:TTG stop:TAA
+LRKRCAI
+>altals1_s00058_ORF.703 [14886-15279](-) type:complete length:393 frame:-1 start:TTG stop:TAG
+LICRPRVVCLGGGCGGGSLATLPSTSPNARRRFLDFGATGCEVVGIRLSACSANLLVVAASF
+SRCFRARFSLRSRAFASRSFSLTLATRFFLEFFLLFFTLLYCFARASFLDPSGTPENCLTTK
+FLALLQI
+>altals1_s00058_ORF.704 [14814-14859](-) type:complete length:45 frame:-1 start:CTG stop:TAG
+LFGGDCVLQTLIFDV
+>altals1_s00058_ORF.705 [14781-14796](-) type:complete length:15 frame:-1 start:CTG stop:TAA
+LQRVH
+>altals1_s00058_ORF.706 [14238-14445](-) type:complete length:207 frame:-1 start:TTG stop:TAG
+LPKQRLGRQGPASKRCSDGARRIRVLLIAPGFCEITRDVTGGSLGIRSLGWVASGLVQPSEL
+ARDCAGT
+>altals1_s00058_ORF.707 [14172-14199](-) type:complete length:27 frame:-1 start:TTG stop:TAG
+LLGIVAELS
+>altals1_s00058_ORF.708 [14103-14136](-) type:complete length:33 frame:-1 start:TTG stop:TAG
+LLSQCSIITRF
+>altals1_s00058_ORF.709 [13830-13908](-) type:complete length:78 frame:-1 start:TTG stop:TAA
+LLDGQSLRYLFYYLLNTSLQVFLLKP
+>altals1_s00058_ORF.710 [13404-13452](-) type:complete length:48 frame:-1 start:CTG stop:TAA
+LHLVSDRTSYCAYAPR
+>altals1_s00058_ORF.711 [13224-13305](-) type:complete length:81 frame:-1 start:CTG stop:TAA
+LYPSRQHLRLGSLGNKRPLGSRRQRRT
+>altals1_s00058_ORF.712 [12090-12150](-) type:complete length:60 frame:-1 start:TTG stop:TAA
+LLLEKNSNKRQLCIAINIEV
+>altals1_s00058_ORF.713 [11628-11652](-) type:complete length:24 frame:-1 start:CTG stop:TAG
+LLCLIILK
+>altals1_s00058_ORF.714 [11595-11616](-) type:complete length:21 frame:-1 start:CTG stop:TAA
+LLKDAKE
+>altals1_s00058_ORF.715 [11529-11571](-) type:complete length:42 frame:-1 start:TTG stop:TAG
+LQLGLSSDKIRDDN
+>altals1_s00058_ORF.716 [11241-11358](-) type:complete length:117 frame:-1 start:CTG stop:TAG
+LYKGCSLSNREESLLEFYLVDNKLDPKELKHVLSKLYYR
+>altals1_s00058_ORF.717 [10953-11004](-) type:complete length:51 frame:-1 start:ATG stop:TAA
+MRLCVNYCSLNNITIKD
+>altals1_s00058_ORF.718 [10752-10788](-) type:complete length:36 frame:-1 start:ATG stop:TAG
+MLFSLVNALATF
+>altals1_s00058_ORF.719 [10512-10608](-) type:complete length:96 frame:-1 start:TTG stop:TAA
+LFCKASKCAFLTKLVEFLGFIVTLSGVIIDLV
+>altals1_s00058_ORF.720 [10323-10362](-) type:complete length:39 frame:-1 start:CTG stop:TAG
+LLTLCTYPKLGEG
+>altals1_s00058_ORF.721 [9951-9963](-) type:complete length:12 frame:-1 start:CTG stop:TAA
+LSII
+>altals1_s00058_ORF.722 [9534-9555](-) type:complete length:21 frame:-1 start:TTG stop:TAA
+LPTLPRT
+>altals1_s00058_ORF.723 [8370-8403](-) type:complete length:33 frame:-1 start:CTG stop:TAG
+LQQQVSYRLKE
+>altals1_s00058_ORF.724 [8250-8286](-) type:complete length:36 frame:-1 start:CTG stop:TAG
+LLYFAEGNLVLL
+>altals1_s00058_ORF.725 [8085-8139](-) type:complete length:54 frame:-1 start:CTG stop:TAG
+LLLIACIHFVFNIALLEL
+>altals1_s00058_ORF.726 [6948-7044](-) type:complete length:96 frame:-1 start:ATG stop:TAA
+MRHLQEYNLTYRRYSNYCIHYINCCAYRTYPL
+>altals1_s00058_ORF.727 [6552-6648](-) type:complete length:96 frame:-1 start:ATG stop:TAG
+MPKGSPQSQRCLTARLTVKPQTQQNALNTLII
+>altals1_s00058_ORF.728 [6312-6360](-) type:complete length:48 frame:-1 start:ATG stop:TAA
+MLIGNNRSNTASNTEM
+>altals1_s00058_ORF.729 [6273-6306](-) type:complete length:33 frame:-1 start:ATG stop:TAG
+MRNLERGRYRI
+>altals1_s00058_ORF.730 [6171-6261](-) type:complete length:90 frame:-1 start:ATG stop:TGA
+MLLRESGRLSRKGGAIVTMFHYHKVLATDG
+>altals1_s00058_ORF.731 [5991-6030](-) type:complete length:39 frame:-1 start:CTG stop:TGA
+LPSYSSQKHNFRI
+>altals1_s00058_ORF.732 [5940-5979](-) type:complete length:39 frame:-1 start:ATG stop:TAA
+MPFYFRSYHLQGW
+>altals1_s00058_ORF.733 [5745-5901](-) type:complete length:156 frame:-1 start:CTG stop:TAA
+LIVFVALSSYGFGCACRVGKGACPCDVSSIFYSGVKVLRNDRGTVDKVPCRG
+>altals1_s00058_ORF.734 [5547-5694](-) type:complete length:147 frame:-1 start:ATG stop:TAA
+MPVWLQYGFYLFVFYLLWRGFANQFSQHSNVLKAVVHSLVGCLALRNPQ
+>altals1_s00058_ORF.735 [5307-5481](-) type:complete length:174 frame:-1 start:CTG stop:TAG
+LYTRTFTDCAHQSCSWQLIRRTLKNEMVGECVGRITTSGLIRLRSVLWREVNHICVSL
+>altals1_s00058_ORF.736 [5133-5280](-) type:complete length:147 frame:-1 start:ATG stop:TAG
+MLFFRFPAPSPWNYSPYLTIRKNRYMRAVSSHIGAGASYQRLSSYHRYV
+>altals1_s00058_ORF.737 [4683-5106](-) type:complete length:423 frame:-1 start:TTG stop:TAA
+LWGCDLNGSRVQMVVPHRLCKRRLRKRTRSHMQLLLACSRCLQQMRIALFRLCFCVRDHDAL
+ITPLGRHKPCLASSKHTVPFPSLARSLFVRGIPHIQTSTVNSFRRQLTDTVTHMQRSKNEPT
+CTAIATPPTCAVRDLGS
+>altals1_s00058_ORF.738 [4605-4626](-) type:complete length:21 frame:-1 start:ATG stop:TGA
+MCISLDI
+>altals1_s00058_ORF.739 [4278-4308](-) type:complete length:30 frame:-1 start:CTG stop:TGA
+LNLRTPKHRS
+>altals1_s00058_ORF.740 [4200-4215](-) type:complete length:15 frame:-1 start:ATG stop:TAG
+MRNRR
+>altals1_s00058_ORF.741 [4161-4191](-) type:complete length:30 frame:-1 start:ATG stop:TGA
+MPLEKPDRQN
+>altals1_s00058_ORF.742 [4068-4110](-) type:complete length:42 frame:-1 start:CTG stop:TGA
+LLHGKVDSLCELGC
+>altals1_s00058_ORF.743 [3978-3999](-) type:complete length:21 frame:-1 start:TTG stop:TAA
+LISFVKR
+>altals1_s00058_ORF.744 [3786-3867](-) type:complete length:81 frame:-1 start:TTG stop:TAG
+LRYSPAAICRNPDGRECFVRVLRTRAW
+>altals1_s00058_ORF.745 [3681-3753](-) type:complete length:72 frame:-1 start:TTG stop:TAA
+LRFEPRGDKVRPSFVQLFESAMQL
+>altals1_s00058_ORF.746 [3612-3624](-) type:complete length:12 frame:-1 start:CTG stop:TGA
+LRWM
+>altals1_s00058_ORF.747 [3534-3555](-) type:complete length:21 frame:-1 start:CTG stop:TAG
+LRLLFKF
+>altals1_s00058_ORF.748 [2676-3195](-) type:complete length:519 frame:-1 start:TTG stop:TAG
+LVPPHSKRQKSHDPLPPQSHLMHHHHHWASLARYRRPCPLPNPPALLALCAFLSIGEDRRAA
+CHGRFLHDSKTCLRSQACLGSEGVDRQMGGGASSWARCSFMCLCRSKGLSNCGKRTCRGAWL
+SPRDKTQCAATTTTPSSRINPQKLLSSGRWCSLRCCTHCCSDWHHPSCS
+>altals1_s00058_ORF.749 [2613-2625](-) type:complete length:12 frame:-1 start:TTG stop:TGA
+LFET
+>altals1_s00058_ORF.750 [2454-2484](-) type:complete length:30 frame:-1 start:CTG stop:TGA
+LELQSFQAQR
+>altals1_s00058_ORF.751 [2346-2445](-) type:complete length:99 frame:-1 start:TTG stop:TAG
+LNWSVICFRAPRMCSLRAHWSKCSFMRSGLVLS
+>altals1_s00058_ORF.752 [1971-2304](-) type:complete length:333 frame:-1 start:TTG stop:TGA
+LSFLINCFPHTPQHLSLVGEADAYVYRFFSGLDRFTIGSRISLSGISILSVALSTPVSSELS
+APVSQSGYINLAMIFRSGSNFHRACIYRDGERKGFGVACAETDAGTVAR
+>altals1_s00058_ORF.753 [1800-1833](-) type:complete length:33 frame:-1 start:ATG stop:TGA
+MAFAMLPRLVS
+>altals1_s00058_ORF.754 [1710-1737](-) type:complete length:27 frame:-1 start:ATG stop:TGA
+MSSVLWSLP
+>altals1_s00058_ORF.755 [1668-1695](-) type:complete length:27 frame:-1 start:CTG stop:TAG
+LSTPIIPEI
+>altals1_s00058_ORF.756 [1533-1662](-) type:complete length:129 frame:-1 start:ATG stop:TAA
+MTVSSLGCPISNLLCAGIAVSINSKWRTEYQSILRYVLSTALA
+>altals1_s00058_ORF.757 [1482-1503](-) type:complete length:21 frame:-1 start:CTG stop:TGA
+LSSYPAR
+>altals1_s00058_ORF.758 [1446-1470](-) type:complete length:24 frame:-1 start:TTG stop:TAG
+LSMLLKHS
+>altals1_s00058_ORF.759 [1365-1437](-) type:complete length:72 frame:-1 start:ATG stop:TAG
+MPFSETEPSLRMLRRIGRCFASDL
+>altals1_s00058_ORF.760 [1002-1356](-) type:complete length:354 frame:-1 start:TTG stop:TGA
+LYSELPGGSSFASMSWNEVHSSNTPSARANAIKCVTGHMDRIVASSYRSITGLFLLGLSFLS
+LREFLLTSVSCCFGVPSDSAAADEEGSPRTCHSGNVRDLCHRIEVLRCCASRLPIQ
+>altals1_s00058_ORF.761 [924-954](-) type:complete length:30 frame:-1 start:ATG stop:TAA
+MPAAGVRVDV
+>altals1_s00058_ORF.762 [852-873](-) type:complete length:21 frame:-1 start:CTG stop:TAG
+LAKGLSA
+>altals1_s00058_ORF.763 [804-837](-) type:complete length:33 frame:-1 start:TTG stop:TAA
+LQSFRSAQGLK
+>altals1_s00058_ORF.764 [753-774](-) type:complete length:21 frame:-1 start:CTG stop:TAA
+LSCTGDQ
+>altals1_s00058_ORF.765 [336-348](-) type:complete length:12 frame:-1 start:TTG stop:TAA
+LNGS
+>altals1_s00058_ORF.766 [34556-34601](-) type:complete length:45 frame:-2 start:ATG stop:TGA
+MRLPQKPLIFLYAVI
+>altals1_s00058_ORF.767 [34460-34532](-) type:complete length:72 frame:-2 start:ATG stop:TAA
+MWAINTHYRYRTPRFISGSSRLAE
+>altals1_s00058_ORF.768 [34385-34448](-) type:complete length:63 frame:-2 start:ATG stop:TGA
+MTAQRYYESCEKQRCWRLGSP
+>altals1_s00058_ORF.769 [34226-34256](-) type:complete length:30 frame:-2 start:CTG stop:TGA
+LAISASCTNS
+>altals1_s00058_ORF.770 [34184-34205](-) type:complete length:21 frame:-2 start:TTG stop:TGA
+LLTPYLT
+>altals1_s00058_ORF.771 [33770-33911](-) type:complete length:141 frame:-2 start:CTG stop:TAA
+LSISLSHVSMPYNVSISLSIIESVRLVLLLPKLAFRHRRTHCIAAKS
+>altals1_s00058_ORF.772 [33647-33662](-) type:complete length:15 frame:-2 start:TTG stop:TAG
+LLRRG
+>altals1_s00058_ORF.773 [33560-33611](-) type:complete length:51 frame:-2 start:TTG stop:TGA
+LLASSVSFSTRRLHCFH
+>altals1_s00058_ORF.774 [33389-33533](-) type:complete length:144 frame:-2 start:CTG stop:TAG
+LLLAVVGSIRPSIASSISFDTGFVRCTTAVGVLYKAHKARKLRLFSES
+>altals1_s00058_ORF.775 [33344-33380](-) type:complete length:36 frame:-2 start:TTG stop:TAG
+LSVPQAASQYVL
+>altals1_s00058_ORF.776 [33239-33278](-) type:complete length:39 frame:-2 start:TTG stop:TGA
+LAFVHAARILIAR
+>altals1_s00058_ORF.777 [33194-33206](-) type:complete length:12 frame:-2 start:TTG stop:TAA
+LTAS
+>altals1_s00058_ORF.778 [33035-33119](-) type:complete length:84 frame:-2 start:CTG stop:TAA
+LPLLLRPSRRFVAAFRGFNASIYSITTA
+>altals1_s00058_ORF.779 [32930-33032](-) type:complete length:102 frame:-2 start:TTG stop:TAG
+LCVVRLLDLIHRGASGSLLRRVSAYVSSSRTRFI
+>altals1_s00058_ORF.780 [32729-32822](-) type:complete length:93 frame:-2 start:TTG stop:TAG
+LRLSAGASTGNSRWARRWKLAKRAYCCGVLI
+>altals1_s00058_ORF.781 [32600-32726](-) type:complete length:126 frame:-2 start:TTG stop:TGA
+LTIAISTPKGPSCLYSLIYSLSTANSAGSLSYELESLPQRSI
+>altals1_s00058_ORF.782 [32447-32555](-) type:complete length:108 frame:-2 start:TTG stop:TGA
+LTALKPICCAIASTAALLLPALLSTKYPTLALLILK
+>altals1_s00058_ORF.783 [32402-32423](-) type:complete length:21 frame:-2 start:CTG stop:TAG
+LAIDSPL
+>altals1_s00058_ORF.784 [32339-32357](-) type:complete length:18 frame:-2 start:CTG stop:TAG
+LPLLLT
+>altals1_s00058_ORF.785 [32261-32309](-) type:complete length:48 frame:-2 start:TTG stop:TAG
+LPPFVVQPSKLMCILL
+>altals1_s00058_ORF.786 [32222-32243](-) type:complete length:21 frame:-2 start:TTG stop:TAG
+LTTRGFI
+>altals1_s00058_ORF.787 [31988-32045](-) type:complete length:57 frame:-2 start:TTG stop:TGA
+LKLESSFATVWLTRLPVSI
+>altals1_s00058_ORF.788 [31940-31976](-) type:complete length:36 frame:-2 start:CTG stop:TGA
+LGLMDWVLLLGG
+>altals1_s00058_ORF.789 [31346-31694](-) type:complete length:348 frame:-2 start:ATG stop:TAG
+MPSKSSAKLSSKTLVSLLLVIVIVASSLPTTGGTIASSTCVSRSRALKLNAWDASTRALRGD
+RRGERQGDDGGLLIGIGWLRVPRGRGTPFWRFLDVPTTSWTRLFGGILAIARVG
+>altals1_s00058_ORF.790 [31142-31280](-) type:complete length:138 frame:-2 start:TTG stop:TAG
+LLCWGCNTMLGASLRIATTFTYNNIYSNITLILNSTKLTRLSRGVQ
+>altals1_s00058_ORF.791 [30959-31085](-) type:complete length:126 frame:-2 start:CTG stop:TGA
+LGRAVLCFAPWGTRTILNLFRGLNRSSNKSIIKLLYIYLALL
+>altals1_s00058_ORF.792 [30749-30809](-) type:complete length:60 frame:-2 start:CTG stop:TGA
+LLFYDMLDWLDLQYKLSQLD
+>altals1_s00058_ORF.793 [30677-30731](-) type:complete length:54 frame:-2 start:TTG stop:TGA
+LIVDKSATRAGAGDLVID
+>altals1_s00058_ORF.794 [30590-30635](-) type:complete length:45 frame:-2 start:TTG stop:TAG
+LRRSITDAVSLHAVP
+>altals1_s00058_ORF.795 [30470-30551](-) type:complete length:81 frame:-2 start:CTG stop:TAA
+LAADENECKRCGPLPRLWFCLLLADTI
+>altals1_s00058_ORF.796 [30428-30461](-) type:complete length:33 frame:-2 start:ATG stop:TGA
+MLDCNPVSPKV
+>altals1_s00058_ORF.797 [30248-30305](-) type:complete length:57 frame:-2 start:CTG stop:TGA
+LIHFRRSIPRLRSNQVKTI
+>altals1_s00058_ORF.798 [30197-30230](-) type:complete length:33 frame:-2 start:TTG stop:TGA
+LIRREQPYGLS
+>altals1_s00058_ORF.799 [30176-30194](-) type:complete length:18 frame:-2 start:TTG stop:TGA
+LQIEVS
+>altals1_s00058_ORF.800 [30035-30143](-) type:complete length:108 frame:-2 start:TTG stop:TAA
+LSEISDFGSVATPLESRSLTSLPSCIYRTFVPVSRL
+>altals1_s00058_ORF.801 [29900-29930](-) type:complete length:30 frame:-2 start:CTG stop:TAG
+LAQTATRWPG
+>altals1_s00058_ORF.802 [29636-29789](-) type:complete length:153 frame:-2 start:TTG stop:TGA
+LQRVVKNERYGRRMDTTHTRNSTLFLSFTLHPYCSGTISSIWQSGCHGLID
+>altals1_s00058_ORF.803 [29531-29552](-) type:complete length:21 frame:-2 start:TTG stop:TAG
+LIVADSA
+>altals1_s00058_ORF.804 [29324-29405](-) type:complete length:81 frame:-2 start:ATG stop:TAA
+MTWPWIFQAMLRSASNSCLVHSLDLGK
+>altals1_s00058_ORF.805 [29123-29147](-) type:complete length:24 frame:-2 start:ATG stop:TAA
+MLTACLQV
+>altals1_s00058_ORF.806 [28619-28799](-) type:complete length:180 frame:-2 start:TTG stop:TAG
+LDADLSSLTLCGCVCVCGCMCVCMCVYMCVYVCVYVCVCMCVCMWVYVCVYVCVCVRVWV
+>altals1_s00058_ORF.807 [28529-28565](-) type:complete length:36 frame:-2 start:TTG stop:TGA
+LDNVDDSRLTVD
+>altals1_s00058_ORF.808 [28460-28520](-) type:complete length:60 frame:-2 start:ATG stop:TAG
+MLRLDEPLSSCNRWYSSDLV
+>altals1_s00058_ORF.809 [28007-28154](-) type:complete length:147 frame:-2 start:TTG stop:TAA
+LSYIWWKVGGDISDTVCRRSLRTLPGTDSIPQPCHRILHYSRLEDQLHL
+>altals1_s00058_ORF.810 [27794-27866](-) type:complete length:72 frame:-2 start:ATG stop:TAG
+MIDAFIVLHHVCHDTTVFHSRDKG
+>altals1_s00058_ORF.811 [27713-27749](-) type:complete length:36 frame:-2 start:TTG stop:TGA
+LKFNQSKVGTTT
+>altals1_s00058_ORF.812 [27542-27671](-) type:complete length:129 frame:-2 start:CTG stop:TAA
+LLTSSCALDFLCTLCLPSLDARCDKHLALDDFSNGSDADNHPQ
+>altals1_s00058_ORF.813 [27371-27482](-) type:complete length:111 frame:-2 start:CTG stop:TAG
+LRDGYGRSCVHTKRKCKSPPSQVEGKLGSCDSGDGEK
+>altals1_s00058_ORF.814 [27191-27212](-) type:complete length:21 frame:-2 start:TTG stop:TAA
+LTNWSKR
+>altals1_s00058_ORF.815 [27059-27152](-) type:complete length:93 frame:-2 start:ATG stop:TAA
+MHRQSVKVYDHGEHGQRNTAPPQNVADDDRP
+>altals1_s00058_ORF.816 [26864-26894](-) type:complete length:30 frame:-2 start:ATG stop:TAG
+MFIYNDEGQK
+>altals1_s00058_ORF.817 [26669-26723](-) type:complete length:54 frame:-2 start:TTG stop:TAG
+LVSALDLLQTMYFLLTEE
+>altals1_s00058_ORF.818 [26627-26663](-) type:complete length:36 frame:-2 start:CTG stop:TGA
+LNWMCKHRRPNA
+>altals1_s00058_ORF.819 [26375-26423](-) type:complete length:48 frame:-2 start:ATG stop:TAG
+MTRSKFACAFHLVGVA
+>altals1_s00058_ORF.820 [26219-26360](-) type:complete length:141 frame:-2 start:ATG stop:TGA
+MEVRNIPMVTLNHAGVRFTTTFRQPRLFRNCLICSTATSFGGCNEIS
+>altals1_s00058_ORF.821 [26084-26150](-) type:complete length:66 frame:-2 start:TTG stop:TAG
+LLQRSTIPQKRDQDTYMRHCCA
+>altals1_s00058_ORF.822 [25973-26003](-) type:complete length:30 frame:-2 start:CTG stop:TGA
+LCGSRWLRSL
+>altals1_s00058_ORF.823 [25934-25952](-) type:complete length:18 frame:-2 start:ATG stop:TGA
+MQRSKI
+>altals1_s00058_ORF.824 [25808-25895](-) type:complete length:87 frame:-2 start:ATG stop:TAA
+MRGHEHRILIGAQAHLIIISARVLRARQA
+>altals1_s00058_ORF.825 [25256-25736](-) type:complete length:480 frame:-2 start:ATG stop:TGA
+MSVQRFQEHLAALSLYFQISKQPPALASDTVSGAVYLFRHGILEVSHNDFNTYVQPFLRRIE
+VLQGAGRPFAKGQLAALQTYRSWISKAHVGMVSGEGLSQTADMGRHFRQRCSQVLKDFQVKE
+GDLKPIMRVWSDSATRCRLSAITFADAFSGKCIGIR
+>altals1_s00058_ORF.826 [24890-25175](-) type:complete length:285 frame:-2 start:TTG stop:TGA
+LINCQVNVSDSSDTPGTCKNLAWHAALQVDQQAGNREIQQLMKVTTRDALQRLRCDWSSSQE
+FGAEDVYAIELLHCYDVVSGRKLPFETWFTPAD
+>altals1_s00058_ORF.827 [24398-24803](-) type:complete length:405 frame:-2 start:CTG stop:TAG
+LVAVVRSLKSGPNHLFTFPLHVSFTHREEVLYLCCLLGIGHKEGWTPDLTRIDTGRSWFVSK
+LAPYLGHVGFEKYQNKSGQDRLRVVVNGRVTEVFSGRFEKDLDGGYDFQDIESWMTSLPQNW
+EGFDDTHWGHE
+>altals1_s00058_ORF.828 [24290-24311](-) type:complete length:21 frame:-2 start:CTG stop:TGA
+LIILYST
+>altals1_s00058_ORF.829 [24200-24269](-) type:complete length:69 frame:-2 start:ATG stop:TGA
+MKMLRCQPLKSLHFAAFGQDSML
+>altals1_s00058_ORF.830 [23954-24158](-) type:complete length:204 frame:-2 start:CTG stop:TGA
+LVWFQLKISLIHIYHLSCPGHDNCYLCTIIGILVCTALLNIINKFCYTVLSLQGNQTLHTGA
+LSPDVH
+>altals1_s00058_ORF.831 [23888-23939](-) type:complete length:51 frame:-2 start:ATG stop:TAA
+MTIIKEKPIAMLVTPYR
+>altals1_s00058_ORF.832 [23792-23864](-) type:complete length:72 frame:-2 start:TTG stop:TGA
+LSSATHVLTVVKHPQKPSVIPAST
+>altals1_s00058_ORF.833 [23636-23681](-) type:complete length:45 frame:-2 start:ATG stop:TAG
+MGNDLMHRLSCTESQ
+>altals1_s00058_ORF.834 [23435-23603](-) type:complete length:168 frame:-2 start:ATG stop:TGA
+MAKTTCPRHAPCGGQMARHTAPNQQPNPRKTPKGFVILPMFIRGMLESRGKRAIAR
+>altals1_s00058_ORF.835 [23273-23390](-) type:complete length:117 frame:-2 start:ATG stop:TAG
+MTIPKTDAALQPALLAFLTWSLPISSSDSPRKRSRMKDE
+>altals1_s00058_ORF.836 [23192-23234](-) type:complete length:42 frame:-2 start:ATG stop:TGA
+MYSGMDFFLAVWSA
+>altals1_s00058_ORF.837 [23012-23153](-) type:complete length:141 frame:-2 start:CTG stop:TAG
+LELECVVESKWRPLFSANKARSSCKNPRTRDPPKFAHNTFVVTGALR
+>altals1_s00058_ORF.838 [22646-22856](-) type:complete length:210 frame:-2 start:CTG stop:TGA
+LPISRSSSRLRWYSVRSSSGFSSGAGTASSSSPSTPSSTFSLSNSDSALSKLSSLGCLADCG
+EGLRTSSN
+>altals1_s00058_ORF.839 [22487-22625](-) type:complete length:138 frame:-2 start:CTG stop:TAG
+LSSASSFMTDGAMFCGCVDWDRDFRTFVWCRLDLYDFRDTSSPLWD
+>altals1_s00058_ORF.840 [22388-22415](-) type:complete length:27 frame:-2 start:CTG stop:TGA
+LVESELETD
+>altals1_s00058_ORF.841 [22337-22364](-) type:complete length:27 frame:-2 start:TTG stop:TAA
+LHFSLIDAT
+>altals1_s00058_ORF.842 [22274-22304](-) type:complete length:30 frame:-2 start:CTG stop:TAA
+LPDRCKKTRP
+>altals1_s00058_ORF.843 [22208-22244](-) type:complete length:36 frame:-2 start:ATG stop:TAA
+MFREVDTVAVSR
+>altals1_s00058_ORF.844 [22097-22142](-) type:complete length:45 frame:-2 start:CTG stop:TAG
+LERRQRVPYHLSFGK
+>altals1_s00058_ORF.845 [22004-22049](-) type:complete length:45 frame:-2 start:TTG stop:TAG
+LTRSLSLIGMYRNGP
+>altals1_s00058_ORF.846 [21860-21893](-) type:complete length:33 frame:-2 start:TTG stop:TGA
+LIIIQRTIVLE
+>altals1_s00058_ORF.847 [21710-21761](-) type:complete length:51 frame:-2 start:ATG stop:TGA
+MILPLKLLSPCTEIPEL
+>altals1_s00058_ORF.848 [21407-21662](-) type:complete length:255 frame:-2 start:TTG stop:TAA
+LMYGRFPTGFNRCSNIFPSRRSEYLKLESRQHHNTCACSGQTATYEHVCRKVMFQAGTPVNH
+LDLVNGTAWNGVLITAYLVATLE
+>altals1_s00058_ORF.849 [21194-21377](-) type:complete length:183 frame:-2 start:TTG stop:TGA
+LYRRMRVNLAVVVQNCKNQTSIALARLTNSIGGTCEIIIPPRHVDCLDVFLPRVAIDDPLH
+>altals1_s00058_ORF.850 [21176-21191](-) type:complete length:15 frame:-2 start:TTG stop:TAG
+LNQRW
+>altals1_s00058_ORF.851 [20711-20795](-) type:complete length:84 frame:-2 start:TTG stop:TAG
+LFKPANISTRAIKAIHVEAILKRDWDTV
+>altals1_s00058_ORF.852 [20513-20696](-) type:complete length:183 frame:-2 start:TTG stop:TGA
+LTGRSQNCIKLFSSLFRLCETNFGKAWRLHIVSVSVVGIQRPESSHLQVGEPEQLDDRKLL
+>altals1_s00058_ORF.853 [20471-20501](-) type:complete length:30 frame:-2 start:CTG stop:TGA
+LTTGKNRCCL
+>altals1_s00058_ORF.854 [20393-20405](-) type:complete length:12 frame:-2 start:CTG stop:TGA
+LLGP
+>altals1_s00058_ORF.855 [20360-20378](-) type:complete length:18 frame:-2 start:ATG stop:TGA
+MGFRRR
+>altals1_s00058_ORF.856 [20246-20351](-) type:complete length:105 frame:-2 start:ATG stop:TGA
+MPEVLHSRLTLSWRLRLCANQKERWRGHETWWVLC
+>altals1_s00058_ORF.857 [20111-20126](-) type:complete length:15 frame:-2 start:TTG stop:TAG
+LALER
+>altals1_s00058_ORF.858 [19895-19997](-) type:complete length:102 frame:-2 start:CTG stop:TAA
+LNGILAEGSWRIERSIRPPNPSCRQVLVGEQHRY
+>altals1_s00058_ORF.859 [19577-19883](-) type:complete length:306 frame:-2 start:ATG stop:TAG
+MSSGAEPLAQIVSLSLPEDTKCGHPAQVGGCFCAVRTGGDTLAGTFTIKLNSNRRQLVELYF
+EGMLKPSVTCCTLGTNRNQVCVEHGFQTGTSGIFMPTSIA
+>altals1_s00058_ORF.860 [19508-19544](-) type:complete length:36 frame:-2 start:CTG stop:TGA
+LTRAVPAASTVS
+>altals1_s00058_ORF.861 [19325-19463](-) type:complete length:138 frame:-2 start:CTG stop:TGA
+LARASNHTIRIPNSLDDTSGDGREQLASRPSRSRPLSVGKNWTYIL
+>altals1_s00058_ORF.862 [19175-19229](-) type:complete length:54 frame:-2 start:ATG stop:TGA
+MHLKTNQGDADHGCTSSR
+>altals1_s00058_ORF.863 [18701-18914](-) type:complete length:213 frame:-2 start:CTG stop:TGA
+LRDPSFGSHAYHRRCQWKLEDWSSYRNTVSREAKIRAPCLAQQPYHPARYNSTVRQQGSLLD
+YYDTDQSFC
+>altals1_s00058_ORF.864 [18638-18674](-) type:complete length:36 frame:-2 start:TTG stop:TGA
+LRDLFAEIFHFN
+>altals1_s00058_ORF.865 [18536-18617](-) type:complete length:81 frame:-2 start:ATG stop:TGA
+MVEPLIFGSPGTNYQSCSKDDTTGARQ
+>altals1_s00058_ORF.866 [18257-18374](-) type:complete length:117 frame:-2 start:CTG stop:TAG
+LMLNVPEPSFPPSPASQGIRRPSPERPATEVKDRGFRAI
+>altals1_s00058_ORF.867 [18170-18185](-) type:complete length:15 frame:-2 start:TTG stop:TGA
+LLLYS
+>altals1_s00058_ORF.868 [17984-18143](-) type:complete length:159 frame:-2 start:TTG stop:TGA
+LQRATLTSSIHDDDHTFDRRIPAFGFTRQPNCTSLSSHRQGQVDFSLSSSFPY
+>altals1_s00058_ORF.869 [17459-17696](-) type:complete length:237 frame:-2 start:ATG stop:TGA
+MESRSFGESMSGKRSPQMRFPHPCCSDAFLANERCRECRFTSSCNNLAAPSSHTSCPCRSSM
+SSMEVCIPAIQWLSKSS
+>altals1_s00058_ORF.870 [17432-17456](-) type:complete length:24 frame:-2 start:TTG stop:TGA
+LRLLAPTA
+>altals1_s00058_ORF.871 [17375-17429](-) type:complete length:54 frame:-2 start:CTG stop:TGA
+LRPSGWVRRSINHSKESS
+>altals1_s00058_ORF.872 [17324-17366](-) type:complete length:42 frame:-2 start:ATG stop:TGA
+MDHQVRRSGSYSQA
+>altals1_s00058_ORF.873 [16949-17003](-) type:complete length:54 frame:-2 start:CTG stop:TGA
+LAGLDIFQCRLLHRAGRR
+>altals1_s00058_ORF.874 [16850-16895](-) type:complete length:45 frame:-2 start:CTG stop:TGA
+LQRFVAQDQPDRYYH
+>altals1_s00058_ORF.875 [16772-16811](-) type:complete length:39 frame:-2 start:CTG stop:TGA
+LVGFCVASLGRND
+>altals1_s00058_ORF.876 [16559-16580](-) type:complete length:21 frame:-2 start:CTG stop:TGA
+LVFGSCV
+>altals1_s00058_ORF.877 [16370-16478](-) type:complete length:108 frame:-2 start:TTG stop:TGA
+LECWARVAIINLQRHRLRLALNEILICYIPEVPQKV
+>altals1_s00058_ORF.878 [16208-16361](-) type:complete length:153 frame:-2 start:CTG stop:TGA
+LWCSRLLQKRLYIVHGDLVVVPRDGSWSYSLALLSTCFALAQIRVLVFEFQ
+>altals1_s00058_ORF.879 [16061-16178](-) type:complete length:117 frame:-2 start:CTG stop:TAA
+LIYCVADDAIIWRLSSKLSQGAKKGNLLFLKRRDVAAHT
+>altals1_s00058_ORF.880 [15968-16052](-) type:complete length:84 frame:-2 start:ATG stop:TGA
+MILLGANLLYLLDRFFRPTMLESILQVA
+>altals1_s00058_ORF.881 [15737-15941](-) type:complete length:204 frame:-2 start:ATG stop:TGA
+MRPLHLTLRRRQRLHAFLTRLRISSGWSSFPAAATADSCSCRRDGVSSFGGMIRNMASRDRK
+VVTKVT
+>altals1_s00058_ORF.882 [15680-15701](-) type:complete length:21 frame:-2 start:TTG stop:TGA
+LADIAGI
+>altals1_s00058_ORF.883 [15635-15659](-) type:complete length:24 frame:-2 start:CTG stop:TGA
+LQHPLNVP
+>altals1_s00058_ORF.884 [15563-15584](-) type:complete length:21 frame:-2 start:TTG stop:TAG
+LLMYVSG
+>altals1_s00058_ORF.885 [15377-15524](-) type:complete length:147 frame:-2 start:CTG stop:TAG
+LDKLGQRLHVHGRPTELLPRSRYSVCALDEPHHPMNHSTNFTRSTNMRL
+>altals1_s00058_ORF.886 [15287-15326](-) type:complete length:39 frame:-2 start:CTG stop:TAG
+LIACEKDVLFKKN
+>altals1_s00058_ORF.887 [15179-15197](-) type:complete length:18 frame:-2 start:ATG stop:TAG
+MHDAAS
+>altals1_s00058_ORF.888 [15029-15152](-) type:complete length:123 frame:-2 start:TTG stop:TGA
+LLGYVSLPVLLIFSWLQPLFPVAFAPDFRYVPEPSPRAPSP
+>altals1_s00058_ORF.889 [14948-14966](-) type:complete length:18 frame:-2 start:TTG stop:TAG
+LRAQAS
+>altals1_s00058_ORF.890 [14828-14903](-) type:complete length:75 frame:-2 start:TTG stop:TGA
+LRCCRSRGLFFFLCFCLVETASFKP
+>altals1_s00058_ORF.891 [14705-14720](-) type:complete length:15 frame:-2 start:CTG stop:TAA
+LQRFF
+>altals1_s00058_ORF.892 [14612-14633](-) type:complete length:21 frame:-2 start:TTG stop:TAA
+LLQYITG
+>altals1_s00058_ORF.893 [14483-14516](-) type:complete length:33 frame:-2 start:TTG stop:TAA
+LVYKRLYSIES
+>altals1_s00058_ORF.894 [14204-14225](-) type:complete length:21 frame:-2 start:ATG stop:TAA
+MWAGGIF
+>altals1_s00058_ORF.895 [13481-13541](-) type:complete length:60 frame:-2 start:TTG stop:TAA
+LHNPLLNYRKARSTLPIRSH
+>altals1_s00058_ORF.896 [13283-13415](-) type:complete length:132 frame:-2 start:ATG stop:TAA
+MHHDNAAATSTTIPSYKGTGNNNNSATYSTTYRPSLVCTLAAST
+>altals1_s00058_ORF.897 [13073-13103](-) type:complete length:30 frame:-2 start:CTG stop:TAG
+LLRALNAATL
+>altals1_s00058_ORF.898 [12872-12911](-) type:complete length:39 frame:-2 start:CTG stop:TAA
+LLIQRFRDRLLKR
+>altals1_s00058_ORF.899 [12689-12752](-) type:complete length:63 frame:-2 start:TTG stop:TAG
+LLQLSKRELLLLRSFFKTPNN
+>altals1_s00058_ORF.900 [12515-12566](-) type:complete length:51 frame:-2 start:CTG stop:TAG
+LRNVEIANRTVIALSLS
+>altals1_s00058_ORF.901 [12032-12074](-) type:complete length:42 frame:-2 start:CTG stop:TAA
+LRCLSKLSTTLEQR
+>altals1_s00058_ORF.902 [11993-12011](-) type:complete length:18 frame:-2 start:TTG stop:TAG
+LYNSIR
+>altals1_s00058_ORF.903 [11870-11909](-) type:complete length:39 frame:-2 start:CTG stop:TAG
+LLNTVIIRVRLKL
+>altals1_s00058_ORF.904 [11315-11369](-) type:complete length:54 frame:-2 start:CTG stop:TAG
+LQCLCIRAALSLIERRVY
+>altals1_s00058_ORF.905 [10217-10256](-) type:complete length:39 frame:-2 start:ATG stop:TAA
+MLKKPLTPCDRSL
+>altals1_s00058_ORF.906 [9803-9818](-) type:complete length:15 frame:-2 start:TTG stop:TAA
+LQTAY
+>altals1_s00058_ORF.907 [9374-9401](-) type:complete length:27 frame:-2 start:CTG stop:TAG
+LRKAITPSH
+>altals1_s00058_ORF.908 [9032-9044](-) type:complete length:12 frame:-2 start:CTG stop:TAA
+LPIN
+>altals1_s00058_ORF.909 [8786-8816](-) type:complete length:30 frame:-2 start:TTG stop:TAA
+LLTSCSSNAF
+>altals1_s00058_ORF.910 [8648-8678](-) type:complete length:30 frame:-2 start:CTG stop:TAG
+LRSTSKQTGR
+>altals1_s00058_ORF.911 [8261-8276](-) type:complete length:15 frame:-2 start:TTG stop:TAG
+LQKVT
+>altals1_s00058_ORF.912 [8093-8114](-) type:complete length:21 frame:-2 start:TTG stop:TAG
+LSLISRS
+>altals1_s00058_ORF.913 [6791-6836](-) type:complete length:45 frame:-2 start:TTG stop:TGA
+LQMLRQVVYIKRDGA
+>altals1_s00058_ORF.914 [6689-6734](-) type:complete length:45 frame:-2 start:ATG stop:TAA
+MNYCCCDKGRMQEKF
+>altals1_s00058_ORF.915 [6560-6575](-) type:complete length:15 frame:-2 start:ATG stop:TAA
+MRLTP
+>altals1_s00058_ORF.916 [6305-6332](-) type:complete length:27 frame:-2 start:CTG stop:TGA
+LLATQRCKA
+>altals1_s00058_ORF.917 [6185-6215](-) type:complete length:30 frame:-2 start:TTG stop:TAG
+LSRCSIITRF
+>altals1_s00058_ORF.918 [5900-5930](-) type:complete length:30 frame:-2 start:ATG stop:TGA
+MRNTRMLVSH
+>altals1_s00058_ORF.919 [5849-5891](-) type:complete length:42 frame:-2 start:TTG stop:TAG
+LSLCLRMVSGVPVG
+>altals1_s00058_ORF.920 [5768-5825](-) type:complete length:57 frame:-2 start:ATG stop:TAG
+MYLPFSTVGSRCCVMTEGP
+>altals1_s00058_ORF.921 [5600-5735](-) type:complete length:135 frame:-2 start:ATG stop:TGA
+MHRFRSYSRAELKRCQYGSSMAFISSYSTCCGEDLRINFRSIVMC
+>altals1_s00058_ORF.922 [5414-5501](-) type:complete length:87 frame:-2 start:ATG stop:TGA
+MCRIGIPCIHGLLQTAHTSPAVGSLSDAL
+>altals1_s00058_ORF.923 [5387-5408](-) type:complete length:21 frame:-2 start:ATG stop:TAG
+MRWLANV
+>altals1_s00058_ORF.924 [5036-5198](-) type:complete length:162 frame:-2 start:CTG stop:TGA
+LYRVISAQALRTKDYHRTIGMCRIDRDLYIACGAVTSTGPGSRWSYPTGCVSAA
+>altals1_s00058_ORF.925 [4853-4967](-) type:complete length:114 frame:-2 start:TTG stop:TAG
+LLSFVYASAFETTMPLSHPWVDISRAWQAPNTQYLFRL
+>altals1_s00058_ORF.926 [4802-4838](-) type:complete length:36 frame:-2 start:TTG stop:TGA
+LYEGSLTFKQVQ
+>altals1_s00058_ORF.927 [4691-4730](-) type:complete length:39 frame:-2 start:CTG stop:TAG
+LRSQHRLLALCGI
+>altals1_s00058_ORF.928 [4613-4658](-) type:complete length:45 frame:-2 start:ATG stop:TAG
+MRQTYKYVLEVCVSL
+>altals1_s00058_ORF.929 [4460-4586](-) type:complete length:126 frame:-2 start:ATG stop:TAG
+MTFFLAFRRLLQMSTSTPQKLRRKLFPTSTIQKHDTLSSVES
+>altals1_s00058_ORF.930 [4400-4439](-) type:complete length:39 frame:-2 start:ATG stop:TAG
+MCLLCRSKELTIG
+>altals1_s00058_ORF.931 [4307-4379](-) type:complete length:72 frame:-2 start:ATG stop:TGA
+MTHEMLYIPTSNTSLFSSMIAYNS
+>altals1_s00058_ORF.932 [4214-4247](-) type:complete length:33 frame:-2 start:CTG stop:TGA
+LHKVSGFVLVI
+>altals1_s00058_ORF.933 [4076-4103](-) type:complete length:27 frame:-2 start:ATG stop:TAG
+MAKLTRFAN
+>altals1_s00058_ORF.934 [3998-4058](-) type:complete length:60 frame:-2 start:TTG stop:TGA
+LMVRSREVCVCNRSSGILQS
+>altals1_s00058_ORF.935 [3803-3944](-) type:complete length:141 frame:-2 start:ATG stop:TGA
+MTLLLSTTILLSSATTLLPSAAVLLYCATVLLLSAVTPMGANASSGC
+>altals1_s00058_ORF.936 [3602-3764](-) type:complete length:162 frame:-2 start:ATG stop:TAA
+MSRACDSSRVETKSGPASSSCLRVLCSCNSSSERSACSVSGGNRSNNCGGCEGL
+>altals1_s00058_ORF.937 [3134-3563](-) type:complete length:429 frame:-2 start:ATG stop:TGA
+MLSCACCSSSSCSGDGRTKGDGERDGTNKGDGERDGVVIGKGDRFRAVRFLSLARRRSDLSE
+TFIVLEASLTLELDQGIRQYMHVFNNTKLSMYSQVRMCALCCEARHRSARVYHPHQHYPYRW
+YRHILSARSRMTRSRLNPT
+>altals1_s00058_ORF.938 [2750-3005](-) type:complete length:255 frame:-2 start:ATG stop:TGA
+MDGFCMTPKLVFGAKHVLAVRVWTDRWGGGPLVGLDAPSCACAGQKGCQIAESEPAGARGYR
+PEIRRNARPLQPHHRVELIRKNC
+>altals1_s00058_ORF.939 [2726-2744](-) type:complete length:18 frame:-2 start:CTG stop:TAA
+LGDGAA
+>altals1_s00058_ORF.940 [2639-2702](-) type:complete length:63 frame:-2 start:CTG stop:TAG
+LTGTIHRAHSSSASLSAQSTR
+>altals1_s00058_ORF.941 [2450-2621](-) type:complete length:171 frame:-2 start:TTG stop:TAA
+LRHDRQASRDSRRSDGNYPIGIGEYVYLGDASLRGESLYRRIFRGSWNCSRSKHNGE
+>altals1_s00058_ORF.942 [2330-2357](-) type:complete length:27 frame:-2 start:TTG stop:TAA
+LFCLSQYSI
+>altals1_s00058_ORF.943 [2210-2234](-) type:complete length:24 frame:-2 start:ATG stop:TAG
+MCIASSLG
+>altals1_s00058_ORF.944 [2177-2195](-) type:complete length:18 frame:-2 start:TTG stop:TGA
+LAQGYL
+>altals1_s00058_ORF.945 [1805-2033](-) type:complete length:228 frame:-2 start:ATG stop:TGA
+MGSVRVSVWLVQKLMPVLWHVEAWSSLRRSPRAAYDTRLFAIAVVMHNLPLGCAGIMSPLRR
+DYRVRWLLLCYHDW
+>altals1_s00058_ORF.946 [1754-1784](-) type:complete length:30 frame:-2 start:TTG stop:TAG
+LVQEGFSSTS
+>altals1_s00058_ORF.947 [1682-1730](-) type:complete length:48 frame:-2 start:CTG stop:TAA
+LFFGLSHEPLIGCQPQ
+>altals1_s00058_ORF.948 [1538-1610](-) type:complete length:72 frame:-2 start:TTG stop:TAG
+LPFLSIVSGGRSIRAYYATYSQPL
+>altals1_s00058_ORF.949 [1469-1514](-) type:complete length:45 frame:-2 start:ATG stop:TGA
+MHLTCLRTQPVDQSL
+>altals1_s00058_ORF.950 [1409-1421](-) type:complete length:12 frame:-2 start:CTG stop:TGA
+LSRR
+>altals1_s00058_ORF.951 [1262-1373](-) type:complete length:111 frame:-2 start:CTG stop:TAA
+LTCSDICTANCLVAAPSLQCLGTKCILRTPHLPELTP
+>altals1_s00058_ORF.952 [1232-1250](-) type:complete length:18 frame:-2 start:CTG stop:TAG
+LGTWIA
+>altals1_s00058_ORF.953 [1043-1103](-) type:complete length:60 frame:-2 start:ATG stop:TAG
+MKKEAHVRAILVTYEIYVTV
+>altals1_s00058_ORF.954 [773-947](-) type:complete length:174 frame:-2 start:CTG stop:TGA
+LQACAWMCKLIFVTCPHEPNQVFSDWQKGYRLSISSRCNLSVLRKVLSNENLQVLVLR
+>altals1_s00058_ORF.955 [749-764](-) type:complete length:15 frame:-2 start:CTG stop:TAA
+LATSK
+>altals1_s00058_ORF.956 [536-680](-) type:complete length:144 frame:-2 start:CTG stop:TAA
+LTSPSFGEPAKEQLDTIHTRCLSERRMRGFVEDGFSEPDLLVIRSDMC
+>altals1_s00058_ORF.957 [347-386](-) type:complete length:39 frame:-2 start:TTG stop:TGA
+LLLFLGAIVSGII
+>altals1_s00058_ORF.958 [272-344](-) type:complete length:72 frame:-2 start:ATG stop:TGA
+MGRKMTLLKREGRRYESEQVARST
+>altals1_s00058_ORF.959 [185-200](-) type:complete length:15 frame:-2 start:ATG stop:TAA
+MMNDC
+>altals1_s00058_ORF.960 [14-26](-) type:complete length:12 frame:-2 start:ATG stop:TAG
+MYYY
+>altals1_s00058_ORF.961 [34468-34483](-) type:complete length:15 frame:-3 start:CTG stop:TAG
+LGLVA
+>altals1_s00058_ORF.962 [34213-34288](-) type:complete length:75 frame:-3 start:TTG stop:TAG
+LLVRGLNSKWPWLSARHVQTVERNT
+>altals1_s00058_ORF.963 [33850-34054](-) type:complete length:204 frame:-3 start:TTG stop:TAG
+LIDEINRSKTLRLINLIDWIDSIAFVRLEKWGIVTICSVESRYRRRYRCRYRCPMYPCRTTS
+LYRCQL
+>altals1_s00058_ORF.964 [33814-33844](-) type:complete length:30 frame:-3 start:CTG stop:TAG
+LYGLYYYCLN
+>altals1_s00058_ORF.965 [33445-33496](-) type:complete length:51 frame:-3 start:TTG stop:TAG
+LRRLYRSIRVSCVVQQP
+>altals1_s00058_ORF.966 [33325-33397](-) type:complete length:72 frame:-3 start:CTG stop:TAG
+LKASQACQYPRQRRNTSCSMDGVL
+>altals1_s00058_ORF.967 [33250-33271](-) type:complete length:21 frame:-3 start:TTG stop:TGA
+LSTLRVY
+>altals1_s00058_ORF.968 [33166-33202](-) type:complete length:36 frame:-3 start:CTG stop:TAA
+LPRKPRRAARNN
+>altals1_s00058_ORF.969 [33130-33148](-) type:complete length:18 frame:-3 start:CTG stop:TAG
+LVSPQR
+>altals1_s00058_ORF.970 [32911-33025](-) type:complete length:114 frame:-3 start:TTG stop:TAA
+LLGYLILSTAAHRVACCGGFLRTYPHLAPALYSDWRRR
+>altals1_s00058_ORF.971 [32881-32905](-) type:complete length:24 frame:-3 start:CTG stop:TAA
+LTVAVQRA
+>altals1_s00058_ORF.972 [32554-32647](-) type:complete length:93 frame:-3 start:CTG stop:TGA
+LGRCRTSWSLCPRGVFDRRGSAYREHNGGGD
+>altals1_s00058_ORF.973 [32488-32524](-) type:complete length:36 frame:-3 start:TTG stop:TAA
+LPQPRRCCCQRY
+>altals1_s00058_ORF.974 [32374-32395](-) type:complete length:21 frame:-3 start:CTG stop:TAG
+LLTAAAQ
+>altals1_s00058_ORF.975 [32149-32167](-) type:complete length:18 frame:-3 start:CTG stop:TAA
+LPLLVG
+>altals1_s00058_ORF.976 [32059-32092](-) type:complete length:33 frame:-3 start:TTG stop:TAA
+LPLQASQQQRV
+>altals1_s00058_ORF.977 [31861-31897](-) type:complete length:36 frame:-3 start:CTG stop:TAA
+LLMLSVLSRILG
+>altals1_s00058_ORF.978 [31729-31786](-) type:complete length:57 frame:-3 start:ATG stop:TAG
+MRRGSRSDISSFFSNAVTP
+>altals1_s00058_ORF.979 [31591-31633](-) type:complete length:42 frame:-3 start:TTG stop:TAG
+LLLLPPRCQQQAGR
+>altals1_s00058_ORF.980 [31471-31486](-) type:complete length:15 frame:-3 start:ATG stop:TAA
+MMEGF
+>altals1_s00058_ORF.981 [31351-31411](-) type:complete length:60 frame:-3 start:TTG stop:TAG
+LTCQQRRGRVFSVAYLRSRE
+>altals1_s00058_ORF.982 [31036-31252](-) type:complete length:216 frame:-3 start:TTG stop:TAA
+LARLCVLQLPLPTIIYTVILRLYLTLLSLPGLVEVYNSQRSSQYPRARSTGLPDLYWVGQSC
+ASRPGVLGRF
+>altals1_s00058_ORF.983 [30730-30823](-) type:complete length:93 frame:-3 start:TTG stop:TGA
+LSLIDCYFTICWIGLTCSTNCHSLIDEIDLD
+>altals1_s00058_ORF.984 [30688-30727](-) type:complete length:39 frame:-3 start:TTG stop:TAG
+LLTSLLLELEQET
+>altals1_s00058_ORF.985 [30634-30682](-) type:complete length:48 frame:-3 start:TTG stop:TGA
+LIDVDGVAHQRERSTR
+>altals1_s00058_ORF.986 [30442-30568](-) type:complete length:126 frame:-3 start:TTG stop:TAA
+LLQLGAWLQMRMNANVVGHSLDCGFAFFLQIQFKYLCLTAIP
+>altals1_s00058_ORF.987 [30151-30187](-) type:complete length:36 frame:-3 start:TTG stop:TGA
+LRCREAVEIVLT
+>altals1_s00058_ORF.988 [29863-29959](-) type:complete length:96 frame:-3 start:TTG stop:TAG
+LRLQKLRFPRWLRRRLGGLASQGFSGRQRSLR
+>altals1_s00058_ORF.989 [29644-29806](-) type:complete length:162 frame:-3 start:TTG stop:TGA
+LRLGRHCNALLRMKDMGGGWTRLTRETPPFFYPSPSTPTAAAQSHQSGNLDVTD
+>altals1_s00058_ORF.990 [29623-29641](-) type:complete length:18 frame:-3 start:TTG stop:TAA
+LIELLI
+>altals1_s00058_ORF.991 [29551-29587](-) type:complete length:36 frame:-3 start:CTG stop:TGA
+LAISQDQSHNPD
+>altals1_s00058_ORF.992 [29440-29548](-) type:complete length:108 frame:-3 start:TTG stop:TAA
+LLRTLLSDVEGAKTKRASRVGSAPSCSFIGGNLDQV
+>altals1_s00058_ORF.993 [29143-29263](-) type:complete length:120 frame:-3 start:TTG stop:TGA
+LFLYKPKHYPQKQEHNRPRTPNEHKRPFSKNTYEEIRHAC
+>altals1_s00058_ORF.994 [29056-29083](-) type:complete length:27 frame:-3 start:CTG stop:TAA
+LYIVTSIRH
+>altals1_s00058_ORF.995 [28936-28948](-) type:complete length:12 frame:-3 start:TTG stop:TAG
+LLRK
+>altals1_s00058_ORF.996 [28777-28819](-) type:complete length:42 frame:-3 start:TTG stop:TAA
+LKPETHSWMLILVL
+>altals1_s00058_ORF.997 [28540-28708](-) type:complete length:168 frame:-3 start:ATG stop:TGA
+MCVCMCVCVCVCVCGCMCVYMCVYVCVCGCRCRCRCGWVWVWVCRCNNWTTSMTVD
+>altals1_s00058_ORF.998 [28465-28507](-) type:complete length:42 frame:-3 start:ATG stop:TAG
+MNHFPAAIDGIRAI
+>altals1_s00058_ORF.999 [28426-28453](-) type:complete length:27 frame:-3 start:TTG stop:TAG
+LCFGKNASR
+>altals1_s00058_ORF.1000 [28186-28327](-) type:complete length:141 frame:-3 start:ATG stop:TAG
+MWRGDVVFLPAPGFSSSILYSKNSRYVTKVIRGSGCVPSACQRQCHR
+>altals1_s00058_ORF.1001 [28153-28174](-) type:complete length:21 frame:-3 start:TTG stop:TGA
+LQRTEHV
+>altals1_s00058_ORF.1002 [27877-27973](-) type:complete length:96 frame:-3 start:CTG stop:TAA
+LKAFTAPYAEHFHTHLECLWLTLKITSHNITM
+>altals1_s00058_ORF.1003 [27763-27850](-) type:complete length:87 frame:-3 start:TTG stop:TAA
+LCCTTSATTRPSFTLEIRVRTLRIEYAFL
+>altals1_s00058_ORF.1004 [27481-27616](-) type:complete length:135 frame:-3 start:TTG stop:TGA
+LTQGATNISPLMIFRMVPMLTTIHNNTTDNEKIVPSTLKKRDGSS
+>altals1_s00058_ORF.1005 [27316-27475](-) type:complete length:159 frame:-3 start:ATG stop:TAG
+MATVAVAYTPSGNVNPHHPRLKGNLDRVIAAMAKNSQTIPKPHIIIPIMSPLA
+>altals1_s00058_ORF.1006 [27211-27307](-) type:complete length:96 frame:-3 start:CTG stop:TGA
+LPARSSMAAGTVSVRPKTFKASRPRVMMPNAP
+>altals1_s00058_ORF.1007 [27136-27175](-) type:complete length:39 frame:-3 start:ATG stop:TGA
+MTSRGGRECIVNR
+>altals1_s00058_ORF.1008 [27079-27127](-) type:complete length:48 frame:-3 start:ATG stop:TAG
+MTMVNMAKGTPHPHRM
+>altals1_s00058_ORF.1009 [26662-27076](-) type:complete length:414 frame:-3 start:CTG stop:TGA
+LTMIVHKACVSGRTPATIPPVAAATMVATMGRSHTAVILESWDCRAYISNAMSALEASHTSC
+LYITMKGRSRFVPSESTTSIHQSVQANVAAQGPQAGTQTKTIMLMMVERPIGIVPVWCQRSI
+FSRLCTSYLPRNRD
+>altals1_s00058_ORF.1010 [26449-26632](-) type:complete length:183 frame:-3 start:ATG stop:TGA
+MPENRVYLRMLSTVNSVNMSTFAAKMTTEIQYSHVALYGRLCRSIEVIPVPGRNVKNGAVA
+>altals1_s00058_ORF.1011 [26329-26407](-) type:complete length:78 frame:-3 start:TTG stop:TGA
+LRVPSTWWGWHRQWSKWRFATYPWLR
+>altals1_s00058_ORF.1012 [26167-26230](-) type:complete length:63 frame:-3 start:ATG stop:TGA
+MKYRDVVFAAAGQVLRRKDPL
+>altals1_s00058_ORF.1013 [25960-26158](-) type:complete length:198 frame:-3 start:CTG stop:TGA
+LGVCCKGQQSLRNEIKIHICAIAVLSNAKLPPEVRTEKRRTVMRLPMFLGHTCAEVAGSGAC
+DRLA
+>altals1_s00058_ORF.1014 [25870-25885](-) type:complete length:15 frame:-3 start:ATG stop:TGA
+MSIVF
+>altals1_s00058_ORF.1015 [25846-25867](-) type:complete length:21 frame:-3 start:TTG stop:TAA
+LVRKRTS
+>altals1_s00058_ORF.1016 [25753-25780](-) type:complete length:27 frame:-3 start:CTG stop:TAG
+LVDLLGSDD
+>altals1_s00058_ORF.1017 [25345-25732](-) type:complete length:387 frame:-3 start:CTG stop:TGA
+LFSASKSISPLCLCTFRSPNNRQLSRPTLFLEPCTYFAMVFSKCLTMTSTPTSSLSCEELRS
+CKAQEDRSPRDSWRPYRRIEVGLAKHMWAWSLAKVCHRLQIWADTLDNVVARFSRISKSKRV
+ISNRL
+>altals1_s00058_ORF.1018 [25261-25294](-) type:complete length:33 frame:-3 start:TTG stop:TAA
+LQTHSQVNASG
+>altals1_s00058_ORF.1019 [25090-25156](-) type:complete length:66 frame:-3 start:ATG stop:TAG
+MSVTRPIPLELARTLHGMQRYK
+>altals1_s00058_ORF.1020 [25054-25078](-) type:complete length:24 frame:-3 start:CTG stop:TGA
+LATERYNS
+>altals1_s00058_ORF.1021 [24886-24988](-) type:complete length:102 frame:-3 start:TTG stop:TAG
+LEPKTCTPLNFSIAMMSSRDANYPSKHGSHPQTE
+>altals1_s00058_ORF.1022 [24793-24838](-) type:complete length:45 frame:-3 start:ATG stop:TAG
+MAAILGESLYLSWWQ
+>altals1_s00058_ORF.1023 [24694-24742](-) type:complete length:48 frame:-3 start:ATG stop:TAG
+MCPSRTERKYSICVVF
+>altals1_s00058_ORF.1024 [24541-24628](-) type:complete length:87 frame:-3 start:TTG stop:TAA
+LFQSLRHTSVTLGLKSIRTRAARIVCVLL
+>altals1_s00058_ORF.1025 [24454-24538](-) type:complete length:84 frame:-3 start:ATG stop:TGA
+MGVSQRFSQVGSKKISTVVMTFRISSPG
+>altals1_s00058_ORF.1026 [24310-24424](-) type:complete length:114 frame:-3 start:TTG stop:TGA
+LTTPTGAMSSIVSQSGFAQKMGSAYRQKTERLYVQPRF
+>altals1_s00058_ORF.1027 [24181-24229](-) type:complete length:48 frame:-3 start:TTG stop:TGA
+LRHLAKTACFDTFFRK
+>altals1_s00058_ORF.1028 [23938-24097](-) type:complete length:159 frame:-3 start:ATG stop:TGA
+MTIATCAQSLASWCAQHCLTLLISFATPFYLYKAIKPYTPVPSVLTSIEELPQ
+>altals1_s00058_ORF.1029 [23902-23914](-) type:complete length:12 frame:-3 start:TTG stop:TGA
+LRCL
+>altals1_s00058_ORF.1030 [23809-23848](-) type:complete length:39 frame:-3 start:ATG stop:TGA
+MYLLSSNIHRNLL
+>altals1_s00058_ORF.1031 [23725-23749](-) type:complete length:24 frame:-3 start:TTG stop:TAG
+LYVADRKP
+>altals1_s00058_ORF.1032 [23668-23689](-) type:complete length:21 frame:-3 start:ATG stop:TAA
+MYRWEMT
+>altals1_s00058_ORF.1033 [23497-23545](-) type:complete length:48 frame:-3 start:CTG stop:TGA
+LHQTNNPILGRRPRDL
+>altals1_s00058_ORF.1034 [23401-23425](-) type:complete length:24 frame:-3 start:ATG stop:TGA
+MRGRKARL
+>altals1_s00058_ORF.1035 [23347-23374](-) type:complete length:27 frame:-3 start:CTG stop:TAG
+LMRHSNQRS
+>altals1_s00058_ORF.1036 [23266-23278](-) type:complete length:12 frame:-3 start:ATG stop:TGA
+MSRM
+>altals1_s00058_ORF.1037 [23032-23263](-) type:complete length:231 frame:-3 start:ATG stop:TAG
+MIRRSQLPAQCIVVWTFSWQSGRLESPAAPFRRCRHHWSWSAWSRVSGDLFSRRTRRDLLAR
+TQELGILQNLPTIRS
+>altals1_s00058_ORF.1038 [22732-23008](-) type:complete length:276 frame:-3 start:ATG stop:TGA
+MSSIRLLVLPACQESRRAQARSVCRAVSEAFAVRKVVRSLGVYVHGSHFVYCQSLVLLQGFG
+GTRSAPRRGSHLERVQQAHQVHPRLHRRFR
+>altals1_s00058_ORF.1039 [22603-22717](-) type:complete length:114 frame:-3 start:CTG stop:TGA
+LLYLNCLRWVALRTVVKVCGLPRIDRSPRVRCLQPLHL
+>altals1_s00058_ORF.1040 [22411-22600](-) type:complete length:189 frame:-3 start:CTG stop:TAG
+LMVPCSVGVLIGIETSEHSCGADWTFMTSEIRHLLFGTSATAPPVPCMRHRISLVRTRTARA
+W
+>altals1_s00058_ORF.1041 [22324-22405](-) type:complete length:81 frame:-3 start:CTG stop:TAG
+LSSRRIDRRTHSASCILVSLTLPNFAL
+>altals1_s00058_ORF.1042 [22216-22267](-) type:complete length:51 frame:-3 start:ATG stop:TGA
+MMSLFHPRCSERLILLQ
+>altals1_s00058_ORF.1043 [22048-22174](-) type:complete length:126 frame:-3 start:CTG stop:TGA
+LESLTHHLDTNWSAVKEFLIICLSVSSSIIETLSTITYRDSN
+>altals1_s00058_ORF.1044 [21892-21937](-) type:complete length:45 frame:-3 start:CTG stop:TGA
+LQSMLENVSKLFRQL
+>altals1_s00058_ORF.1045 [21838-21865](-) type:complete length:27 frame:-3 start:TTG stop:TGA
+LNEPSGAAV
+>altals1_s00058_ORF.1046 [21766-21823](-) type:complete length:57 frame:-3 start:ATG stop:TAA
+MITPSTALLLAVNSLVDLQ
+>altals1_s00058_ORF.1047 [21661-21679](-) type:complete length:18 frame:-3 start:TTG stop:TGA
+LNRSAS
+>altals1_s00058_ORF.1048 [21589-21655](-) type:complete length:66 frame:-3 start:ATG stop:TGA
+MGGSPLASIAARTFFPAVDPSI
+>altals1_s00058_ORF.1049 [21436-21547](-) type:complete length:111 frame:-3 start:CTG stop:TAA
+LVKRQLTSTSVARSCFKPGLQSTTLILSMEQHGMGCS
+>altals1_s00058_ORF.1050 [21298-21343](-) type:complete length:45 frame:-3 start:TTG stop:TGA
+LFRIAKTRLPLLWPG
+>altals1_s00058_ORF.1051 [21190-21286](-) type:complete length:96 frame:-3 start:TTG stop:TGA
+LEVPAKLSSLQGMSIVSMSSCHALQLMIHFID
+>altals1_s00058_ORF.1052 [20695-21121](-) type:complete length:426 frame:-3 start:TTG stop:TGA
+LSANPVADIRPKEGRMPYKLLKPHGMRIDPAMSVPHPIGDPRRASKAASPPHAPPAERSLLK
+GFIVEPTMLLVVSPISIDIGTLVFAKITAPASLRRRTNTPSSTADLGCSSQLTYPHALSRPS
+TWKRSLRETGIPCSGPTT
+>altals1_s00058_ORF.1053 [20500-20551](-) type:complete length:51 frame:-3 start:TTG stop:TGA
+LVSQSSSMTESSCDLRR
+>altals1_s00058_ORF.1054 [20428-20494](-) type:complete length:66 frame:-3 start:CTG stop:TGA
+LERTDVACENRDRRGGDLLLQW
+>altals1_s00058_ORF.1055 [20218-20269](-) type:complete length:51 frame:-3 start:ATG stop:TAA
+MRHGGCCAEQWLKRQRS
+>altals1_s00058_ORF.1056 [20119-20164](-) type:complete length:45 frame:-3 start:CTG stop:TAG
+LGLDGTFGCASPSWH
+>altals1_s00058_ORF.1057 [19996-20071](-) type:complete length:75 frame:-3 start:TTG stop:TGA
+LVAVQVTFFVLKPARENVKRMGHES
+>altals1_s00058_ORF.1058 [19951-19963](-) type:complete length:12 frame:-3 start:TTG stop:TAA
+LSDP
+>altals1_s00058_ORF.1059 [19843-19876](-) type:complete length:33 frame:-3 start:CTG stop:TGA
+LAPNLWPRLCH
+>altals1_s00058_ORF.1060 [19735-19834](-) type:complete length:99 frame:-3 start:CTG stop:TAA
+LRIPNVDIRLKSVAAFVRFAQVAIRWQERSRSN
+>altals1_s00058_ORF.1061 [19687-19711](-) type:complete length:24 frame:-3 start:TTG stop:TGA
+LNSISKVC
+>altals1_s00058_ORF.1062 [19561-19627](-) type:complete length:66 frame:-3 start:ATG stop:TAG
+MASRQGHRAFSCLRASRRWSVR
+>altals1_s00058_ORF.1063 [18439-19528](-) type:complete length:1089 frame:-3 start:CTG stop:TAG
+LLQVQCLEARPARHQSTGYAVTWPALQTIPFVFQIPWTIPAETVGSNSRQDQADHGLYPSAK
+IGRTYFDSANDKIFAQPFITYTLSASIRRNVTTRPFRQCISRPIKVMPTTAAPPPVDTTSFE
+GEYVRVARANLRNSFYSRSFGSLAFSADEPQVIRLPEQFSQSQTTVFLRISFQHIRTEVKLK
+TIPYDWKFEVSSRLQRRVFCATHPLARMPTIADASGSSKIGLRTEILSAEKQRYEHLAWRNN
+HTTPHGTILLSDNKAASWITTIPIKVSADSSLFPSFFCATCSLRYSILIDIRVVGAWSSHSS
+LAVPVQIISPARKMIQLERDNERISGTQLAESPGGDLGAAQESRPPDYRPTPF
+>altals1_s00058_ORF.1064 [18400-18424](-) type:complete length:24 frame:-3 start:ATG stop:TAG
+MCFKVTVQ
+>altals1_s00058_ORF.1065 [18283-18364](-) type:complete length:81 frame:-3 start:ATG stop:TGA
+MSLNQVSPPRPPHRAYGDQVPKDPQRK
+>altals1_s00058_ORF.1066 [17428-18112](-) type:complete length:684 frame:-3 start:ATG stop:TGA
+MMTTILSIDASQRLDSRGNPTVQVCLRTDKGKLTSLSAPHFHTDILSAGTFRSIVPSGASKG
+DYEAAELRDGNEKEYHGQGVLGAVENVTRVLAPQIIDKNFQLPEDVRKIDAFMIELDGTQDK
+GKLGANAILAISMAVWRAAASAKVCLEKDRLKCDSRTLVAQTHSLLTRDAGSAALPVPATIL
+RHPAVIRHARAVLQCPQWRCAFRQYNGFPRVHDCACWRRQHD
+>altals1_s00058_ORF.1067 [16591-17260](-) type:complete length:669 frame:-3 start:TTG stop:TAA
+LTPHEGLDLLVTAIEASGHAGKVKIGIDPASQEFFNEKDHSYDLGFKRKSSEQGVNFDAEAL
+AKLYYEILEQYPVVLLEDPFGQDDWPAWTSFNADCSIELVGDDLLATNRGRIEKAHQEKACN
+ALLLKINQIGTITEAIDAAKQAYSYGWSVFVSHRSGETTDDFIADLTVGLGTGHLKSGSPCR
+GERVAKYNRLLDIEEELMRIGDKALYAGENFRVKHDS
+>altals1_s00058_ORF.1068 [16519-16573](-) type:complete length:54 frame:-3 start:TTG stop:TAG
+LEAVFESVRPKETGIGSM
+>altals1_s00058_ORF.1069 [16459-16486](-) type:complete length:27 frame:-3 start:ATG stop:TAG
+MFSWNAGPG
+>altals1_s00058_ORF.1070 [16303-16318](-) type:complete length:15 frame:-3 start:ATG stop:TAG
+MEIWL
+>altals1_s00058_ORF.1071 [16177-16291](-) type:complete length:114 frame:-3 start:ATG stop:TGA
+MEVGRTVSLCSVRASLWLKSVCWSLNFNESISKPLRCS
+>altals1_s00058_ORF.1072 [16051-16072](-) type:complete length:21 frame:-3 start:CTG stop:TGA
+LHIHKSV
+>altals1_s00058_ORF.1073 [15925-15973](-) type:complete length:48 frame:-3 start:TTG stop:TAA
+LHDRAHILYTVCGRCI
+>altals1_s00058_ORF.1074 [15787-15868](-) type:complete length:81 frame:-3 start:CTG stop:TGA
+LAGLRFQLRRRLILVPVGEMACLPSEV
+>altals1_s00058_ORF.1075 [15421-15691](-) type:complete length:270 frame:-3 start:TTG stop:TGA
+LRAYDVSQGFFCSILSTCHDSAHLLLLLISMLPRTYCLCMSRARANMVLQHANRASWTSWDN
+ACMCMADQPNCFRGQDTVFAHWMNHITR
+>altals1_s00058_ORF.1076 [15157-15322](-) type:complete length:165 frame:-3 start:TTG stop:TGA
+LLAKKMCYLKKIRNLDLSSARGVFRWGLRRRKSSNVTIYITQCTTPLLRFRCDRM
+>altals1_s00058_ORF.1077 [14941-15088](-) type:complete length:147 frame:-3 start:TTG stop:TAG
+LLSRPIFVTFPSLRLALLLLDLSNTFFSGVFPPLLYAPVLLCARKLLRS
+>altals1_s00058_ORF.1078 [14800-14923](-) type:complete length:123 frame:-3 start:CTG stop:TAA
+LPYYEIPCAVADLEAYSSSCASVWWRLRPSNLDFRRVGPQY
+>altals1_s00058_ORF.1079 [14728-14752](-) type:complete length:24 frame:-3 start:TTG stop:TAA
+LTYLAQQH
+>altals1_s00058_ORF.1080 [14491-14554](-) type:complete length:63 frame:-3 start:CTG stop:TAG
+LRCKGLRSVEQTLWYTRDCIR
+>altals1_s00058_ORF.1081 [14347-14401](-) type:complete length:54 frame:-3 start:TTG stop:TGA
+LFGRCAQNPGAAYSTRIL
+>altals1_s00058_ORF.1082 [14176-14296](-) type:complete length:120 frame:-3 start:CTG stop:TAG
+LGSLGTSAAIRTRPGLRRNLARVRCGLEESSNLARDSSGA
+>altals1_s00058_ORF.1083 [14089-14125](-) type:complete length:36 frame:-3 start:ATG stop:TAA
+MFYYYKVLATDG
+>altals1_s00058_ORF.1084 [13822-13948](-) type:complete length:126 frame:-3 start:CTG stop:TAA
+LPNYSLQFESFLLLVGRTVVKISFLLSFKHFAASVLIKAVRR
+>altals1_s00058_ORF.1085 [13573-13726](-) type:complete length:153 frame:-3 start:TTG stop:TAG
+LSNRPNAKLLRKRTSSSSVIHLRVFSATSPRAVAIKARTPLRGKPLTLRSL
+>altals1_s00058_ORF.1086 [13297-13423](-) type:complete length:126 frame:-3 start:CTG stop:TAG
+LRICTTIMLQQLVLLYLPIRGQVTTTTAQPIALPIGRRLSVP
+>altals1_s00058_ORF.1087 [13120-13186](-) type:complete length:66 frame:-3 start:CTG stop:TAG
+LLTSSLQLRQSLERQQANLAVL
+>altals1_s00058_ORF.1088 [13063-13087](-) type:complete length:24 frame:-3 start:ATG stop:TAG
+MRLLFSLN
+>altals1_s00058_ORF.1089 [12766-12787](-) type:complete length:21 frame:-3 start:TTG stop:TAG
+LSRKTLI
+>altals1_s00058_ORF.1090 [12472-12496](-) type:complete length:24 frame:-3 start:CTG stop:TAA
+LLDNKASV
+>altals1_s00058_ORF.1091 [12103-12115](-) type:complete length:12 frame:-3 start:TTG stop:TAA
+LHRY
+>altals1_s00058_ORF.1092 [11335-11347](-) type:complete length:12 frame:-3 start:CTG stop:TAA
+LLSL
+>altals1_s00058_ORF.1093 [10672-10714](-) type:complete length:42 frame:-3 start:TTG stop:TAG
+LYLRSIPRRYSYLL
+>altals1_s00058_ORF.1094 [10591-10603](-) type:complete length:12 frame:-3 start:CTG stop:TAA
+LQGE
+>altals1_s00058_ORF.1095 [10339-10399](-) type:complete length:60 frame:-3 start:CTG stop:TAA
+LPTSRPYNTRLSTANALYLS
+>altals1_s00058_ORF.1096 [9493-9517](-) type:complete length:24 frame:-3 start:CTG stop:TAA
+LLVQGGDL
+>altals1_s00058_ORF.1097 [8770-8794](-) type:complete length:24 frame:-3 start:ATG stop:TAA
+MLSKDKST
+>altals1_s00058_ORF.1098 [8107-8125](-) type:complete length:18 frame:-3 start:CTG stop:TAA
+LYTLCL
+>altals1_s00058_ORF.1099 [7888-7918](-) type:complete length:30 frame:-3 start:CTG stop:TAA
+LHLGARRLLR
+>altals1_s00058_ORF.1100 [7291-7363](-) type:complete length:72 frame:-3 start:TTG stop:TAA
+LQDALRALAYLTLVILDFVISRLT
+>altals1_s00058_ORF.1101 [7174-7207](-) type:complete length:33 frame:-3 start:TTG stop:TAG
+LLYISISLLLL
+>altals1_s00058_ORF.1102 [7132-7153](-) type:complete length:21 frame:-3 start:TTG stop:TAA
+LMLLQVA
+>altals1_s00058_ORF.1103 [7051-7111](-) type:complete length:60 frame:-3 start:ATG stop:TAG
+MLTARRKRGLTYTNISRSLF
+>altals1_s00058_ORF.1104 [6940-6994](-) type:complete length:54 frame:-3 start:CTG stop:TAG
+LYTLYKLLRLQNLSSIKA
+>altals1_s00058_ORF.1105 [6868-6919](-) type:complete length:51 frame:-3 start:CTG stop:TAG
+LSLILGLLEVTSATRQD
+>altals1_s00058_ORF.1106 [6736-6799](-) type:complete length:63 frame:-3 start:ATG stop:TAA
+MALEGIEPGMRWAWIVIVALM
+>altals1_s00058_ORF.1107 [6568-6619](-) type:complete length:51 frame:-3 start:ATG stop:TAA
+MPYRPPYCKAANTAKCA
+>altals1_s00058_ORF.1108 [6346-6385](-) type:complete length:39 frame:-3 start:ATG stop:TAA
+MPLAFRSRDANRQ
+>altals1_s00058_ORF.1109 [6112-6268](-) type:complete length:156 frame:-3 start:TTG stop:TAG
+LQNAVARVGTTLKKGGGYCHDVPLSQGSSHRRVSYREPFGAPTAYTSRDHVT
+>altals1_s00058_ORF.1110 [6073-6094](-) type:complete length:21 frame:-3 start:CTG stop:TAA
+LGGLIAP
+>altals1_s00058_ORF.1111 [5929-5992](-) type:complete length:63 frame:-3 start:TTG stop:TGA
+LILRYAILFSLLSSSRLVRDK
+>altals1_s00058_ORF.1112 [5785-5836](-) type:complete length:51 frame:-3 start:CTG stop:TAA
+LPLRCIFHFLQWGQGAA
+>altals1_s00058_ORF.1113 [5611-5686](-) type:complete length:75 frame:-3 start:ATG stop:TAG
+MAPVWLLSLRILPAVERICESIFAA
+>altals1_s00058_ORF.1114 [5407-5491](-) type:complete length:84 frame:-3 start:TTG stop:TGA
+LEFPVYTDFYRLRTPVLQLAAYPTHFEE
+>altals1_s00058_ORF.1115 [5350-5392](-) type:complete length:42 frame:-3 start:ATG stop:TAG
+MCRQNNHEWSDKAS
+>altals1_s00058_ORF.1116 [5212-5341](-) type:complete length:129 frame:-3 start:TTG stop:TAG
+LERSESHMCVFIVLKHIGLPDVVLPVSGTFTMELFPVSYNSQK
+>altals1_s00058_ORF.1117 [5095-5128](-) type:complete length:33 frame:-3 start:TTG stop:TGA
+LTEICISLVGL
+>altals1_s00058_ORF.1118 [4906-4987](-) type:complete length:81 frame:-3 start:CTG stop:TAG
+LLAANAHCSLSSMLLRSRPRCPYHTLG
+>altals1_s00058_ORF.1119 [4678-4735](-) type:complete length:57 frame:-3 start:TTG stop:TAA
+LHCDRNTAYLRCAGFRILI
+>altals1_s00058_ORF.1120 [4585-4606](-) type:complete length:21 frame:-3 start:CTG stop:TGA
+LNQIPQI
+>altals1_s00058_ORF.1121 [4441-4468](-) type:complete length:27 frame:-3 start:TTG stop:TAA
+LSHRTTEVM
+>altals1_s00058_ORF.1122 [4222-4267](-) type:complete length:45 frame:-3 start:TTG stop:TAG
+LTTFSRACTKSAGSC
+>altals1_s00058_ORF.1123 [4057-4084](-) type:complete length:27 frame:-3 start:TTG stop:TGA
+LRTRVLKRD
+>altals1_s00058_ORF.1124 [3967-4015](-) type:complete length:48 frame:-3 start:CTG stop:TAA
+LEFYKVDKLRQKIKAK
+>altals1_s00058_ORF.1125 [3838-3883](-) type:complete length:45 frame:-3 start:CTG stop:TAA
+LQSCCIALQSCCYLP
+>altals1_s00058_ORF.1126 [3700-3820](-) type:complete length:120 frame:-3 start:ATG stop:TGA
+MLRPGAEDKGLVDRLTIGECRALAIRAAWRQSQAQLRPVV
+>altals1_s00058_ORF.1127 [3448-3520](-) type:complete length:72 frame:-3 start:ATG stop:TAG
+MVGLRVMGSAMALTRVMENAMESS
+>altals1_s00058_ORF.1128 [3412-3424](-) type:complete length:12 frame:-3 start:CTG stop:TGA
+LCAF
+>altals1_s00058_ORF.1129 [3352-3364](-) type:complete length:12 frame:-3 start:TTG stop:TAA
+LKQV
+>altals1_s00058_ORF.1130 [3178-3340](-) type:complete length:162 frame:-3 start:TTG stop:TAA
+LIRESGNICMYSTILSYLCIHRFACVPCAVKPVTEAPASIIPTSTILTVGTATF
+>altals1_s00058_ORF.1131 [2989-3115](-) type:complete length:126 frame:-3 start:TTG stop:TGA
+LGESRTLSSSVPSPKSSSSSGALRFPVDRRGPKGGMPWTVSA
+>altals1_s00058_ORF.1132 [2947-2977](-) type:complete length:30 frame:-3 start:TTG stop:TGA
+LSSEPSMSWQ
+>altals1_s00058_ORF.1133 [2812-2899](-) type:complete length:87 frame:-3 start:ATG stop:TAA
+MLLHVLVQVKRVVKLRKANLQGRVAIAQR
+>altals1_s00058_ORF.1134 [2767-2803](-) type:complete length:36 frame:-3 start:ATG stop:TAA
+MRGHYNHTIESN
+>altals1_s00058_ORF.1135 [2701-2737](-) type:complete length:36 frame:-3 start:ATG stop:TGA
+MVQLKMLYPLLF
+>altals1_s00058_ORF.1136 [2620-2698](-) type:complete length:78 frame:-3 start:CTG stop:TGA
+LAPSIVLIAVVHPCLHSPLVRDSVFV
+>altals1_s00058_ORF.1137 [2563-2614](-) type:complete length:51 frame:-3 start:ATG stop:TAG
+MIGKLLVTLEGLMATIP
+>altals1_s00058_ORF.1138 [2206-2557](-) type:complete length:351 frame:-3 start:TTG stop:TAG
+LVSTYISEMPRYVERVYTAGFSAEAGIAVVPSTTVNNVELVRHMFSCSPYVFFAGTLEQVLI
+HAVRPCSVLVSTASNSKTGNALLVILDKLFPAHAAAPVLGGGGRRVCVSLLLWVR
+>altals1_s00058_ORF.1139 [2023-2047](-) type:complete length:24 frame:-3 start:TTG stop:TAA
+LHISRWGA
+>altals1_s00058_ORF.1140 [1993-2005](-) type:complete length:12 frame:-3 start:TTG stop:TGA
+LCRN
+>altals1_s00058_ORF.1141 [1900-1972](-) type:complete length:72 frame:-3 start:TTG stop:TAA
+LRRGLPFEEVLALLTIRDCSRLPS
+>altals1_s00058_ORF.1142 [1702-1801](-) type:complete length:99 frame:-3 start:CTG stop:TGA
+LRAGRHWCKKVSLRHHRRVFLNEFCSLVSPMNH
+>altals1_s00058_ORF.1143 [1633-1699](-) type:complete length:66 frame:-3 start:TTG stop:TAG
+LAVNPNNPGNIVHDGIIVGVPH
+>altals1_s00058_ORF.1144 [1594-1621](-) type:complete length:27 frame:-3 start:CTG stop:TAG
+LCRNCRFYQ
+>altals1_s00058_ORF.1145 [1420-1483](-) type:complete length:63 frame:-3 start:TTG stop:TGA
+LTNPFEHVVKAFVGEDAVFRN
+>altals1_s00058_ORF.1146 [1372-1384](-) type:complete length:12 frame:-3 start:TTG stop:TGA
+LFRF
+>altals1_s00058_ORF.1147 [1270-1312](-) type:complete length:42 frame:-3 start:TTG stop:TAA
+LERSAFFEHPICQS
+>altals1_s00058_ORF.1148 [1216-1258](-) type:complete length:42 frame:-3 start:ATG stop:TAG
+MCNWAHGSHSSFLV
+>altals1_s00058_ORF.1149 [1102-1141](-) type:complete length:39 frame:-3 start:TTG stop:TGA
+LLFRCPFRFRSRR
+>altals1_s00058_ORF.1150 [919-1054](-) type:complete length:135 frame:-3 start:ATG stop:TAA
+MSPYRSPSLLCFQAADSMNSPGRLPRRVMSTTENASCRRARGCVN
+>altals1_s00058_ORF.1151 [847-898](-) type:complete length:51 frame:-3 start:ATG stop:TAA
+MNRIKSSATGKRAIGLV
+>altals1_s00058_ORF.1152 [679-802](-) type:complete length:123 frame:-3 start:ATG stop:TGA
+MKISRSLFSAELYWRPVSNLIFRLSDERRFRTVVSVMFSSS
+>altals1_s00058_ORF.1153 [559-613](-) type:complete length:54 frame:-3 start:CTG stop:TAG
+LNVECAGSLRMDSVNLIC
+>altals1_s00058_ORF.1154 [505-520](-) type:complete length:15 frame:-3 start:CTG stop:TAG
+LPKEP
+>altals1_s00058_ORF.1155 [460-493](-) type:complete length:33 frame:-3 start:ATG stop:TAA
+MTCNLRGLTTP
+>altals1_s00058_ORF.1156 [373-436](-) type:complete length:63 frame:-3 start:CTG stop:TAG
+LVLFLAELGRASAKDQLCFSS
+>altals1_s00058_ORF.1157 [199-256](-) type:complete length:57 frame:-3 start:ATG stop:TGA
+MLKQRASSAVGVTGKLIVG
+>altals1_s00058_ORF.1158 [163-193](-) type:complete length:30 frame:-3 start:ATG stop:TAG
+MTVNGRLGLW

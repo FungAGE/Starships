@@ -2,19 +2,37 @@ import argparse
 import os
 import pandas as pd
 
+# Columns in a gff file:
+# "seqid", "source", "type", "start", "end", "score", "strand", "phase", "attributes"
+
 # Create a command-line argument parser
 parser = argparse.ArgumentParser(description="Process TSV and BED files")
 
-# Add an argument for the bed_file
-parser.add_argument("bed_file", help="Path to the BED file")
+parser.add_argument(
+    "-b", "--bed", dest="bed_file", help="Path to the BED file", required=True
+)
+parser.add_argument(
+    "-f",
+    "--features",
+    dest="feature_file",
+    help="Path to the feature file",
+    required=True,
+)
+
+parser.add_argument(
+    "-o",
+    "--output",
+    dest="output_directory",
+    help="Output directory path",
+    required=True,
+)
 
 # Parse the command-line arguments
 args = parser.parse_args()
 
 # make coordinates in gff relative to the element, rather than the chr. Use columns 4 and 5 in `mycodb.final.starships.feat` to correct. and remember, gff is 1-indexed
 # Load the TSV file into a DataFrame
-file_path = "ships/starfish/output/mycodb.final.starships.feat"
-df = pd.read_csv(file_path, sep="\t")
+df = pd.read_csv(args.feature_file, sep="\t")
 
 # Initialize a dictionary to store data on element lengths
 begin_dict = {}
@@ -39,22 +57,21 @@ with open(args.bed_file, "r") as bed_file:
         strand = fields[5]
         element = fields[6]  # 7th column with comma-separated items
 
-        if feature == "flank":
+        if feature == "flank" or feature == "insert":
             type = "region"
         else:
             type = "gene"
         score = "."
+        phase = "."
 
-        # Split the 7th column by commas
-        elements = element.split(",")
+        # don't parse split/nested elements
+        while element not in (",", "|") not in element:
+            start = abs(int(begin_dict[element]) - int(fields[1])) + 1
+            end = abs(int(fields[2]) - int(fields[1])) + start
 
-        for item in elements:
-            start = abs(int(fields[1]) - int(begin_dict[item])) + 1
-            end = abs(int(fields[2]) - int(end_dict[item]))
+            output = f"{element}\tbed\t{type}\t{start}\t{end}\t{score}\t{strand}\t{phase}\tID=gene_{name};Description={element};parent={contig}"
 
-            output = f"{contig}\tbed\t{type}\t{start}\t{end}\t{score}\t{strand}\t{feature}\tID=gene_{name};Description={item};parent={contig}"
-
-            name_key = item
+            name_key = element
 
             # Check if the ID already exists in the dictionary
             if name_key in data_by_id:
@@ -64,12 +81,11 @@ with open(args.bed_file, "r") as bed_file:
 
 # Create a directory to store the output files
 # output_directory = args.bed_file.strip(".bed") + "_split"
-output_directory = "metadata/ships/starfish/gff/mycodb"
-os.makedirs(output_directory, exist_ok=True)
+os.makedirs(args.output_directory, exist_ok=True)
 
 # Create separate GFF files for each ID
 for name_key, data in data_by_id.items():
-    output_file_name = f"{output_directory}/{name_key}.gff"
+    output_file_name = f"{args.output_directory}/{name_key}.gff"
     # Create a list to store RNA/CDS entries for each gene
     rna_entries = []
     cds_entries = []
@@ -84,22 +100,23 @@ for name_key, data in data_by_id.items():
                 gene_start = int(fields[3])
                 gene_end = int(fields[4])
                 id = fields[8].split(";")[0]
+                description = fields[8].split(";")[1]
                 rna_id = id.replace("gene_", "rna_")
                 rna_parent = id.replace("ID=", "parent=")
                 cds_id = id.replace("gene_", "cds_")
                 cds_parent = rna_id.replace("ID=", "parent=")
 
                 # Create a RNA entry for the gene
-                rna_entry = f"{fields[0]}\tbed\tRNA\t{gene_start}\t{gene_end}\t{fields[5]}\t{fields[6]}\t{rna_id};Description=;{rna_parent}"
+                rna_entry = f"{fields[0]}\tbed\tmRNA\t{gene_start}\t{gene_end}\t{fields[5]}\t{fields[6]}\t.\t{rna_id};{description};{rna_parent}"
                 rna_entries.append(rna_entry)
 
                 # Create a CDS entry for the gene
-                cds_entry = f"{fields[0]}\tbed\tCDS\t{gene_start}\t{gene_end}\t{fields[5]}\t{fields[6]}\t{cds_id};Description=;{cds_parent}"
+                cds_entry = f"{fields[0]}\tbed\tCDS\t{gene_start}\t{gene_end}\t{fields[5]}\t{fields[6]}\t.\t{cds_id};{description};{cds_parent}"
                 cds_entries.append(cds_entry)
 
     # Append CDS entries to the output GFF file
-    with open(output_file_name, "a") as output_file:
-        for rna_entry in rna_entries:
-            output_file.write(rna_entry + "\n")
-        for cds_entry in cds_entries:
-            output_file.write(cds_entry + "\n")
+    # with open(output_file_name, "a") as output_file:
+    #     for rna_entry in rna_entries:
+    #         output_file.write(rna_entry + "\n")
+    #     for cds_entry in cds_entries:
+    #         output_file.write(cds_entry + "\n")

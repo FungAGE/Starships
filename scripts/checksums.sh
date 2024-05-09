@@ -1,4 +1,7 @@
 #!/bin/bash
+# generate checksum based on starship sequences
+# ? strandedness ?
+# ? adapting/adding information to headers ?
 
 dirs="captain
 cargo
@@ -6,10 +9,6 @@ ships"
 
 files="fna
 faa"
-
-# generate checksum based on sequence
-# ? strandedness ?
-# ? adapting/adding information to headers ?
 
 for dir in $dirs; do
   if [[ $dir == "ships" ]]; then
@@ -38,20 +37,20 @@ for dir in $dirs; do
   fi
 
   # return list of existing directories
-  anno_dirs=$(find $out_dir -type d \( -name "manual" -o -name "starfish" \) 2>/dev/null)
+  anno_dirs=$(find "$out_dir" -type d \( -name "manual" -o -name "starfish" \) 2>/dev/null)
   
   for anno_dir in $anno_dirs; do
     blast_dir=$anno_dir/blastdb
-    anno_dir_name=$(dirname $anno_dir)
+    anno_dir_name=$(dirname "$anno_dir")
     # automate splitting of multifastas into separate fastas
     seqkit split -j 4 -f -i "$blast_dir"/*."$file" -O "$out_dir/$anno_dir_name"
   done
 
   # processing of checksums for all genes
   if [[ $file == "faa" ]]; then  
-    find "$dir"/starbase -type f -name "*.faa" | seqkit sum -j 4 - | sed 's/seqkit.v0.1_DLS_k0_|seqkit.v0.1_PLS_k0_//g' > $checksum_out
+    find "$dir"/starbase -type f -name "*.faa" | seqkit sum -j 4 - | sed 's/seqkit.v0.1_DLS_k0_|seqkit.v0.1_PLS_k0_//g' > "$checksum_out"
   else
-    find "$dir"/starbase -type f \( -name "*.fa" -o -name "*.fna" \) | seqkit sum -j 4 - | sed 's/seqkit.v0.1_DLS_k0_|seqkit.v0.1_PLS_k0_//g' > $checksum_out
+    find "$dir"/starbase -type f \( -name "*.fa" -o -name "*.fna" \) | seqkit sum -j 4 - | sed 's/seqkit.v0.1_DLS_k0_|seqkit.v0.1_PLS_k0_//g' > "$checksum_out"
   fi
 done
 

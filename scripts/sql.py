@@ -2,7 +2,7 @@ import os
 import sqlite3
 
 # Connect to SQLite database (or create a new one if it doesn't exist)
-conn = sqlite3.connect("SQL/starbase.sqlite")
+conn = sqlite3.connect("Starships/SQL/starbase.sqlite")
 cursor = conn.cursor()
 
 # Create table if it doesn't exist
@@ -21,24 +21,39 @@ cursor.execute(
 
 # list of directories to search through
 directories = (
-    "SQL/data/tree/cargo",
-    "SQL/data/tree/captain",
-    "SQL/data/fna/cargo/nlr",
-    "SQL/data/fna/cargo/fre",
-    "SQL/data/fna/cargo/plp",
-    "SQL/data/fna/cargo/duf3723",
-    "SQL/data/fna/captain/tyr/mycodb",
-    "SQL/data/fna/ships/manual-annotations",
-    "SQL/data/fna/ships/mycodb",
-    "metadata/ships/starfish/gff/mycodb",
-    "SQL/data/hmm/cargo",
-    "SQL/data/hmm/captain",
-    "SQL/data/faa/cargo/nlr/mycodb",
-    "SQL/data/faa/cargo/fre/mycodb",
-    "SQL/data/faa/cargo/plp/mycodb",
-    "SQL/data/faa/cargo/duf3723/mycodb",
-    "SQL/data/faa/captain/tyr/mycodb",
-    "SQL/data/faa/captain/tyr/manual",
+    "./captain/tyr/fna/starfish",
+    "./captain/tyr/fna/alignments",
+    "./captain/tyr/fna/tree",
+    "./captain/tyr/fna/blastdb",
+    "./captain/tyr/hmm",
+    "./captain/tyr/faa/starfish",
+    "./captain/tyr/faa/alignments",
+    "./captain/tyr/faa/tree",
+    "./captain/tyr/faa/blastdb",
+    "./captain/tyr/faa/manual",
+    "./ships/fna/starfish",
+    "./ships/fna/blastdb",
+    "./ships/fna/manual",
+    "./metadata/ships/starfish",
+    "./metadata/ships/starfish/gff",
+    "./metadata/ships/starfish/output",
+    "./metadata/ships/manual",
+    "./cargo/nlr/fna/blastdb",
+    "./cargo/nlr/hmm",
+    "./cargo/nlr/faa/starfish",
+    "./cargo/nlr/faa/blastdb",
+    "./cargo/fre/fna/blastdb",
+    "./cargo/fre/hmm",
+    "./cargo/fre/faa/starfish",
+    "./cargo/fre/faa/blastdb",
+    "./cargo/plp/fna/blastdb",
+    "./cargo/plp/hmm",
+    "./cargo/plp/faa/starfish",
+    "./cargo/plp/faa/blastdb",
+    "./cargo/duf3723/fna/blastdb",
+    "./cargo/duf3723/hmm",
+    "./cargo/duf3723/faa/starfish",
+    "./cargo/duf3723/faa/blastdb",
 )
 
 # for directory in directories:
@@ -92,14 +107,13 @@ directories = (
 #         )
 
 checksum_files = (
-    "SQL/data/fna/cargo/fna.checksums.txt",
-    "SQL/data/fna/ships/fna.checksums.txt",
-    "SQL/data/faa/cargo/nlr/faa.checksums.txt",
-    "SQL/data/faa/cargo/fre/faa.checksums.txt",
-    "SQL/data/faa/cargo/plp/faa.checksums.txt",
-    "SQL/data/faa/cargo/duf3723/faa.checksums.txt",
-    "SQL/data/faa/captain/tyr/faa.checksums.txt",
+    "./cargo/nlr/faa/faa.checksums.txt",
+    "./cargo/fre/faa/faa.checksums.txt",
+    "./cargo/plp/faa/faa.checksums.txt",
+    "./cargo/duf3723/faa/faa.checksums.txt",
+    "./captain/tyr/faa/faa.checksums.txt",
 )
+
 for checksum_file in checksum_files:
     if checksum_file.endswith(".txt"):
         print(checksum_file)

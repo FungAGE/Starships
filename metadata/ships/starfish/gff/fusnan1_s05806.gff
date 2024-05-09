@@ -1,9 +1,0 @@
-fusnan1_QGDY01000130.1	bed	gene	1	20382	.	+	insert	ID=gene_fusnan1_tyr6095|fusirr1_QGEA01000024.1|up;Description=fusnan1_s05806;parent=fusnan1_QGDY01000130.1
-fusnan1_QGDY01000130.1	bed	gene	700	16924	.	+	cap	ID=gene_fusnan1_tyr6095;Description=fusnan1_s05806;parent=fusnan1_QGDY01000130.1
-fusnan1_QGDY01000130.1	bed	gene	20383	0	.	+	insert	ID=gene_fusnan1_tyr6095|fusirr1_QGEA01000024.1|down;Description=fusnan1_s05806;parent=fusnan1_QGDY01000130.1
-fusnan1_QGDY01000130.1	bed	RNA	1	20382	.	+	ID=rna_fusnan1_tyr6095|fusirr1_QGEA01000024.1|up;Description=;parent=gene_fusnan1_tyr6095|fusirr1_QGEA01000024.1|up
-fusnan1_QGDY01000130.1	bed	RNA	700	16924	.	+	ID=rna_fusnan1_tyr6095;Description=;parent=gene_fusnan1_tyr6095
-fusnan1_QGDY01000130.1	bed	RNA	20383	0	.	+	ID=rna_fusnan1_tyr6095|fusirr1_QGEA01000024.1|down;Description=;parent=gene_fusnan1_tyr6095|fusirr1_QGEA01000024.1|down
-fusnan1_QGDY01000130.1	bed	CDS	1	20382	.	+	ID=cds_fusnan1_tyr6095|fusirr1_QGEA01000024.1|up;Description=;parent=rna_fusnan1_tyr6095|fusirr1_QGEA01000024.1|up
-fusnan1_QGDY01000130.1	bed	CDS	700	16924	.	+	ID=cds_fusnan1_tyr6095;Description=;parent=rna_fusnan1_tyr6095
-fusnan1_QGDY01000130.1	bed	CDS	20383	0	.	+	ID=cds_fusnan1_tyr6095|fusirr1_QGEA01000024.1|down;Description=;parent=rna_fusnan1_tyr6095|fusirr1_QGEA01000024.1|down

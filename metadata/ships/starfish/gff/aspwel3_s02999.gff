@@ -1,9 +1,0 @@
-aspwel3_PUWS01000002.1	bed	gene	1	60878	.	+	insert	ID=gene_aspwel3_tyr3180|aspwel2_KZ852050.1|up;Description=aspwel3_s02999;parent=aspwel3_PUWS01000002.1
-aspwel3_PUWS01000002.1	bed	gene	2618	57691	.	+	cap	ID=gene_aspwel3_tyr3180;Description=aspwel3_s02999;parent=aspwel3_PUWS01000002.1
-aspwel3_PUWS01000002.1	bed	gene	60879	0	.	+	insert	ID=gene_aspwel3_tyr3180|aspwel2_KZ852050.1|down;Description=aspwel3_s02999;parent=aspwel3_PUWS01000002.1
-aspwel3_PUWS01000002.1	bed	RNA	1	60878	.	+	ID=rna_aspwel3_tyr3180|aspwel2_KZ852050.1|up;Description=;parent=gene_aspwel3_tyr3180|aspwel2_KZ852050.1|up
-aspwel3_PUWS01000002.1	bed	RNA	2618	57691	.	+	ID=rna_aspwel3_tyr3180;Description=;parent=gene_aspwel3_tyr3180
-aspwel3_PUWS01000002.1	bed	RNA	60879	0	.	+	ID=rna_aspwel3_tyr3180|aspwel2_KZ852050.1|down;Description=;parent=gene_aspwel3_tyr3180|aspwel2_KZ852050.1|down
-aspwel3_PUWS01000002.1	bed	CDS	1	60878	.	+	ID=cds_aspwel3_tyr3180|aspwel2_KZ852050.1|up;Description=;parent=rna_aspwel3_tyr3180|aspwel2_KZ852050.1|up
-aspwel3_PUWS01000002.1	bed	CDS	2618	57691	.	+	ID=cds_aspwel3_tyr3180;Description=;parent=rna_aspwel3_tyr3180
-aspwel3_PUWS01000002.1	bed	CDS	60879	0	.	+	ID=cds_aspwel3_tyr3180|aspwel2_KZ852050.1|down;Description=;parent=rna_aspwel3_tyr3180|aspwel2_KZ852050.1|down

@@ -3715,7 +3715,6 @@ dalgra1_s04360	dalgra1_280795	dalgra1_scaffold5	1990352	2021249	30898	+	dalsp.1_
 elsaus1_s04640	elsaus1_tyr4897	elsaus1_NHZQ01000016.1	121009	125042	4034	-	elsaus2_site001	elsaus2_PTQR01000084.1	131368	133012	1645	+	.	ref	 *empty site > 40 bp
 emmcre2_s04740	emmcre2_KKZ61741.1	emmcre2_LCZI01001248.1	113038	118495	5458	-	emmcre1_site001	emmcre1_supercont1121	33161	34502	1342	-	.	ref	 *empty site > 40 bp
 emmcre1_s04719	emmcre1_562:563	emmcre1_supercont111	93095	104260	11166	-	emmcre2_site001	emmcre2_LCZI01001099.1	36067	36413	347	-	.	ref	 *empty site > 40 bp
-#elementID	elementCaptainID	elementContigID	elementBegin	elementEnd	elementLength	elementStrand	emptyContigID_site001	emptyContigID	emptyBegin	emptyEnd	emptyLength	emptyStrand	emptySiteSeq	quality	warnings
 endpus1_s04770	endpus1_894	endpus1_scaffold154	352753	363157	10405	-	endpal1_site001	endpal1_scaffold38	66079	66627	549	+	.	ref	 *empty site > 40 bp
 endpus1_s04768	endpus1_tyr5031	endpus1_scaffold99	95129	116403	21275	+	endpal1_site002	endpal1_scaffold174	44853	44994	142	+	.	ref	 *empty site > 40 bp
 fonped1_s04882	fonped1_6568	fonped1_scaffold4	1802752	1888804	86053	-	fonmon1_site001	fonmon1_scaffold14	96162	96167	6	-	tgttat	ref	.

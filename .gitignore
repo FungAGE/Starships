@@ -18,3 +18,8 @@
 ./captain/tyr/faa/tree/**
 ./captain/tyr/fna/alignments/**
 ./captain/tyr/faa/alignments/**
+
+metadata/ships/starfish/gff/**
+
+SQL/**
+MTDB/**

@@ -23,7 +23,7 @@ types="cargo"
 # create gff files here
 
 # saves them in SQL dir...
-python scripts/bed2gff.py MTDB/mycodb.final.starships.bed
+python scripts/bed2gff.py metadata/ships/starfish/output/mycodb.final.starships.bed
 
 # ! this is restricted to mycodb set, until we get gffs/beds for manual set
 fnas=$(find SQL/data/fna/ships/mycodb -name "*.fna")
