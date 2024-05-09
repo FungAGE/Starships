@@ -1,9 +1,0 @@
-fusvor1_JAGDUK010000090.1	bed	gene	1	16556	.	+	insert	ID=gene_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|up;Description=fusvor1_s06658;parent=fusvor1_JAGDUK010000090.1
-fusvor1_JAGDUK010000090.1	bed	gene	3246	12031	.	+	cap	ID=gene_fusvor1_tyr6963;Description=fusvor1_s06658;parent=fusvor1_JAGDUK010000090.1
-fusvor1_JAGDUK010000090.1	bed	gene	16557	0	.	+	insert	ID=gene_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|down;Description=fusvor1_s06658;parent=fusvor1_JAGDUK010000090.1
-fusvor1_JAGDUK010000090.1	bed	RNA	1	16556	.	+	ID=rna_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|up;Description=;parent=gene_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|up
-fusvor1_JAGDUK010000090.1	bed	RNA	3246	12031	.	+	ID=rna_fusvor1_tyr6963;Description=;parent=gene_fusvor1_tyr6963
-fusvor1_JAGDUK010000090.1	bed	RNA	16557	0	.	+	ID=rna_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|down;Description=;parent=gene_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|down
-fusvor1_JAGDUK010000090.1	bed	CDS	1	16556	.	+	ID=cds_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|up;Description=;parent=rna_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|up
-fusvor1_JAGDUK010000090.1	bed	CDS	3246	12031	.	+	ID=cds_fusvor1_tyr6963;Description=;parent=rna_fusvor1_tyr6963
-fusvor1_JAGDUK010000090.1	bed	CDS	16557	0	.	+	ID=cds_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|down;Description=;parent=rna_fusvor1_tyr6963|fusasi1_LHTZ01000125.1|down

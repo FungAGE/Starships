@@ -1,6 +1,6 @@
 # Database of Starship Elements and Starship-associated Genes
 
-## Main structure
+## Structure of this Repo
 
 - `ships`: full Starship sequences
 - `captain`:`tyr` gene
@@ -8,7 +8,12 @@
 
 Each folder contains:
 
-- blast databases for BLAST and HMMER searches
-  - a `combined` nucleotide database for `ships`
-  - individual nucleotide and protein databases for each `captain` and `cargo` gene
-- multiple sequence alignments used to build phylogenetic trees
+- databases for BLAST and `.hmm` for `hmmersearch`, including:
+  - a nucleotide database for Starship sequences: `ships/fna/blastdb/concatenated.fa`
+  - individual nucleotide/protein databases for each `captain` and `cargo` gene
+
+# TODO
+
+- [ ] extract `captain`/`cargo` genes from `manual-annotations` ships
+  - [ ] add `manual-annotations` to `hmm` models
+  - [ ] update `blastdb`'s
